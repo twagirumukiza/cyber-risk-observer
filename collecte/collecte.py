@@ -136,7 +136,10 @@ def main():
         except Exception as exc:  # une source en panne ne bloque pas les autres
             erreurs += 1
             print(f"[erreur] {src['nom']} : {exc}", file=sys.stderr)
-    items = sorted(existants.values(), key=lambda i: i.get("date") or "", reverse=True)[:MAX_ITEMS]
+    tous = sorted(existants.values(), key=lambda i: i.get("date") or "", reverse=True)
+    valides = [i for i in tous if i.get("statut") == "valide"]  # jamais écartés
+    autres = [i for i in tous if i.get("statut") != "valide"][:MAX_ITEMS]
+    items = sorted(valides + autres, key=lambda i: i.get("date") or "", reverse=True)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{nouveaux} nouveaux éléments, {len(items)} au total, {erreurs} source(s) en erreur")
