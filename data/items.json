@@ -1,1 +1,322 @@
-[]
+[
+ {
+  "id": "frigos-supermarches-20261012",
+  "section": 0,
+  "kicker": "France",
+  "titre": "Cyberattaque inédite : des centaines de supermarchés voient leurs frigos détraqués",
+  "resume": "Dans la nuit du 11 au 12 octobre, des pirates ont pris le contrôle de régulateurs frigorifiques connectés et détourné leur fonction de dégivrage, ce qui a fait monter la température des meubles froids. Aucune donnée n’a été volée, mais de nombreuses denrées ont dû être jetées, et le parquet de Paris a ouvert une enquête.",
+  "analyse": "L’attaque n’a pas visé des fichiers mais un outil de production : c’est du sabotage cyber-physique. Selon l’AFP, le directeur général de l’ANSSI y voit une certaine sophistication, puisque des centaines d’équipements ont été touchés presque en même temps. Le CERT-FR a publié une alerte dès le 12 octobre.",
+  "actions": [
+   "Recenser les régulateurs et automates connectés (froid, chauffage, ventilation) et vérifier s’ils sont joignables depuis Internet",
+   "Les déconnecter d’Internet ou appliquer un filtrage réseau très restrictif, comme le recommande le directeur général de l’ANSSI",
+   "Appliquer les correctifs du fabricant et prévoir le remplacement du matériel en fin de vie",
+   "Préparer un plan de repli pour la chaîne du froid : surveillance indépendante des températures et procédure de remise en route"
+  ],
+  "source": "AFP, via Le Petit Journal",
+  "url": "https://lepetitjournal.com/expat-mag/societe/des-supermarches-francais-touches-par-une-cyberattaque-inedite-de-leurs-installations-frigorifiques",
+  "date": "2026-10-12",
+  "criticite": "Critique",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "mpa-group-20261101",
+  "section": 0,
+  "kicker": "France · à confirmer",
+  "titre": "MPA Group : une fuite de plus de 3,8 millions d’enregistrements est revendiquée",
+  "resume": "Un pirate se faisant appeler ChimeraZ affirme, depuis le 1er novembre, mettre en vente environ 3,8 millions d’enregistrements attribués au groupe français MPA, dont plus d’un million de numéros d’immatriculation. À ce stade, le groupe n’a pas confirmé publiquement l’incident.",
+  "analyse": "Une revendication de pirate n’est pas une preuve : les volumes et l’origine des fichiers restent à vérifier. Si elle se confirmait, associer une plaque d’immatriculation à un nom, une adresse et un téléphone faciliterait l’usurpation d’identité et le démarchage frauduleux.",
+  "actions": [
+   "Ne pas relayer les volumes annoncés tant que le groupe n’a pas confirmé",
+   "Clients concernés : se méfier des messages et appels non sollicités qui mentionnent un véhicule ou une commande",
+   "Organisations : vérifier quels prestataires hébergent des données clients et quels engagements de notification ils ont pris"
+  ],
+  "source": "Cyberattaque.org",
+  "url": "https://www.cyberattaque.org/mpa-group-11-million-de-plaques-dimmatriculation-et-des-adresses-personnelles-en-fuite/",
+  "date": "2026-11-01",
+  "criticite": "Moyenne",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "guerre-hybride-20261021",
+  "section": 1,
+  "kicker": "Guerre hybride",
+  "titre": "Sabotages et drones : l’Europe face à la guerre hybride contre ses infrastructures civiles",
+  "resume": "Une analyse de l’Atlantic Council décrit des sabotages visant des sites de communication par satellite en Pologne, en Lituanie et en Bulgarie, qu’elle rattache à la stratégie hybride de Moscou. En Allemagne, la police recense 165 cas de sabotage présumés et 747 incidents de drones suspects sur les huit premiers mois de 2026.",
+  "analyse": "Le cyber n’est qu’un volet d’un ensemble plus large : incendies, drones, câbles et attaques informatiques visent les mêmes points faibles, des infrastructures civiles peu protégées. Pour les entreprises, la frontière entre sécurité physique et cybersécurité s’efface.",
+  "actions": [
+   "Intégrer le sabotage physique dans l’analyse de risques, au même titre que l’attaque informatique",
+   "Cartographier les sites et équipements dont l’arrêt aurait des effets en chaîne",
+   "Coordonner sécurité physique, sécurité informatique et gestion de crise"
+  ],
+  "source": "Atlantic Council",
+  "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/european-infrastructure-is-vulnerable-as-putin-escalates-russias-hybrid-war/",
+  "date": "2026-10-21",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "ue-attribution-fsb-20260713",
+  "section": 1,
+  "kicker": "Diplomatie",
+  "titre": "L’Union européenne dénonce l’écosystème cyber russe et nomme le Centre 16 du FSB",
+  "resume": "Dans une déclaration du 13 juillet, la haute représentante de l’UE attribue au 16e centre du FSB, qui contrôle notamment le groupe Turla, des années d’intrusions et de sabotages visant l’Union et ses partenaires. La France est citée : espionnage d’entités gouvernementales depuis 2010 et d’industriels de la défense en 2025.",
+  "analyse": "L’attribution publique est un outil diplomatique : elle fixe des responsabilités, prépare d’éventuelles sanctions et envoie un signal aux États comme aux entreprises. La déclaration évoque aussi des sabotages de centrales de chauffage en Pologne, ce qui rappelle que les cibles sont désormais physiques.",
+  "actions": [
+   "Suivre les alertes de l’ANSSI et des CERT nationaux sur les modes opératoires cités",
+   "Vérifier l’exposition de ses sous-traitants des secteurs de la défense et de l’énergie",
+   "Mettre à jour la veille géopolitique de son analyse de risques"
+  ],
+  "source": "Conseil de l’Union européenne",
+  "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/13/cyber-russia-statement-by-the-high-representative-on-behalf-of-the-european-union-denouncing-russia-s-malicious-cyber-ecosystem-targeting-the-eu-its-member-states-and-international-partners/",
+  "date": "2026-07-13",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "nis2-report-20261006",
+  "section": 2,
+  "kicker": "Réglementation",
+  "titre": "NIS 2 : l’Assemblée nationale repousse à nouveau l’examen de la loi Résilience",
+  "resume": "Le 6 octobre, la conférence des présidents a retiré le texte de l’ordre du jour des 7 et 9 octobre, sans nouvelle date. La France n’a donc toujours pas transposé la directive, dont l’échéance était fixée au 17 octobre 2024.",
+  "analyse": "Les obligations de NIS 2 ne s’appliquent pas encore en droit français, mais le texte de la commission est connu et l’ANSSI invite depuis longtemps les entités concernées à ne pas attendre. Le retard est aussi européen : selon le Projet Arcadie, la France fait l’objet d’une procédure devant la Cour de justice de l’Union européenne.",
+  "actions": [
+   "Identifier si l’organisation entrerait dans le champ de NIS 2 (environ 15 000 entités visées en France selon les estimations)",
+   "Désigner qui portera la gouvernance du risque cyber au niveau de la direction",
+   "S’appuyer dès maintenant sur le référentiel Cyber France (ReCyF) publié par l’ANSSI le 17 mars 2026",
+   "Suivre l’ordre du jour de l’Assemblée nationale pour anticiper la date d’examen"
+  ],
+  "source": "Leto, d’après la conférence des présidents du 6 octobre 2026",
+  "url": "https://www.leto.legal/news/assemblee-nationale-report-projet-loi-resilience-nis2-octobre-2026",
+  "date": "2026-10-06",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "cra-signalement-20260911",
+  "section": 2,
+  "kicker": "Réglementation",
+  "titre": "Cyber Resilience Act : les fabricants doivent désormais signaler les failles exploitées",
+  "resume": "Depuis le 11 septembre 2026, les fabricants de produits numériques vendus dans l’Union européenne doivent notifier les vulnérabilités activement exploitées et les incidents graves, via une plateforme unique gérée par l’ENISA. Les autres exigences du règlement ne s’appliqueront qu’à partir du 11 décembre 2027.",
+  "analyse": "C’est la première obligation concrète du règlement, et elle vise aussi les produits déjà commercialisés. Elle déplace une partie de la responsabilité vers les fabricants : un équipement connecté exploité par des attaquants ne pourra plus être traité en silence.",
+  "actions": [
+   "Fabricants : désigner un point de contact et définir qui décide de notifier, la première alerte devant partir sous 24 heures",
+   "Utilisateurs professionnels : demander à leurs fournisseurs leur politique de correctifs et leur durée de support",
+   "Préparer la suite : conception sécurisée, documentation technique et marquage CE d’ici décembre 2027"
+  ],
+  "source": "Commission européenne",
+  "url": "https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_fr",
+  "date": "2026-09-11",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "ia-attaques-20261013",
+  "section": 2,
+  "kicker": "IA",
+  "titre": "IA et cyberattaques : accélération réelle, mais pas d’attaque entièrement autonome constatée en France",
+  "resume": "Une note du CERT-FR publiée en février indiquait que l’ANSSI n’avait pas connaissance d’attaque contre des acteurs français menée entièrement par une IA. Selon une synthèse du rapport Microsoft du 13 octobre, l’IA raccourcit de son côté les chaînes d’attaque et l’hameçonnage progresse comme point d’entrée.",
+  "analyse": "Les deux constats ne s’opposent pas : l’IA aide les attaquants à aller plus vite et à mieux cibler, sans encore tout automatiser. La défense doit donc surtout combler l’écart de vitesse sur les bases : identités, correctifs, détection.",
+  "actions": [
+   "Renforcer l’authentification multifacteur, en particulier pour les comptes à privilèges",
+   "Raccourcir les délais d’application des correctifs sur les équipements exposés",
+   "Former aux messages frauduleux plus crédibles et instaurer une procédure de vérification des demandes sensibles",
+   "Suivre les mises à jour des synthèses de menace de l’ANSSI"
+  ],
+  "source": "CERT-FR (ANSSI) ; Microsoft Digital Defense Report 2026",
+  "url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2026-CTI-001.pdf",
+  "date": "2026-10-13",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "assurance-froid-20261014",
+  "section": 3,
+  "kicker": "Assurance",
+  "titre": "Frigos piratés : des pertes de plusieurs millions d’euros, une prise en charge incertaine",
+  "resume": "Le président du Groupement Mousquetaires a anticipé des pertes de plusieurs dizaines de millions d’euros à l’échelle nationale en une seule journée, tandis qu’un magasin E.Leclerc évaluait les siennes à 220 000 euros. La presse spécialisée souligne que ces pertes risquent de ne pas être couvertes par les contrats classiques.",
+  "analyse": "La facture se répartit entre le distributeur, son frigoriste, le fabricant et l’assureur, sans règle claire. Une cyberattaque sur un équipement de froid ne relève pas forcément des garanties d’un contrat classique, ce qui oblige à relire les exclusions.",
+  "actions": [
+   "Relire les contrats d’assurance : garanties cyber, pertes d’exploitation, denrées périssables, exclusions pour équipements non mis à jour",
+   "Faire figurer dans les contrats de maintenance l’obligation de tenir les équipements à jour et de ne pas les exposer à Internet",
+   "Documenter précisément les pertes (stocks, horaires, relevés de température) pour les déclarations"
+  ],
+  "source": "Forbes Belgique ; Business Insurance",
+  "url": "https://www.forbes.be/fr/cyberattaque-supermarches-france/",
+  "date": "2026-10-14",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "danfoss-obsolescence-20261013",
+  "section": 3,
+  "kicker": "Entreprises",
+  "titre": "Danfoss met en cause des équipements obsolètes ou non mis à jour",
+  "resume": "Le fabricant danois affirme recommander depuis longtemps de maintenir les systèmes à jour et de remplacer les anciennes générations. Selon une analyse, certains régulateurs touchés étaient en fin de vie depuis 2021 ou retirés progressivement dès 2016, d’autres, encore pris en charge, fonctionnaient avec d’anciens micrologiciels.",
+  "analyse": "La responsabilité reste partagée : le fabricant publie des correctifs, l’installateur connecte les équipements, le prestataire de maintenance s’y relie et le commerçant en supporte les conséquences. Le Cyber Resilience Act commence à clarifier le rôle du fabricant, pas celui de l’exploitant.",
+  "actions": [
+   "Dresser l’inventaire des équipements industriels en fin de support et planifier leur remplacement",
+   "Exiger des fournisseurs un calendrier clair de support et de correctifs",
+   "Séparer ces équipements du réseau de l’entreprise et d’Internet"
+  ],
+  "source": "Unidivers ; Dark Reading",
+  "url": "https://unidivers.fr/bretagne-cyberattaque-supermarches-congelateurs-souverainete-alimentaire/",
+  "date": "2026-10-13",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "securite-alimentaire-20261014",
+  "section": 4,
+  "kicker": "Sécurité alimentaire",
+  "titre": "Chaîne du froid : quand une cyberattaque devient une question de sécurité alimentaire",
+  "resume": "Le commissaire européen à l’Agriculture a condamné l’attaque en rappelant que la sécurité alimentaire exige davantage d’attention à tous les niveaux. Une analyse craint qu’une attaque répétée ou étendue ne touche aussi les entrepôts, grossistes, abattoirs, laiteries et plateformes logistiques.",
+  "analyse": "Le froid numérique fait désormais partie des infrastructures essentielles : une panne ou un sabotage atteint d’abord des produits, puis la confiance des consommateurs. La résilience se joue aussi à l’échelle du territoire, pas seulement magasin par magasin.",
+  "actions": [
+   "Consommateurs : suivre les consignes des enseignes et des autorités sur les produits concernés",
+   "Filière : identifier les maillons de la chaîne du froid qui reposent sur des équipements connectés",
+   "Collectivités : intégrer l’approvisionnement alimentaire dans les exercices de crise"
+  ],
+  "source": "Unidivers ; Forbes Belgique",
+  "url": "https://unidivers.fr/bretagne-cyberattaque-supermarches-congelateurs-souverainete-alimentaire/",
+  "date": "2026-10-14",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "education-fuites-20260901",
+  "section": 4,
+  "kicker": "Éducation",
+  "titre": "Éducation nationale : la répétition des fuites de données interroge",
+  "resume": "Depuis le début de 2026, plusieurs systèmes du ministère ont été touchés : Compas en mars, ÉduConnect en avril, puis un système de formation en juillet. Pour ÉduConnect, le ministère a confirmé le 14 avril l’exfiltration de données d’élèves après l’usurpation d’un compte habilité.",
+  "analyse": "Une question écrite à l’Assemblée nationale, publiée le 1er septembre, demande quels moyens seront consacrés à la protection des données des agents et des élèves. Des données de mineurs, une fois exposées, peuvent être réutilisées longtemps pour l’hameçonnage ou l’usurpation d’identité.",
+  "actions": [
+   "Familles : se méfier des messages se réclamant de l’école et demandant d’activer un compte ou de changer un mot de passe",
+   "Familles : passer par le site officiel plutôt que par un lien reçu, et vérifier l’adresse de l’expéditeur",
+   "Établissements : protéger les comptes à privilèges et activer l’authentification renforcée"
+  ],
+  "source": "Ministère de l’Éducation nationale ; Assemblée nationale",
+  "url": "https://www.education.gouv.fr/incident-de-securite-affectant-les-donnees-de-certains-eleves-de-l-education-nationale-504443",
+  "date": "2026-09-01",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "analyse-dette-technique-20261102",
+  "section": 5,
+  "kicker": "Analyse de la rédaction",
+  "titre": "Ce que l’attaque des frigos dit de notre dette technique",
+  "resume": "L’attaque a visé des régulateurs anciens, joignables depuis Internet, pour lesquels des correctifs ou des remplacements existaient déjà. Le sujet n’est pas seulement la sophistication des pirates, mais le décalage entre la durée de vie d’un équipement et celle de sa sécurité.",
+  "analyse": "Un régulateur frigorifique peut rester en service des années ; son logiciel n’est supporté que pendant une partie de cette durée. Tant que ces équipements sont achetés comme du matériel et non gérés comme des systèmes d’information, ils échappent aux inventaires, aux correctifs et aux revues de risque. L’exposition directe à Internet, prévue pour la maintenance à distance, transforme alors un défaut ordinaire en point d’entrée.",
+  "actions": [
+   "Inclure l’informatique industrielle et les équipements techniques dans l’inventaire des actifs",
+   "Interdire l’exposition directe à Internet des interfaces d’administration ; passer par un accès distant sécurisé et authentifié",
+   "Inscrire la fin de support logiciel dans les critères d’achat et de renouvellement"
+  ],
+  "source": "Rédaction, à partir de l’ANSSI et des sources citées dans le journal",
+  "url": "",
+  "date": "2026-11-02",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "analyse-nis2-attendre-20261102",
+  "section": 5,
+  "kicker": "Analyse de la rédaction",
+  "titre": "NIS 2 : faut-il attendre la loi pour agir ?",
+  "resume": "Le texte français est de nouveau repoussé, mais l’ANSSI répète qu’il ne faut pas attendre. L’attaque des frigos, survenue quelques jours après le report, rappelle que le risque ne suit pas le calendrier parlementaire.",
+  "analyse": "Les mesures de NIS 2 (gouvernance, gestion des risques, sécurité de la chaîne d’approvisionnement, notification d’incident) correspondent à des pratiques que les organisations devraient déjà avoir. Le référentiel ReCyF en donne une base concrète. À l’inverse, se préparer trop tôt à une obligation encore floue peut conduire à surinvestir : le juste milieu est de traiter d’abord l’inventaire, la gouvernance et le plan de crise.",
+  "actions": [
+   "Établir l’inventaire des actifs et des prestataires critiques",
+   "Nommer un responsable du risque cyber rattaché à la direction",
+   "Tester un plan de crise incluant un scénario de sabotage d’équipement technique",
+   "Mesurer l’écart avec le ReCyF et planifier les chantiers par priorité"
+  ],
+  "source": "Rédaction",
+  "url": "",
+  "date": "2026-11-02",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "ecsc-2026-bochum-20261012",
+  "section": 6,
+  "kicker": "Compétition",
+  "titre": "ECSC 2026 : la Team France défend sa 5e place à Bochum",
+  "resume": "Le championnat d’Europe de cybersécurité s’est tenu du 12 au 16 octobre à Bochum, en Allemagne, avec 35 pays européens et sept nations invitées. L’équipe de France, sélectionnée et entraînée par l’ANSSI, y défendait sa cinquième place.",
+  "analyse": "L’ECSC oppose des équipes nationales de jeunes talents sur des épreuves pratiques de type Capture the Flag, dont un format attaque-défense où chaque équipe protège ses propres services tout en attaquant ceux des autres. C’est un bon indicateur du vivier de talents de chaque pays.",
+  "actions": [
+   "Consulter le classement officiel sur ecsc.eu (les résultats n’ont pas été vérifiés par la rédaction)",
+   "Suivre les qualifications nationales de l’an prochain, dont le France Cybersecurity Challenge",
+   "S’entraîner sur les catégories habituelles : web, cryptographie, rétro-ingénierie, exploitation de binaires, forensique"
+  ],
+  "source": "ANSSI (cyber.gouv.fr)",
+  "url": "https://cyber.gouv.fr/actualites/ecsc-2026-la-team-france-a-bochum/",
+  "date": "2026-10-12",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ },
+ {
+  "id": "ctf-debuter-20261102",
+  "section": 6,
+  "kicker": "Débuter",
+  "titre": "S’initier aux CTF : les grands rendez-vous français",
+  "resume": "Le France Cybersecurity Challenge, organisé par l’ANSSI, a réuni plus de 2 000 participants en avril 2026. Le 404CTF, monté par Télécom SudParis avec la DGSE, a tenu sa cinquième édition en ligne du 16 mai au 7 juin, après 3 486 participants l’an dernier.",
+  "analyse": "Ces compétitions en mode Jeopardy proposent des épreuves graduées dans des catégories comme le web, la cryptographie, la rétro-ingénierie ou la forensique, utiles pour progresser seul ou en équipe. Les lycéens ont leur propre challenge, « Passe ton hack d’abord », organisé avec l’Éducation nationale.",
+  "actions": [
+   "Choisir une plateforme d’entraînement et commencer par les épreuves de niveau débutant",
+   "Rejoindre ou former une équipe, par exemple via un club d’école",
+   "Documenter chaque résolution par écrit pour consolider ce qu’on a appris",
+   "Respecter les règles : ne jamais attaquer un système qui n’est pas explicitement une cible"
+  ],
+  "source": "ANSSI ; Télécom SudParis",
+  "url": "https://cyber.gouv.fr/offre-de-service/formations-entrainement-et-decouverte-des-metiers/challenges/france-cybersecurity-challenge/",
+  "date": "2026-11-02",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ }
+]
