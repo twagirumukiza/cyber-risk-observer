@@ -4,11 +4,11 @@
   "section": 0,
   "kicker": "À la une",
   "titre": "Un sommet européen s’ouvre sur la sécurité des infrastructures numériques",
-  "resume": "<p>Les dirigeants doivent arbitrer entre résilience, souveraineté et calendrier de mise en conformité.</p>",
-  "analyse": "",
+  "resume": "<p>La 13e édition de la Annual European Cyber Security Conference se tient le 4 novembre 2026 à Bruxelles, organisée par l'ECSO (European Cyber Security Organisation) sous le thème « Securing Europe's Digital Future » itdaily.fr.</p><p>Cet événement rassemble décideurs politiques, leaders de l'industrie et experts en cybersécurité pour traiter des enjeux critiques :</p><p>• Évolution des menaces informatiques et géopolitiques pesant sur les infrastructures européennes.</p><p>• Renforcement de la cybersécurité des réseaux et des infrastructures critiques face aux risques de cyberattaques et de désinformation.</p><p>• Souveraineté numérique et technologique de l'Union européenne, dans le prolongement des initiatives législatives récentes sur les données, l'intelligence artificielle et la réduction des dépendances structurelle</p>",
+  "analyse": "Les discussions se concentrent sur cinq grands piliers thématiques :<p>• La mise en œuvre des réglementations clés : Une attention particulière est accordée aux défis logistiques et juridiques liés à l'application des nouveaux textes européens, notamment le règlement sur la cyberrésilience (Cyber Resilience Act), la directive NIS2, le règlement sur la cybersolidarité (Cyber Solidarity Act), la directive sur la résilience des entités critiques (CER) et la révision du règlement sur la cybersécurité (CSA 2).</p><p>• L'impact de l'Intelligence Artificielle : Les experts analysent comment l'IA transforme la cybersécurité. Cela inclut la gouvernance de ces technologies, leur utilisation pour optimiser la défense, mais aussi les nouvelles cybermenaces dopées à l'IA.</p><p>• La sécurité des chaînes d'approvisionnement TIC : Face à l'interconnexion des systèmes, la conférence explore les solutions pour bâtir et auditer des chaînes d'approvisionnement technologiques et numériques de confiance.</p><p>• La souveraineté numérique et la compétitivité : Les débats portent sur les moyens pour l'Europe de réduire ses dépendances technologiques vis-à-vis de l'extérieur tout en restant compétitive à l'échelle mondiale dans le secteur de la cyberdéfense.</p><p>• La résilience collective et la gestion des crises : L'accent est mis sur le partage de renseignements sur les menaces, l'amélioration de la préparation aux incidents d'envergure et les mécanismes de réponse coordonnée en cas de crise majeure.</p><p>L'événement intègre également des sessions pratiques réservées aux responsables de la sécurité de l'information (le CISO Exchange), visant à partager des retours d'expérience concrets sur la gestion des risques au quotidien</p>",
   "conclusion": "",
   "stInfo": "",
-  "stAna": "",
+  "stAna": "Thématiques abordées",
   "stAct": "",
   "stCon": "",
   "auteur": "",
@@ -16,13 +16,17 @@
   "auteurLiens": "",
   "auteurPhoto": "",
   "actions": [],
-  "source": "",
-  "url": "",
+  "source": "ITdaily",
+  "url": "https://itdaily.com/events/13th-annual-european-cyber-security-conference-2026-securing-europes-digital-future/",
   "date": "2026-11-02",
   "criticite": "",
-  "image": "",
+  "image": "images/exemple-0.jpg",
   "credit": "",
-  "alt": "",
+  "alt": "logo",
+  "related": [
+   "exemple-1",
+   "exemple-2"
+  ],
   "statut": "valide"
  }
 ]
