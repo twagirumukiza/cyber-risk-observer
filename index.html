@@ -20,13 +20,13 @@ button{font:inherit;color:inherit;cursor:pointer}
 .top .cta{background:var(--yel);color:#121212;border:0;border-radius:99px;padding:6px 16px;font-weight:600;margin-left:14px}
 .top nav{display:flex;gap:18px;font-weight:600}
 .mast{background:var(--navy2);color:#fff}
-.mast .w{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;min-height:150px;padding-top:14px;flex-wrap:wrap}
-.tag{color:var(--yel);font:700 1rem var(--head);width:100%}
+.mast .w{display:flex;flex-direction:column;align-items:flex-start;gap:4px;padding-top:18px}
+.tag{color:var(--yel);font:700 1rem var(--head);margin:2px 0 14px}
 .tabs{display:flex;align-items:center;gap:0;flex-wrap:wrap}
 .tabs button{background:none;border:0;border-left:1px solid rgba(255,255,255,.3);color:#fff;font:700 1.15rem var(--head);padding:10px 22px 14px 10px;margin-right:6px;border-bottom:4px solid transparent}
 .tabs button:first-child{border-left:0}.tabs button[aria-current="true"]{border-bottom-color:var(--kick)}
-.tabs .burger{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:36px;min-width:36px;border-radius:99px;background:var(--yel);border:0;color:#121212;font-size:1.1rem;margin:0 0 12px 6px;padding:0 10px;font-weight:700}.burger .bl{display:none;font:700 1rem var(--head)}
-.logo{font:700 clamp(2.4rem,6vw,4.2rem)/.9 var(--head);text-align:right;letter-spacing:-.02em;padding-bottom:10px}
+.top .burger{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:34px;border-radius:99px;background:var(--yel);border:0;color:#121212;font-size:1.05rem;padding:0 14px;font-weight:700}.burger .bl{font:700 .95rem var(--head)}
+.logo{font:700 clamp(2.4rem,6vw,4.2rem)/.9 var(--head);text-align:left;letter-spacing:-.02em}
 .sub{background:var(--navy2);color:#fff;border-top:1px solid rgba(255,255,255,.25)}
 .sub .w{display:flex;gap:18px;overflow-x:auto;padding-top:10px;padding-bottom:10px;font-size:.88rem;white-space:nowrap}
 .sub a{opacity:.92}.sub a:hover{text-decoration:underline}
@@ -63,7 +63,7 @@ h2.hl{font:700 1.5rem var(--head);margin:0 0 10px}
 .top .tools{display:flex;align-items:center;gap:16px;flex-wrap:wrap}.top .tg{display:flex;gap:6px}
 .top .cta{display:inline-block;text-decoration:none}.cta[hidden]{display:none}
 .tb{min-width:38px;min-height:34px;font-weight:600}.tb:disabled{opacity:.4;cursor:default}
-@media (max-width:900px){.tabs .t{display:none}.tabs .burger{margin:0 0 12px;height:44px;padding:0 18px}.burger .bl{display:inline}.mast .w{min-height:0}.menu a{padding:6px 0}}
+@media (max-width:900px){.tabs{display:none}.menu a{padding:6px 0}}
 .lv p{margin:0 0 8px}.lv h3,.lv h4{font:700 1.1rem var(--head);margin:10px 0 4px}.lv blockquote{margin:8px 0;padding-left:14px;border-left:3px solid var(--line);color:var(--muted)}.lv a{text-decoration:underline}.lv ol{padding-left:22px;margin:6px 0}.lv.l4{border-color:#b4580a}
 .au{display:flex;gap:16px;align-items:center;border:1px solid var(--line);border-radius:8px;padding:14px;margin:0 0 22px}.au img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex:none}.au b{font:700 1.05rem var(--head);display:block}.au span{color:var(--muted);font-size:.88rem;display:block}.aul{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}.aul a{border:1px solid var(--line);border-radius:99px;padding:2px 12px;font-size:.82rem}.aul a:hover{text-decoration:underline}
 .pr{display:none}.tb2{background:none;border:1px solid var(--line);border-radius:6px;padding:5px 14px}
@@ -71,14 +71,14 @@ h2.hl{font:700 1.5rem var(--head);margin:0 0 10px}
 </style>
 </head>
 <body>
-<div class="top"><div class="w"><div><b>Soutenir Cyber Risk Observer</b><small>Une veille indépendante, vérifiée et lisible</small><a class="cta" id="cta" href="#" hidden>S’abonner à la newsletter</a></div><div class="tools"><nav id="tn" aria-label="Liens"></nav><div class="tg" role="group" aria-label="Affichage"><button class="tb" id="fm" type="button" aria-label="Réduire la taille du texte" title="Réduire le texte">A−</button><button class="tb" id="fp" type="button" aria-label="Agrandir la taille du texte" title="Agrandir le texte">A+</button><button class="tb" id="theme" type="button" aria-label="Changer de thème" title="Thème clair / sombre">☾</button></div></div></div></div>
+<div class="top"><div class="w"><div><b>Soutenir Cyber Risk Observer</b><small>Une veille indépendante, vérifiée et lisible</small><a class="cta" id="cta" href="#" hidden>S’abonner à la newsletter</a></div><div class="tools"><nav id="tn" aria-label="Liens"></nav><div class="tg" role="group" aria-label="Menu et affichage"><button class="burger" id="bg" type="button" aria-label="Menu des rubriques" aria-expanded="false" aria-controls="menu"><span class="bi" aria-hidden="true">☰</span><span class="bl">Menu</span></button><button class="tb" id="fm" type="button" aria-label="Réduire la taille du texte" title="Réduire le texte">A−</button><button class="tb" id="fp" type="button" aria-label="Agrandir la taille du texte" title="Agrandir le texte">A+</button><button class="tb" id="theme" type="button" aria-label="Changer de thème" title="Thème clair / sombre">☾</button></div></div></div></div>
+<div class="menu" id="menu" hidden><div class="w" id="menuin"></div></div>
 <header class="mast"><div class="w">
-<div class="tag">Veille cyber, géopolitique et GRC</div>
-<div class="tabs" id="tabs" role="tablist"></div>
 <div class="logo">Cyber Risk<br>Observer</div>
+<div class="tag">Veille cyber, géopolitique cyber et GRC</div>
+<div class="tabs" id="tabs" role="tablist"></div>
 </div></header>
 <div class="sub"><div class="w" id="sub"></div></div>
-<div class="menu" id="menu" hidden><div class="w" id="menuin"></div></div>
 <div class="note">Maquette : les articles sont des exemples pour illustrer la mise en page.</div>
 
 <main class="w" id="home" style="padding:0">
@@ -148,7 +148,7 @@ $("brief").innerHTML=items.slice(home?7:1).concat(A.filter(function(a){return a[
 $("sub").innerHTML=home?S.slice(1).map(function(s){return '<a href="#" data-i="'+S.indexOf(s)+'">'+s[0]+'</a>'}).join(""):S[cur][1].split(/, | et /).map(function(t){return '<a href="#">'+t+'</a>'}).join("");
 [].forEach.call($("tabs").querySelectorAll("button.t"),function(b,k){b.setAttribute("aria-current",(home?0:cur)==k?"true":"false")});
 }
-$("tabs").innerHTML=S.map(function(s,k){return '<button class="t" type="button" data-i="'+k+'" role="tab">'+s[0]+'</button>'}).join("")+'<button class="burger" id="bg" type="button" aria-label="Menu des rubriques" aria-expanded="false" aria-controls="menu"><span class="bi" aria-hidden="true">☰</span><span class="bl">Menu</span></button>';
+$("tabs").innerHTML=S.map(function(s,k){return '<button class="t" type="button" data-i="'+k+'" role="tab">'+s[0]+'</button>'}).join("");
 $("menuin").innerHTML=S.map(function(s,k){return '<a href="#" data-i="'+k+'"><b>'+s[0]+'</b><br><span>'+s[1]+'</span></a>'}).join("");
 function go(e){var t=e.target.closest("[data-i]");if(!t)return;e.preventDefault();var k=+t.getAttribute("data-i");menu(false);if(k==6){location.hash='ctf';return}cur=k==0?-1:k;if(location.hash.length>1)location.hash='';render();route()}
 $("tabs").addEventListener("click",go);$("menu").addEventListener("click",go);$("sub").addEventListener("click",go);
