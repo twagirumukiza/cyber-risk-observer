@@ -18,9 +18,9 @@ jobs:
           python-version: "3.12"
       - name: Collecter les flux
         run: python collecte/collecte.py
-      - name: Enregistrer les nouveautés
+      - name: Enregistrer les nouveaux sujets
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
-          git add data/items.json
-          git diff --staged --quiet || (git commit -m "Veille : nouvelles entrées" && git push)
+          git add data/veille.json
+          git diff --staged --quiet || (git commit -m "Veille : nouveaux sujets" && git pull --rebase origin "$GITHUB_REF_NAME" && git push)
