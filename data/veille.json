@@ -1,5 +1,21 @@
 [
  {
+  "id": "ad2df65419af",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+  "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+  "date": "2026-11-02",
+  "resume": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and&nbsp;its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0. Neither flaw is in CISA's&nbsp;Known",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité",
+   "IA"
+  ],
+  "score": 8
+ },
+ {
   "id": "e52f7534557d",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -315,6 +331,186 @@
   "score": 6
  },
  {
+  "id": "a660ce42a4af",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
+  "date": "2026-11-02",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un déni de service.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "decf4a3252d9",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits Synology (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1435/",
+  "date": "2026-11-02",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "417073e83927",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1436/",
+  "date": "2026-11-02",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "0208af3bdc81",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Qnap QNE (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1437/",
+  "date": "2026-11-02",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Qnap QNE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "9dfaa33ff83d",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans macmon et NRSW (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1438/",
+  "date": "2026-11-02",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Belden macmon et NRSW. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "8ac8e92ca0e9",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Vulnérabilité dans Traefik (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
+  "date": "2026-11-02",
+  "resume": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "483bc88286a7",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Microsoft Edge (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1440/",
+  "date": "2026-11-02",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "f610ce094118",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Vulnérabilité dans Microsoft Visual Studio (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1441/",
+  "date": "2026-11-02",
+  "resume": "Une vulnérabilité a été découverte dans Microsoft Visual Studio. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "0f83f7ebfc7f",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
+  "date": "2026-11-02",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que les vulnérabilités CVE-2026-104935,...",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "65afadf0cbc2",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+  "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+  "date": "2026-11-02",
+  "resume": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding new ways to turn normal tools against",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Hameçonnage"
+  ],
+  "score": 6
+ },
+ {
+  "id": "c477f1812588",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+  "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+  "date": "2026-11-02",
+  "resume": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready. AI SOC readiness has two parts: whether a SOC has the",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "f6edbcaffade",
+  "source": "BleepingComputer",
+  "rubrique": 1,
+  "titre": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+  "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+  "date": "2026-11-02",
+  "resume": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
   "id": "3489dfb1de48",
   "source": "Le Monde Économie",
   "rubrique": 3,
@@ -529,6 +725,66 @@
   "score": 5
  },
  {
+  "id": "39749d757eb1",
+  "source": "The Hacker News",
+  "rubrique": 1,
+  "titre": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+  "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+  "date": "2026-11-02",
+  "resume": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Cloud"
+  ],
+  "score": 5
+ },
+ {
+  "id": "a11b2636f415",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Choose Europe for Science : un an et demi après, le pari incertain du refuge scientifique européen",
+  "url": "https://www.lemonde.fr/sciences/article/2026/11/02/choose-europe-for-science-un-an-et-demi-apres-le-pari-incertain-du-refuge-scientifique-europeen_6805288_1650684.html",
+  "date": "2026-11-02",
+  "resume": "En réponse aux attaques de l’administration Trump contre la recherche, la Commission européenne et la France ont lancé des programmes pour accueillir les chercheurs américains. Mais, entre recrutements encore en cours, dispositifs sélectifs et incertitudes politiques, le bilan reste encore difficile à mesurer.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [
+   "Institutions"
+  ],
+  "score": 5
+ },
+ {
+  "id": "ccd43763df33",
+  "source": "Le Monde Économie",
+  "rubrique": 1,
+  "titre": "Comment l’IA permet aux bidouilleurs de « décompiler », de fusionner ou de copier plus rapidement des jeux vidéo",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/02/comment-l-ia-permet-aux-bidouilleurs-de-decompiler-de-fusionner-ou-de-copier-plus-rapidement-des-jeux-video_6805311_4408996.html",
+  "date": "2026-11-02",
+  "resume": "Depuis des années, des communautés de passionnés travaillent d’arrache-pied pour déchiffrer et reproduire le code de certains jeux afin de les réinventer ou de les faire fonctionner sur d’autres machines. Mais l’arrivée fulgurante de l’intelligence artificielle vient tout bouleverser.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [
+   "IA"
+  ],
+  "score": 5
+ },
+ {
+  "id": "8c1a879cafc7",
+  "source": "Le Monde Pixels",
+  "rubrique": 1,
+  "titre": "« L’“auteur” d’un livre écrit par IA n’a pas fait l’effort d’aller chercher son œuvre là où elle se trouve : en lui-même »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/02/l-auteur-d-un-livre-ecrit-par-ia-n-a-pas-fait-l-effort-d-aller-chercher-son-uvre-la-ou-elle-se-trouve-en-lui-meme_6805276_3232.html",
+  "date": "2026-11-02",
+  "resume": "Le prix littéraire Pascal, qui prend le nom du philosophe du XVIIᵉ siècle, confond le calcul avec la fabrique d’une œuvre d’art, car une machine n’éprouve pas le besoin d’écrire, estime l’écrivain Jean de Saint-Cheron, dans une tribune au « Monde ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [
+   "IA"
+  ],
+  "score": 5
+ },
+ {
   "id": "d596e3f2bace",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -549,6 +805,97 @@
   "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
   "date": "2026-11-02",
   "resume": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "948be6f589a7",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+  "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+  "date": "2026-11-02",
+  "resume": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used the boxes for ad fraud and to pass other people's internet traffic through owners' home",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "b9a8fe94cb9b",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Fintech platform Sageworks taken offline after suspected cyberattack",
+  "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+  "date": "2026-11-02",
+  "resume": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "f8e64d371b0e",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+  "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+  "date": "2026-11-02",
+  "resume": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "be1d39eaf1aa",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+  "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+  "date": "2026-11-02",
+  "resume": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "5ea1d647d005",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Your Mobile Carrier Stores Your Call Logs for Years",
+  "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+  "date": "2026-11-02",
+  "resume": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "cab04cab3c66",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Hackers disrupt refrigeration systems at European supermarkets",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+  "date": "2026-11-02",
+  "resume": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "5e44eebabf29",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Microsoft fixes Smart App Control broken by October Windows update",
+  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+  "date": "2026-11-02",
+  "resume": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
   "criticite": "",
   "poids": 1,
   "tags": [],
@@ -939,6 +1286,344 @@
   "url": "https://www.lemonde.fr/sante/article/2026/11/02/marche-des-medicaments-antiobesite-le-wegovy-arrive-en-comprime-dans-les-pharmacies-francaises_6804738_1651302.html",
   "date": "2026-11-02",
   "resume": "Le traitement développé par Novo Nordisk, jusqu’ici administré par injection en France, est désormais disponible sous forme orale, alors que le fabricant danois et son concurrent américain, Eli Lilly, rivalisent pour s’imposer sur un marché mondial en forte croissance.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "89142b4f5b2c",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, midterms 2026 : « L’Iran veut un accord aussi rapidement que possible », assure Donald Trump",
+  "url": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-l-iran-veut-un-accord-aussi-rapidement-que-possible-assure-donald-trump_6801590_3210.html",
+  "date": "2026-11-02",
+  "resume": "« Les prix du pétrole tombent comme des pierres (…) parce que les gens sentent qu’il n’y aura pas de guerre avec l’Iran », a écrit le président des Etats-Unis sur son réseau, Truth Social, après avoir assuré dimanche qu’il était prêt à donner un « coup de massue » à la République islamique.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "ce33ffb8905b",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Législatives en Israël : Benyamin Nétanyahou appelle à une large coalition, sous sa direction et sans les partis arabes ; l’opposition doit se réunir pour tenter de constituer une majorité",
+  "url": "https://www.lemonde.fr/international/article/2026/11/02/legislatives-en-israel-benyamin-netanyahou-appelle-a-une-large-coalition-sous-sa-direction-et-sans-les-partis-arabes-l-opposition-doit-se-reunir-pour-tenter-de-constituer-une-majorite_6805316_3210.html",
+  "date": "2026-11-02",
+  "resume": "Les élections législatives du 27 octobre n’ont dégagé aucune majorité, ni pour la coalition sortante du premier ministre israélien sortant, qui a obtenu 53 sièges, ni pour le bloc de l’opposition, emmené par le centriste Gadi Eisenkot, qui en compte 48.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "39b3cb9c19bd",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Au Japon, une justice implacable contre des trafics de drogue en plein essor",
+  "url": "https://www.lemonde.fr/international/article/2026/11/02/au-japon-une-justice-implacable-contre-des-trafics-de-drogue-en-plein-essor_6805315_3210.html",
+  "date": "2026-11-02",
+  "resume": "Les douanes nippones arrêtent de plus en plus de « mules » transportant de la drogue vers l’Archipel. La justice les sanctionne sévèrement alors que le pays fait face à une forte augmentation des trafics et de la consommation de stupéfiants.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "2038ce3173fc",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Allemagne, les violences en marge des manifestations du week-end suscitent un vif débat politique au sein du gouvernement",
+  "url": "https://www.lemonde.fr/international/article/2026/11/02/en-allemagne-les-violences-en-marge-des-manifestations-du-week-end-suscitent-un-vif-debat-politique-au-sein-du-gouvernement_6805312_3210.html",
+  "date": "2026-11-02",
+  "resume": "Le ministre de l’intérieur conservateur accuse l’extrême gauche et les « fauteurs de troubles de la communauté immigrée » d’être responsables des violences à Francfort en marge des manifestations. « Le chancelier fédéral s’est rallié » à cette version, a précisé le porte-parole de Friedrich Merz, tandis que le ministre de la défense social-démocrate l’a contestée.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "ca9e4e5ebf7d",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "A Gaza, des frappes israéliennes tuent cinq personnes, selon les services de secours palestiniens",
+  "url": "https://www.lemonde.fr/international/article/2026/11/02/a-gaza-des-frappes-israeliennes-tuent-cinq-personnes-selon-les-services-de-secours-palestiniens_6805310_3210.html",
+  "date": "2026-11-02",
+  "resume": "Sollicitée par l’Agence France-Presse, l’armée israélienne a affirmé avoir « frappé plusieurs terroristes ». Israël et le Hamas s’accusent mutuellement de violer le cessez-le-feu entré en vigueur le 10 octobre 2025 après deux ans de guerre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "d44972817cab",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "L’aventurier Karl Bushby de retour chez lui après un tour du monde de vingt-huit ans",
+  "url": "https://www.lemonde.fr/international/video/2026/11/02/l-aventurier-karl-bushby-de-retour-chez-lui-apres-un-tour-du-monde-de-vingt-huit-ans_6805309_3210.html",
+  "date": "2026-11-02",
+  "resume": "Ce Britannique a entamé son aventure à l’âge de 29 ans, après l’échec de son mariage et le départ de sa femme pour l’Irlande du Nord avec leur fils.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "41f0b136e942",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Au Maroc, le dessinateur Yasser Mounbir condamné à quatre ans de prison ferme pour des caricatures du roi",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/02/au-maroc-le-dessinateur-yasser-mounbir-condamne-a-quatre-ans-de-prison-ferme-pour-des-caricatures-du-roi_6805305_3212.html",
+  "date": "2026-11-02",
+  "resume": "L’artiste de 22 ans était jugé, le 30 octobre, pour « offense envers la personne du roi » après avoir réalisé et diffusé sur Instagram des représentations de Mohammed VI.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "e770d1b97761",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Sahara occidental : fin inattendue pour la mission de l’ONU",
+  "url": "https://www.lemonde.fr/afrique/video/2026/11/02/sahara-occidental-fin-inattendue-pour-la-mission-de-l-onu_6805301_3212.html",
+  "date": "2026-11-02",
+  "resume": "Au terme d’une présence de trente-cinq ans, la Mission des Nations unies pour l’organisation d’un référendum au Sahara occidental a officiellement cessé d’exister, le 1ᵉʳ novembre 2026.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "f3e72d862082",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : le bilan des bombardements russes dans l’oblast de Zaporijia passe à 26 morts, annonce Volodymyr Zelensky",
+  "url": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-dix-huit-personnes-ont-ete-tuees-par-des-bombardements-russes-dans-l-oblast-de-zaporijia-annonce-volodymyr-zelensky_6803934_3210.html",
+  "date": "2026-11-02",
+  "resume": "« Les opérations de sauvetage se poursuivront aussi longtemps que nécessaire pour retrouver chaque personne », alors que certaines sont toujours ensevelies sous les décombres, a précisé le président ukrainien dans son allocution du soir, après les bombardements russes sur Komychouvakha, dans l’oblast de Zaporijia.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "606d1470b5fb",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "« En Inde, les manifestants veulent en finir avec le régime d’impunité dont bénéficie le premier ministre, Narendra Modi »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/02/en-inde-les-manifestants-veulent-en-finir-avec-le-regime-d-impunite-dont-beneficie-le-premier-ministre-narendra-modi_6805299_3232.html",
+  "date": "2026-11-02",
+  "resume": "Le 1ᵉʳ novembre, des milliers de personnes ont défilé à New Delhi contre la révision électorale, qu’elles jugent favorable au chef du gouvernement. La journaliste et essayiste Vidya Krishnan estime, dans une tribune au « Monde », que ces mobilisations traduisent aussi le sentiment que les institutions démocratiques ne permettent plus au peuple de se faire entendre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "75cf287fd78a",
+  "source": "Le Monde International",
+  "rubrique": 4,
+  "titre": "En Afghanistan, à Herat, sous le régime des talibans, des femmes désespérées : « L’air nous a été retiré »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/02/en-afghanistan-a-herat-sous-le-regime-des-talibans-des-femmes-desesperees-l-air-nous-a-ete-retire_6805297_3210.html",
+  "date": "2026-11-02",
+  "resume": "Dans cette ville, où une manifestation a été réprimée dans le sang en juin, deux jeunes femmes de 18 ans et leurs mères racontent leur quotidien : les écoles clandestines, la peur des représailles, un club de lecture organisé dans un cimetière… Et, malgré tout, l’espoir tenace de pouvoir, un jour, quitter le pays.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "adff90f38880",
+  "source": "Le Monde International",
+  "rubrique": 3,
+  "titre": "Des cyberattaques contre des réfrigérateurs et des congélateurs visent plusieurs supermarchés en Europe",
+  "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
+  "date": "2026-11-02",
+  "resume": "En Belgique, en Suède, en Finlande, en Estonie, au Luxembourg et en Irlande, des pirates ont pris, dans la nuit du 1ᵉʳ au 2 novembre, le contrôle de systèmes de régulation frigorifiques connectés à Internet. Comme lors de la cyberattaque visant des magasins d’alimentation en France, en octobre, un logiciel de la compagnie danoise Danfoss a de nouveau été ciblé.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "84e51da7a569",
+  "source": "Le Monde International",
+  "rubrique": 3,
+  "titre": "Aux Etats-Unis, une « fuite des cerveaux » inédite, symptôme d’un malaise profond dans le monde scientifique",
+  "url": "https://www.lemonde.fr/sciences/article/2026/11/02/aux-etats-unis-une-fuite-des-cerveaux-inedite-symptome-d-un-malaise-profond-dans-le-monde-scientifique_6805293_1650684.html",
+  "date": "2026-11-02",
+  "resume": "Face aux coupes budgétaires et au climat de défiance vis-à-vis de la science impulsés par la Maison Blanche, des chercheurs chevronnés quittent le pays, tandis que les arrivées de doctorants étrangers sont en net déclin. Un contexte qui pourrait évoluer, à la marge, avec les résultats des midterms, le 3 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "daa1530160d5",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Gérald Darmanin, soutien d’Edouard Philippe, estime que les propositions de Jean-Luc Mélenchon et de Marine Le Pen « tueront l’Europe telle qu’elle existe »",
+  "url": "https://www.lemonde.fr/politique/article/2026/11/02/gerald-darmanin-soutien-d-edouard-philippe-estime-que-les-propositions-de-jean-luc-melenchon-et-de-marine-le-pen-tueront-l-europe-telle-qu-elle-existe_6805290_823448.html",
+  "date": "2026-11-02",
+  "resume": "Lors du congrès « World in Progress », qui se tient à Barcelone jusqu’à mardi 3 novembre, Edouard Philippe, le candidat d’Horizons, a lui aussi mis en garde contre les propositions des candidats du RN et de LFI, qui, selon lui, « auront pour effet de casser la construction européenne ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "2562e457cba0",
+  "source": "Le Monde International",
+  "rubrique": 5,
+  "titre": "Italie : réouverture de l’enquête sur le meurtre de Pier Paolo Pasolini",
+  "url": "https://www.lemonde.fr/societe/article/2026/11/02/italie-reouverture-de-l-enquete-sur-le-meurtre-de-pier-paolo-pasolini_6805287_3224.html",
+  "date": "2026-11-02",
+  "resume": "L’écrivain et cinéaste a été retrouvé mort sur une plage près de Rome le 2 novembre 1975. Il avait été roué de coups, puis une Alfa Romeo GT, la sienne ou une autre, avait roulé sur son corps.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "04c91de0e0ba",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Ebola : l’épidémie a fait plus de 5 300 morts en Afrique, dont l’immense majorité en RDC",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/02/ebola-l-epidemie-a-fait-plus-de-5-300-morts-en-afrique-dont-l-immense-majorite-en-rdc_6805275_3212.html",
+  "date": "2026-11-02",
+  "resume": "Déclarée en mai, la flambée, due à une souche contre laquelle il n’existe aucun vaccin homologué, a franchi plusieurs frontières, avec des cas en Ouganda, au Kenya et au Nigeria.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "083395ebfaba",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Pologne : le premier ministre, Donald Tusk, appelle le président, nationaliste, à reconnaître les juges élus par le Parlement afin de résoudre la crise autour du Tribunal constitutionnel",
+  "url": "https://www.lemonde.fr/international/article/2026/11/02/pologne-le-premier-ministre-donald-tusk-appelle-le-president-nationaliste-a-reconnaitre-les-juges-elus-par-le-parlement-afin-de-resoudre-la-crise-autour-du-tribunal-constitutionnel_6805274_3210.html",
+  "date": "2026-11-02",
+  "resume": "Revenu au pouvoir, en 2023, Donald Tusk a promis de résoudre la crise liée à l’instance, contrôlée par l’opposition nationaliste. Sans succès jusqu’ici, puisque les nominations de nouveaux juges n’ont pas été entérinées par le chef de l’Etat.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "80a9b64f5db7",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Egypte, le média indépendant « Mada Masr », attaqué de toutes parts, joue sa survie",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/02/en-egypte-le-media-independant-mada-masr-attaque-de-toutes-parts-joue-sa-survie_6805270_3212.html",
+  "date": "2026-11-02",
+  "resume": "Le site d’information est l’un des derniers espaces de liberté d’expression qui subsistent dans le pays. Il est la cible de poursuites judiciaires, et sa rédactrice en chef, brièvement incarcérée, doit passer en jugement le 11 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "385d8c5d0659",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Le journaliste Arthur Sarradin, prix Albert Londres, alerte sur une « précarité intenable » des reporters à l’étranger",
+  "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/le-journaliste-arthur-sarradin-prix-albert-londres-alerte-sur-une-precarite-intenable-des-reporters-a-l-etranger_6805267_3236.html",
+  "date": "2026-11-02",
+  "resume": "« Ici, à Radio France, on est payés par exemple 100 euros pour un reportage de guerre » et « on n’est pas assurés, on doit payer nous-mêmes nos gilets pare-balles », a souligné le journaliste de 26 ans sur le réseau social X.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "1cf0b19a0387",
+  "source": "Le Monde Économie",
+  "rubrique": 5,
+  "titre": "Haute fonction publique : un manque de culture historique chez les candidats aux concours de l’INSP, l’ex-ENA",
+  "url": "https://www.lemonde.fr/politique/article/2026/11/02/haute-fonction-publique-un-manque-de-culture-historique-chez-les-candidats-aux-concours-de-l-insp-l-ex-ena_6805306_823448.html",
+  "date": "2026-11-02",
+  "resume": "Dans son rapport publié le 30 octobre, Philippe Mahé, président des jurys des concours d’entrée 2026 à l’Institut national du service public, déplore les lacunes de nombreux candidats, trop concentrés sur l’actualité immédiate, au détriment du temps long.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "bd6b6ad37af9",
+  "source": "Le Monde Économie",
+  "rubrique": 4,
+  "titre": "Amélie Nothomb quitterait Albin Michel pour Gallimard",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/02/amelie-nothomb-quitterait-albin-michel-pour-gallimard_6805298_3234.html",
+  "date": "2026-11-02",
+  "resume": "La romancière phare d’Albin Michel depuis 1992 pourrait rejoindre Gallimard, suivant son amie Florence Godfernaux, qui deviendrait son éditrice. Ex-patronne du service de presse, celle-ci a été licenciée d’Albin Michel pour « harcèlement moral, harcèlement sexuel d’ambiance et manquement de loyauté » vis-à-vis de l’entreprise.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "da5f7858c076",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Baisse des prix du gazole : Emmanuel Macron se félicite de « solutions concrètes qui portent leurs fruits », « sans toucher aux taxes »",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/02/baisse-des-prix-du-gazole-emmanuel-macron-se-felicite-de-solutions-concretes-qui-portent-leurs-fruits-sans-toucher-aux-taxes_6805242_3235.html",
+  "date": "2026-11-02",
+  "resume": "Le prix du gazole a baissé de « 12 à 18 centimes » d’euros par litre dans « plus de la moitié » des stations-service en France, a affirmé, lundi, le ministre du commerce, Serge Papin.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "53a04399deb9",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Sur RTL, au jeu « Quitte ou double », les candidats jouent la sécurité des gains",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/02/sur-rtl-au-jeu-quitte-ou-double-les-candidats-jouent-la-securite-des-gains_6805284_3234.html",
+  "date": "2026-11-02",
+  "resume": "Les participants de l’émission de radio sont de plus en plus prudents pour s’assurer de repartir avec un peu d’argent. Un phénomène lié à la baisse du pouvoir d’achat.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9de760058806",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "« On ne peut continuer à se contenter d’une très faible croissance tirée par une consommation qui s’essouffle »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/02/on-ne-peut-continuer-a-se-contenter-d-une-tres-faible-croissance-tiree-par-une-consommation-qui-s-essouffle_6805282_3232.html",
+  "date": "2026-11-02",
+  "resume": "Pascal Le Merrer, le directeur général des Journées de l’économie, qui se tiennent du 3 au 5 novembre à Lyon, et dont « Le Monde » est partenaire, appelle, dans une tribune au « Monde », les candidats à l’élection présidentielle à s’imprégner des travaux collectifs d’économistes qui proposent des voies pour sortir le pays du déclin.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "dbe4fc0a3876",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Le BHV Marais, à Paris, placé en redressement judiciaire",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/02/le-bhv-marais-a-paris-place-en-redressement-judiciaire_6805272_3234.html",
+  "date": "2026-11-02",
+  "resume": "L’emblématique grand magasin avait annoncé, le 27 octobre, avoir demandé son placement en redressement judiciaire pour « sécuriser son plan de relance » et « préserver l’activité et l’emploi ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "faed9c43c4d6",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Voitures électriques : la troisième édition du leasing social peine à atteindre les 50 000 bénéficiaires",
+  "url": "https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html",
+  "date": "2026-11-02",
+  "resume": "Le dispositif, qui permet de donner accès à un véhicule électrique à des ménages modestes, est moins séduisant qu’à son lancement. Fin octobre, seulement 39 000 véhicules électriques avaient été commandés sur les 50 000 subventionnés.",
   "criticite": "",
   "poids": 0,
   "tags": [],
@@ -3523,6 +4208,21 @@
    "Rançongiciel"
   ],
   "score": 4
+ },
+ {
+  "id": "edde2ad25f2f",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+  "date": "2026-10-19",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 3
  },
  {
   "id": "7d3104b45e33",
