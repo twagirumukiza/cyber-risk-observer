@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "id": "exemple-0",
+  "section": 0,
+  "kicker": "À la une",
+  "titre": "Un sommet européen s’ouvre sur la sécurité des infrastructures numériques",
+  "resume": "<p>Les dirigeants doivent arbitrer entre résilience, souveraineté et calendrier de mise en conformité.</p>",
+  "analyse": "",
+  "conclusion": "",
+  "stInfo": "",
+  "stAna": "",
+  "stAct": "",
+  "stCon": "",
+  "auteur": "",
+  "auteurRole": "",
+  "auteurLiens": "",
+  "auteurPhoto": "",
+  "actions": [],
+  "source": "",
+  "url": "",
+  "date": "2026-11-02",
+  "criticite": "",
+  "image": "",
+  "credit": "",
+  "alt": "",
+  "statut": "valide"
+ }
+]
