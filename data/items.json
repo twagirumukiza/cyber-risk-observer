@@ -1,5 +1,66 @@
 [
  {
+  "id": "rmw006nbs5d3p",
+  "section": 0,
+  "kicker": "Menace informatique, Infostealer / IA",
+  "titre": "VOLTA : un malware Windows utilise l'intelligence artificielle pour évaluer la valeur financière de ses victimes",
+  "resume": "La véritable nouveauté réside dans l'utilisation de l'IA comme outil de renseignement au service des cybercriminels.<p>Les données collectées sont transmises à des modèles d'IA via la plateforme OpenRouter. Le malware privilégie Claude Opus 4.6, avec des solutions de repli vers Kimi K2 et Gemini 2.5 Flash en cas de refus ou d'échec.</p><p>L'IA est chargée de :</p><p>- Évaluer les ressources financières et numériques de la victime.</p><p>- Identifier les comptes et informations susceptibles d'être monétisés.</p><p>- Évaluer les habitudes de sécurité et les faiblesses potentielles.</p><p>- Classer les victimes selon leur intérêt financier.</p><p>L'objectif est de faciliter le travail des attaquants en automatisant le tri et l'analyse des données dérobées.</p><p>Il faut toutefois préciser que l'IA n'est pas indispensable au fonctionnement de VOLTA : le malware peut également transmettre les informations volées sans cette étape.</p>",
+  "analyse": "",
+  "conclusion": "VOLTA illustre une évolution importante de la cybercriminalité : l'intelligence artificielle ne sert plus seulement à produire des contenus frauduleux ou à faciliter certaines attaques. Elle peut également contribuer à exploiter les données déjà dérobées, en identifiant les victimes et les ressources présentant le plus d'intérêt pour les attaquants.<p><b>L'enjeu n'est donc plus seulement de protéger les données contre leur vol, mais aussi d'empêcher leur exploitation et leur recoupement après une compromission.</b></p>",
+  "imgPos": "tete",
+  "imgX": 50,
+  "imgY": 50,
+  "imgZ": 1,
+  "liensUtiles": "",
+  "intro": "Des chercheurs de <b>Cisco Talo</b>s ont découvert un nouveau logiciel malveillant baptisé<b> VOLTA-AUTODOXER (VOLTA)</b>, ciblant les systèmes Windows.<p>Sa particularité : il utilise des modèles d'intelligence artificielle pour analyser les informations volées et déterminer quelles victimes présentent le potentiel financier le plus intéressant pour les cybercriminels.</p><p>VOLTA collecte notamment :</p><p>- Les identifiants et mots de passe enregistrés dans les navigateurs.</p><p>- Les cookies et jetons de session permettant d'accéder aux comptes.</p><p>- Les informations bancaires et les portefeuilles de cryptomonnaies.</p><p>- Les clés SSH et les identifiants d'accès aux services cloud.</p><p>- Les sessions de messagerie, de jeux vidéo et de plateformes collaboratives.</p><p>Le malware peut également exploiter les sessions Gmail dérobées pour rechercher des factures et des historiques de commandes (Amazon, PayPal, Uber Eats, etc.), afin d'enrichir le profil de la victime.</p>",
+  "stIntro": "",
+  "rang": null,
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "p:rmvzzuwqyic2x",
+   "con"
+  ],
+  "imageCarte": "",
+  "cX": 50,
+  "cY": 50,
+  "cZ": 1,
+  "medias": {
+   "info": [],
+   "ana": [],
+   "act": [],
+   "con": []
+  },
+  "parties": [
+   {
+    "id": "rmvzzuwqyic2x",
+    "type": "texte",
+    "titre": "3. L'action : quelles mesures de protection ?",
+    "texte": "<p>Cette menace rappelle que le vol d'identifiants ne constitue pas uniquement une compromission de comptes : il peut devenir le point de départ d'une analyse approfondie de l'identité numérique et du patrimoine informationnel d'une personne ou d'une organisation.</p><p><b>Pour les particuliers :</b></p><p>- Éviter les logiciels piratés et les installateurs provenant de sources non fiables.</p><p>- Utiliser un gestionnaire de mots de passe.</p><p>- Activer l'authentification multifacteur (MFA).</p><p>- Éviter de conserver des informations sensibles dans les navigateurs.</p><p>- Surveiller les connexions inhabituelles à ses comptes.</p><p><b>Pour les organisations :</b></p><p>- Déployer des solutions EDR et renforcer la surveillance des postes Windows.</p><p>- Privilégier une authentification résistante au phishing (FIDO2/passkeys).</p><p>- Révoquer les sessions et jetons compromis dès la détection d'un incident.</p><p>- Protéger les identifiants cloud et les clés SSH.</p><p>- Surveiller les communications inhabituelles vers des services externes comme Telegram et OpenRouter.</p>",
+    "imgs": []
+   }
+  ],
+  "stInfo": "",
+  "stAna": "",
+  "stAct": "",
+  "stCon": "",
+  "auteur": "",
+  "auteurRole": "",
+  "auteurLiens": "",
+  "auteurPhoto": "",
+  "actions": [],
+  "source": "",
+  "url": "https://twagirumukiza.github.io/Twagirumukiza-Innocent/",
+  "date": "2026-11-03",
+  "criticite": "",
+  "image": "images/rmw006nbs5d3p.jpg",
+  "credit": "",
+  "alt": "",
+  "related": null,
+  "statut": "valide"
+ },
+ {
   "id": "rmvzx5xm8bvh3",
   "section": 1,
   "kicker": "",
