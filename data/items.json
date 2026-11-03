@@ -4,7 +4,7 @@
   "section": 8,
   "kicker": "",
   "titre": "VOLTA-AUTODOXER",
-  "resume": "",
+  "resume": "est un logiciel malveillant de type infostealer (voleur de données).<p>Sa particularité : il ne se contente pas de voler les données d'un ordinateur. Il utilise également des modèles d'intelligence artificielle pour analyser les informations dérobées, établir un profil détaillé de la victime et estimer son intérêt financier pour les cybercriminels.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -12,7 +12,7 @@
   "imgY": 50,
   "imgZ": 1,
   "liensUtiles": "",
-  "intro": "est un logiciel malveillant de type<b> infostealer</b> (voleur de données).<p>Sa particularité : il ne se contente pas de voler les données d'un ordinateur. Il utilise également des modèles d'intelligence artificielle pour analyser les informations dérobées, établir un profil détaillé de la victime et estimer son intérêt financier pour les cybercriminels.</p>",
+  "intro": "",
   "stIntro": "",
   "rang": null,
   "ordre": [
