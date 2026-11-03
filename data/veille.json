@@ -1,5 +1,232 @@
 [
  {
+  "id": "3e6bc640da57",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+  "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+  "date": "2026-11-03",
+  "resume": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code. \"SIMATIC IoT2050 Advanced devices running",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "d4042f8de11d",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+  "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+  "date": "2026-11-03",
+  "resume": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "3b6a51103bfa",
+  "source": "Krebs on Security",
+  "rubrique": 2,
+  "titre": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+  "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+  "date": "2026-11-03",
+  "resume": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised ",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "086ae7861f1a",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Assurance-vie : les bonus des fonds en euros, des taux alléchants en trompe-l’œil",
+  "url": "https://www.lemonde.fr/argent/article/2026/11/03/assurance-vie-les-bonus-des-fonds-en-euros-des-taux-allechants-en-trompe-l-il_6805533_1657007.html",
+  "date": "2026-11-03",
+  "resume": "Les taux séduisants, mais temporaires, masquent la rémunération réelle de ce placement. Ces rendements dopés, souvent réservés aux gros versements ou conditionnés à l’achat d’unités de compte risquées, creusent les inégalités entre les épargnants.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [
+   "Assurance"
+  ],
+  "score": 4
+ },
+ {
+  "id": "f6f263558154",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington",
+  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-l-emissaire-americain-annonce-des-negociations-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-sous-mediation-de-washington_6803934_3210.html",
+  "date": "2026-11-03",
+  "resume": "Selon Steve Witkoff, ces discussions prévues mardi 10 et mercredi 11 novembre « porteront sur les dispositions de sécurité d’après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix ». Par ailleurs, des bombardements russes dans l’oblast de Zaporijia ont fait au moins 26 morts.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "f640f0861084",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Ukraine, l’industrie sidérurgique menacée d’effondrement : « A l’heure actuelle, aucune production d’acier n’est assurée dans le pays »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-l-industrie-siderurgique-menacee-d-effondrement-a-l-heure-actuelle-aucune-production-d-acier-n-est-assuree-dans-le-pays_6805535_3210.html",
+  "date": "2026-11-03",
+  "resume": "Dans le bassin minier de Kryvy Rih, l’inquiétude est palpable. Alors que le complexe métallurgique d’ArcelorMittal, qui emploie 16 000 personnes, pourrait fermer après les frappes russes de septembre, le blocage des exportations en mer Noire et le bombardement des voies logistiques accélèrent le déclin d’un secteur économique qui faisait jadis la fierté du pays.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "ebd988ee1d14",
+  "source": "Le Monde International",
+  "rubrique": 5,
+  "titre": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
+  "url": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
+  "date": "2026-11-03",
+  "resume": "Sans attendre l’étude d’impact environnemental ni le plan d’aménagement du territoire, le géant américain a coupé à blanc 530 hectares de forêts sur deux sites, poussant les autorités, favorables à ces équipements, à durcir la législation.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "7c5f8a44677a",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Pologne, un opéra donne voix à la solidarité avec les Ukrainiens, contestée par le camp nationaliste",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-un-opera-donne-voix-a-la-solidarite-avec-les-ukrainiens-contestee-par-le-camp-nationaliste_6805530_3210.html",
+  "date": "2026-11-03",
+  "resume": "A Varsovie, les représentations des « Mères de Kherson », sur les atrocités de l’agression russe, ont eu une forte résonance dans un pays plus divisé que jamais sur le sort des réfugiés de guerre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9cdf85b4740a",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, midterms 2026 : après la clôture de la campagne, les Américains votent mardi pour renouveler le Congrès",
+  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html",
+  "date": "2026-11-03",
+  "resume": "Les premiers bureaux de vote ouvriront à 6 heures locales (midi à Paris) dans de nombreux États de la Côte est des Etats-Unis. Au vu des sondages, le camp démocrate entretient l’espoir de faire basculer de son côté la Chambre des représentants, voire le Sénat, afin de reprendre les leviers du pouvoir pour les deux dernières années du mandat de Donald Trump.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "eed4cb2bb1ad",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Seth Masket, politologue américain : « Les midterms sont plus que jamais des élections sur Donald Trump »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/03/seth-masket-politologue-americain-les-midterms-sont-plus-que-jamais-des-elections-sur-donald-trump_6805527_3232.html",
+  "date": "2026-11-03",
+  "resume": "Avant les élections de mi-mandat aux Etats-Unis, mardi, le professeur à l’université de Denver assure, dans un entretien au « Monde », qu’une victoire des démocrates n’affaiblirait pas l’emprise de Donald Trump sur le Parti républicain.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "67fa1689a493",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Face à la domination de SpaceX, l’Europe contrainte de se bâtir un accès autonome à l’espace",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html",
+  "date": "2026-11-03",
+  "resume": "Alors que la société spatiale d’Elon Musk a fermé l’accès à sa fusée Falcon-9, l’Europe doit réussir la montée en cadence d’Ariane-6 et espérer l’émergence de nouveaux lanceurs si elle veut pouvoir lancer ses centaines de satellites à venir.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "1570f25f29ec",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : les Américains appelés aux urnes pour un vote à valeur de référendum pour Donald Trump",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-les-americains-appeles-aux-urnes-pour-un-vote-a-valeur-de-referendum-pour-donald-trump_6805522_3210.html",
+  "date": "2026-11-03",
+  "resume": "Le président républicain est confronté au risque d’une vague démocrate qui pourrait emporter le Congrès américain et entraver sérieusement sa marge de manœuvre pour les deux dernières années de son mandat.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "3092c0d034bd",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Israël : un pays dans l’impasse politique",
+  "url": "https://www.lemonde.fr/podcasts/article/2026/11/03/israel-un-pays-dans-l-impasse-politique_6805519_5463015.html",
+  "date": "2026-11-03",
+  "resume": "Si le premier ministre israélien, Benyamin Nétanyahou, est en recul dans les urnes, l’opposition a pour le moment échoué à le détrôner. Les tractations s’annoncent tendues pour trouver celui qui réussira à rassembler une majorité au Parlement. Dans ce podcast, Luc Bronner, correspondant du « Monde » en Israël, analyse les scénarios possibles après les élections dans l’Etat hébreu.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "94a13e1b79a6",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Comment la popularité de Donald Trump s’est érodée en deux ans",
+  "url": "https://www.lemonde.fr/international/visuel/2026/11/03/comment-la-popularite-de-donald-trump-s-est-erodee-en-deux-ans_6805520_3210.html",
+  "date": "2026-11-03",
+  "resume": "Guerre en Iran, hausse du prix des carburants, soupçons de corruption, traque de la police fédérale de l’immigration (ICE)… Alors que les élections de mi-mandat, mardi 3 novembre, s’annoncent serrées pour les républicains, le président américain n’a jamais été aussi impopulaire.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "96023830a23b",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Iran : l’armée américaine a effectué des frappes sur l’île de Qeshm, selon le « Wall Street Journal »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/iran-l-armee-americaine-a-effectue-des-frappes-sur-l-ile-de-qeshm-selon-le-wall-street-journal_6805420_3210.html",
+  "date": "2026-11-03",
+  "resume": "Ces frappes secrètes interviennent à la veille des élections de mi-mandat aux Etats-Unis, et alors que Donald Trump a déclaré qu’un accord avec l’Iran « pourrait arriver ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "a7cda74b13bd",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Cryptomonnaies : la Corée du Nord nie être impliquée dans le piratage de la plateforme Binance, rejetant les accusations du FBI",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
+  "date": "2026-11-03",
+  "resume": "La police fédérale américaine a accusé le groupe de pirates informatiques nord-coréens TraderTraitor d’être à l’origine du vol de 6,3 milliards de dollars d’actifs numériques. « Une grave provocation politique », a dénoncé Kim Yo-jong, sœur du dirigeant Kim Jong-un.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "005a3efcfb87",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "A Paris, les « trottoirs Vuitton » électrisent le débat sur le financement de l’espace public",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html",
+  "date": "2026-11-03",
+  "resume": "Louis Vuitton, filiale du groupe LVMH, a obtenu de transformer – à ses frais – les rues de Bassano et Galilée, au pied de son futur mégastore des Champs-Elysées. Depuis plusieurs années, le secteur privé multiplie les initiatives pour s’immiscer dans l’aménagement de l’espace public.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
   "id": "ad2df65419af",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -1642,7 +1869,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "d15dc155427a",
@@ -1657,7 +1884,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "c1c20131973a",
@@ -1670,7 +1897,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "2a3e4a8e199c",
@@ -1683,7 +1910,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "6e20a9798345",
@@ -1696,7 +1923,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "be08e34bf976",
@@ -1709,7 +1936,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "8cfea8890b08",
@@ -1722,7 +1949,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "5e3bb1ab4ec2",
@@ -1735,7 +1962,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "2aca9a995cde",
@@ -1748,7 +1975,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "6ceefe5001f4",
@@ -1761,7 +1988,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "cc71e4c54a93",
@@ -1774,7 +2001,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "c96eaed67eb8",
@@ -1787,7 +2014,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e862b9bce819",
@@ -1800,7 +2027,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "bbe4ec096260",
@@ -1813,7 +2040,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "2c71ce2ee5b3",
@@ -1826,7 +2053,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "4e3b797fd4a7",
@@ -2024,7 +2251,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "4854dc1468c2",
@@ -2039,7 +2266,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "4760f9242e3b",
@@ -2054,7 +2281,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "5d0aa1865d5d",
@@ -2069,7 +2296,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "565b19547f10",
@@ -2084,7 +2311,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "b933ef472f9d",
@@ -2099,7 +2326,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "6b1f0a190440",
@@ -2114,7 +2341,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "a04cc8e270bb",
@@ -2129,7 +2356,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "b0ef52c1a470",
@@ -2144,7 +2371,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "92650a1e7ae8",
@@ -2159,7 +2386,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "a6b51e86c41d",
@@ -2174,7 +2401,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "c2bc9ee7faad",
@@ -2189,7 +2416,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "06c4ba24038c",
@@ -2204,7 +2431,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "0b98238d4eef",
@@ -2219,7 +2446,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "56927490b177",
@@ -2234,7 +2461,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "01b3d65ece3b",
@@ -2249,7 +2476,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "46d8d781bead",
@@ -2264,7 +2491,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "6473fc7702e5",
@@ -2279,7 +2506,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "6d2a0802c49f",
@@ -2294,7 +2521,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "5100bc6323f0",
@@ -2309,7 +2536,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "f167e37bde6d",
@@ -2324,7 +2551,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "654fb2771602",
@@ -2339,7 +2566,7 @@
   "tags": [
    "Institutions"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "7bb80b38eb94",
@@ -2354,7 +2581,7 @@
   "tags": [
    "IA"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "bfec2004bdb1",
@@ -2367,7 +2594,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "4eafb481bfd9",
@@ -2380,7 +2607,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "0e3774900031",
@@ -2393,7 +2620,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "6734aa3aec6c",
@@ -2406,7 +2633,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ad2cc061f552",
@@ -2419,7 +2646,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1dad8889ea72",
@@ -2432,7 +2659,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e645dafde1d4",
@@ -2445,7 +2672,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "96a0f026f2e0",
@@ -2458,7 +2685,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "27c3e9ac8130",
@@ -2471,7 +2698,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "47326aaa1280",
@@ -2484,7 +2711,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 2
+  "score": 1
  },
  {
   "id": "c05b318be3c1",
@@ -2497,7 +2724,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 2
+  "score": 1
  },
  {
   "id": "7493dd9fea0f",
@@ -2510,7 +2737,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 2
+  "score": 1
  },
  {
   "id": "15bd8aa97625",
@@ -2523,7 +2750,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 2
+  "score": 1
  },
  {
   "id": "9b77df68d85f",
@@ -2536,7 +2763,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 2
+  "score": 1
  },
  {
   "id": "2dc39333ee97",
@@ -3600,7 +3827,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "989022c91bd1",
@@ -3615,7 +3842,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "a7bcfa86d46f",
@@ -3630,7 +3857,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "10b0251915e8",
