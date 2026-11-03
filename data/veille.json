@@ -1,5 +1,38 @@
 [
  {
+  "id": "310fe7a6e4c3",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+  "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+  "date": "2026-11-03",
+  "resume": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA",
+   "Hameçonnage",
+   "Cloud",
+   "Fuite de données"
+  ],
+  "score": 11
+ },
+ {
+  "id": "b87761b9d725",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-119977 – WordPress WordPress Core : WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+  "date": "2026-11-03",
+  "resume": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.",
+  "criticite": "Critique",
+  "poids": 2,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
   "id": "d108c8cad61e",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -16,6 +49,38 @@
   "score": 9
  },
  {
+  "id": "c136875d05ca",
+  "source": "BleepingComputer",
+  "rubrique": 1,
+  "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+  "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+  "date": "2026-11-03",
+  "resume": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Rançongiciel",
+   "IA"
+  ],
+  "score": 9
+ },
+ {
+  "id": "19a35a6714f9",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+  "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+  "date": "2026-11-03",
+  "resume": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers. \"It was not a single isolated breach or a simple phishing incident,\"",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA",
+   "Hameçonnage"
+  ],
+  "score": 8
+ },
+ {
   "id": "8ede56d402c1",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -27,6 +92,37 @@
   "poids": 1,
   "tags": [
    "Vulnérabilité",
+   "Cloud"
+  ],
+  "score": 7
+ },
+ {
+  "id": "4ee243d9c309",
+  "source": "CISA avis",
+  "rubrique": 2,
+  "titre": "Subnet Solutions PowerSYSTEM Center",
+  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
+  "date": "2026-11-03",
+  "resume": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.29.x (CVE-2026-63017) PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x (CVE-2026-63017, CVE-2026-63774) PowerSYSTEM Center 20",
+  "criticite": "",
+  "poids": 2,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 7
+ },
+ {
+  "id": "77eef035ebfc",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+  "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+  "date": "2026-11-03",
+  "resume": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA",
    "Cloud"
   ],
   "score": 7
@@ -107,6 +203,126 @@
   "score": 6
  },
  {
+  "id": "a1b249764f1c",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+  "date": "2026-11-03",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "7ca99e03f5c2",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
+  "date": "2026-11-03",
+  "resume": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "d64e16f3a968",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
+  "date": "2026-11-03",
+  "resume": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "dc2a246bd225",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
+  "date": "2026-11-03",
+  "resume": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "6cb26059f760",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
+  "date": "2026-11-03",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "8afc2fab5966",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+  "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+  "date": "2026-11-03",
+  "resume": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week. \"An external attacker gained unauthorized access to part of",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "bc96c130a163",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+  "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+  "date": "2026-11-03",
+  "resume": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "f6282e8c323a",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+  "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+  "date": "2026-11-03",
+  "resume": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
   "id": "0b096c97b536",
   "source": "CTFtime",
   "rubrique": 6,
@@ -114,6 +330,34 @@
   "url": "https://ctftime.org/event/3493",
   "date": "2026-11-03",
   "resume": "Name: OTERIA Cyber Cup #4 (an OTERIA Cyber Cup event.) Date: Dec. 5, 2026, 9 a.m. &mdash; 05 Dec. 2026, 17:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: France, Gennevilliers Offical URL: https://www.oteria-cyber-cup.fr/ Rating weight: 0 Event organizers: OteriHack",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "8d7e6e89b151",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Témoignage : un immense data center de ChatGPT s’installe à côté de chez lui",
+  "url": "https://www.lemonde.fr/international/video/2026/11/03/temoignage-un-immense-data-center-de-chatgpt-s-installe-a-cote-de-chez-lui_6805598_3210.html",
+  "date": "2026-11-03",
+  "resume": "Au Texas, OpenAI, la firme qui a inventé ChaptGPT, construit un immense data center alimenté en électricité grâce à des turbines au gaz. « Le Monde » a pu filmer sur place.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [
+   "IA"
+  ],
+  "score": 5
+ },
+ {
+  "id": "9e1a2733e73a",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "h4ckc0n 2026",
+  "url": "https://ctftime.org/event/3464",
+  "date": "2026-11-03",
+  "resume": "Name: h4ckc0n 2026 (an h4ckc0n event.) Date: Nov. 14, 2026, 3:30 p.m. &mdash; 15 Nov. 2026, 15:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://h4ckc0n.in/ Rating weight: 24.23 Event organizers: d4rkc0de",
   "criticite": "",
   "poids": 2,
   "tags": [],
@@ -207,6 +451,58 @@
   "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
   "date": "2026-11-03",
   "resume": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "9ca07b46843b",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+  "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+  "date": "2026-11-03",
+  "resume": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "63d055e30b47",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+  "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+  "date": "2026-11-03",
+  "resume": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data. cPGuard 5.88.25 and later versions",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "317e8557e095",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Binance says fake job interview led to $6.3 billion crypto heist",
+  "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+  "date": "2026-11-03",
+  "resume": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "36b3d0baf9aa",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Barracuda warns of critical flaws allowing root access to devices",
+  "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+  "date": "2026-11-03",
+  "resume": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
   "criticite": "",
   "poids": 1,
   "tags": [],
@@ -649,6 +945,396 @@
   "url": "https://www.lemonde.fr/idees/article/2026/11/03/mobilisations-sociales-couper-les-reseaux-sociaux-ne-peut-etre-une-variable-d-ajustement-de-la-gestion-des-manifestations_6805562_3232.html",
   "date": "2026-11-03",
   "resume": "Bloquer l’utilisation de TikTok, Instagram ou Snapchat, comme cela a été envisagé par le gouvernement après les manifestations du 17 octobre, ne suffirait pas à empêcher les violences, rappelle la sociologue Francesca Musiani dans une tribune au « Monde ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "c06b8cb22efc",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Pologne, la crise autour du Tribunal constitutionnel préfigure une campagne virulente pour les prochaines élections législatives",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-la-crise-autour-du-tribunal-constitutionnel-prefigure-une-campagne-virulente-pour-les-prochaines-elections-legislatives_6805664_3210.html",
+  "date": "2026-11-03",
+  "resume": "Mardi, l’assemblée générale de l’institution a vu le camp de centre droit du premier ministre polonais, Donald Tusk, et l’opposition nationaliste camper sur leurs positions.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "bf7ed31a3d5b",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : Donald Trump révèle à Fox News que l’aide militaire à Israël sera « coupée à la fin de l’année »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-donald-trump-revele-a-fox-news-que-l-aide-militaire-a-israel-sera-coupee-a-la-fin-de-l-annee_6805657_3210.html",
+  "date": "2026-11-03",
+  "resume": "Le jour des élections de mi-mandat, le président américain a déclaré, sans concertation apparente ni détails, vouloir en finir avec le soutien de 3,8 milliards de dollars annuels à l’Etat hébreu. Une décision qui semble influencée par le retournement de l’opinion publique américaine.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "c2d84b87609f",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : les cartes des résultats des élections américaines de mi-mandat en temps réel",
+  "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/03/midterms-2026-les-cartes-des-resultats-des-elections-americaines-de-mi-mandat-en-temps-reel_6805570_4355771.html",
+  "date": "2026-11-03",
+  "resume": "Les électeurs américains sont appelés aux urnes, mardi 3 novembre, afin de renouveler la totalité de la Chambre des représentants et le tiers du Sénat. Le Parti républicain de Donald Trump est menacé de perdre sa majorité dans les deux Chambres formant le Congrès.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "bd9a6cba3f2f",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : à Kiev, des coupures de courant d’urgence mises en place, le maire dénonce les attaques russes sur les infrastructures énergétiques de la ville",
+  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-a-kiev-des-coupures-de-courant-d-urgence-mises-en-place-le-maire-denonce-les-attaques-russes-sur-les-infrastructures-energetiques-de-la-ville_6803934_3210.html",
+  "date": "2026-11-03",
+  "resume": "« La situation de l’approvisionnement en électricité à Kiev est extrêmement difficile », a déclaré, mardi, Vitali Klitschko, le maire de la capitale ukrainienne. « L’ennemi continue de détruire les infrastructures ukrainiennes », a poursuivi M. Klitschko. Ces frappes auraient également provoqué des perturbations dans la distribution d’eau à travers la capitale et dans la circulation des transports",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "89b50d422851",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "La grande mutation des Etats-Unis à l’âge de la force brute",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/03/la-grande-mutation-des-etats-unis-a-l-age-de-la-force-brute_6805645_3232.html",
+  "date": "2026-11-03",
+  "resume": "Dans un essai brillant, « La Puissance sans principe », Maud Quessard, spécialiste de politique étrangère américaine, décrypte comment les Etats-Unis deviennent un empire sans garde-fous et font basculer l’ordre mondial.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "574c05766512",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Ukraine, la Russie intensifie ses frappes contre des cibles civiles",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-la-russie-intensifie-ses-frappes-contre-des-cibles-civiles_6805643_3210.html",
+  "date": "2026-11-03",
+  "resume": "Un bombardement, le 1ᵉʳ novembre, contre une école faisant office, chaque lundi, de centre de distribution d’aide humanitaire a fait 33 morts et une cinquantaine de disparus, selon le dernier bilan.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9ab28b8ea6f5",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Au Luxembourg, le « FMI européen » s’inquiète de la situation financière de la France",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/au-luxembourg-le-fmi-europeen-s-inquiete-de-la-situation-financiere-de-la-france_6805642_3234.html",
+  "date": "2026-11-03",
+  "resume": "Le Mécanisme européen de stabilité peut prêter jusqu’à 500 milliards d’euros aux pays financièrement étranglés. « Nous n’avons aucune raison d’intervenir à ce stade », assure son directeur général.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "e92d99bf9fe4",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "« Ce n’est pas la fin du monde » : l’Afrique du Sud minimise la portée de son exclusion d’un accord commercial avec les Etats-Unis",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/03/ce-n-est-pas-la-fin-du-monde-l-afrique-du-sud-minimise-la-portee-de-son-exclusion-d-un-accord-commercial-avec-les-etats-unis_6805638_3212.html",
+  "date": "2026-11-03",
+  "resume": "Washington a fait savoir, lundi 2 novembre, que Pretoria ne bénéficiera plus de l’accord AGOA, qui exempte de taxes de nombreux produits africains importés aux Etats-Unis, à compter du 1ᵉʳ janvier 2027. Une décision attendue par l’exécutif, mais qui inquiète certains secteurs exposés.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "4b0322ef03ea",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Afrique du Sud, le pari fou de « grand-mère » Helen Zille, candidate hors norme à la mairie de Johannesburg",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/03/en-afrique-du-sud-le-pari-fou-de-grand-mere-helen-zille-candidate-hors-norme-a-la-mairie-de-johannesburg_6805635_3212.html",
+  "date": "2026-11-03",
+  "resume": "L’ancienne édile du Cap et ex-présidente de l’Alliance démocratique pourrait devenir la première maire blanche de la capitale économique sud-africaine depuis la fin de l’apartheid, lors des élections municipales du mercredi 4 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "1f1591adafc1",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les élections de mi-mandat en direct",
+  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-suivez-la-journee-de-vote-aux-etats-unis-pour-les-elections-de-mi-mandat-aux-etats-unis-les-dernieres-informations-et-les-reponses-a-vos-questions_6805528_3210.html",
+  "date": "2026-11-03",
+  "resume": "Les bureaux de vote sont ouverts dans tout le pays. Déjà plus de 58 millions d’Américains ont voté par anticipation ; il s’agit d’un record pour des élections de mi-mandat, qui pourraient cette fois-ci voir les démocrates prendre le contrôle de la Chambre des représentants, voire du Sénat, et compromettre la fin du mandat de Donald Trump.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "8d5aa7255769",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Corée du Sud, les informations du passeport du président et de son entourage en libre accès pendant quatre mois",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-coree-du-sud-les-informations-du-passeport-du-president-et-de-son-entourage-en-libre-acces-pendant-quatre-mois_6805632_3210.html",
+  "date": "2026-11-03",
+  "resume": "Les données personnelles du président Lee Jae Myung, de sa femme et de plus de 166 autres personnes ayant participé à un vol présidentiel vers la France ont été publiées en juin sur le site d’une plateforme de cybersécurité, a révélé la chaîne publique KBS, lundi 2 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "6be56ed56c0c",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Renault poursuit son avancée dans les drones militaires",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/renault-poursuit-son-avancee-dans-les-drones-militaires_6805629_3234.html",
+  "date": "2026-11-03",
+  "resume": "Déjà engagé dans deux projets de drones aériens, le constructeur automobile s’associe au groupe de blindés belge John Cockerill pour produire un robot terrestre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "e921544fbdaf",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Législatives en Israël : l’opposition veut former un gouvernement sans Benyamin Nétanyahou, mais reste divisée sur une alliance avec les partis arabes",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/legislatives-en-israel-l-opposition-veut-former-un-gouvernement-sans-benyamin-netanyahou-mais-reste-divisee-sur-une-alliance-avec-les-partis-arabes_6805623_3210.html",
+  "date": "2026-11-03",
+  "resume": "Les membres du bloc de l’opposition, qui ont récolté 48 sièges contre 53 pour le camp de Benyamin Nétanyahou, n’ont toutefois pas expliqué comment ils comptaient bénéficier d’une majorité au Parlement.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9a8135984284",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "A Nairobi, les tours qui s’effondrent, symptôme d’une « course à la hauteur » entre promoteurs corrompus",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/03/a-nairobi-les-tours-qui-s-effondrent-symptome-d-une-course-a-la-hauteur-entre-promoteurs-corrompus_6805619_3212.html",
+  "date": "2026-11-03",
+  "resume": "Les secouristes cherchent encore 11 personnes portées disparues à la suite de l’écroulement d’un immeuble le 23 octobre. Il s’agit du cinquième bâtiment en construction à s’affaisser dans la capitale kényane depuis le début de l’année.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "445b109a72bb",
+  "source": "Le Monde International",
+  "rubrique": 5,
+  "titre": "En Hongrie, un nouveau procureur général élu sur fond d’enquêtes pour corruption visant l’entourage de l’ex-premier ministre Viktor Orban",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-hongrie-un-nouveau-procureur-general-elu-sur-fond-d-enquetes-pour-corruption-visant-l-entourage-de-l-ex-premier-ministre-viktor-orban_6805613_3210.html",
+  "date": "2026-11-03",
+  "resume": "Le Parlement a confirmé Péter Fejes, 65 ans, un procureur de carrière qui a récemment pris sa retraite, à ce poste-clé à un moment où les enquêtes sur la corruption au plus haut niveau s’accélèrent dans le pays.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "ff2a11e428ca",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : à quelle heure connaîtra-t-on les premiers résultats des élections américaines de mi-mandat et quels sont les Etats-clés à surveiller ?",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-a-quelle-heure-connaitra-t-on-les-premiers-resultats-des-elections-americaines-de-mi-mandat-et-quels-sont-les-etats-cles-a-surveiller_6805569_3211.html",
+  "date": "2026-11-03",
+  "resume": "Les électeurs américains doivent renouveler la totalité de la Chambre des représentants et un tiers du Sénat, mardi 3 novembre. Mais les dépouillements pourraient prendre du temps dans certains Etats.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "f20649537681",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Donald Trump annonce la fin d’une aide pour la sécurité d’Israël, d’un montant annuel de 3,8 milliards de dollars",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/donald-trump-annonce-la-fin-d-une-aide-pour-la-securite-d-israel-d-un-montant-annuel-de-3-8-milliards-de-dollars_6805607_3210.html",
+  "date": "2026-11-03",
+  "resume": "Cette assistance américaine à la sécurité d’Israël avait commencé en 2019, pour une durée de dix ans. L’accord avait été signé trois ans auparavant par Barack Obama.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "c1e97d6fa4fe",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Le Royaume-Uni durcit sa politique contre l’immigration légale",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/le-royaume-uni-durcit-sa-politique-contre-l-immigration-legale_6805604_3210.html",
+  "date": "2026-11-03",
+  "resume": "Les étrangers en situation régulière seront obligés, dans la plupart des cas, de patienter dix ans avant de pouvoir accéder au statut de résident permanent. Les hauts revenus bénéficieront d’un délai plus court, quand les demandeurs d’asile arrivés sur les « small boats » devront avoir passé au moins vingt ans outre-Manche.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "5fcfd0517d24",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Donald Trump confirme des frappes contre une infrastructure antiaériennne en Iran",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/donald-trump-confirme-des-frappes-contre-une-infrastructure-anti-aeriennne-en-iran_6805599_3210.html",
+  "date": "2026-11-03",
+  "resume": "Le vice-ministre des affaires étrangères iranien, Kazem Gharibabadi, a réagi en précisant que Téhéran se réservait le droit de se défendre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "81f2b5fca3c6",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Le conflit se poursuit entre les salariés de SFR et Bouygues Telecom, Free et Orange sur le volet social du rachat de l’opérateur",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/le-conflit-se-poursuit-entre-les-salaries-de-sfr-et-bouygues-telecom-free-et-orange-sur-le-volet-social-du-rachat-de-l-operateur_6805663_3234.html",
+  "date": "2026-11-03",
+  "resume": "De nombreux employés du groupe de Patrick Drahi ont de nouveau fait grève, mardi 3 novembre, sur fond de fortes inquiétudes sur l’emploi dans le cadre du rachat collectif du groupe par Bouygues Telecom, Orange et Free.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "94b94917e85c",
+  "source": "Le Monde Économie",
+  "rubrique": 5,
+  "titre": "Présomption de salariat, revenu minimum, transparence des algorithmes : les propositions de la mission sur les travailleurs des plateformes",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/presomption-de-salariat-revenu-minimum-transparence-des-algorithmes-les-propositions-de-la-mission-sur-les-travailleurs-de-plateformes_6805652_3234.html",
+  "date": "2026-11-03",
+  "resume": "Un rapport de mission remis au gouvernement le 2 novembre propose de mieux réguler le travail de plateforme, alors que la France a jusqu’au 2 décembre pour transposer une directive européenne sur le sujet.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "2c99cc4eb8e2",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Pétition pour interdire CNews : l’Assemblée nationale votera en commission sur l’opportunité d’un débat",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html",
+  "date": "2026-11-03",
+  "resume": "Publié sur le site de l’Assemblée nationale et viral depuis l’attentat raciste de Trappes, un texte réclamant la fermeture de la chaîne du groupe Bolloré dépassait, mardi, les 750 000 signatures. Les députés doivent décider de le classer ou de l’examiner lors d’un débat dans l’Hémicycle.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "97300f9cbeb4",
+  "source": "Le Monde Économie",
+  "rubrique": 1,
+  "titre": "L’industrie française du meuble, concurrencée par les importations chinoises, s’inquiète de son avenir",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/l-industrie-francaise-du-meuble-concurrencee-par-les-importations-chinoises-s-inquiete-de-son-avenir_6805634_3234.html",
+  "date": "2026-11-03",
+  "resume": "Très implantés en zone rurale, les fabricants alertent sur les menaces pesant sur le secteur de l’ameublement et formulent des propositions pour favoriser le « made in France ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "e53f7ede7550",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Grève du 5 novembre : la SNCF prévoit un trafic « perturbé » ; la RATP escompte un trafic « normal » des métros, bus et tramways, à l’exception du RER B",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/greve-du-5-novembre-la-sncf-prevoit-un-trafic-perturbe-la-ratp-table-sur-un-trafic-normal-sur-ses-metros-bus-et-tramway-a-l-exception-du-rer-b_6805620_3235.html",
+  "date": "2026-11-03",
+  "resume": "La SNCF et la RATP ont précisé que les prévisions ligne par ligne seront détaillées mercredi.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9d0b1d063ce8",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Une « croisière sans fin » s’arrête brutalement au Cambodge, 200 passagers débarqués",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/une-croisiere-sans-fin-s-arrete-brutalement-au-cambodge-200-passagers-debarques_6805626_3234.html",
+  "date": "2026-11-03",
+  "resume": "Les résidents de l’« Odyssey », qui sillonnaient les mers depuis 2024, ont vu leur périple s’achever en raison de la flambée du prix des carburants.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "f6160fd748bf",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Livret A : le plafond sera relevé à « entre 25 000 et 30 000 euros » en février prochain, annonce Sébastien Lecornu",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/livret-a-sebastien-lecornu-annonce-un-relevement-du-plafond-entre-25-000-et-30-000-euros-en-fevrier_6805615_3234.html",
+  "date": "2026-11-03",
+  "resume": "Le ministre de l’économie, Roland Lescure, précisera le nouveau plafond « dans les semaines qui viendront » à l’issue d’une « dernière concertation » avec les banques et la Caisse des dépôts. Le Livret A est actuellement plafonné à 22 950 euros.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "8fd27a8c7855",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "En Alsace, la hausse des factures de fioul domestique « fait mal » aux ménages",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/en-alsace-la-hausse-des-factures-de-fioul-domestique-fait-mal-aux-menages_6805612_3234.html",
+  "date": "2026-11-03",
+  "resume": "Dans le pays, près de 9 % des résidences principales sont toujours chauffées au fioul, dont le prix a flambé en un an. Dans le sillage d’une tournée de livraison des maisons du Bas-Rhin, les clients confient leurs appréhensions.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "395e39859bd5",
+  "source": "Le Monde Économie",
+  "rubrique": 5,
+  "titre": "Comment l’essor des médicaments anti-obésité modifie les habitudes alimentaires",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/comment-l-essor-des-medicaments-anti-obesite-modifie-les-habitudes-alimentaires_6805609_3234.html",
+  "date": "2026-11-03",
+  "resume": "Moins de produits de boulangerie, de confiseries, de biscuits, de snacks salés, de boissons gazeuses et de sodas : une étude du cabinet Bain, publiée mardi, portant sur des milliers de patients, note une évolution de leur mode de consommation.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "d043b900a8e5",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "La ruée mondiale vers le cuivre, devenu le métal le plus stratégique de la planète",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/03/la-ruee-mondiale-vers-le-cuivre-devenu-le-metal-le-plus-strategique-de-la-planete_6805596_3234.html",
+  "date": "2026-11-03",
+  "resume": "Le prix du cuivre a bondi de 30 % en un an, porté par des prévisions de demande en forte hausse, au point que l’offre mondiale pourrait devenir largement déficitaire à l’horizon 2035. La situation favorise les rapprochements entre groupes miniers.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "b7f88c1a33ac",
+  "source": "Le Monde Pixels",
+  "rubrique": 5,
+  "titre": "Mobilisation sociale : une deuxième influenceuse mise en cause par la justice pour « provocation à commettre un crime ou délit »",
+  "url": "https://www.lemonde.fr/politique/article/2026/11/03/mobilisation-sociale-une-deuxieme-influenceuse-mise-en-cause-par-la-justice-pour-provocation-a-commettre-un-crime-ou-delit_6805660_823448.html",
+  "date": "2026-11-03",
+  "resume": "Comme Manon Delcourt, la créatrice de contenu Osmose a été placée en garde à vue le 22 octobre à la suite d’un signalement concernant l’une de ses publications. Toutes deux font désormais l’objet d’une enquête.",
   "criticite": "",
   "poids": 0,
   "tags": [],
@@ -3129,71 +3815,6 @@
   "score": 2
  },
  {
-  "id": "47326aaa1280",
-  "source": "Le Monde Pixels",
-  "rubrique": 4,
-  "titre": "Midterms 2026 : face à la méfiance à l’égard de l’IA, même les républicains du Texas doivent lâcher du lest",
-  "url": "https://www.lemonde.fr/international/article/2026/10/30/midterms-2026-face-a-la-mefiance-a-l-egard-de-l-ia-meme-les-republicains-du-texas-doivent-lacher-du-lest_6803120_3210.html",
-  "date": "2026-10-30",
-  "resume": "Le gouverneur texan, Greg Abbott, a annoncé un moratoire sur les centres de données, de plus en plus impopulaires dans son Etat comme partout ailleurs aux Etats-Unis. Les électeurs s’alarment de leurs besoins énergétiques et en eau. Pour autant, la peur de l’IA ne s’est pas complètement imposée dans la campagne des midterms.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "c05b318be3c1",
-  "source": "Le Monde Pixels",
-  "rubrique": 4,
-  "titre": "Après le Brésil, la France ? Comment les « insoumis » tentent de s’inspirer du « janonisme » en ligne",
-  "url": "https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html",
-  "date": "2026-10-30",
-  "resume": "La réélection de Lula, dimanche 25 octobre, a déclenché chez de jeunes militants de Jean-Luc Mélenchon une euphorie inédite. Ils se disent désormais prêts à mener bataille sur les réseaux sociaux, à la manière du député brésilien André Janones.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "7493dd9fea0f",
-  "source": "Le Monde Pixels",
-  "rubrique": 5,
-  "titre": "Piratage de Binance : ce que l’on sait sur le plus gros vol de cryptomonnaies de l’histoire",
-  "url": "https://www.lemonde.fr/pixels/article/2026/10/30/piratage-de-binance-ce-que-l-on-sait-sur-le-plus-gros-vol-de-cryptomonnaies-de-l-histoire_6803094_4408996.html",
-  "date": "2026-10-30",
-  "resume": "Deux acteurs majeurs dans l’analyse de l’écosystème des cryptoactifs, TRM Labs et Chainalysis, attribuent cette attaque à des pirates opérant pour le compte des autorités nord-coréennes.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "15bd8aa97625",
-  "source": "Le Monde Pixels",
-  "rubrique": 4,
-  "titre": "Cryptomonnaies : la plateforme Binance annonce avoir été victime d’un important piratage, dont le préjudice est estimé à 6,3 milliards de dollars",
-  "url": "https://www.lemonde.fr/pixels/article/2026/10/30/cryptomonnaies-binance-annonce-avoir-ete-victime-d-un-important-piratage-dont-le-prejudice-est-estime-a-6-3-milliards-de-dollars_6802872_4408996.html",
-  "date": "2026-10-30",
-  "resume": "La plateforme a publié sur X plusieurs messages contradictoires, assurant d’abord que tous les fonds déposés par ses clients sur son site étaient « totalement à l’abri », avant d’affirmer, un peu plus tard, qu’elle couvrirait « toutes les pertes ».",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "9b77df68d85f",
-  "source": "Le Monde Pixels",
-  "rubrique": 3,
-  "titre": "Après Google, Amazon pris entre la progression de l’IA et la déception sur ses métiers traditionnels",
-  "url": "https://www.lemonde.fr/economie/article/2026/10/30/apres-google-amazon-pris-entre-la-progression-de-l-ia-et-la-deception-sur-ses-metiers-traditionnels_6802592_3234.html",
-  "date": "2026-10-30",
-  "resume": "La firme de Jeff Bezos dévissait en Bourse, jeudi, dans les échanges post-clôture, après avoir présenté des résultats trimestriels inférieurs aux attentes, au moment où la mutation de plusieurs géants de la tech est sanctionnée par les marchés, malgré, parfois, d’excellentes performances.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 1
- },
- {
   "id": "2dc39333ee97",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -4288,45 +4909,6 @@
   "score": 4
  },
  {
-  "id": "10b0251915e8",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Chimeraz revendique des fuites visant trois partis français, dont celui du groupe présidentiel",
-  "url": "https://www.zataz.com/chimeraz-revendique-des-fuites-visant-trois-partis-francais/",
-  "date": "2026-10-24",
-  "resume": "Chimeraz revendique des données annoncées comme volées aux partis politiques de Renaissance, LFI et du PCF.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "1065140518e1",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "DeepSeek banni des agences fédérales US",
-  "url": "https://www.zataz.com/deepseek-banni-des-agences-federales-civiles-americaines/",
-  "date": "2026-10-24",
-  "resume": "DeepSeek banni des agences fédérales civiles américaines : portée, calendrier et risques pour les données.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "e1dd062f9758",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Point Vision : des données de patients dérobées",
-  "url": "https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/",
-  "date": "2026-10-24",
-  "resume": "Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
   "id": "580394e0c04d",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -4385,45 +4967,6 @@
    "Vulnérabilité"
   ],
   "score": 4
- },
- {
-  "id": "a3c3135e6fc7",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Technostress : une faille pour l’ingénierie sociale",
-  "url": "https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/",
-  "date": "2026-10-23",
-  "resume": "Technostress et ingénierie sociale : comment la surcharge numérique peut fragiliser la vigilance face aux manipulations.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "1724a21ac415",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Piratage de la FFTir : la Fédération confirme le vol",
-  "url": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
-  "date": "2026-10-23",
-  "resume": "FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "ac229d8433af",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Fraude bancaire : deux mails pour installer la peur",
-  "url": "https://www.zataz.com/fraude-bancaire-deux-mails-pour-installer-la-peur/",
-  "date": "2026-10-23",
-  "resume": "Alerte ZATAZ : deux faux mails bancaires, des milliers d'euros en jeu et une fraude téléphonique décryptée.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
  },
  {
   "id": "5afddfa52052",
@@ -4706,58 +5249,6 @@
    "IA"
   ],
   "score": 3
- },
- {
-  "id": "24755a352d3d",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "Widespread PHP Flaw May Cause Many Site Outages Today",
-  "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-  "date": "2026-10-21",
-  "resume": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "a5356f42a77a",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Arrêtée pour avoir bloqué un robot de livraison Uber",
-  "url": "https://www.zataz.com/arretee-pour-avoir-bloque-un-robot-de-livraison-uber/",
-  "date": "2026-10-21",
-  "resume": "Une manifestante arrêtée pour avoir bloqué un robot Uber et dénoncé l'automatisation des emplois.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "59bb22a9eb17",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Panne chez Orange et Sosh !",
-  "url": "https://www.zataz.com/panne-chez-orange-et-sosh/",
-  "date": "2026-10-21",
-  "resume": "Ce mercredi 21 octobre 2026, une importante panne perturbe le réseau mobile d'Orange et de sa marque low cost Sosh.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "7fb0596b6da2",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "LibreOffice et OpenOffice piégés par des tableurs",
-  "url": "https://www.zataz.com/libreoffice-et-openoffice-pieges-par-des-tableurs/",
-  "date": "2026-10-21",
-  "resume": "LibreOffice et OpenOffice : des tableurs piégés exécutent du code Java. Correctifs et protections à connaître.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
  },
  {
   "id": "fb153a3119f4",
@@ -5045,19 +5536,6 @@
   "score": 7
  },
  {
-  "id": "83d130e7ba9f",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "Microsoft Patches More Than 1,400 Security Flaws",
-  "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-  "date": "2026-10-13",
-  "resume": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
- },
- {
   "id": "22c3a84151d5",
   "source": "CERT-FR alertes",
   "rubrique": 7,
@@ -5131,18 +5609,5 @@
    "Vulnérabilité"
   ],
   "score": 7
- },
- {
-  "id": "4d0ab1e7dd59",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-  "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-  "date": "2026-10-07",
-  "resume": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the gl",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 1
  }
 ]
