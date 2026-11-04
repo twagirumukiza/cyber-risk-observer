@@ -1,5 +1,18 @@
 [
  {
+  "id": "e8672e81b501",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, midterms 2026 : de la Floride à la Californie, suivez les résultats des élections de mi-mandat en direct",
+  "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-de-la-floride-a-la-californie-suivez-les-resultats-des-elections-de-mi-mandat-en-direct_6805528_3210.html",
+  "date": "2026-11-04",
+  "resume": "Les bureaux de vote ferment aux Etats-Unis, et les résultats commencent à tomber. Plus de 58 millions d’Américains ont déjà voté par anticipation – un record pour des élections de mi-mandat, qui pourraient cette fois-ci voir les démocrates prendre le contrôle de la Chambre des représentants, voire du Sénat, et compromettre la fin du mandat de Donald Trump.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
   "id": "310fe7a6e4c3",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -81,6 +94,22 @@
   "score": 8
  },
  {
+  "id": "27b11b637919",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+  "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+  "date": "2026-11-03",
+  "resume": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA",
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
   "id": "8ede56d402c1",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -124,6 +153,21 @@
   "tags": [
    "IA",
    "Cloud"
+  ],
+  "score": 7
+ },
+ {
+  "id": "496fbffc6e4d",
+  "source": "CISA avis",
+  "rubrique": 2,
+  "titre": "CISA Adds One Known Exploited Vulnerability to Catalog",
+  "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "date": "2026-11-03",
+  "resume": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directiv",
+  "criticite": "",
+  "poids": 2,
+  "tags": [
+   "Vulnérabilité"
   ],
   "score": 7
  },
@@ -503,6 +547,19 @@
   "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
   "date": "2026-11-03",
   "resume": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "b0a8ea5b6986",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+  "date": "2026-11-03",
+  "resume": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
   "criticite": "",
   "poids": 1,
   "tags": [],
@@ -1341,6 +1398,71 @@
   "score": 3
  },
  {
+  "id": "57b4bdd927d8",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : en cartes, les résultats en temps réel des élections américaines de mi-mandat",
+  "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/04/midterms-2026-en-cartes-les-resultats-en-temps-reel-des-elections-americaines-de-mi-mandat_6805570_4355771.html",
+  "date": "2026-11-03",
+  "resume": "Les électeurs américains sont appelés aux urnes, mardi 3 novembre, afin de renouveler la totalité de la Chambre des représentants et un tiers du Sénat. Le Parti républicain de Donald Trump est menacé de perdre sa majorité dans les deux Chambres formant le Congrès.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "04e5fc701839",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : au moins 33 morts au lendemain d’une attaque russe contre un centre de distribution d’aide humanitaire dans la région de Zaporijia",
+  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-au-moins-33-morts-au-lendemain-d-une-attaque-russe-contre-un-centre-de-distribution-d-aide-humanitaire-dans-la-region-de-zaporijia_6803934_3210.html",
+  "date": "2026-11-03",
+  "resume": "Le président ukrainien, Volodymyr Zelensky, a estimé que plus de 50 personnes pourraient encore se trouver sous les décombres. La mission d’observation des droits humains de l’ONU en Ukraine a estimé que cette attaque « semblait avoir violé les principes les plus fondamentaux du droit international humanitaire ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "f315c7732798",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Espagne : le ministre des transports démissionne après la catastrophe ferroviaire meurtrière",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/espagne-le-ministre-des-transports-demissionne-apres-la-catastrophe-ferroviaire-meurtriere_6805667_3210.html",
+  "date": "2026-11-03",
+  "resume": "« C’est une question de dignité politique, de cohérence et d’empathie envers les victimes », a déclaré Oscar Puente, une semaine après la collision à Urda qui a coûté la vie à au moins 69 personnes.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "d37aeeae8396",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Opération « mains propres » en Serbie sur fond de transition démocratique ardue",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/operation-mains-propres-en-serbie-sur-fond-de-transition-democratique-ardue_6805666_3210.html",
+  "date": "2026-11-03",
+  "resume": "Une vague d’arrestations menée par le parquet illustre l’ampleur de la tâche qui attend la nouvelle majorité, constituée de figures de la société civile peu expérimentées en politique.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "4faf0c1a23a8",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Des syndicats et associations de sept pays européens appellent à manifester contre la vie chère fin novembre",
+  "url": "https://www.lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html",
+  "date": "2026-11-03",
+  "resume": "Les représentants des organisations françaises, espagnoles, italiennes, britanniques, portugaises, grecques et belges espèrent rassembler « des millions » de personnes dans les rues les 20, 21 et 22 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
   "id": "ad2df65419af",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -1354,7 +1476,7 @@
    "Vulnérabilité",
    "IA"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "e52f7534557d",
@@ -1369,7 +1491,7 @@
   "tags": [
    "Rançongiciel"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "357136bfe66d",
@@ -1384,7 +1506,7 @@
   "tags": [
    "Zero-day"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "8f65f4d83e67",
@@ -1399,7 +1521,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "a5a4c9aa82c8",
@@ -1414,7 +1536,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "b7cbc7ef3d47",
@@ -1429,7 +1551,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "da48e49c4dce",
@@ -1444,7 +1566,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "d6ca6bfa62de",
@@ -1459,7 +1581,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "8ee50c123a62",
@@ -1474,7 +1596,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "d84c6433b3fe",
@@ -1489,7 +1611,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "1fa14cb537c4",
@@ -1504,7 +1626,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "29c393b71fdc",
@@ -1519,7 +1641,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "89c10f3cf70a",
@@ -1534,7 +1656,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "11cb442fafd6",
@@ -1549,7 +1671,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "dda435125983",
@@ -1564,7 +1686,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "30885e61afbc",
@@ -1579,7 +1701,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "2c05221f9c82",
@@ -1594,7 +1716,7 @@
   "tags": [
    "IA"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "89d5ca8e5ffe",
@@ -1609,7 +1731,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "b567aa469d0a",
@@ -1624,7 +1746,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "1a205c64bb12",
@@ -1639,7 +1761,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "87a25e1b557b",
@@ -1654,7 +1776,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "9068a344a035",
@@ -1669,7 +1791,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "a660ce42a4af",
@@ -1684,7 +1806,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "decf4a3252d9",
@@ -1699,7 +1821,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "417073e83927",
@@ -1714,7 +1836,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "0208af3bdc81",
@@ -1729,7 +1851,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "9dfaa33ff83d",
@@ -1744,7 +1866,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "8ac8e92ca0e9",
@@ -1759,7 +1881,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "483bc88286a7",
@@ -1774,7 +1896,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "f610ce094118",
@@ -1789,7 +1911,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "0f83f7ebfc7f",
@@ -1804,7 +1926,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "65afadf0cbc2",
@@ -1819,7 +1941,7 @@
   "tags": [
    "Hameçonnage"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "c477f1812588",
@@ -1834,7 +1956,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "f6edbcaffade",
@@ -1849,7 +1971,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "3489dfb1de48",
@@ -1864,7 +1986,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "4c4b189dc6fa",
@@ -1879,7 +2001,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "a9f2b462b731",
@@ -1894,7 +2016,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "ae2e2ef00284",
@@ -1907,7 +2029,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "f19446d8b2a2",
@@ -1920,7 +2042,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "8c2cd01c4a4a",
@@ -1933,7 +2055,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "b591c06b5e98",
@@ -1946,7 +2068,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "ef016e675852",
@@ -1959,7 +2081,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "824934ef2ea3",
@@ -1972,7 +2094,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "030164d51c10",
@@ -1985,7 +2107,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "44994f16eb69",
@@ -1998,7 +2120,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "182255dd17e0",
@@ -2011,7 +2133,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "f6b7dc22d5c3",
@@ -2024,7 +2146,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "5b72ff8e55a2",
@@ -2037,7 +2159,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "6c01c4b3516c",
@@ -2050,7 +2172,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "b4aa9c9e9982",
@@ -2063,7 +2185,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "39749d757eb1",
@@ -2078,7 +2200,7 @@
   "tags": [
    "Cloud"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "a11b2636f415",
@@ -2093,7 +2215,7 @@
   "tags": [
    "Institutions"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "ccd43763df33",
@@ -2108,7 +2230,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "8c1a879cafc7",
@@ -2123,7 +2245,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "d596e3f2bace",
@@ -2136,7 +2258,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "7398c8fe0a0b",
@@ -2149,7 +2271,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "948be6f589a7",
@@ -2162,7 +2284,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "b9a8fe94cb9b",
@@ -2175,7 +2297,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "f8e64d371b0e",
@@ -2188,7 +2310,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "be1d39eaf1aa",
@@ -2201,7 +2323,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "5ea1d647d005",
@@ -2214,7 +2336,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "cab04cab3c66",
@@ -2227,7 +2349,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "5e44eebabf29",
@@ -2240,7 +2362,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "6c57443d8008",
@@ -2253,7 +2375,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "c0c1ea0387cc",
@@ -2266,7 +2388,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e64a6f88a288",
@@ -2279,7 +2401,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "a545463883b4",
@@ -2292,7 +2414,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7db6c2e409fc",
@@ -2305,7 +2427,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "5c9e0a8d1b31",
@@ -2318,7 +2440,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9649a87d4725",
@@ -2331,7 +2453,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "512f6dfc6edc",
@@ -2344,7 +2466,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "42a772046541",
@@ -2357,7 +2479,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "0bcb988c9b69",
@@ -2370,7 +2492,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "60f7d451b110",
@@ -2383,7 +2505,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "d2d375df1a75",
@@ -2396,7 +2518,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "55f081f06716",
@@ -2409,7 +2531,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "05757d34ccac",
@@ -2422,7 +2544,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "bc5fb9c91fa3",
@@ -2435,7 +2557,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "35194ddac65e",
@@ -2448,7 +2570,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "c63c0954a61f",
@@ -2461,7 +2583,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ffee3df29486",
@@ -2474,7 +2596,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "80a13b6c2c4c",
@@ -2487,7 +2609,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1cb2e02b233c",
@@ -2500,7 +2622,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "859285aef5bd",
@@ -2513,7 +2635,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1b17d004db79",
@@ -2526,7 +2648,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7387a6e6289e",
@@ -2539,7 +2661,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "fa8408e402ac",
@@ -2552,7 +2674,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "efd3ce61f741",
@@ -2565,7 +2687,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "fdaa046a118a",
@@ -2578,7 +2700,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "4b95099cde38",
@@ -2591,7 +2713,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "c58ffa0fcda5",
@@ -2604,7 +2726,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "3dfe03634d75",
@@ -2617,7 +2739,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7208d319097d",
@@ -2630,7 +2752,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "89142b4f5b2c",
@@ -2643,7 +2765,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ce33ffb8905b",
@@ -2656,7 +2778,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "39b3cb9c19bd",
@@ -2669,7 +2791,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "2038ce3173fc",
@@ -2682,7 +2804,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ca9e4e5ebf7d",
@@ -2695,7 +2817,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "d44972817cab",
@@ -2708,7 +2830,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "41f0b136e942",
@@ -2721,7 +2843,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e770d1b97761",
@@ -2734,7 +2856,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "f3e72d862082",
@@ -2747,7 +2869,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "606d1470b5fb",
@@ -2760,7 +2882,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "75cf287fd78a",
@@ -2773,7 +2895,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "adff90f38880",
@@ -2786,7 +2908,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "84e51da7a569",
@@ -2799,7 +2921,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "daa1530160d5",
@@ -2812,7 +2934,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "2562e457cba0",
@@ -2825,7 +2947,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "04c91de0e0ba",
@@ -2838,7 +2960,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "083395ebfaba",
@@ -2851,7 +2973,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "80a9b64f5db7",
@@ -2864,7 +2986,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "385d8c5d0659",
@@ -2877,7 +2999,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1cf0b19a0387",
@@ -2890,7 +3012,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "bd6b6ad37af9",
@@ -2903,7 +3025,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "da5f7858c076",
@@ -2916,7 +3038,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "53a04399deb9",
@@ -2929,7 +3051,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9de760058806",
@@ -2942,7 +3064,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "dbe4fc0a3876",
@@ -2955,7 +3077,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "faed9c43c4d6",
@@ -2968,7 +3090,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "af6ffe74845e",
@@ -3183,7 +3305,7 @@
    "Vulnérabilité",
    "IA"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "ba55b05e53ea",
@@ -3199,7 +3321,7 @@
    "IA",
    "Cloud"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "4a3beb5aa5ff",
@@ -3214,7 +3336,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "e8eb82345a00",
@@ -3229,7 +3351,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "845cf24b8961",
@@ -3244,7 +3366,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "a291b7051796",
@@ -3259,7 +3381,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "1f2870fb86df",
@@ -3272,7 +3394,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "21ad2182a136",
@@ -3285,7 +3407,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b35f9e575d4b",
@@ -3297,58 +3419,6 @@
   "resume": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
   "criticite": "",
   "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "56d490d9b975",
-  "source": "Le Monde Pixels",
-  "rubrique": 1,
-  "titre": "« Ted the Caver », l’histoire méconnue de la première « creepypasta » du Web",
-  "url": "https://www.lemonde.fr/pixels/article/2026/10/31/ted-the-caver-l-histoire-meconnue-de-la-premiere-creepypasta-du-web_6803730_4408996.html",
-  "date": "2026-10-31",
-  "resume": "Ce blog, tenu par un spéléologue amateur en 2001, raconte l’exploration d’une grotte virant au cauchemar, au point de fasciner Internet pendant plusieurs années. Son auteur, longtemps resté dans l’ombre, tente aujourd’hui de monétiser son histoire.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "92d7aa919dc6",
-  "source": "Le Monde Pixels",
-  "rubrique": 7,
-  "titre": "Mobilisations sociales : les tutoriels destinés aux manifestants se réinventent pour la « gen Z »",
-  "url": "https://www.lemonde.fr/pixels/article/2026/10/31/mobilisations-sociales-les-tutoriels-destines-aux-manifestants-se-reinventent-pour-la-gen-z_6803381_4408996.html",
-  "date": "2026-10-31",
-  "resume": "C’est l’un des formats en vogue dans les sphères militantes : les conseils et les rappels des droits avant de participer à des manifestations. Sur TikTok et Instagram, le mouvement lycéen les a renouvelés ces dernières semaines.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "98642455e693",
-  "source": "Le Monde Pixels",
-  "rubrique": 4,
-  "titre": "Mobilisations sociales : six semaines d’un mouvement aussi actif sur les réseaux sociaux que dans la rue",
-  "url": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html",
-  "date": "2026-10-31",
-  "resume": "L’ampleur de la mobilisation en ligne semble avoir initialement échappé au gouvernement, qui menace désormais les réseaux sociaux d’une suspension temporaire en cas de nouvelles violences. Le projet de loi dit « casseurs-payeurs », adopté en milieu de semaine, va dans ce sens.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "8e33fd46d562",
-  "source": "Le Monde Pixels",
-  "rubrique": 4,
-  "titre": "Avant la sortie de « GTA VI », notre sélection de dix jeux vidéo coups de cœur",
-  "url": "https://www.lemonde.fr/pixels/article/2026/10/31/avant-la-sortie-de-gta-vi-notre-selection-de-dix-jeux-video-coups-de-c-ur_6803367_4408996.html",
-  "date": "2026-10-31",
-  "resume": "Cauchemar écossais, fantasy imprégnée de folklore slave, gestion de magasin de nouilles… Les journalistes spécialistes du jeu vidéo du « Monde » vous proposent une liste de titres récents.",
-  "criticite": "",
-  "poids": 0,
   "tags": [],
   "score": 2
  },
@@ -4756,7 +4826,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "a77dca8ee96e",
@@ -4771,7 +4841,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "9de4c840c98b",
@@ -4786,7 +4856,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "531d14aa47c0",
@@ -4801,7 +4871,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "9cfdf1956af8",
@@ -4816,7 +4886,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "b9fafd6eaac2",
@@ -4831,7 +4901,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "12e75040848d",
@@ -4846,7 +4916,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "78f1c5129fff",
@@ -4861,7 +4931,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "5943b3ba0784",
@@ -5150,71 +5220,6 @@
   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
   "date": "2026-10-22",
   "resume": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens recommends specific mitigations for products where fixes are not or not yet avai",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "68eaa2dc4713",
-  "source": "CISA avis",
-  "rubrique": 2,
-  "titre": "Siemens Software Center",
-  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
-  "date": "2026-10-22",
-  "resume": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application. Siemens has released a new version for Siemens Software Center and recomme",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "f24c5287a98c",
-  "source": "CISA avis",
-  "rubrique": 2,
-  "titre": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
-  "date": "2026-10-22",
-  "resume": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new version for RUGGEDCOM CROSSBOW Station Access Controller (SAC) and recommends to update to the latest version. The foll",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "17f5da59605d",
-  "source": "CISA avis",
-  "rubrique": 2,
-  "titre": "Siemens SIMATIC S7 PLCs Web Server",
-  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
-  "date": "2026-10-22",
-  "resume": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versio",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "badbefd5ca6d",
-  "source": "CISA avis",
-  "rubrique": 2,
-  "titre": "Siemens SIMATIC S7-1500 TM MFP",
-  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-  "date": "2026-10-22",
-  "resume": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 TM MFP are affected: SIMATIC S7-1500 TM MFP - GNU/Linux subsystem vers:all/*&nbsp; CVSS Vend",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "71842f59f659",
-  "source": "CISA avis",
-  "rubrique": 2,
-  "titre": "Siemens Industrial Edge Devices",
-  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
-  "date": "2026-10-22",
-  "resume": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fi",
   "criticite": "",
   "poids": 2,
   "tags": [],
