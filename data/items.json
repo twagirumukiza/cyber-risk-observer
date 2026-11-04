@@ -4,7 +4,7 @@
   "section": 8,
   "kicker": "",
   "titre": "IT",
-  "resume": "<p>IT (Information Technology) signifie technologies de l&#39;information. Le terme désigne l&#39;ensemble des technologies utilisées pour créer, traiter, stocker, sécuriser et transmettre des informations numériques.</p>",
+  "resume": "<p>IT (<b>Information Technology</b>) signifie technologies de l'information. Le terme désigne l'ensemble des technologies utilisées pour créer, traiter, stocker, sécuriser et transmettre des informations numériques.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -16,7 +16,12 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
