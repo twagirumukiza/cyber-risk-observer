@@ -127,7 +127,7 @@
   "section": 8,
   "kicker": "",
   "titre": "IEC",
-  "resume": "<p>IEC signifie International Electrotechnical Commission, en français : Commission électrotechnique internationale. C&#39;est une organisation internationale de normalisation qui élabore des normes dans les domaines de l&#39;électricité, de l&#39;électronique et des technologies associées.</p>",
+  "resume": "<p>IEC signifie <b>International Electrotechnical Commission</b>, en français : Commission électrotechnique internationale. C'est une organisation internationale de normalisation qui élabore des normes dans les domaines de l'électricité, de l'électronique et des technologies associées.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -139,7 +139,12 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
