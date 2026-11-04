@@ -166,7 +166,7 @@ var items,i,home=cur<0;
 if(home){items=[];var by=S.map(function(s,k){return A.filter(function(a){return a[0]==k})}),mx=0;by.forEach(function(f){mx=Math.max(mx,f.length)});for(i=0;i<mx;i++)by.forEach(function(f){if(f[i])items.push(f[i])})}
 else items=A.filter(function(a){return a[0]==cur});
 if(!items.length)items=[[cur<0?0:cur,'','Aucun article pour l’instant','Les premiers articles de cette rubrique paraîtront bientôt.','']];
-var pn=home?A.filter(function(a){return a[5]&&a[5].un>0}).sort(function(x,y){return x[5].un-y[5].un}):[],pr=home?[]:A.filter(function(a){return a[0]==cur&&a[5]&&a[5].unr>0}).sort(function(x,y){return x[5].unr-y[5].unr}),leads=pn.length?pn:pr.length?pr:items.slice(0,1),rest=items.filter(function(a){return leads.indexOf(a)<0}),r=rest.slice(0,2),b=home?rest.slice(2):rest.slice(2,6);
+var pn=home?A.filter(function(a){return a[5]&&a[5].un>0}).sort(function(x,y){return x[5].un-y[5].un}):[],pr=home?[]:A.filter(function(a){return a[0]==cur&&a[5]&&a[5].un>0}).sort(function(x,y){return x[5].un-y[5].un}).concat(A.filter(function(a){return a[0]==cur&&a[5]&&a[5].unr>0&&!(a[5].un>0)}).sort(function(x,y){return x[5].unr-y[5].unr})),leads=pn.length?pn:pr.length?pr:items.slice(0,1),rest=items.filter(function(a){return leads.indexOf(a)<0}),r=rest.slice(0,2),b=home?rest.slice(2):rest.slice(2,6);
 $("ttl").textContent=home?"À la une":S[cur][0];
 function leadH(a){var lp=(a[5]&&a[5].image)?a[5].ip:'tete',lt='<div>'+st(a,{lg:1})+'</div>';return lp=='droite'?'<div class="lead">'+lt+thc(a)+'</div>':lp=='gauche'?'<div class="lead lead-g">'+thc(a)+lt+'</div>':'<div class="lead lead-t">'+thc(a)+lt+'</div>'}
 $("center").innerHTML='<div class="leads">'+leads.map(leadH).join('')+'</div>';
