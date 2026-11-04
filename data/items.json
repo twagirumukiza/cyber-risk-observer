@@ -16,6 +16,7 @@
   "stIntro": "",
   "rang": null,
   "une": 1,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -78,6 +79,7 @@
   "stIntro": "",
   "rang": null,
   "une": 2,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -151,6 +153,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 1,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -206,6 +209,7 @@
   "stIntro": "",
   "rang": null,
   "une": 4,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -261,6 +265,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -321,6 +326,7 @@
   "stIntro": "",
   "rang": null,
   "une": 6,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -373,6 +379,7 @@
   "stIntro": "",
   "rang": null,
   "une": 3,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -424,6 +431,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -472,6 +480,7 @@
   "stIntro": "",
   "rang": null,
   "une": 5,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -520,6 +529,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
@@ -579,6 +589,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -632,6 +643,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -685,6 +697,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -738,6 +751,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -791,6 +805,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -861,6 +876,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -914,6 +930,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -967,6 +984,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -1020,6 +1038,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -1073,6 +1092,7 @@
   "stIntro": "",
   "rang": null,
   "une": 7,
+  "uneR": 0,
   "ordre": [
    "info",
    "p:rmw1dj4w5lfep",
@@ -1159,6 +1179,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -1212,6 +1233,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -1265,6 +1287,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [
    "info",
    "ana",
@@ -1318,6 +1341,7 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
+  "uneR": 0,
   "ordre": [],
   "imageCarte": "",
   "cX": 50,
