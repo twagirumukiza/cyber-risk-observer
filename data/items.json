@@ -1,5 +1,74 @@
 [
  {
+  "id": "rmw1jz0b75c7t",
+  "section": 0,
+  "kicker": "Alerte cybersécurité",
+  "titre": "Cyberattaques contre les réfrigérateurs des supermarchés : quand les équipements frigorifiques deviennent des cibles informatiques",
+  "resume": "Les attaquants ont exploité les systèmes informatiques qui pilotent les installations frigorifiques connectées à Internet.<p>Les manipulations rapportées comprennent :</p><ul><li>La modification à distance des températures.<br></li><li>Le déclenchement du dégivrage des équipements.<br></li><li>L'arrêt ou le fonctionnement anormal des systèmes de refroidissement.<br></li><li>La transformation de certains équipements en sources de chaleur.<br></li></ul><p>En Suède, un supermarché a notamment signalé que ses réfrigérateurs et congélateurs avaient été réglés à 50 °C.</p><p>En Belgique, plusieurs enseignes ont été touchées, notamment Delhaize, Carrefour, Colruyt et Intermarché. En Irlande, 13 magasins SuperValu ont été concernés. Aux Pays-Bas, au moins 17 commerces ont signalé des perturbations.</p>",
+  "analyse": "Le problème est particulièrement intéressant du point de vue de la cybersécurité industrielle.<p>Les premières investigations font apparaître plusieurs faiblesses :</p><ul><li>Des logiciels de gestion anciens et non actualisés.<br></li><li>Des équipements de régulation accessibles depuis Internet.<br></li><li>Des systèmes de contrôle insuffisamment isolés des autres réseaux.<br></li><li>Des installations parfois conçues avant que la cybersécurité soit intégrée à leur architecture.<br></li></ul><p>Danfoss avait pourtant publié des mises à jour de sécurité en mars et août 2025. Leur existence n'a donc pas garanti leur déploiement effectif chez tous les clients. ￼</p><p>Le point essentiel : une vulnérabilité logicielle ne se corrige pas toujours uniquement par un correctif logiciel.</p><p>Selon Stephan Moelans, dirigeant de l'installateur belge Sabcobel, certaines installations nécessitent également des modifications physiques. Cela implique des investissements dans les équipements et leur architecture de connexion.</p><p><b>Quelles modifications physiques envisager ?</b></p><p>Plusieurs mesures peuvent être nécessaires selon les installations :</p><ol><li><b>Remplacement des équipements obsolète</b>s : contrôleurs, automates ou interfaces qui ne bénéficient plus de correctifs de sécurité.<br></li><li><b>Installation de passerelles sécurisées </b>: interposer des équipements dédiés entre les systèmes frigorifiques et les réseaux externes.<br></li><li><b>Segmentation réseau</b> : isoler les systèmes OT (Operational Technology) des réseaux informatiques classiques.<br></li><li><b>Suppression des accès Internet directs</b> : privilégier des connexions sécurisées, contrôlées et authentifiées.<br></li><li><b>Dispositifs de sécurité indépendants</b> : prévoir des alarmes et des mécanismes locaux permettant de détecter une température anormale, même en cas de compromission du système informatique.<br></li></ol><p>Il faut toutefois distinguer les mesures recommandées des modifications effectivement imposées par chaque installation : un remplacement matériel n'est pas systématiquement nécessaire.</p>",
+  "conclusion": "la cybersécurité ne peut plus se limiter à protéger les logiciels, les serveurs et les données. Elle doit également protéger les équipements physiques qui exécutent les commandes numériques.",
+  "imgPos": "tete",
+  "imgX": 50,
+  "imgY": 50,
+  "imgZ": 1,
+  "liensUtiles": "",
+  "intro": "Ce qui pouvait sembler être un simple dysfonctionnement technique est devenu un véritable problème de cybersécurité : des pirates informatiques ont pris le contrôle à distance des systèmes de régulation frigorifique de plusieurs supermarchés européens.<p>Après une première vague d'attaques en France, le 12 octobre 2026, une nouvelle vague a touché, dans la nuit du 1er au 2 novembre, la Belgique, l'Estonie, l'Irlande, les Pays-Bas, le Luxembourg et la Suède. La Finlande a également été concernée.&nbsp;</p>",
+  "stIntro": "",
+  "rang": null,
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "p:rmw1jlge06rhx",
+   "p:rmw1joz8cmw1i",
+   "con"
+  ],
+  "imageCarte": "",
+  "cX": 50,
+  "cY": 50,
+  "cZ": 1,
+  "medias": {
+   "info": [],
+   "ana": [],
+   "act": [],
+   "con": []
+  },
+  "parties": [
+   {
+    "id": "rmw1jlge06rhx",
+    "type": "texte",
+    "titre": "",
+    "texte": "<b>Technique</b>&nbsp;/ Correctifs, remplacement des équipements obsolètes<p><b>Réseau</b>&nbsp; /Segmentation IT/OT, filtrage des accès</p><p><b>Exploitation</b>&nbsp;/ Surveillance, alertes, procédures de secours</p><p><b>Gouvernance </b>/ Inventaire des équipements, gestion des fournisseurs, audits</p><p><b>Continuité</b>&nbsp;/ Maintien d'un fonctionnement local sécurisé</p><p>Cette problématique rejoint directement les principes de la sécurité des systèmes industriels, notamment ceux de l'<span class=\"tip\" data-tip=\"IEC signifie International Electrotechnical Commission, en français : Commission électrotechnique internationale. C'est une organisation internationale de normalisation qui élabore des normes dans les domaines de l'électricité, de l'électronique et des technologies associées.\" data-lex=\"rmw1jyd0dgauw\">IEC</span> 62443.</p>",
+    "imgs": []
+   },
+   {
+    "id": "rmw1joz8cmw1i",
+    "type": "texte",
+    "titre": "L'enjeu stratégique : la cybersécurité devient une question de sécurité alimentaire",
+    "texte": "Cette attaque révèle une dimension souvent sous-estimée de la cybercriminalité : il n'est pas nécessaire de pirater une banque, un hôpital ou un réseau électrique pour provoquer des conséquences économiques et matérielles importantes.<p>Il suffit parfois de prendre le contrôle d'un système de régulation frigorifique.</p><ul><li>Les conséquences peuvent être multiples :<br></li><li>Destruction de denrées alimentaires.<br></li><li>Pertes financières pour les distributeurs.<br></li><li>Perturbation de la chaîne du froid.<br></li></ul><p>Risques sanitaires si les procédures de sécurité alimentaire ne sont pas respectées.</p><p>Dégradation de la confiance des consommateurs.</p><p>La question devient alors celle de la résilience des infrastructures essentielles au fonctionnement quotidien de la société.</p>",
+    "imgs": []
+   }
+  ],
+  "stInfo": "L'information : des réfrigérateurs transformés en cibles",
+  "stAna": "L'analyse : pourquoi les mises à jour ne suffisent-elles pas toujours ?",
+  "stAct": "",
+  "stCon": "",
+  "auteur": "",
+  "auteurRole": "",
+  "auteurLiens": "",
+  "auteurPhoto": "",
+  "actions": [],
+  "source": "",
+  "url": "",
+  "date": "2026-11-04",
+  "criticite": "",
+  "image": "images/rmw1jz0b75c7t.jpg",
+  "credit": "",
+  "alt": "",
+  "related": null,
+  "statut": "valide"
+ },
+ {
   "id": "rmw1jyd0dgauw",
   "section": 8,
   "kicker": "",
