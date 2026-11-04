@@ -1028,7 +1028,7 @@
   "section": 8,
   "kicker": "",
   "titre": "EDR",
-  "resume": "<p>EDR signifie Endpoint Detection and Response (détection et réponse sur les terminaux). C&#39;est une solution de cybersécurité qui surveille les équipements informatiques d&#39;une organisation afin de détecter, analyser et neutraliser les cybermenaces.</p>",
+  "resume": "<p>EDR signifie <b>Endpoint Detection and Response </b>(détection et réponse sur les terminaux). C'est une solution de cybersécurité qui surveille les équipements informatiques d'une organisation afin de détecter, analyser et neutraliser les cybermenaces.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -1040,7 +1040,12 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
