@@ -975,7 +975,7 @@
   "section": 8,
   "kicker": "",
   "titre": "FIDO2",
-  "resume": "<p>FIDO2 (Fast Identity Online 2) est un standard d&#39;authentification qui permet de se connecter à un service numérique sans utiliser de mot de passe traditionnel. Il repose sur une authentification cryptographique forte, généralement à l&#39;aide d&#39;une clé de sécurité physique, d&#39;un smartphone ou d&#39;un ordinateur.</p>",
+  "resume": "<p>FIDO2 (<b>Fast Identity Online 2</b>) est un standard d'authentification qui permet de se connecter à un service numérique sans utiliser de mot de passe traditionnel. Il repose sur une authentification cryptographique forte, généralement à l'aide d'une clé de sécurité physique, d'un smartphone ou d'un ordinateur.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -987,7 +987,12 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
