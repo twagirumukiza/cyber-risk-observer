@@ -233,7 +233,7 @@
   "section": 8,
   "kicker": "",
   "titre": "CSIRT",
-  "resume": "<p>Computer Security Incident Response Team Un CSIRT est une équipe spécialisée dans la gestion et la réponse aux incidents de sécurité informatique. Son rôle est d&#39;aider une organisation à prévenir, détecter, analyser, contenir et résoudre les incidents de cybersécurité.</p>",
+  "resume": "<p><b>Computer Security Incident Response Team</b> Un CSIRT est une équipe spécialisée dans la gestion et la réponse aux incidents de sécurité informatique. Son rôle est d'aider une organisation à prévenir, détecter, analyser, contenir et résoudre les incidents de cybersécurité.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -245,7 +245,12 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
