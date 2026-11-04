@@ -180,7 +180,7 @@
   "section": 8,
   "kicker": "",
   "titre": "TIC",
-  "resume": "<p>Technologies de l&#39;Information et de la Communication Les TIC désignent l&#39;ensemble des technologies permettant de produire, traiter, stocker, transmettre et échanger des informations numériques.</p>",
+  "resume": "<p><b>Technologies de l'Information et de la Communication</b> Les TIC désignent l'ensemble des technologies permettant de produire, traiter, stocker, transmettre et échanger des informations numériques.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -192,7 +192,12 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
