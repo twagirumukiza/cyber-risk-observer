@@ -628,7 +628,7 @@
   "section": 1,
   "kicker": "",
   "titre": "Vers de nouvelles normes de comportement des États dans le cyberespace : construire les règles d'une coexistence numérique internationale",
-  "resume": "Depuis plusieurs années, les Nations unies travaillent à l'élaboration d'un cadre de comportement responsable des États dans le cyberespace.<p>Ces travaux reposent notamment sur trois principes :</p><ol><li>- Le droit international existant, notamment la Charte des Nations unies, s'applique également au cyberespace.<br></li><li>- Les États doivent respecter des normes volontaires de comportement responsable.<br></li><li>- La coopération internationale doit être renforcée pour prévenir les incidents et améliorer leur gestion.<br></li></ol><p>Parmi les engagements défendus figurent notamment la protection des infrastructures critiques, la coopération dans la réponse aux incidents et la prévention des activités informatiques malveillantes visant les équipes d'intervention d'urgence informatique (<span class=\"tip\" data-tip=\"Computer Emergency Response Team (équipe de réponse aux urgences informatiques). C'est une équipe spécialisée dans la prévention, la détection, l'analyse et la gestion des incidents de cybersécurité.\" data-lex=\"rmw1d04o7egut\">CERT</span> et <span class=\"tip\" data-tip=\"Computer Security Incident Response Team Un CSIRT est une équipe spécialisée dans la gestion et la réponse aux incidents de sécurité informatique. Son rôle est d'aider une organisation à prévenir, détecter, analyser, contenir et résoudre les incidents de cybersécurité.\" data-lex=\"rmw1d3php1blz\">CSIRT</span>).</p>",
+  "resume": "",
   "analyse": "",
   "conclusion": "L'avenir de la sécurité internationale dépendra en partie de la capacité des États à établir des règles communes dans le cyberespace.<p>La protection des infrastructures civiles, la coopération internationale et la prévention des escalades doivent devenir des priorités diplomatiques.</p><p><b>Le véritable défi n'est pas seulement de définir ce qu'un État ne devrait pas faire dans le cyberespace, mais de construire les conditions qui rendent les comportements responsables plus avantageux que les comportements hostiles.</b></p>",
   "imgPos": "tete",
@@ -641,9 +641,10 @@
   "rang": null,
   "ordre": [
    "info",
+   "p:rmw1dj4w5lfep",
    "ana",
-   "act",
    "p:rmw1atybcrk82",
+   "act",
    "p:rmw1ay5y3qm4r",
    "p:rmw1aztpw556x",
    "con"
@@ -679,9 +680,16 @@
     "titre": "L'enjeu stratégique : peut-on construire une forme de droit de la coexistence numérique ?",
     "texte": "La question dépasse la seule cybersécurité.<p>Dans un monde où les États développent des capacités offensives et défensives, le cyberespace devient un espace de compétition permanente. L'objectif n'est probablement pas d'interdire toute activité hostile ou tout espionnage, mais de définir des limites acceptables et de réduire les risques de confrontation incontrôlée.</p><p>Une norme internationale n'a de valeur que si elle est comprise, acceptée, mise en œuvre et accompagnée de mécanismes permettant d'en apprécier le respect.</p>",
     "imgs": []
+   },
+   {
+    "id": "rmw1dj4w5lfep",
+    "type": "texte",
+    "titre": "L'information : une volonté internationale de fixer des règles",
+    "texte": "<p>Depuis plusieurs années, les Nations unies travaillent à l'élaboration d'un cadre de comportement responsable des États dans le cyberespace.</p><p>Ces travaux reposent notamment sur trois principes .</p><ol><li>- Le droit international existant, notamment la Charte des Nations unies, s'applique également au cyberespace.<br></li><li>- Les États doivent respecter des normes volontaires de comportement responsable.<br></li><li>- La coopération internationale doit être renforcée pour prévenir les incidents et améliorer leur gestion.<br></li></ol><p>Parmi les engagements défendus figurent notamment la protection des infrastructures critiques, la coopération dans la réponse aux incidents et la prévention des activités informatiques malveillantes visant les équipes d'intervention d'urgence informatique (<span class=\"tip\" data-tip=\"CERT signifie Computer Emergency Response Team (équipe de réponse aux urgences informatiques). C'est une équipe spécialisée dans la prévention, la détection, l'analyse et la gestion des incidents de cybersécurité.\" data-lex=\"rmw1d04o7egut\">CERT</span> et <span class=\"tip\" data-tip=\"Computer Security Incident Response Team Un CSIRT est une équipe spécialisée dans la gestion et la réponse aux incidents de sécurité informatique. Son rôle est d'aider une organisation à prévenir, détecter, analyser, contenir et résoudre les incidents de cybersécurité.\" data-lex=\"rmw1d3php1blz\">CSIRT</span>).</p>",
+    "imgs": []
    }
   ],
-  "stInfo": "L'information : une volonté internationale de fixer des règles",
+  "stInfo": "",
   "stAna": "",
   "stAct": "",
   "stCon": "Conclusion : la stabilité numérique comme intérêt commun",
