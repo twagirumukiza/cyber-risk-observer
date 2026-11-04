@@ -57,7 +57,7 @@
   "section": 8,
   "kicker": "",
   "titre": "Operational Technology",
-  "resume": "<p>L&#39;Operational Technology (OT), ou technologie opérationnelle, désigne l&#39;ensemble des matériels et logiciels qui surveillent, contrôlent et pilotent des équipements physiques et des processus industriels.</p>",
+  "resume": "<p><b>L'Operational Technology</b> (OT), ou <b>technologie opérationnelle</b>, désigne l'ensemble des matériels et logiciels qui surveillent, contrôlent et pilotent des équipements physiques et des processus industriels.</p>",
   "analyse": "",
   "conclusion": "",
   "imgPos": "tete",
@@ -69,7 +69,12 @@
   "stIntro": "",
   "rang": null,
   "une": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
