@@ -1,0 +1,617 @@
+{
+ "maj": "2026-11-05T22:02:12Z",
+ "mitre": {
+  "apt28": {
+   "id": "G0007",
+   "nom": "APT28",
+   "url": "https://attack.mitre.org/groups/G0007/",
+   "alias": [
+    "IRON TWILIGHT",
+    "SNAKEMACKEREL",
+    "Swallowtail",
+    "Group 74",
+    "Sednit",
+    "Sofacy",
+    "Pawn Storm",
+    "Fancy Bear",
+    "STRONTIUM",
+    "Tsar Team",
+    "Threat Group-4127",
+    "TG-4127"
+   ]
+  },
+  "apt29": {
+   "id": "G0016",
+   "nom": "APT29",
+   "url": "https://attack.mitre.org/groups/G0016/",
+   "alias": [
+    "IRON RITUAL",
+    "IRON HEMLOCK",
+    "NobleBaron",
+    "Dark Halo",
+    "NOBELIUM",
+    "UNC2452",
+    "YTTRIUM",
+    "The Dukes",
+    "Cozy Bear",
+    "CozyDuke",
+    "SolarStorm",
+    "Blue Kitsune"
+   ]
+  },
+  "sandworm": {
+   "id": "G0034",
+   "nom": "Sandworm Team",
+   "url": "https://attack.mitre.org/groups/G0034/",
+   "alias": [
+    "ELECTRUM",
+    "Telebots",
+    "IRON VIKING",
+    "BlackEnergy (Group)",
+    "Quedagh",
+    "Voodoo Bear",
+    "IRIDIUM",
+    "Seashell Blizzard",
+    "FROZENBARENTS",
+    "APT44"
+   ]
+  },
+  "lazarus-group": {
+   "id": "G0032",
+   "nom": "Lazarus Group",
+   "url": "https://attack.mitre.org/groups/G0032/",
+   "alias": [
+    "Labyrinth Chollima",
+    "HIDDEN COBRA",
+    "Guardians of Peace",
+    "ZINC",
+    "NICKEL ACADEMY",
+    "Diamond Sleet"
+   ]
+  },
+  "apt41": {
+   "id": "G0096",
+   "nom": "APT41",
+   "url": "https://attack.mitre.org/groups/G0096/",
+   "alias": [
+    "Wicked Panda",
+    "Brass Typhoon",
+    "BARIUM"
+   ]
+  },
+  "apt37": {
+   "id": "G0067",
+   "nom": "APT37",
+   "url": "https://attack.mitre.org/groups/G0067/",
+   "alias": [
+    "InkySquid",
+    "ScarCruft",
+    "Reaper",
+    "Group123",
+    "TEMP.Reaper",
+    "Ricochet Chollima"
+   ]
+  },
+  "apt33": {
+   "id": "G0064",
+   "nom": "APT33",
+   "url": "https://attack.mitre.org/groups/G0064/",
+   "alias": [
+    "HOLMIUM",
+    "Elfin",
+    "Peach Sandstorm"
+   ]
+  },
+  "apt39": {
+   "id": "G0087",
+   "nom": "APT39",
+   "url": "https://attack.mitre.org/groups/G0087/",
+   "alias": [
+    "ITG07",
+    "Chafer",
+    "Remix Kitten"
+   ]
+  },
+  "volt-typhoon": {
+   "id": "G1017",
+   "nom": "Volt Typhoon",
+   "url": "https://attack.mitre.org/groups/G1017/",
+   "alias": [
+    "BRONZE SILHOUETTE",
+    "Vanguard Panda",
+    "DEV-0391",
+    "UNC3236",
+    "Voltzite",
+    "Insidious Taurus",
+    "DazedToad"
+   ]
+  },
+  "carbanak": {
+   "id": "G0008",
+   "nom": "Carbanak",
+   "url": "https://attack.mitre.org/groups/G0008/",
+   "alias": [
+    "Anunak"
+   ]
+  },
+  "fin7": {
+   "id": "G0046",
+   "nom": "FIN7",
+   "url": "https://attack.mitre.org/groups/G0046/",
+   "alias": [
+    "GOLD NIAGARA",
+    "ITG14",
+    "Carbon Spider",
+    "ELBRUS",
+    "Sangria Tempest"
+   ]
+  },
+  "akira": {
+   "id": "G1024",
+   "nom": "Akira",
+   "url": "https://attack.mitre.org/groups/G1024/",
+   "alias": [
+    "GOLD SAHARA",
+    "PUNK SPIDER",
+    "Howling Scorpius"
+   ]
+  },
+  "scattered-spider": {
+   "id": "G1015",
+   "nom": "Scattered Spider",
+   "url": "https://attack.mitre.org/groups/G1015/",
+   "alias": [
+    "Roasted 0ktapus",
+    "Octo Tempest",
+    "Storm-0875",
+    "UNC3944"
+   ]
+  }
+ },
+ "actus": {
+  "apt28": [
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   },
+   {
+    "t": "APT28 Hackers Open Secret SSH Tunnel Into NATO Country's Naval Shipbuilder Network",
+    "s": "CyberSecurityNews",
+    "d": "2026-10-21",
+    "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DWWt5dHg4MjU1ZWo2VGpuczBCOEJaYmZzaVJqOEdTQjJtOVRjajhvRWxlSHF5SmtPSE9iZHRmcmpjb2Y1OTVYZmdEaWI1cmlnRXU0czlySdIBXEFVX3lxTE1OSEZxQWdDX1dHQVpLWkw3dDdlWEVxTDBzaWxSc0xQVVFqanlDYzRaYzdMOXE0STBVSENUWTgyZzlMbkx5MkR1cmRVYzF6Tm9nWnpxNWF2aDhsWTVk?oc=5"
+   },
+   {
+    "t": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+    "s": "The Hacker News",
+    "d": "2026-10-20",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BWjBwd205UkI0U01JUHB2dWJpbVpHVkJDVXA3MlFUMmtmeFE1a1dNbzJHa01nOG5HVno0RGlVSktFem40bHEyZHkxZ1VkdjNCUXlzZU1iS2hwdHBnSWFqMGFBZnVRM0ZmeVRwRXo1czdHYWVGcGJyU0w4WGo?oc=5"
+   },
+   {
+    "t": "Trellix Details DarkSword, JSCeal, Axios npm Attack and APT28 Campaigns",
+    "s": "Hackread",
+    "d": "2026-09-14",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkNnhhYW1RbTVEN3VHa25vblZ2MmN2cThCLU5xV2RNVUFQWmJVMmZWdG94ZldqRk41ZFo5MjJaY0RUMjFNMmw5YlFkSVZRblhELVhiNHNOaGo0T0djWUR5eTlIZlZNRmFZLVVOY3A0RDZlUENpV2d4bA?oc=5"
+   }
+  ],
+  "apt29": [
+   {
+    "t": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
+    "s": "Mandiant / Google",
+    "d": "2026-08-20",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/",
+    "r": 1
+   },
+   {
+    "t": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
+    "s": "Mandiant / Google",
+    "d": "2026-07-30",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
+    "r": 1
+   },
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   },
+   {
+    "t": "Russian APT29 Targets Mobile Users with Watering Hole Attacks",
+    "s": "Security Affairs",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbS15aUJJZHlpZ3l6YjJqSWNhR21IdUs1cjFhbjlYMHlicmNEbC1XWURlaDZ1THBTUHJ4RFNMaVNMWkJBaEJ4UFFQeUlpczRuSnpTSlFPQVRQNzF2QlI3QzBrQU9YaVpsV3hJTklJREhyTTg1VEhIRVlHZmE5Wlh2QnlUR3ZBQ0JyeUlwLUx3Y0VJRVNNV1gwMWlBVk8yVkFWX0xkTnhrQ2jSAa4BQVVfeXFMT3BlRFRpd3pnTzV2VWdKeUtfaGVxNUw3WHY3T2pjUnk1Mkdqb3RFb0ViOEVmT0trWlVjcFdaUjVtZ0Q4SDdOcnd4MUdScXM0NFdnakZjWWFKRkQxOUlyRlBUcjlONGE0cGtjOW5TZGx0WFhxUmdjMDVDdjQtODBmQlJvMlY3QzhoTUhrcld2RzVlUjZVLVd3RnhqNDR6Y08xbUlCYUVoSXp2N1pHdzZn?oc=5"
+   },
+   {
+    "t": "APT29 Watering Hole Attack Targets Unpatched iPhones and Android",
+    "s": "ShiftDelete.Net",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1taFJrRzhFU1YzcDlfZU9lV1F5cDVHWnJ2OWhKazR1R0JsLTRBS2hGSE5JUk1rRE5tWUwyUHJBMF9qeThJWUxLNVMtMzJsTFU2dHVxalcyQ3RHTVFyMGdTc1Zldw?oc=5"
+   }
+  ],
+  "sandworm": [
+   {
+    "t": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+    "s": "Mandiant / Google",
+    "d": "2026-09-08",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+    "r": 1
+   },
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   },
+   {
+    "t": "Russia-aligned UAC-0099 and Sandworm co-operate in wiping attack against Ukraine, ESET Research discovers",
+    "s": "ESET",
+    "d": "2026-10-22",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3lxanVLTmJZLUh1UXg1cVZJWmVzNW53WDZUUXB6TU1rVnY4d0g4Nl9LWXM4c01pajBsVUtXYXNiRUFJVGxCLU84YmZXR2Zaczg4WGtkSDFkTmwtV1lTaTcwM2o1bktMa2JfdXhlVWtLWHk0R2J4QVI4X3RxZmdtOG9MT0JVTnJDT1huMmNVX0hMdw?oc=5"
+   },
+   {
+    "t": "Sandworm-Linked Group Sharpens Matchboil Downloader",
+    "s": "BankInfoSecurity",
+    "d": "2026-10-08",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXNzQVFOVFFIbFJXWWEzYmZ5aUxKbktHS1NHbGczYUk3cnIzZjVwWU5SLTA2TTFlckNLdi03X0JKNFo4NEVOXzIzOUxJLU5IRl9rYlM0R3F4OGxCTnAtRFJIRDBCUDRaT29KT19WUms5VVF0VjQ3eHRfckhubnNPMy13LXQtenhPdW5oVGp4ZTQzMk8zdWlV?oc=5"
+   },
+   {
+    "t": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+    "s": "Dark Reading",
+    "d": "2026-09-14",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1ZrdXlxYjc3X1VoMEZWWTlHSjM0YS00Wl9uU1RfY0ZxRlVtNkgteDMzSUJwLUlNeW1sZDVxUGNqLWUzSDJVNEhubXh2MmNpQW45QkpNSE95NS13c1d2VjJvOW9VVTc3TE54Q3d5ZHNpNWRwOHdSMi1yMTJHZWZsRlJkY1kya3NLSEtRbDd6OVlKU3NuUDB5Yy1waXZXN3hkYU5wUndfb1NDUQ?oc=5"
+   }
+  ],
+  "lazarus-group": [
+   {
+    "t": "Lazarus Group Uses Fake Meetings to Hijack Crypto Firms",
+    "s": "CoinMarketCap",
+    "d": "2026-11-04",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVdiOWZKSVVHQUFtTi04Szd0eV9GQXFUM204N0ZjTU1GQnNfZHZrZy1mYkdHU1V5eWNaYS1uTm9UelgtNTI1RWFLeXQ3RTZTYkI1U0hpRGpwUFlvRUZ5MjY4NDdiTFYyYWc2UjFXMmJWcElmejFRQmg0WUs5SFVGd3VBYkUxdXNMVnpRV25KN0RhMlM4VFlYUUd1N2pXQQ?oc=5"
+   },
+   {
+    "t": "North Korea’s shady Lazarus Group behind ‘biggest heist in history’ as FBI blames regime for $6.3bn crypto hack",
+    "s": "The Sun",
+    "d": "2026-11-01",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CRXdQc1FkYlVfcV9sNjBCaEpKZ0lnQTZmQlFMTXB1bGlMRVBpYm0tUzFQQW1Pc0w0NFNmZWdFUXNaRWZlRWgzbW9jeTR6Q0dnYlpBMThsYjZVU3RVV0wxQ05Nc3JVQVJVRnA2YXEyaF8tSloyRnc?oc=5"
+   },
+   {
+    "t": "Who Is the Lazarus Group? North Korea's Crypto Hackers",
+    "s": "Coin Gabbar",
+    "d": "2026-10-31",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0ZpRHk5dGRVbDlhU19FM1hKQzBoMDc3VlBSWGJ4V2JoSER6dS1FdEF4RjE2cEthMWlMT0FBUnpEUlJ6Zm01TGRDS2RNMXJpczJfV2NuSHduUnlzTEFHVExRTWoyRi0tVGE5VjhoaFgySWJvSEJoTTRwajNRMnZ1N2w2TnlxS3c?oc=5"
+   },
+   {
+    "t": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+    "s": "CoinDesk",
+    "d": "2026-10-30",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWgwZXpJNmlUMDBIVmQtRV9ZWGRpc2luMTdveDN6ZHRQVHhiRFF3aG56Um1uQlctNi1hZF84alE1bHJoNTFzLW03WXRXdXJCOEVhdkFLWVk3Rk9jbm5aVWhpLUxYN0hRV2FTMzcyYURpdGdiQm43UHE0SkZ5eV8tcEYtb2NfeTY2eWZ6N3ZJaG1PamRENG9ZbjlwMmllcUdIR3dhS1BsOWx2Y0JSRnN5VTg1QTBvVUFIcVI0enR2NWpvM0xpSkFGVW1aclNYcFQwWVI4TQ?oc=5"
+   },
+   {
+    "t": "Reports Say North Korea's Lazarus Group Likely Behind Binance Hack",
+    "s": "Yahoo Finance",
+    "d": "2026-10-30",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXBpUzBFM3ZpejdVaFd4VmFmOFhrZ2k5UW1OU08xdUtPa1lzMzljNEtYdDZlOGZiQ09EcWxrLVdGazBPWDBNOTJwMWhDR3lYRHJJdWw3MF8yZGNtUUhIeFpJM3RaWE1jTGttWWdERFU0M1pPRGpNUE40cGdsQmwyUW8yYkJxS1NUQmxkSWJKQjQyVFJUbHBIWHFPLWllTGZr?oc=5"
+   }
+  ],
+  "apt41": [
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   }
+  ],
+  "apt37": [
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   }
+  ],
+  "apt33": [
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   }
+  ],
+  "apt39": [
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   }
+  ],
+  "volt-typhoon": [
+   {
+    "t": "IR223: Anatomy of an Attack Series - Hunting the Hidden: Volt Typhoon",
+    "s": "CISA",
+    "d": "2026-10-28",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnpHRjBhZ2JpNEZKcC1HOHVrS1JDTzdRUTQtTUdxNHFfbHhWWGdnX1p1a1dKSjZSR0FTYnV1Ui1rSWROcW5zUWNxSDBoZ3ljRWRWdkplb2hYQ2pWb1RuUENMM2NNQ1FWYmNydDFOZ3Y2SmdPcjVaOF9ncFNCVXkzRVowZmdTX3ZZQzlndmphb19uLWtjWWVJdVZGY3VzMFB3WGd3?oc=5",
+    "r": 1
+   },
+   {
+    "t": "Lumen details Volt Typhoon’s Silent Train framework exploiting zero-days to target US critical infrastructure sites",
+    "s": "Industrial Cyber",
+    "d": "2026-11-02",
+    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZkg0eFRTVFJUeDllalZHUVRNSTZlRHRwa3ZfYUJ5TTJ6amg5dTNacTFoVTlFQkQxTXVna0p0bFNSQklsYWJCMTdrWG9nX1d1ckNOWVNVeEVRaXNxR1huYVZwRUhOZzExejdNbVhnaWlnRm12XzZoZG5kb2ZyeWdOa25RMXZ6TzQ1TDJiRzMyVE1td0hKVExPdHUxVkR5eVhJT0NicGY3czNYeWtmcmplak9yeHpOT0MtNEZlNi1Jc0JuenY1LUtMblNUSW91ZXFHNktua3lDS0VaS2tUZFJJZlA3SkZBU1lVd1ZOQVJlYzRQQlJ5amlBeGd3?oc=5"
+   },
+   {
+    "t": "A deep dive into China’s Volt Typhoon suggests it is preparing for an assault on infrastructure",
+    "s": "CSO Online",
+    "d": "2026-10-30",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHgyMHpPejl1YW9fbWVGbGt6Q05uODI0WjNDTnd2WWhKZGpQa25qV3J0bzdWVTBmdmYwZXVOTENsd0c5OTFVRDNsUnN6TER6MlZXcWQwUE9XVWliTnMyYmlEUkhVT1JxLXgxYVNWcHc5a1Y2dENDbmh5QWR4bE02clJ5dGM2d1hZM2JldGV3alU1aUU0UGhvaFZ4VTI2RDVsZ3Z1ME5oN2F6Umh5R1NQZUtjTEszWTBNdF9hemV5NHpqLXVIdWswbkR1MkF3WEo0WkZsejZCU3A?oc=5"
+   },
+   {
+    "t": "Volt Typhoon targeted enterprise control planes via ever-changing \"Silent Train\" relay network",
+    "s": "Help Net Security",
+    "d": "2026-10-29",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFFWR0dIdEZRc0JkUkRvXzBEakw4UnNBV2lIZ295VnA3dWo0S3JXZ2F2SE1hQWxqOXZTNXhSOFUwTGxuNkp2MWExOHItX2Nnb1o0Tm1jdjg3WUpabEo3ZGIzLS00ZW1lT0FvUjJBS0FuZmlzYmpVY3psMGc0NjlYcXZtTFlWTjlobllZ?oc=5"
+   },
+   {
+    "t": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+    "s": "SecurityWeek",
+    "d": "2026-10-29",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1l3a1RvZGc4bzlObG9oOXAxV25wbWZBaC1HVjlMeG1TNHZOYVo0ZUk5VGIzSUJUSkxySU9LYkFydnZnMU1PWnFvdFg2VFdraTNFb3ZYY3lpYk5UMmU0ZjBRd0RQT1JyOEdQNzBZNTZqekNoU05EMG0xR2NrVWRkMXJzT3BfeVFqY2VaTjJtSHhGcGpJZVVGSUVmdFdhVzA4YjR4aDVGZDc0eXfSAbABQVVfeXFMTUpHR3YzVjJMdEFuUWFycWcxTWludUhoZlY4aklHUkVZNlpHN3k4bnBGcVhRWDJyX2NaOFJxZ0VLS0pBaUZ2dXlfZE40bzBTTUZheHcwdDVoVWVFNEJIQlRCQ0pWeW5xVmRIY252Ujk1MnkyN1czOVdjUXlCejcyMXFzMC1hcWEtZEQyTUNjMktjTGo4UlR4S3FLNEZOdTBhZlZ5alpNZ2hmc2dEWXc0UnA?oc=5"
+   }
+  ],
+  "fin7": [
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   }
+  ],
+  "conti": [
+   {
+    "t": "Bourse : ça publie fort en Europe avec Novo, BMW, Conti et Ahold",
+    "s": "Zonebourse",
+    "d": "2026-11-04",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVno2cGlrTnBieGNENGYzUW5mTFBrY1VjM01rWkJ0MG5RTDVhSmNHN2NxUG91X0I5UUlVbWtRZFZ4aEZVSkhQMzBMbVNEUUxUai1SWkR5MDVRb0JQalFnQ1V2OXc5QVRFRWZXVDYwd2lMUWVUekhzb3JodmdfVDgzN0syc0lYOVcxU2tGY1d2dm1NOUJnRURSaUNLY21KSFBaVHZ1cS13MDVSZk5yM2lQM3NCcEJQR2tCdDlkamJR?oc=5"
+   },
+   {
+    "t": "Member of Conti ransomware group sentenced to four years in prison",
+    "s": "Escudo Digital",
+    "d": "2026-09-16",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGhmNzlVQTRHT0dJN1dzWXE2TWlRUWo2dDdHTWtZNEZBeUF3US0zY2FidUtLOWdRVEYxZnd5Y2d4NzR0RFUyX05RSGRRU0xrbEJnZnMycXJEam94TW5zV2pIb1doamlKUGFLX2xmSkxBUElFQnQ4LXhSYWFqTUZFMzFUYmRSOUdRTHhtdHJHZlp5ZGNLelEyRkduOVZtajRCUHJpSFFyUDcwQUVlRVE?oc=5"
+   },
+   {
+    "t": "Ukrainian Conti Ransomware Member Gets Four Years in US Prison",
+    "s": "Hackread",
+    "d": "2026-09-15",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZWE0VUpHSEw2b3FMaFBydG10NlRodnppZFFVcGZCclFUR1B6YThZZk9wVlgtYXktMmpjRU1vel9XamQyb0FhcXNhZVNsMm50RHpBckFhTno4dDdQcUlzUEF4NDZRMlFsT3gtYVBuVjd4M3JXZG1GdGNZNkxtZw?oc=5"
+   },
+   {
+    "t": "Le développeur du rançongiciel Conti condamné à quatre ans de prison",
+    "s": "Bitdefender",
+    "d": "2026-09-15",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3A4bVJybXU3enJsREdZRlliNGlTeWF4cVM1dWc3X2Q2dDZTLUtpWl9RMUcyZDMyNEU2b2VuWF9SME42UHc3X2VlcDBOdVJYVlpTeTloR1FRcTdteGlCR1pndERBUHlqbE0xQWZHYnE0OXVTODh0c0h2ZVc2VXNybXc4RzhVZjZqaGNRWW9qa2N2cjJrc1JkekhHeGJhUTBSc1IwM0szeWZfbWJpaHBoQlBUT2hpc1JQSXk3TXdPYw?oc=5"
+   },
+   {
+    "t": "Conti ransomware operator sentenced to 4 years in jail for playing part in a $150M extortion campaign",
+    "s": "Cybernews",
+    "d": "2026-09-14",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iTjFGcjh6Yk1OYlFKc1ByX254d0poS0JoX3dUbDJlbEV0dUFybEJVMjZHcUZQeWQybFdCOFotbTZKekJyeTdkclpodFA2WTl0c2R6OG90RWQ5RlBmOXBNOWhUYjVlZGJOcGQwcnJlakl5Z19YSUFUS0dHWQ?oc=5"
+   }
+  ],
+  "lockbit": [
+   {
+    "t": "Bhopal Cyber Alert As MPCERT Issues High-Level Security Advisory To MP Government Departments After LockBit",
+    "s": "Free Press Journal",
+    "d": "2026-11-01",
+    "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVU4xdGxlY3k1WnBDMnZCVGlTdGxRXzROSFlFX3BvWnBIY0JvWHNGY3MzZlB3RjhyZDJxSDIyMUR5dHhaWnZhM0hGWWotUjRGRUFtQlN2bkVVX0tINUtRLUZvNnNpOVdDampkQVM0eVJINzV3eXlEVGZuX2tZWEZtalZMblZVakRva05INUlkR2N4VmxzYzZabGRkajhnOFhQdmxfRlF5WUJpdDRuT1V6cGEwNGpKa3hZdFU1TWtHcUNjM192SmJzNWR1VDJmak4tcUtXT3Rtd21YclJqR1ZzRGtOWW9YRXJTZ0VmdC1GUUQ5U0pvaUpr0gH8AUFVX3lxTE1wM1Y4NGZ1OUJwM21TUldZWnRTdC1XU0dkNi1iRTE3cUcyOXBFUFE1N3ZwZHNTdEFNMWhlVkQxaVpQSzZ5YVBxRGFHRWZsUUVaWDdRUHR6Si00am42VG9TSU5TUnhCOWpveFJoQ0NtMkdjR1FWY2RWOU1tNFlnempPVHRhWV92UEZ0QUNRS3BuSFNBakhmaTU2c3dkUTA2MUpnUXVNampmRzNhdVA2c2lGVUZqM3RveUROVGdtQkVzTzR4NGM5V3I0NTg1em1YQkc4Y080NXBsUml0U1VsQUJrc19DUjhMQjZ5UFRCQXNQc25QR2pzUDlMYlU3QQ?oc=5"
+   },
+   {
+    "t": "Exclusive: Poole Group investigating LockBit ransomware attack",
+    "s": "Cyber Daily",
+    "d": "2026-10-16",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOF9BaUlfWF9iNkVjTFo3WktiMllGdXktelZWV1lTLUp5MV84U1AwVEVPOElmWGJ5TmM5UHEtbTE2S3VLcHVhX3E2b0pvTV8tOE1KU0NOVEtPdmFWNVVpOW8yNnNQM2lxUVdDc3I1RVNyMEhEeUNEa1dOMUxJZWNnc1pGYkFPV1lEd25jRTl4VW04SVFnMzNId0VpaFExWmRlZ0VyWQ?oc=5"
+   },
+   {
+    "t": "Capital Bank : services perturbés depuis le 2 octobre, LockBit 5.0 revendique une attaque",
+    "s": "Vant Bèf Info",
+    "d": "2026-10-06",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3Vwc20ybjBDWGNpRDFZSFJ3cU5jU1ZIeG9KRHNQTHkyTGlBV3JJc2p2YzZ4Q2dEZzR2NWdWVU5rSndwdEo5MFVLVXpzWUYwS3ZOLXNKYVdma3lVWGRkMjVnTDVYZUFYNlFBbkNQTHNvYUJNRTd0bTU1bXJnRnp2LTEyMUF6UkI3TThad3VDeUFUZndKRUZwX0Z3RnBQX1gyd0ZHc19LNEdnRE9UNzNZdw?oc=5"
+   },
+   {
+    "t": "Taspen Life Ransomware Attack by Lockbit",
+    "s": "SOCRadar",
+    "d": "2026-09-22",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRm1Pc01Ud2NqNFVoX2ttU195LUZzRVV2RVd1WUZkR215a1p3Vi1qTmgxNmFQRTNPRTNCTmVsZmJXOWdyUHJVWjZOR3BpNFY3Um5DMWZxeXhOWWFqZW5JVVRQS01rdTdzMnplOXBzVFpMMTdQd05hbFdJZ3k0Z1hVQXN0RVhsRlRXX0lDS0l0UE83d1FPZnc?oc=5"
+   },
+   {
+    "t": "A CISO's Lessons in Ransomware Response and Recovery After a Real-World LockBit Attack",
+    "s": "Infosecurity Magazine",
+    "d": "2026-09-14",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUR2czJEM2FMNmRuXzRjMDVOME1nS1dDTzktSzAwVlN6SUdzWGtGeDZrZzRZRjlsTG9nblgtUnpqSlFVbzRJemx4cnBVRXl2b3FPemZjMkNMR192WE9oQ0Q0SjA0RVBrNVNOcWkycTIxdzJxbUl5bXRScjJiOElkWGdB?oc=5"
+   }
+  ],
+  "cl0p": [
+   {
+    "t": "Cl0p vs ShinyHunters : les cybercriminels se font la guerre",
+    "s": "ITforBusiness.fr",
+    "d": "2026-09-30",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRC1SdFpoTUowQzczS2ctR1ZLcUR3SzhzSmowUjA5cVJjdEJHTF9NaEp6MFhlSU1zY29pbFJ2alM4UWFZeHN2M01uUnBRbmhzRzFUcTQzbFVkTVlvQUU3OTlmVnNWeXFlbFBja1B5R29seXpqb0ZidkdkNFZpZ2wtYWg1UVpXYUY4UnBPOWtXQ3ZhTFl3UElhSQ?oc=5"
+   },
+   {
+    "t": "ShinyHunters Hacks Rival Ransomware Gang Cl0p and Takes Over its Dark Web Tor Data Leak Site",
+    "s": "CPO Magazine",
+    "d": "2026-09-28",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONmtQQzFabHZDSC1fNjhldUtyaFFycW4tSHJERGRYWHdQdUNldFRadDhJcGtBcmVZOE1NZ2NvSzFoVmIxZVkzdzBHajZOTlZYZWNYdFhWZjdTNGloTkYwSWo0cXBDbXJsTEM2X3ViT2M0eFVkbFp6ZEQyeE9PcUxGTkpfVDVnOWRjT0F3U3U4dFMxclRFQWdBTVRqLXJtMzZtUlltSkZjV1hUVDkzU0d0WFJ6VDcxaVJVWkJYeU5sY3k3YnJORTJ0NUNoWkc4ay0wOXc?oc=5"
+   },
+   {
+    "t": "Les pirates de ShinyHunters compromettent l'infrastructure de leur rival Cl0p",
+    "s": "L'Informaticien",
+    "d": "2026-09-23",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG4wLTJmWFZ1amhoV2VuTXJ3dGFEenl2bnJnZHZPcTFHT3Y5VE5OSUhoRUxuTUNhcmpqUHljRlNSZzY5UE5BeEZjSXlielpMd2tRVFF1cUgtT0JUREk3bEY4OFNndkg5dWhmb05neVIzQUNUOTNxYzVhQjBQVWNxSU9jR0NWZjNZMXZyXzd1ZDdYemVDQmxveTVfaXRib1A4eXZKQmttT1ZadEV5c3dubGRhODhTUm5qY1pR?oc=5"
+   },
+   {
+    "t": "Après Cl0p, les ShinyHunters s’attaquent au… FBI",
+    "s": "LeMagIT",
+    "d": "2026-09-23",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWcydkFCLUJrNVJERHZNTXpjaWI1RmFsRWNmYTc5TElDR1FXSXdTNkFGbW1uT0I5MkFpSXAzbGVIU0NIZDdJRHBnYkVyc0dFbzMyREZfRWN1LXQtRTdfQmlFc3BuQXIxeWxXR2gxempKT1RXZWg4RXFOZTFHTUstMm1LV29SWUd1Y2lma1Q4cldvQzA?oc=5"
+   },
+   {
+    "t": "News - ShinyHunters hacks Cl0p leak site, demands a major ransom",
+    "s": "teiss",
+    "d": "2026-09-22",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdm5jeUJvRmV1T3puNjRUS2psMGZGYVNTaGxWRTNmOXNuWl82VnI2ODdmbnZ3UFJxelRVQUd6Q212WGhNdGk4NllQdlpDbjVIWnRYSkRpUjBxRjJXSVlJeEx2emJMbG92Nk00UlBMQkRtMXlsYVgxLXBuUFFMcGw5ZVZLb2taVXZSSmRaTTZGQTBScF9oa2c?oc=5"
+   }
+  ],
+  "blackcat-alphv": [
+   {
+    "t": "Ransomware Negotiator Angelo Martino Gets 70 Months for Helping BlackCat",
+    "s": "eSecurity Planet",
+    "d": "2026-10-09",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEpNYmZVRXZLVl8ycW02aUZoNE80YzlhOXoydGwtbnl6VGpzY1R3TUVkU2Q5NjRmUXhXbU9XeVBzUXVTbW1BeHJURDFfMVdaRS1WVEgwb05xSVBuZEpValcwUmgzd0JWcm9jYUVKdVYwd05oYnIwVVdVbGhCNFFuelI4LUd1LWNiRnJJcE5Ga3pleU9kS29WVnUzYkV3YUhKX0dycV83NA?oc=5"
+   },
+   {
+    "t": "Le négociateur en rançongiciels Angelo Martino condamné à 70 mois de prison pour avoir aidé BlackCat",
+    "s": "eSecurity Planet",
+    "d": "2026-10-09",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTFteVlSc3Z6SXpkLThTQUpRYmJFSFlaV3Zab21NbUdZeEVKM2xhZmE0N3NLWS1ZUl9IRnUxa1JQcERFcTU2aHo2anJ1TFVTT0xMazlGVXAyQjZ5bWxCaHk5QVN1Nm81M0VES1k5S0w1SFdWdndMaTZOZDRLU3ZXMjB0OC1kR0VkVVF3dmpEeDBTWlhJQTNudmUxclpIN3ZpUEhRRnVLZnM0MVlqbUhTUkdKRkhWc2ZWU0JlRjBROU9mX2Z6ZnM5QlE3bXpybFpPV01yRnlwamhvVXc4QldVVg?oc=5"
+   },
+   {
+    "t": "BlackCat (ALPHV) Ransomware: Attacks, Timeline & Status",
+    "s": "CloudSEK",
+    "d": "2026-09-21",
+    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XNy1Hb08xUUpHYlRQNTA0Q3dPSm94WnVfTHkxaTJkNjgzcjN2N0tRLXV2aHI2NjVqWDhGZEMyTkJFUms2cnlpOURralRELUxUcnZlRWhVY29UaWNJWnFzc19CU2lVSFdhSENv?oc=5"
+   }
+  ],
+  "akira": [
+   {
+    "t": "#StopRansomware: Akira Ransomware",
+    "s": "CISA",
+    "d": "2025-11-13",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15elNhTTJtdHlpZ1FyS3I2SDVZQm1DRG5MR2ZyeTFMcl9jVFUxSlhVYjM0U3lreWtNbGVWcGhFY0t3QWhGdlBaTGZDUUFmanNVc0JmSThkbnRDcWo4YklYV2stbGpfSWdZLTdkNklPdi1BMVFiX3c?oc=5",
+    "r": 1
+   },
+   {
+    "t": "CISA, FBI and Partners Unveil Critical Guidance to Protect Against Akira Ransomware Threat",
+    "s": "CISA",
+    "d": "2025-11-13",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmFnRWhvTVZDR1lhT0hmdGZGNkxzX2FJNnNUNXJ2bzNnYmNSMGFCV3FRMTVGTXlBOVhkX1RKY0t1RVIwaE5FVmxsMDEzTHNWb1M1LXRwR2FnUWVQcUNCdW9vNlZGbnMzT2RCQkFYX0lKNkJ2bnlSd3l6MWxuOW00ajBacW9oY1J0c09MSVBSTjJuRHlYaE90RVQwWVJ4OFRqUm9VRGdfcVExOVY5SkdLMENGR3l3MHJnZnYxNlB6akRIQQ?oc=5",
+    "r": 1
+   },
+   {
+    "t": "CISA and Partners Release Advisory Update on Akira Ransomware",
+    "s": "CISA",
+    "d": "2025-11-13",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFZOdWJZcHJKWDVEMEhreXhTemN4QTRFSk5FbEExWEtRLVJySDZxS0c3U2FNQnhJbFVTNEFtYko3UGVFdDRMVERKbGRjMTlHWjgzVjNkQTZVUkV2WE1LYW5JUTVHQzI3eVY5RlpGTUhfUHVmU0E2U1RmWTl2dGg4T2VXVndkYUFxWUhKMmJ0cGFRVDVYeDJJczU1dWNvaHdObkxCUlQ3Z0VDZ1NZbmc?oc=5",
+    "r": 1
+   },
+   {
+    "t": "Ransomwares & piratages : 13 cyberattaques d’ampleur du 27 octobre 2026 (dont Akira)",
+    "s": "DCOD Cybersécurité",
+    "d": "2026-10-27",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTRPS3pBdTByN2VYaE5oRDZ1TE9LYlBMeVpCSy1SNXVKcm1YNmpqeUVxbmtERk5oOEJZX3N6ZHAyVnFQbVV6aFJFcGZuOWNvbzFkVXhjSUhvWnlxRTNuRlM1SDFZMXpMc1dDb2d1UUEzSV80WFVPLWJ1eHl6OWNOSjJTZFA0aFIxR2tFVTFKak9lUU9xaUxhXzNOYnhtcFFzQ0NuNVJwNk0?oc=5"
+   },
+   {
+    "t": "Akira Ransomware Targets Dutch Coffee Machine Manufacturer Bravilor Bonamat",
+    "s": "DeXpose",
+    "d": "2026-10-23",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnp5UTlleXc5QVJkMTVzZWZ2azBnaFVla0IzV2xDVmRWZ2lmOEY5LS1sR3NHTFlOUzR1RjZoSWZmZDJUcFYzekJaWUFKV2hLUy1HcHB0UjIzWDFueTB4SnVTZjJxc3gyNFVQZ1J2NDVqaElzX182VVhjcHdaZDFTMG1lRUdHSVR6d2xpXzJVaXd4aUxZZDBKM3NYdHlvSDgx?oc=5"
+   }
+  ],
+  "scattered-spider": [
+   {
+    "t": "Black Hat Europe 2026 Keynotes to Address AI Security Blind Spots and the Network Behind Scattered Spider and Lapsus$",
+    "s": "Business Wire",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUZQMnFiLWN5aFlqM0p3YTZGS1ctV3E0ekhJWUdCdDc3RDlDQUhabTdSU1RnaEFqb3hKbl9Ia3U5VTRkU0NRaDJlbVh5Y2JTbjkxd29Yc0pHQU85cDdfWms1MG1JazZUbVg3WUhVQmlWTVZuNDVGaHVtLUVIQUMyRFlST0cwem1FMXlPZ2tpQ3Rfb1J5LXRFUHk0a1pfczVBVkczZXlNUkl3UWMwckNzSXFOeVpLU3YwdEtaNnFuTG9GZ2RlNlEzM0J2aDlkMHZUd1k3OGFqaUZKSW5CWHdRMHdhNkd4U2huTmxfSUhRdWcxdXg5S25uR3A3RHBBb05WMGkzZ29tWQ?oc=5"
+   },
+   {
+    "t": "Scattered Spider Hackers Exploit Help Desk Calls to Bypass MFA and Breach Corporate Networks",
+    "s": "CyberSecurityNews",
+    "d": "2026-10-21",
+    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wYmdCN0NUX1dldGVadFpnQnNYZkpSelQ1UFd6VDJhZzJhVWRCWWQyeFdtdmEtU0RsejYxV0MxVF9GY1lTX29ETFd4OFJScDQ5VnFnTG9ZVDNKZEViX3BGV01VcHFRZ9IBa0FVX3lxTE0wVXpQR2FNNkRxYWFuTkNmUXY0TUVNSVJJd2U0VzZJSUJfNmUyWjUxTEJna0htUTRDclNFcnl3OURYdFdtX1J0TDY1VFFHdGF6a1RXOVdMbWNpUzk4eXAtekRLUXVvcjFsNGNj?oc=5"
+   },
+   {
+    "t": "Texas man pleads guilty in Scattered Spider extortion scheme",
+    "s": "SC Media",
+    "d": "2026-09-21",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkRXVnRxZ3pUbERZbzhVTWpGTWRtVzFjZ2ViTkhnVzVYdFZQZ0l3R2VKNjFhZ2lvVmdoVl9HdEIzN3BBa3NPY2pGUGEwZmhWdFBKU1ZQb1ZBbERzd3MwX2Z3Y0tXR2VGS3EtTmM3TWlkazBqN2ZGVENVQmlFZVVRbW9mVktUZV8xdXdYckhRaHVWbEFu?oc=5"
+   },
+   {
+    "t": "Early Scattered Spider member pleads guilty to cybercrime spree",
+    "s": "CyberScoop",
+    "d": "2026-09-18",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FNzVGT3BVdTdfOXktLVlMeEJiYlp1UFZVMG13STVWOUg5WHZ3c3I4MGo1UHdlRU1WQkk5VkZ4SkFZeXNWRHRtQ0REOHM5SUZwcUhZdENQeUFjeU95TDEtR083d0pFSGw0eFVUQTk1MG9iSW1WYjJxUg?oc=5"
+   },
+   {
+    "t": "Inside the Scattered Spider Playbook: How UK Retailers Got Social Engineered",
+    "s": "Infosecurity Magazine",
+    "d": "2026-09-15",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UZEFMODhLTkNSZXRGQmViNjFPVF8wWkpaNjFlSXZwZGlMRzVpTEROQzIyN1hVMDY2MGptNE1LZDhfcE5QNkVGSURYcC1qSERJWlFsMjFhbGdMcU1sYy1Od0V6TGh2WXAyWmcyOHlkbzBVMHZGMlZqNE1pOA?oc=5"
+   }
+  ],
+  "anonymous": [
+   {
+    "t": "From the Gunpowder Plot to Anonymous: How Guy Fawkes Became a Symbol of the Struggle Against Authority",
+    "s": "UA.NEWS",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dSQndoM1cyY2FySGthbUU2eTFFX0duODkyTFp2WW9fUjlZNmJDYmZkYm5qY1k1MmY5eFFLcndTeUUxRFc0WmgwNlhWWEZnVGhWeHZEamQzSlFUdlY2VFhzRjRnbVQ5MVVZdVVwQTJoRV8zX0s4MzVLU0owOUhiUDUtMkUzME84SXZNLUh6S3h2SFF1NzRTNGdISGZHOTEweXlfRTN4OA?oc=5"
+   },
+   {
+    "t": "DRPS says its anonymous tips system not hit in cyberattack",
+    "s": "Durham Post",
+    "d": "2026-10-23",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaFhyb1k0V293emdsRDcySno5aW1XdGVUY1FVWXlJNWV1dWpvQ2U5SzVUQTk4TThuV2d6TkVzallQVjQ3SG9zdFVCTTdmQk5RV3lTd2NJakp5MGF4RWZqbG1ZLXZvcXFxS1E1bVpFOVltSnd3eWtnZTRIcjVNYlUxWS1YcDNjTzA?oc=5"
+   },
+   {
+    "t": "Anonymous hackers leak alleged email archive with hundreds of thousands of messages from Alternative for Germany party",
+    "s": "https://theins.press/en",
+    "d": "2026-10-20",
+    "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3VEowd3RyRlAtRkRUR3VwYi1VNzdlWGtUbnNPR05VSnlvTURXd2xoRUJnVUVLbktHeFg0RVVUbHlDb1Fib3pvVjE2UQ?oc=5"
+   },
+   {
+    "t": "AfD Email Breach Exposes 421,000 Messages in Anonymous Online Archive",
+    "s": "Security Affairs",
+    "d": "2026-10-20",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGVaR0NUYkJRSVluS3BVVzd1Rk1CNWJPcUp1YXFtUUhhczdBaGRxazhqUkRzWWwtcHRpZTl6YlJsZTNfM21hTUZjeE8zODRpNVVkRmh4RlQxRjdRT0F5SjJPak5XbFlFU2xJZnNZamE0Y2RBcXA2RTJnTFUyX05JREN5V0RrMkE4ZnRWOTVXUF9MYkcyc2lSWnh5TjdCd2NhWXpicVFQd1d2dm1PcEhGQk5RSUljdVdkVG5kcdIBwgFBVV95cUxNS3M0ZEdHRDBnd1RiWjNNUVpHU09OUUExRmIxZmJ4RFM2TzZEcWFWOEcwRHhodGxZRC1XUThIUWdoTm8yM3lHN3hSeHgzdEhISUFFdElTamZBQWNUZFlqbWcydk9kQ0JuQ1poMG5zVTZPaHY2STVOX3hoSksyS08tZU95bUFET1BKMGltMFo3VGlWTGRhbzZYSVZJdk5mNFdVaVNlVTlaT3N4UVdEMWR2LVRhM1o4WS1nbEg3aXZkWlJwQQ?oc=5"
+   },
+   {
+    "t": "Anonymous says it hacked Russian judicial databases in occupied Crimea",
+    "s": "Odessa Journal",
+    "d": "2026-09-30",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVnEwel9IV2JLZWc2blBQb1lzMlpfemplRm1NMjVOalJ3WFA5cURwaU52ZTdOT1BmQ1JUUGVmNlRWb0h4X2dkX2MwWXV3bmZ5bmV0R09uU21FSm1WVTd1SHhiU3Uyekd0N3N3WklhakhHb3F1cFMtRnlYZVdwWDNaTlUwdktOZDhySm9qVW9FTHJwRWcxVG9PZ2hTR0FKZw?oc=5"
+   }
+  ],
+  "lulzsec": [
+   {
+    "t": "Sabu's LulzSec And \"The Omegs\" Leader - 2015-07-22 - Finding Mr. Robot's Many Easter Eggs",
+    "s": "Forbes",
+    "d": "2026-11-02",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmd5ZHpZc25KcVhPQmJQNjhxaDZ6c3RnX1gwYmh2eTA5dFhWMHZxRG44SlhzUHh5dmozZDFsbjdDLTB1VzN0UjR0aHowci1GX2RoLWY3RFUwWEtKZGpHd3BnZXE0aDFEa2VxSTRLSkVrcGpzbk56ZFBySm4xX3F4dEVYamk5LWpiczlV?oc=5"
+   }
+  ]
+ },
+ "nouveaux": [
+  {
+   "nom": "ShinyHunters",
+   "id": "G1057",
+   "url": "https://attack.mitre.org/groups/G1057/",
+   "alias": [
+    "UNC6240",
+    "Bling Libra"
+   ],
+   "n": 2
+  }
+ ],
+ "erreurs": [
+  "flux CISA (https://www.cisa.gov/cybersecurity-advisories/all.xml) : HTTP Error 403: Forbidden"
+ ]
+}
