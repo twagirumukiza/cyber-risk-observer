@@ -1,0 +1,1007 @@
+{
+ "maj": "2026-11-05",
+ "notice": "Les dates indiquent une première activité connue ou une première identification publique, pas nécessairement la création du groupe. Les affiliations étatiques sont des attributions rapportées par les autorités ou les chercheurs : elles ne constituent pas systématiquement des faits judiciairement établis. Les champs « à vérifier » doivent être actualisés avant toute publication ou analyse de risque.",
+ "acteurs": [
+  {
+   "id": "apt28",
+   "nom": "APT28",
+   "alias": "Fancy Bear",
+   "ini": "28",
+   "cat": "state",
+   "origine": "Russie",
+   "debut": "Première activité connue : 2004",
+   "affil": "Russie — GRU, unité 26165 (attribution)",
+   "tags": [
+    "APT / État",
+    "Espionnage"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Espionnage politique et militaire"
+    },
+    {
+     "l": "Origine / affiliation attribuée",
+     "v": "Russie — GRU, unité 26165"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Intrusions contre le Parti démocrate américain en 2016, des organisations sportives et des institutions internationales.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Spear phishing, vol d'identifiants, exploitation de vulnérabilités et logiciels malveillants."
+    },
+    {
+     "l": "Secteurs / cibles",
+     "v": "Gouvernements, OTAN, défense, diplomatie, médias et institutions politiques."
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "À compléter depuis MITRE ATT&CK"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier lors de la mise à jour"
+    }
+   ],
+   "mots": "APT28 Fancy Bear espionnage politique militaire spear phishing identifiants gouvernements OTAN défense diplomatie"
+  },
+  {
+   "id": "apt29",
+   "nom": "APT29",
+   "alias": "Cozy Bear",
+   "ini": "29",
+   "cat": "state",
+   "origine": "Russie",
+   "debut": "Première activité connue : 2008",
+   "affil": "Russie — SVR (attribution)",
+   "tags": [
+    "APT / État",
+    "Renseignement"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Renseignement stratégique et espionnage à long terme"
+    },
+    {
+     "l": "Affiliation attribuée",
+     "v": "Russie — SVR"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Compromission de SolarWinds en 2020 et intrusions dans des institutions gouvernementales.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Compromission de chaînes d'approvisionnement, phishing ciblé, vol de jetons d'authentification et persistance discrète."
+    },
+    {
+     "l": "Cibles",
+     "v": "Administrations, diplomatie, centres de recherche, think tanks et entreprises technologiques."
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "À compléter depuis MITRE ATT&CK"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier lors de la mise à jour"
+    }
+   ],
+   "mots": "APT29 Cozy Bear SolarWinds chaîne approvisionnement phishing jetons authentification administration diplomatie recherche"
+  },
+  {
+   "id": "sandworm",
+   "nom": "Sandworm",
+   "alias": "",
+   "ini": "SW",
+   "cat": "state",
+   "origine": "Russie",
+   "debut": "Première activité connue : 2009",
+   "affil": "Russie — GRU, unité 74455 (attribution)",
+   "tags": [
+    "APT / État",
+    "Sabotage",
+    "OT / ICS"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Sabotage informatique et opérations destructrices"
+    },
+    {
+     "l": "Affiliation attribuée",
+     "v": "Russie — GRU, unité 74455"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Attaques contre le réseau électrique ukrainien en 2015 et 2016 ; NotPetya en 2017.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Wipers, compromission de systèmes industriels, logiciels malveillants et destruction de données."
+    },
+    {
+     "l": "Cibles",
+     "v": "Énergie, infrastructures critiques, administrations, télécommunications et organisations ukrainiennes."
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "À compléter depuis MITRE ATT&CK"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier lors de la mise à jour"
+    }
+   ],
+   "mots": "Sandworm sabotage réseau électrique Ukraine 2015 2016 NotPetya wiper ICS énergie infrastructures critiques"
+  },
+  {
+   "id": "lazarus-group",
+   "nom": "Lazarus Group",
+   "alias": "",
+   "ini": "LZ",
+   "cat": "state",
+   "origine": "Corée du Nord",
+   "debut": "Première activité connue : 2009",
+   "affil": "Corée du Nord — RGB (attribution)",
+   "tags": [
+    "Hybride / État",
+    "Espionnage",
+    "Cybercriminalité"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Espionnage, sabotage et financement par cybercriminalité"
+    },
+    {
+     "l": "Affiliation attribuée",
+     "v": "Corée du Nord — RGB"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Attaque contre Sony Pictures en 2014, Bangladesh Bank en 2016, WannaCry en 2017 et vol de cryptomonnaies Ronin en 2022.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Spear phishing, chevaux de Troie, compromission de logiciels et attaques contre les plateformes financières."
+    },
+    {
+     "l": "Cibles",
+     "v": "Banques, cryptomonnaies, défense, aéronautique et entreprises technologiques."
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "À compléter depuis MITRE ATT&CK"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier lors de la mise à jour"
+    }
+   ],
+   "mots": "Lazarus Group Sony Pictures Bangladesh Bank WannaCry Ronin cryptomonnaies finance espionnage sabotage"
+  },
+  {
+   "id": "apt41",
+   "nom": "APT41",
+   "alias": "Wicked Panda",
+   "ini": "41",
+   "cat": "state",
+   "origine": "Chine",
+   "debut": "Première activité connue : 2012",
+   "affil": "Chine — acteurs soutenus par l'État (attribution)",
+   "tags": [
+    "Hybride / État",
+    "Espionnage",
+    "Cybercriminalité"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Double activité : espionnage et cybercriminalité"
+    },
+    {
+     "l": "Origine / affiliation",
+     "v": "Chine — attribution à des acteurs soutenus par l'État"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Campagnes d'espionnage et opérations financières contre de nombreuses entreprises internationales.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Phishing, exploitation de vulnérabilités, malwares personnalisés et compromission de logiciels."
+    },
+    {
+     "l": "Cibles",
+     "v": "Santé, finance, télécommunications, jeux vidéo, éducation et technologies."
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "À compléter depuis MITRE ATT&CK"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier lors de la mise à jour"
+    }
+   ],
+   "mots": "APT41 Wicked Panda espionnage cybercriminalité santé finance télécommunications jeux vidéo éducation technologies"
+  },
+  {
+   "id": "apt37",
+   "nom": "APT37",
+   "alias": "",
+   "ini": "37",
+   "cat": "state",
+   "origine": "Corée du Nord",
+   "debut": "Première activité connue : 2012",
+   "affil": "Corée du Nord",
+   "tags": [
+    "APT / État"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Non précisée dans la cartographie source"
+    },
+    {
+     "l": "Affiliation",
+     "v": "Corée du Nord (attribution)"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "À documenter"
+    },
+    {
+     "l": "Identifiant MITRE / statut",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "APT37 Corée du Nord"
+  },
+  {
+   "id": "apt33",
+   "nom": "APT33",
+   "alias": "",
+   "ini": "33",
+   "cat": "state",
+   "origine": "Iran",
+   "debut": "Première activité connue : 2013",
+   "affil": "Iran — attribution étatique présumée",
+   "tags": [
+    "APT / État"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "À documenter"
+    },
+    {
+     "l": "Affiliation",
+     "v": "Iran — attribution étatique présumée"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "À documenter"
+    },
+    {
+     "l": "Identifiant MITRE / statut",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "APT33 Iran"
+  },
+  {
+   "id": "apt39",
+   "nom": "APT39",
+   "alias": "",
+   "ini": "39",
+   "cat": "state",
+   "origine": "Iran",
+   "debut": "Première activité connue : 2014",
+   "affil": "Iran — ministère du Renseignement (MOIS), attribution",
+   "tags": [
+    "APT / État"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "À documenter"
+    },
+    {
+     "l": "Affiliation",
+     "v": "Iran — MOIS (attribution)"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "À documenter"
+    },
+    {
+     "l": "Identifiant MITRE / statut",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "APT39 Iran ministère renseignement MOIS"
+  },
+  {
+   "id": "volt-typhoon",
+   "nom": "Volt Typhoon",
+   "alias": "",
+   "ini": "VT",
+   "cat": "state",
+   "origine": "Chine",
+   "debut": "Révélation publique : 2021",
+   "affil": "Chine — attribution américaine",
+   "tags": [
+    "APT / État",
+    "Infrastructures critiques"
+   ],
+   "champs": [
+    {
+     "l": "Motivation / spécialité",
+     "v": "Accès discret et maintien de présence dans des réseaux stratégiques ; prépositionnement potentiel."
+    },
+    {
+     "l": "Affiliation attribuée",
+     "v": "Chine — attribution américaine"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Opérations d'intrusion et de prépositionnement dans des infrastructures américaines.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Living off the Land, équipements réseau compromis et comptes valides."
+    },
+    {
+     "l": "Cibles",
+     "v": "Énergie, télécommunications, transport, eau et infrastructures critiques."
+    },
+    {
+     "l": "Identifiant MITRE / statut",
+     "v": "À compléter / à vérifier"
+    },
+    {
+     "l": "Dernière activité",
+     "v": "À actualiser"
+    }
+   ],
+   "mots": "Volt Typhoon Chine Living off the Land énergie télécommunications transport eau"
+  },
+  {
+   "id": "carbanak",
+   "nom": "Carbanak",
+   "alias": "",
+   "ini": "CB",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2013",
+   "affil": "Origine russophone présumée",
+   "tags": [
+    "Cybercriminalité"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Financière"
+    },
+    {
+     "l": "Origine",
+     "v": "Russophone présumée ; origine non établie avec certitude"
+    },
+    {
+     "l": "Modes opératoires / cibles",
+     "v": "À compléter dans la fiche de veille"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "Carbanak cybercrime russophone présumé"
+  },
+  {
+   "id": "fin7",
+   "nom": "FIN7",
+   "alias": "",
+   "ini": "F7",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2013",
+   "affil": "Origine russophone présumée",
+   "tags": [
+    "Cybercriminalité"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Financière"
+    },
+    {
+     "l": "Origine",
+     "v": "Russophone présumée"
+    },
+    {
+     "l": "Modes opératoires / cibles",
+     "v": "À compléter dans la fiche de veille"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "FIN7 cybercriminalité russophone présumée"
+  },
+  {
+   "id": "conti",
+   "nom": "Conti",
+   "alias": "",
+   "ini": "CT",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2019",
+   "affil": "Écosystème russophone",
+   "tags": [
+    "Ransomware",
+    "Extorsion"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Rançongiciel et extorsion"
+    },
+    {
+     "l": "Origine / écosystème",
+     "v": "Russophone"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Attaque contre le système de santé irlandais HSE en 2021. Infrastructure organisationnelle exposée après une fuite massive de communications internes en 2022.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Phishing, vol d'identifiants, mouvement latéral et chiffrement massif."
+    },
+    {
+     "l": "Cibles",
+     "v": "Santé, administrations, entreprises et infrastructures."
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier ; fuite de communications internes en 2022"
+    },
+    {
+     "l": "Identifiant MITRE",
+     "v": "À compléter"
+    }
+   ],
+   "mots": "Conti ransomware rançongiciel extorsion santé Irlande HSE phishing vol identifiants"
+  },
+  {
+   "id": "lockbit",
+   "nom": "LockBit",
+   "alias": "",
+   "ini": "LB",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2019",
+   "affil": "Écosystème russophone",
+   "tags": [
+    "Ransomware-as-a-Service",
+    "Double extorsion"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Extorsion financière"
+    },
+    {
+     "l": "Origine / écosystème",
+     "v": "Russophone"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Nombreuses attaques contre des entreprises, administrations et établissements de santé.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Accès via VPN compromis, exploitation de vulnérabilités, vol de données et double extorsion."
+    },
+    {
+     "l": "Cibles",
+     "v": "PME, grandes entreprises, collectivités, industrie et santé."
+    },
+    {
+     "l": "Organisation",
+     "v": "Les opérateurs développent le rançongiciel et le mettent à disposition d'affiliés.",
+     "w": 1
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE",
+     "v": "À compléter"
+    }
+   ],
+   "mots": "LockBit ransomware as a service RaaS double extorsion VPN PME santé collectivités"
+  },
+  {
+   "id": "cl0p",
+   "nom": "Cl0p",
+   "alias": "",
+   "ini": "C0",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité sous ce nom : 2019",
+   "affil": "Origine russophone présumée",
+   "tags": [
+    "Vol de données",
+    "Extorsion"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Vol massif de données et extorsion"
+    },
+    {
+     "l": "Origine",
+     "v": "Russophone présumée"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Campagnes d'exploitation de MOVEit Transfer en 2023.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Exploitation de vulnérabilités applicatives, exfiltration de données et menace de divulgation."
+    },
+    {
+     "l": "Cibles",
+     "v": "Entreprises, universités, administrations et prestataires informatiques."
+    },
+    {
+     "l": "Particularité",
+     "v": "L'extorsion peut être réalisée sans chiffrement des systèmes.",
+     "w": 1
+    }
+   ],
+   "mots": "Cl0p ransomware MOVEit Transfer 2023 exfiltration données extorsion"
+  },
+  {
+   "id": "blackcat-alphv",
+   "nom": "BlackCat / ALPHV",
+   "alias": "",
+   "ini": "BC",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2021",
+   "affil": "Écosystème russophone",
+   "tags": [
+    "Ransomware",
+    "RaaS"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Extorsion financière"
+    },
+    {
+     "l": "Origine / écosystème",
+     "v": "Russophone"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Attaque contre MGM Resorts en 2023, notamment associée à des affiliés utilisant des techniques d'ingénierie sociale.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Ingénierie sociale, compromission de comptes, exfiltration et chiffrement."
+    },
+    {
+     "l": "Cibles",
+     "v": "Entreprises, finance, santé, industrie et hôtellerie."
+    },
+    {
+     "l": "Statut",
+     "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE",
+     "v": "À compléter"
+    }
+   ],
+   "mots": "BlackCat ALPHV ransomware MGM Resorts 2023 ingénierie sociale"
+  },
+  {
+   "id": "akira",
+   "nom": "Akira",
+   "alias": "",
+   "ini": "AK",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2023",
+   "affil": "Origine non établie publiquement",
+   "tags": [
+    "Ransomware"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Financière — rançongiciel / extorsion"
+    },
+    {
+     "l": "Origine",
+     "v": "Non établie publiquement"
+    },
+    {
+     "l": "Modes opératoires / cibles",
+     "v": "À compléter avec des sources de veille à jour"
+    },
+    {
+     "l": "Statut / dernière activité",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "Akira ransomware origine non établie"
+  },
+  {
+   "id": "scattered-spider",
+   "nom": "Scattered Spider",
+   "alias": "",
+   "ini": "SS",
+   "cat": "crime",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2022",
+   "affil": "Acteurs anglophones ; affiliation étatique non établie",
+   "tags": [
+    "Intrusion",
+    "Ingénierie sociale"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Activités cybercriminelles ; motivation précise à documenter selon les campagnes"
+    },
+    {
+     "l": "Origine / affiliation",
+     "v": "Acteurs anglophones ; affiliation étatique non établie"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Intrusions dans des entreprises technologiques, télécommunications, jeux et hôtellerie.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Usurpation d'identité auprès du support informatique, SIM swapping et manipulation des procédures MFA."
+    },
+    {
+     "l": "Cibles",
+     "v": "Télécommunications, services cloud, grandes entreprises et fournisseurs de services."
+    },
+    {
+     "l": "Particularité",
+     "v": "Forte exploitation du facteur humain plutôt que dépendance exclusive aux malwares.",
+     "w": 1
+    }
+   ],
+   "mots": "Scattered Spider ingénierie sociale SIM swapping MFA assistance informatique télécommunications cloud"
+  },
+  {
+   "id": "anonymous",
+   "nom": "Anonymous",
+   "alias": "",
+   "ini": "AN",
+   "cat": "hacktivist",
+   "origine": "International",
+   "debut": "Première activité connue : 2003",
+   "affil": "International, sans direction centralisée",
+   "tags": [
+    "Hacktivisme",
+    "Décentralisé"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Politique, idéologique ou militante selon les opérations"
+    },
+    {
+     "l": "Organisation",
+     "v": "Mouvement décentralisé, non hiérarchisé"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Opérations contre des organisations gouvernementales, Scientology, des entreprises et des institutions.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Défiguration de sites, DDoS, divulgation d'informations et campagnes de communication."
+    },
+    {
+     "l": "Cibles",
+     "v": "Gouvernements, organisations politiques, entreprises et institutions contestées."
+    }
+   ],
+   "mots": "Anonymous hacktivisme DDoS divulgation données défiguration sites mouvement décentralisé"
+  },
+  {
+   "id": "lulzsec",
+   "nom": "LulzSec",
+   "alias": "",
+   "ini": "LS",
+   "cat": "hacktivist",
+   "origine": "International",
+   "debut": "Première activité connue : 2011",
+   "affil": "International",
+   "tags": [
+    "Hacktivisme"
+   ],
+   "champs": [
+    {
+     "l": "Motivation / méthodes / cibles",
+     "v": "Non détaillées dans la cartographie initiale ; à compléter."
+    },
+    {
+     "l": "Statut",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "LulzSec hacktivisme international"
+  },
+  {
+   "id": "killnet",
+   "nom": "Killnet",
+   "alias": "",
+   "ini": "KN",
+   "cat": "hacktivist",
+   "origine": "Russie",
+   "debut": "Première activité connue : 2022",
+   "affil": "Russie, orientation pro-russe",
+   "tags": [
+    "Hacktivisme",
+    "DDoS"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Politique / idéologique, orientation pro-russe"
+    },
+    {
+     "l": "Origine / orientation",
+     "v": "Russie, pro-russe"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Campagnes de perturbation contre des sites institutionnels et publics de pays soutenant l'Ukraine.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Attaques par déni de service distribué (DDoS), saturation de sites web et services Internet."
+    },
+    {
+     "l": "Cibles",
+     "v": "Administrations, aéroports, transports, institutions publiques et services financiers."
+    },
+    {
+     "l": "Particularité",
+     "v": "Communication publique des attaques et revendications politiques.",
+     "w": 1
+    }
+   ],
+   "mots": "Killnet Russie pro-russe DDoS administrations aéroports transports institutions publiques"
+  },
+  {
+   "id": "noname057-16",
+   "nom": "NoName057(16)",
+   "alias": "",
+   "ini": "NN",
+   "cat": "hacktivist",
+   "origine": "Russie",
+   "debut": "Première activité connue : 2022",
+   "affil": "Russie, orientation pro-russe",
+   "tags": [
+    "Hacktivisme",
+    "DDoS"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Politique / idéologique, orientation pro-russe"
+    },
+    {
+     "l": "Origine / orientation",
+     "v": "Russie, pro-russe"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Campagnes DDoS contre des sites gouvernementaux et financiers européens.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "Attaques DDoS coordonnées, notamment via le programme DDoSia."
+    },
+    {
+     "l": "Cibles",
+     "v": "Administrations, banques, transports et infrastructures numériques de pays considérés comme hostiles à la Russie."
+    },
+    {
+     "l": "Particularité",
+     "v": "Mobilisation de sympathisants et participants autour d'objectifs communs.",
+     "w": 1
+    }
+   ],
+   "mots": "NoName057(16) Russie pro-russe DDoSia banques transports administrations européennes"
+  },
+  {
+   "id": "anonymous-sudan",
+   "nom": "Anonymous Sudan",
+   "alias": "",
+   "ini": "AS",
+   "cat": "hacktivist",
+   "origine": "Non établie / contestée",
+   "debut": "Première activité connue : 2023",
+   "affil": "Origine et affiliation contestées",
+   "tags": [
+    "Hacktivisme revendiqué",
+    "Attribution incertaine"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "Identité et motivations réelles contestées"
+    },
+    {
+     "l": "Origine / affiliation",
+     "v": "Non établies ; liens éventuels avec d'autres acteurs controversés"
+    },
+    {
+     "l": "Faits marquants",
+     "v": "Attaques revendiquées contre des services numériques internationaux, notamment Microsoft en 2023.",
+     "w": 1
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "DDoS et revendications médiatiques."
+    },
+    {
+     "l": "Cibles",
+     "v": "Entreprises technologiques, services cloud, transports et institutions."
+    }
+   ],
+   "mots": "Anonymous Sudan Microsoft 2023 DDoS identité motivations liens contestés"
+  },
+  {
+   "id": "cyber-army-of-russia-reborn",
+   "nom": "Cyber Army of Russia Reborn",
+   "alias": "",
+   "ini": "CA",
+   "cat": "hacktivist",
+   "origine": "Russie",
+   "debut": "Première activité connue : 2022–2023",
+   "affil": "Russie ; affiliation étatique non établie définitivement",
+   "tags": [
+    "Hacktivisme",
+    "Attribution prudente"
+   ],
+   "champs": [
+    {
+     "l": "Motivation",
+     "v": "À documenter"
+    },
+    {
+     "l": "Affiliation",
+     "v": "Russie ; affiliation étatique non établie de manière définitive dans la source"
+    },
+    {
+     "l": "Modes opératoires / cibles",
+     "v": "À compléter"
+    },
+    {
+     "l": "Statut",
+     "v": "À vérifier"
+    }
+   ],
+   "mots": "Cyber Army of Russia Reborn affiliation étatique non établie"
+  }
+ ],
+ "ttp": [
+  [
+   "Spear phishing",
+   "Vol d'identifiants et intrusion initiale",
+   "APT28, APT29, Lazarus"
+  ],
+  [
+   "Exploitation de vulnérabilités",
+   "Accès initial à un système",
+   "Sandworm, Cl0p, APT41"
+  ],
+  [
+   "Ransomware",
+   "Chiffrement et extorsion",
+   "LockBit, Conti, Akira"
+  ],
+  [
+   "Double extorsion",
+   "Vol de données et chiffrement",
+   "LockBit, BlackCat"
+  ],
+  [
+   "DDoS",
+   "Indisponibilité d'un service",
+   "Killnet, NoName057(16)"
+  ],
+  [
+   "Ingénierie sociale",
+   "Manipulation des utilisateurs",
+   "Scattered Spider, Lazarus"
+  ],
+  [
+   "Living off the Land",
+   "Dissimuler les actions dans les outils légitimes",
+   "Volt Typhoon"
+  ],
+  [
+   "Supply chain attack",
+   "Compromettre un fournisseur pour atteindre ses clients",
+   "APT29, Lazarus"
+  ],
+  [
+   "Wiper",
+   "Destruction de données et de systèmes",
+   "Sandworm, certains acteurs liés à l'Iran"
+  ],
+  [
+   "Vol d'identifiants",
+   "Accès à des comptes et systèmes sensibles",
+   "Scattered Spider, APT29"
+  ]
+ ],
+ "veille": [
+  [
+   "Géopolitique et espionnage",
+   "APT28, APT29, APT41, Lazarus"
+  ],
+  [
+   "Infrastructures critiques",
+   "Sandworm, Volt Typhoon, CyberAv3ngers"
+  ],
+  [
+   "Ransomware et extorsion",
+   "LockBit, Cl0p, Akira, BlackCat"
+  ],
+  [
+   "Identités numériques",
+   "Scattered Spider, APT29, Lazarus"
+  ],
+  [
+   "Hacktivisme et DDoS",
+   "Killnet, NoName057(16), Anonymous"
+  ],
+  [
+   "Chaîne d'approvisionnement",
+   "APT29, Lazarus, Cl0p"
+  ],
+  [
+   "OT / ICS / industrie",
+   "Sandworm, Volt Typhoon, CyberAv3ngers"
+  ]
+ ]
+}
