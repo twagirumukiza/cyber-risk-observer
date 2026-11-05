@@ -1003,5 +1003,22 @@
    "OT / ICS / industrie",
    "Sandworm, Volt Typhoon, CyberAv3ngers"
   ]
+ ],
+ "cats": [
+  {
+   "k": "state",
+   "l": "APT / liés à un État",
+   "c": "#d1344b"
+  },
+  {
+   "k": "crime",
+   "l": "Cybercriminalité",
+   "c": "#c9701a"
+  },
+  {
+   "k": "hacktivist",
+   "l": "Hacktivisme",
+   "c": "#2f6fd6"
+  }
  ]
 }
