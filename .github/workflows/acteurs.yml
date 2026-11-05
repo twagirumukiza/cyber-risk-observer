@@ -1,0 +1,36 @@
+name: Observatoire — mise à jour
+
+# Met à jour data/acteurs-veille.json : identifiants et alias MITRE ATT&CK, dernières
+# mentions dans la presse, groupes à envisager. Se lance :
+#  - chaque jour à 05 h 40 (heure de Paris en hiver) ;
+#  - à la main (Actions > « Observatoire — mise à jour » > Run workflow) ;
+#  - depuis l'éditeur (onglet Observatoire > « Mettre à jour depuis internet »).
+
+on:
+  schedule:
+    - cron: "40 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: acteurs
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rechercher les informations
+        run: python collecte/acteurs.py
+      - name: Enregistrer
+        run: |
+          git config user.name "observatoire-bot"
+          git config user.email "observatoire-bot@users.noreply.github.com"
+          git add data/acteurs-veille.json
+          git diff --staged --quiet || (git commit -m "Observatoire : mise à jour automatique" && git pull --rebase origin "$GITHUB_REF_NAME" && git push)
