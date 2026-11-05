@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05T22:02:12Z",
+ "maj": "2026-11-05T22:27:00Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -528,12 +528,6 @@
   ],
   "scattered-spider": [
    {
-    "t": "Black Hat Europe 2026 Keynotes to Address AI Security Blind Spots and the Network Behind Scattered Spider and Lapsus$",
-    "s": "Business Wire",
-    "d": "2026-11-05",
-    "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUZQMnFiLWN5aFlqM0p3YTZGS1ctV3E0ekhJWUdCdDc3RDlDQUhabTdSU1RnaEFqb3hKbl9Ia3U5VTRkU0NRaDJlbVh5Y2JTbjkxd29Yc0pHQU85cDdfWms1MG1JazZUbVg3WUhVQmlWTVZuNDVGaHVtLUVIQUMyRFlST0cwem1FMXlPZ2tpQ3Rfb1J5LXRFUHk0a1pfczVBVkczZXlNUkl3UWMwckNzSXFOeVpLU3YwdEtaNnFuTG9GZ2RlNlEzM0J2aDlkMHZUd1k3OGFqaUZKSW5CWHdRMHdhNkd4U2huTmxfSUhRdWcxdXg5S25uR3A3RHBBb05WMGkzZ29tWQ?oc=5"
-   },
-   {
     "t": "Scattered Spider Hackers Exploit Help Desk Calls to Bypass MFA and Breach Corporate Networks",
     "s": "CyberSecurityNews",
     "d": "2026-10-21",
@@ -556,6 +550,12 @@
     "s": "Infosecurity Magazine",
     "d": "2026-09-15",
     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UZEFMODhLTkNSZXRGQmViNjFPVF8wWkpaNjFlSXZwZGlMRzVpTEROQzIyN1hVMDY2MGptNE1LZDhfcE5QNkVGSURYcC1qSERJWlFsMjFhbGdMcU1sYy1Od0V6TGh2WXAyWmcyOHlkbzBVMHZGMlZqNE1pOA?oc=5"
+   },
+   {
+    "t": "Scattered Spider | Who They Are & How to Stop Them",
+    "s": "DeXpose",
+    "d": "2026-09-08",
+    "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JbWc1Q1kyU3JBWmJsVjRvYTdmZHN2SEVjMjBkemVwMEFkYTI0RG9qTVNXZW1JMWtHVXV6Y01DWkx1OTQyRFc0aVNUYTE0blVxdmc?oc=5"
    }
   ],
   "anonymous": [
@@ -611,7 +611,5 @@
    "n": 2
   }
  ],
- "erreurs": [
-  "flux CISA (https://www.cisa.gov/cybersecurity-advisories/all.xml) : HTTP Error 403: Forbidden"
- ]
+ "erreurs": []
 }
