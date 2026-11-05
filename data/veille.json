@@ -1,5 +1,21 @@
 [
  {
+  "id": "790327c5c921",
+  "source": "CERT-FR alertes",
+  "rubrique": 2,
+  "titre": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-015/",
+  "date": "2026-11-05",
+  "resume": "Le 5 novembre 2026, OpenSSH a publié un avis de sécurité concernant une vulnérabilité qui permet à un attaquant de contourner l’authentification d'un service SSH. En effet, sur les systèmes Linux qui utilisent la bibliothèque standard C musl, compilés sans support PAM ou avec PAM désactivé, un...",
+  "criticite": "",
+  "poids": 3,
+  "tags": [
+   "Vulnérabilité",
+   "Identité & accès"
+  ],
+  "score": 10
+ },
+ {
   "id": "a665869d02d2",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -60,6 +76,201 @@
   "score": 6
  },
  {
+  "id": "a43f221f9628",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans MongoDB (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1462/",
+  "date": "2026-11-05",
+  "resume": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "c8f5c2d8f23d",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans OpenOffice (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1463/",
+  "date": "2026-11-05",
+  "resume": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "45a027a4c288",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits Siemens (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1464/",
+  "date": "2026-11-05",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "2025f328c3d4",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans SPIP (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1465/",
+  "date": "2026-11-05",
+  "resume": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à l'intégrité des données.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "1ab6fb49689b",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Microsoft Edge (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1466/",
+  "date": "2026-11-05",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "463ebe39838b",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits Cisco (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1467/",
+  "date": "2026-11-05",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "79dd47017c56",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1468/",
+  "date": "2026-11-05",
+  "resume": "Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "5d4d03269391",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+  "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+  "date": "2026-11-05",
+  "resume": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business.&nbsp; Each missing detail creates",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "1981b067cd83",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+  "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+  "date": "2026-11-05",
+  "resume": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 6
+ },
+ {
+  "id": "7e637a2f9fd7",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+  "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+  "date": "2026-11-05",
+  "resume": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "671b07a9ce2d",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+  "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+  "date": "2026-11-05",
+  "resume": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "6b1d9cd5a096",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "DigiCert data breach exposes customer information, identity documents",
+  "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+  "date": "2026-11-05",
+  "resume": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 6
+ },
+ {
+  "id": "dad53d7e3ed5",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Closing the Identity Gap at the Service Desk",
+  "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+  "date": "2026-11-05",
+  "resume": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Identité & accès"
+  ],
+  "score": 6
+ },
+ {
   "id": "b3caa2c28121",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -67,6 +278,36 @@
   "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-les-americains-expriment-aussi-leur-rejet-des-data-centers_6806840_3210.html",
   "date": "2026-11-05",
   "resume": "Dans plusieurs comtés, les électeurs se sont tournés vers les candidats démocrates qui promettaient des moratoires ou des interdictions de constructions de ces centres de données nécessaires au développement de l’intelligence artificielle.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [
+   "IA"
+  ],
+  "score": 5
+ },
+ {
+  "id": "f3486834d347",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+  "date": "2026-11-05",
+  "resume": "Le Nasdaq, sur lequel sont cotées de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre. Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [
+   "IA"
+  ],
+  "score": 5
+ },
+ {
+  "id": "408ff287345d",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "« Le grand danger serait une vision de la recherche mathématique cantonnée à sa partie la plus vulnérable à l’IA »",
+  "url": "https://www.lemonde.fr/sciences/article/2026/11/05/le-grand-danger-serait-une-vision-de-la-recherche-mathematique-cantonnee-a-sa-partie-la-plus-vulnerable-a-l-ia_6806850_1650684.html",
+  "date": "2026-11-05",
+  "resume": "En réduisant le domaine aux seuls problèmes que l’intelligence artificielle sait résoudre, c’est le travail des chercheurs, à la croisée des disciplines, qui est menacé, alertent les mathématiciens Stéphane Jaffard et Yves Meyer, dans une tribune au « Monde ».",
   "criticite": "",
   "poids": 0,
   "tags": [
@@ -108,6 +349,45 @@
   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
   "date": "2026-11-05",
   "resume": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "59043a855535",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+  "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+  "date": "2026-11-05",
+  "resume": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "5263a8e99f87",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Hackers backdoor Linux servers using trojanized CWP web server",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+  "date": "2026-11-05",
+  "resume": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "0e040b8f64fe",
+  "source": "ZATAZ",
+  "rubrique": 0,
+  "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
+  "url": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
+  "date": "2026-11-05",
+  "resume": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
   "criticite": "",
   "poids": 1,
   "tags": [],
@@ -472,6 +752,396 @@
   "url": "https://www.lemonde.fr/pixels/article/2026/11/05/les-marques-d-alcool-s-appuient-sur-les-reseaux-sociaux-pour-contourner-la-loi-evin_6806669_4408996.html",
   "date": "2026-11-05",
   "resume": "Addictions France consacre, jeudi 5 novembre, un troisième rapport à la promotion de l’alcool sur les grandes plateformes. Après avoir, par le passé, épinglé le rôle des influenceurs, l’association dénonce cette fois l’utilisation des contenus sponsorisés, qu’elle considère comme illégale.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "b045da53d3ca",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Irak, petites mains et figures du djihadisme français passent en jugement",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/en-irak-petites-mains-et-figures-du-djihadisme-francais-passent-en-jugement_6807335_3210.html",
+  "date": "2026-11-05",
+  "resume": "Parmi les 47 ressortissants français transférés depuis la Syrie et jugés par la justice irakienne à Bagdad pour appartenance à l’organisation Etat islamique figurent des vétérans du djihadisme hexagonal, à l’image de Thomas Collange.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "b7fe808f2968",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
+  "url": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
+  "date": "2026-11-05",
+  "resume": "Spécialiste des politiques environnementales et professeure associée à l’université de Californie à Santa Barbara, Leah C. Stokes juge, dans un entretien au « Monde », que les démocrates, en contrôlant le Sénat et la Chambre des représentants, peuvent faire avancer les sujets liés à la transition écologique.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "35f3eccda7e0",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Vanté par Donald Trump, l’accord américano-russe sur le gazole bat de l’aile",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
+  "date": "2026-11-05",
+  "resume": "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours. Craignant les risques réputationnels et les sanctions, les entreprises américaines rechignent à en acheter.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "941741e796c8",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Gaza : cinq personnes, dont un enfant, tuées par des bombardements israéliens, selon les services de secours palestiniens",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/gaza-quatre-personnes-dont-un-enfant-tuees-par-des-bombardements-israeliens-selon-les-services-de-secours-palestiniens_6807330_3210.html",
+  "date": "2026-11-05",
+  "resume": "Les principaux hôpitaux du centre et du sud du territoire, qui ont reçu les corps des victimes, ont confirmé ces informations.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "340d4660354f",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Nouvelle-Zélande, les Maoris très critiques vis-à-vis du bilan du gouvernement : « En trois ans, il a détruit cinquante ans d’acquis »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/en-nouvelle-zelande-les-maoris-tres-critiques-vis-a-vis-du-bilan-du-gouvernement-en-trois-ans-il-a-detruit-cinquante-ans-d-acquis_6807328_3210.html",
+  "date": "2026-11-05",
+  "resume": "Une large part de l’électorat maori, qui a vu ses droits remis en cause par le gouvernement libéral-conservateur dirigé par Christopher Luxon, entend sanctionner le pouvoir sortant lors des élections législatives du 7 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "a5066476e15a",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "L’ancien comédien britannique Russell Brand jugé coupable d’un viol et d’agressions sexuelles",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/l-ancien-comedien-britannique-russell-brand-juge-coupable-d-un-viol-et-d-agressions-sexuelles_6807325_3210.html",
+  "date": "2026-11-05",
+  "resume": "Six femmes l’accusaient de viols et d’agressions sexuelles entre 1999 et 2009, quand il était un célèbre humoriste et présentateur de télévision.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "306779ec6ea5",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Somalie, la Cour suprême juge « illégal » le maintien au pouvoir du président Hassan Sheikh Mohamud",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/05/en-somalie-la-cour-supreme-juge-illegal-le-maintien-au-pouvoir-du-president-hassan-sheikh-mohamud_6807324_3212.html",
+  "date": "2026-11-05",
+  "resume": "Mercredi, le chef de l’Etat avait annoncé sur Facebook avoir « démis de ses fonctions » le président de la Cour suprême, Bashe Yusuf Ahmed, « en réponse aux préoccupations exprimées par les juges ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "0be0772f68c8",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+  "date": "2026-11-05",
+  "resume": "Gadi Eisenkot a été désigné par les dirigeants de six partis, représentant une majorité des sièges à la Knesset, comme le candidat le plus légitime pour former un nouveau gouvernement. Le chef de l’Etat, Isaac Herzog, doit rendre sa décision d’ici au 11 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9c9fe3dd7a5c",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Nigeria : la justice annule la candidature à l’élection présidentielle de l’opposant Atiku Abubakar",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/05/nigeria-la-justice-annule-la-candidature-a-l-election-presidentielle-de-l-opposant-atiku-abubakar_6807290_3212.html",
+  "date": "2026-11-05",
+  "resume": "Le candidat du Congrès démocratique africain était arrivé deuxième à l’élection présidentielle de 2023 avec 29 % des voix.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9a3fa2d5c26d",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Paraguay : le président Santiago Peña annonce sa démission",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+  "date": "2026-11-05",
+  "resume": "L’annonce intervient quarante-huit heures après l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant 2,94 millions de clients, dont les dépôts ont été gelés temporairement.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "3e2bc14bd466",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Antonio Ferrara, figure française du grand banditisme, condamné à treize ans de prison en Belgique",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-treize-ans-de-prison-en-belgique_6807223_3210.html",
+  "date": "2026-11-05",
+  "resume": "Avec neuf coprévenus, il était poursuivi pour avoir planifié l’attaque à main armée d’un centre-fort à Bochum, en Allemagne.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "e262113bb849",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Sahara occidental : « L’échec de la diplomatie risque de renforcer la frange du Front Polisario favorable à l’escalade militaire avec le Maroc »",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/05/sahara-occidental-l-echec-de-la-diplomatie-risque-de-renforcer-la-frange-du-front-polisario-favorable-a-l-escalade-militaire-avec-le-maroc_6807189_3212.html",
+  "date": "2026-11-05",
+  "resume": "L’analyste Riccardo Fabiani explique, dans un entretien au « Monde », que le retrait de la mission onusienne de maintien de la paix dans le territoire sahraoui, le 1ᵉʳ novembre, pourrait se traduire sur le terrain par une dégradation de la situation sécuritaire.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "5aa0a5807d06",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, midterms 2026 : les dernières informations après la débâcle électorale de Trump et des républicains",
+  "url": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-midterms-2026-les-dernieres-informations-apres-la-debacle-electorale-de-trump-et-des-republicains_6805528_3210.html",
+  "date": "2026-11-05",
+  "resume": "Le Monde tient un direct consacré aux midterms, les élections de mi-mandat aux Etats-Unis, où les démocrates ont signé une victoire sans appel avec une majorité acquise aux deux chambres du Congrès américain.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "430866f91edf",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : les démocrates retrouvent un rôle crucial pour les nominations qui dépendent de Donald Trump",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-les-democrates-retrouvent-un-role-crucial-pour-les-nominations-qui-dependent-de-donald-trump_6807152_3210.html",
+  "date": "2026-11-05",
+  "resume": "La mainmise des démocrates au Sénat les met en position de force pour la confirmation de dizaines de postes qui dépendent du pouvoir de nomination du président américain, qu’il s’agisse des membres de son cabinet, de juges fédéraux ou de juges de la Cour suprême.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "bb8cb1ca8da5",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : depuis la Maison Blanche, Melania Trump appelle à un cessez-le-feu « durable » en Ukraine",
+  "url": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-depuis-la-maison-blanche-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_6803934_3210.html",
+  "date": "2026-11-05",
+  "resume": "« Nous devons désormais faire preuve du courage que nous avons montré à Olechky pour trouver un terrain d’entente. Ensemble, nous pouvons bâtir quelque chose de plus durable qu’un simple cessez-le-feu temporaire », a déclaré l’épouse du président américain, que la Maison Blanche met en avant depuis plusieurs semaines dans les efforts de médiation entre la Russie et l’Ukraine.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "7b2329a5e79e",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Israël : les deux principales listes arabes soutiennent Gadi Eisenkot pour former le prochain gouvernement",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-les-deux-principales-listes-arabes-soutiennent-gadi-eisenkot-pour-former-le-prochain-gouvernement_6807111_3210.html",
+  "date": "2026-11-05",
+  "resume": "Leur ralliement donnerait sur le papier une majorité de 67 sièges au rival de Benyamin Nétanyahou, mais plusieurs dirigeants de l’opposition refusent de gouverner avec les formations arabes.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "4a39cfba104b",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "« La droite américaine est de plus en plus opposée au soutien des Etats-Unis à Israël et verse dans l’antisémitisme »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/05/la-droite-americaine-est-de-plus-en-plus-opposee-au-soutien-des-etats-unis-a-israel-et-verse-dans-l-antisemitisme_6807076_3232.html",
+  "date": "2026-11-05",
+  "resume": "L’extrême droite affiche depuis longtemps des positions pro-israéliennes de manière à blanchir son antisémitisme, rappelle l’historienne américaine Suzanne Schneider, dans une tribune au « Monde ». Un discours fragilisé avec le retour d’une haine envers les juifs de plus en plus assumée.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "2f08bff818a4",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "La ministre des affaires étrangères yéménite, en visite à Paris, demande à l’UE d’ajouter les houthistes à sa liste des organisations terroristes",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/la-ministre-des-affaires-etrangeres-yemenite-en-visite-a-paris-demande-a-l-ue-d-ajouter-les-houthistes-a-sa-liste-des-organisations-terroristes_6806971_3210.html",
+  "date": "2026-11-05",
+  "resume": "Afrah Abdulaziz Al-Zouba, représentante du gouvernement reconnu par la communauté internationale, va aussi plaider pour désigner le groupe yéménite comme organisation terroriste en Allemagne, en Belgique, aux Pays-Bas, en Italie et en Grèce. Mais les Européens craignent d’exposer davantage leurs bateaux en mer Rouge.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "363930edbbdf",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Ce que l’on sait des alertes à la bombe qui ont perturbé le trafic aérien en Europe",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-perturbe-le-trafic-aerien-en-europe_6806848_3211.html",
+  "date": "2026-11-05",
+  "resume": "A midi jeudi, douze vols avaient été visés par des alertes à la bombe, ont signalé plusieurs autorités et compagnies. Tous les vols se sont posés en sécurité, ont-elles confirmé.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "7c373f921f13",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : l’argent d’Elon Musk n’a pas suffi à garder le Texas dans le giron républicain",
+  "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-l-argent-d-elon-musk-n-a-pas-suffi-a-garder-le-texas-dans-le-giron-republicain_6806937_3210.html",
+  "date": "2026-11-05",
+  "resume": "L’homme le plus riche du monde a engagé près d’un demi-milliard de dollars dans l’espoir de stopper la vague démocrate, en vain. Les sommes dépensées en politique aux Etats-Unis n’ont cessé d’enfler depuis 2010 mais elles ne suffisent pas toujours à peser sur le vote et ce ne sont pas systématiquement les républicains qui dépensent le plus.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "d1a0bac5351e",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
+  "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
+  "date": "2026-11-05",
+  "resume": "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "5261e7b470b9",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Sébastien Lecornu exhorte les banques à financer les candidats à l’élection présidentielle",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/05/sebastien-lecornu-exhorte-les-banques-a-financer-les-candidats-a-la-presidentielle_6807149_3234.html",
+  "date": "2026-11-05",
+  "resume": "Le premier ministre a envoyé deux nouveaux courriers aux banques françaises. Celles-ci plaident pour une solution impliquant des établissements financiers détenus directement ou indirectement par l’Etat.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "05cf6038c46a",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi",
+  "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
+  "date": "2026-11-05",
+  "resume": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. Peu avant 17 heures, Beauvau a fait savoir que près de 600 000 personnes ont participé à la mobilisation, ajoutant qu’il s’agissait d’une estimation non définitive.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "50151d7d0577",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "« Le gouvernement français a laissé passer l’occasion de redonner une dynamique aux salaires »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/05/le-gouvernement-francais-a-laisse-passer-l-occasion-de-redonner-une-dynamique-aux-salaires_6806904_3232.html",
+  "date": "2026-11-05",
+  "resume": "Pour l’heure, la réponse du gouvernement à la crise du pouvoir d’achat se concentre sur le smic, au risque d’accentuer le sentiment de déclassement des classes moyennes. Autant chercher à éteindre un incendie en craquant une allumette, estime dans sa chronique la journaliste au « Monde » Béatrice Madeline.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "e55e08145bd9",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Appel à témoignages : salariés, étudiants, comment vous adaptez-vous à la flambée des factures de gaz et d’électricité ?",
+  "url": "https://www.lemonde.fr/economie/appel-temoignages/2026/11/05/appel-a-temoignages-salaries-etudiants-comment-vous-adaptez-vous-a-la-flambee-des-factures-de-gaz-et-d-electricite_6806862_3234.html",
+  "date": "2026-11-05",
+  "resume": "Alors que les températures baissent drastiquement en France, les prix du gaz et de l’électricité s’envolent, sur fond de tensions internationales. Racontez-nous vos stratégies pour vous ajuster à ces factures qui s’alourdissent.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "b1e56ba2ce8a",
+  "source": "Le Monde Économie",
+  "rubrique": 5,
+  "titre": "« Il faudrait une augmentation du smic de plus de 130 euros par mois pour un temps plein uniquement pour retrouver le niveau de 2012 »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/05/il-faudrait-une-augmentation-du-smic-de-plus-de-130-euros-par-mois-pour-un-temps-plein-uniquement-pour-retrouver-le-niveau-de-2012_6806861_3232.html",
+  "date": "2026-11-05",
+  "resume": "En réponse à la mobilisation sociale, le gouvernement a évoqué la piste d’une revalorisation du smic. L’économiste Clément Carbonnier rappelle, dans une tribune au « Monde », que le salaire minimum n’a pas connu de coup de pouce depuis quatorze ans et que les salariés qui le touchent se sont appauvris par rapport à l’ensemble du pays.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "52993d924f1f",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
+  "date": "2026-11-05",
+  "resume": "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "beef047447de",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "En Ile-de-France, le nombre de locations Airbnb longue durée a atteint un record en 2025",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/05/en-ile-de-france-le-nombre-de-locations-airbnb-a-l-annee-a-atteint-un-record-en-2025_6806858_3234.html",
+  "date": "2026-11-05",
+  "resume": "Parmi les 139 400 annonces actives en Ile-de-France sur la plateforme, 52 900 sont louées plus de 120 jours par an – un chiffre qui a doublé depuis 2019.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "9df2cac594e6",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "Aide aux créateurs de contenu : pourquoi les annonces du CNC font grincer des dents",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/aide-aux-createurs-de-contenus-pourquoi-les-annonces-du-cnc-font-grincer-des-dents_6807331_4408996.html",
+  "date": "2026-11-05",
+  "resume": "Suspendu depuis le mois d’avril après une polémique, le fonds d’aide à la création sur les plateformes sociales du Centre national du cinéma et de l’image animée sera relancé en 2027, a annoncé son président, Gaëtan Bruel, jeudi, à la Paris Creator Week. Sans parvenir toutefois à convaincre des professionnels du secteur qui s’estiment « méprisés ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "d4cf46b498e7",
+  "source": "Le Monde Pixels",
+  "rubrique": 5,
+  "titre": "Mobilisation sociale et TikTok : une étude bat en brèche le rôle joué par la plateforme dans les violences",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html",
+  "date": "2026-11-05",
+  "resume": "Contrairement à ce qu’avance le gouvernement, les chercheurs n’ont pas trouvé de traces d’une coordination particulière des actions violentes sur le réseau social, ni d’une forte viralité des appels à en commettre.",
   "criticite": "",
   "poids": 0,
   "tags": [],
@@ -2431,396 +3101,6 @@
   "score": 3
  },
  {
-  "id": "f6f263558154",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington",
-  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-l-emissaire-americain-annonce-des-negociations-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-sous-mediation-de-washington_6803934_3210.html",
-  "date": "2026-11-03",
-  "resume": "Selon Steve Witkoff, ces discussions prévues mardi 10 et mercredi 11 novembre « porteront sur les dispositions de sécurité d’après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix ». Par ailleurs, des bombardements russes dans l’oblast de Zaporijia ont fait au moins 26 morts.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "f640f0861084",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "En Ukraine, l’industrie sidérurgique menacée d’effondrement : « A l’heure actuelle, aucune production d’acier n’est assurée dans le pays »",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-l-industrie-siderurgique-menacee-d-effondrement-a-l-heure-actuelle-aucune-production-d-acier-n-est-assuree-dans-le-pays_6805535_3210.html",
-  "date": "2026-11-03",
-  "resume": "Dans le bassin minier de Kryvy Rih, l’inquiétude est palpable. Alors que le complexe métallurgique d’ArcelorMittal, qui emploie 16 000 personnes, pourrait fermer après les frappes russes de septembre, le blocage des exportations en mer Noire et le bombardement des voies logistiques accélèrent le déclin d’un secteur économique qui faisait jadis la fierté du pays.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "ebd988ee1d14",
-  "source": "Le Monde International",
-  "rubrique": 5,
-  "titre": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
-  "url": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
-  "date": "2026-11-03",
-  "resume": "Sans attendre l’étude d’impact environnemental ni le plan d’aménagement du territoire, le géant américain a coupé à blanc 530 hectares de forêts sur deux sites, poussant les autorités, favorables à ces équipements, à durcir la législation.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "7c5f8a44677a",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "En Pologne, un opéra donne voix à la solidarité avec les Ukrainiens, contestée par le camp nationaliste",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-un-opera-donne-voix-a-la-solidarite-avec-les-ukrainiens-contestee-par-le-camp-nationaliste_6805530_3210.html",
-  "date": "2026-11-03",
-  "resume": "A Varsovie, les représentations des « Mères de Kherson », sur les atrocités de l’agression russe, ont eu une forte résonance dans un pays plus divisé que jamais sur le sort des réfugiés de guerre.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "9cdf85b4740a",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "EN DIRECT, midterms 2026 : après la clôture de la campagne, les Américains votent mardi pour renouveler le Congrès",
-  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html",
-  "date": "2026-11-03",
-  "resume": "Les premiers bureaux de vote ouvriront à 6 heures locales (midi à Paris) dans de nombreux États de la Côte est des Etats-Unis. Au vu des sondages, le camp démocrate entretient l’espoir de faire basculer de son côté la Chambre des représentants, voire le Sénat, afin de reprendre les leviers du pouvoir pour les deux dernières années du mandat de Donald Trump.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "eed4cb2bb1ad",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Seth Masket, politologue américain : « Les midterms sont plus que jamais des élections sur Donald Trump »",
-  "url": "https://www.lemonde.fr/idees/article/2026/11/03/seth-masket-politologue-americain-les-midterms-sont-plus-que-jamais-des-elections-sur-donald-trump_6805527_3232.html",
-  "date": "2026-11-03",
-  "resume": "Avant les élections de mi-mandat aux Etats-Unis, mardi, le professeur à l’université de Denver assure, dans un entretien au « Monde », qu’une victoire des démocrates n’affaiblirait pas l’emprise de Donald Trump sur le Parti républicain.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "67fa1689a493",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Face à la domination de SpaceX, l’Europe contrainte de se bâtir un accès autonome à l’espace",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html",
-  "date": "2026-11-03",
-  "resume": "Alors que la société spatiale d’Elon Musk a fermé l’accès à sa fusée Falcon-9, l’Europe doit réussir la montée en cadence d’Ariane-6 et espérer l’émergence de nouveaux lanceurs si elle veut pouvoir lancer ses centaines de satellites à venir.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "1570f25f29ec",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Midterms 2026 : les Américains appelés aux urnes pour un vote à valeur de référendum pour Donald Trump",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-les-americains-appeles-aux-urnes-pour-un-vote-a-valeur-de-referendum-pour-donald-trump_6805522_3210.html",
-  "date": "2026-11-03",
-  "resume": "Le président républicain est confronté au risque d’une vague démocrate qui pourrait emporter le Congrès américain et entraver sérieusement sa marge de manœuvre pour les deux dernières années de son mandat.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "3092c0d034bd",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Israël : un pays dans l’impasse politique",
-  "url": "https://www.lemonde.fr/podcasts/article/2026/11/03/israel-un-pays-dans-l-impasse-politique_6805519_5463015.html",
-  "date": "2026-11-03",
-  "resume": "Si le premier ministre israélien, Benyamin Nétanyahou, est en recul dans les urnes, l’opposition a pour le moment échoué à le détrôner. Les tractations s’annoncent tendues pour trouver celui qui réussira à rassembler une majorité au Parlement. Dans ce podcast, Luc Bronner, correspondant du « Monde » en Israël, analyse les scénarios possibles après les élections dans l’Etat hébreu.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "94a13e1b79a6",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Comment la popularité de Donald Trump s’est érodée en deux ans",
-  "url": "https://www.lemonde.fr/international/visuel/2026/11/03/comment-la-popularite-de-donald-trump-s-est-erodee-en-deux-ans_6805520_3210.html",
-  "date": "2026-11-03",
-  "resume": "Guerre en Iran, hausse du prix des carburants, soupçons de corruption, traque de la police fédérale de l’immigration (ICE)… Alors que les élections de mi-mandat, mardi 3 novembre, s’annoncent serrées pour les républicains, le président américain n’a jamais été aussi impopulaire.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "96023830a23b",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Iran : l’armée américaine a effectué des frappes sur l’île de Qeshm, selon le « Wall Street Journal »",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/iran-l-armee-americaine-a-effectue-des-frappes-sur-l-ile-de-qeshm-selon-le-wall-street-journal_6805420_3210.html",
-  "date": "2026-11-03",
-  "resume": "Ces frappes secrètes interviennent à la veille des élections de mi-mandat aux Etats-Unis, et alors que Donald Trump a déclaré qu’un accord avec l’Iran « pourrait arriver ».",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "a7cda74b13bd",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Cryptomonnaies : la Corée du Nord nie être impliquée dans le piratage de la plateforme Binance, rejetant les accusations du FBI",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
-  "date": "2026-11-03",
-  "resume": "La police fédérale américaine a accusé le groupe de pirates informatiques nord-coréens TraderTraitor d’être à l’origine du vol de 6,3 milliards de dollars d’actifs numériques. « Une grave provocation politique », a dénoncé Kim Yo-jong, sœur du dirigeant Kim Jong-un.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "005a3efcfb87",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "A Paris, les « trottoirs Vuitton » électrisent le débat sur le financement de l’espace public",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html",
-  "date": "2026-11-03",
-  "resume": "Louis Vuitton, filiale du groupe LVMH, a obtenu de transformer – à ses frais – les rues de Bassano et Galilée, au pied de son futur mégastore des Champs-Elysées. Depuis plusieurs années, le secteur privé multiplie les initiatives pour s’immiscer dans l’aménagement de l’espace public.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "bda8433f88af",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "EN DIRECT, guerre en Ukraine : Melania Trump va réunir à la Maison Blanche des « représentants de la Russie et de l’Ukraine »",
-  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-melania-trump-va-reunir-a-la-maison-blanche-des-representants-de-la-russie-et-de-l-ukraine_6803934_3210.html",
-  "date": "2026-11-03",
-  "resume": "L’épouse de Donald Trump va « personnellement réunir des représentants de la Russie et de l’Ukraine à la Maison Blanche », a annoncé le Bureau de la Première Dame des Etats-Unis. Cette annonce fait suite à la trêve humanitaire récente dans la région ukrainienne sous contrôle russe de Kherson, négociée à l’initiative de l’épouse de Donald Trump, selon Washington.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "61e4de6d10d5",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Au Brésil, les peuples autochtones dénoncent une vague de violences en représailles à la réélection de Lula",
-  "url": "https://www.lemonde.fr/planete/article/2026/11/03/au-bresil-les-peuples-autochtones-denoncent-une-vague-de-violences-en-represailles-a-la-reelection-de-lula_6805590_3244.html",
-  "date": "2026-11-03",
-  "resume": "La plupart des cas de violence concernent le peuple Guarani-kaiowa, qui revendique la démarcation de ses terres ancestrales, occupées par des producteurs de soja dans le Mato Grosso do Sul, dans le sud-ouest du pays.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "2ab0c199c255",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "EN DIRECT, midterms 2026 : A quel point l’état de l’économie pèsera sur ces élections de mi-mandat ? Posez-vos questions à notre correspondant",
-  "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-jour-de-vote-aux-etats-unis-pour-les-elections-de-mi-mandat-les-dernieres-informations-et-les-reponses-a-vos-questions_6805528_3210.html",
-  "date": "2026-11-03",
-  "resume": "A quel point les électeurs vont-ils sanctionner le président americain, et par conséquent son parti, pour les résultats de ses « trumponomics », alors que l’inflation se fait sentir à la pompe comme dans les rayons ? Nicolas Chapuis, notre correspondant à New York, de retour de l’Ohio, répond à vos questions à partir de 15h.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "b599c5674be9",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "La journaliste Vanessa Dougnac, grande spécialiste de l’Inde, est morte à 54 ans",
-  "url": "https://www.lemonde.fr/disparitions/article/2026/11/03/la-journaliste-vanessa-dougnac-grande-specialiste-de-l-inde-est-morte-a-54-ans_6805587_3382.html",
-  "date": "2026-11-03",
-  "resume": "Elle avait passé vingt-cinq ans de sa vie en Inde avant d’en être bannie par le gouvernement du nationaliste hindou Narendra Modi en février 2024. Elle a succombé à un cancer le 2 novembre.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "3e90570dd4ec",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "En Albanie, la contestation des étudiants ne faiblit pas, malgré le durcissement de la répression",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/en-albanie-la-contestation-des-etudiants-ne-faiblit-pas-malgre-le-durcissement-de-la-repression_6805586_3210.html",
-  "date": "2026-11-03",
-  "resume": "Face à la multiplication des heurts entre la police et les protestataires, le premier ministre albanais, Edi Rama, a annoncé de nouvelles mesures législatives sécuritaires. Les manifestants réclament sa démission.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "4d179fcec02c",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Midterms 206 : on a demandé à des Américains de noter Donald Trump",
-  "url": "https://www.lemonde.fr/videos/video/2026/11/03/midterms-aux-etats-unis-on-a-demande-a-des-americains-de-noter-donald-trump_6805584_1669088.html",
-  "date": "2026-11-03",
-  "resume": "Au Texas, deux sujets reviennent dans les critiques adressées au président américain : l’augmentation du prix de l’essence et les constructions effrénées de gigantesques data centers.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "aaed5973db6c",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Le référendum en Californie sur la taxation des milliardaires, un rendez-vous attendu, sur fond de montée des inégalités",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/le-referendum-en-californie-sur-la-taxation-des-milliardaires-un-rendez-vous-attendu-sur-fond-de-montee-des-inegalites_6805581_3210.html",
-  "date": "2026-11-03",
-  "resume": "Aux Etats-Unis, les débats sur l’imposition de la fortune surviennent lorsque l’accumulation de richesses devient exorbitante. Les électeurs du Golden State doivent se prononcer, mardi, sur un impôt sur la fortune exceptionnel de 5 % visant les milliardaires.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "cf0624f01197",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "A Madrid, le campement pour le droit au logement installé depuis plusieurs semaines a été démantelé",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/a-madrid-le-campement-pour-le-droit-au-logement-installe-depuis-plusieurs-semaines-a-ete-demantele_6805572_3210.html",
-  "date": "2026-11-03",
-  "resume": "Le campement, installé à Madrid à la fin de septembre pour manifester en faveur du droit au logement, a été démantelé dans la nuit de mardi à mercredi.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "3fb190a7fd1f",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Midterms 2026 : le Texas, l’un des Etats les plus conservateurs des Etats-Unis, au bord d’un basculement historique",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-le-texas-l-un-des-etats-les-plus-conservateurs-des-etats-unis-au-bord-d-un-basculement-historique_6805571_3210.html",
-  "date": "2026-11-03",
-  "resume": "Dans cet Etat républicain, la baisse du pouvoir d’achat et la dénonciation de la corruption alimentent la poussée du vote démocrate. Candidat au Sénat, James Talarico, 37 ans, devance son adversaire républicain, Ken Paxton, dans les sondages. Le Texas n’a pas élu de sénateur démocrate depuis 1988.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "6a400c444967",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "CARTE Midterms 2026 : les résultats en temps réel",
-  "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/03/midterms-2026-decouvrez-en-temps-reel-les-cartes-des-resultats_6805570_4355770.html",
-  "date": "2026-11-03",
-  "resume": "Les électeurs américains sont appelés aux urnes, mardi 3 novembre, afin de renouveler la totalité de la Chambre des représentants et le tiers du Sénat. Le Parti républicain de Donald Trump est menacé de perdre sa majorité dans les deux Chambres formant le Congrès.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "1635efde9b2c",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Midterms 2026 : à quelle heure connaîtra-t-on les résultats des élections américaines de mi-mandat ?",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-a-quelle-heure-connaitra-t-on-les-resultats-des-elections-americaines-de-mi-mandat_6805569_3210.html",
-  "date": "2026-11-03",
-  "resume": "Les électeurs américains doivent renouveler la totalité de la Chambre des représentants et un tiers du Sénat, mardi 3 novembre. Mais les dépouillements pourraient prendre du temps dans certains Etats.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "7d0fba1892a3",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Aux Etats-Unis, un enfant est mort de la rougeole dans l’Etat de New York pour la première fois en trente ans",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/aux-etats-unis-un-enfant-est-mort-de-la-rougeole-dans-l-etat-de-new-york-pour-la-premiere-fois-en-trente-ans_6805561_3210.html",
-  "date": "2026-11-03",
-  "resume": "La résurgence de la rougeole inquiète les autorités new-yorkaises alors que la défiance envers la vaccination progresse et que l’état d’urgence a été déclaré en octobre dans la région.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "16c97a0f9574",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Achille Mbembe, historien : « Il faut contrer l’idée fausse selon laquelle la démocratie serait anti-africaine »",
-  "url": "https://www.lemonde.fr/afrique/article/2026/11/03/achille-mbembe-historien-il-faut-contrer-l-idee-fausse-selon-laquelle-la-democratie-serait-anti-africaine_6805551_3212.html",
-  "date": "2026-11-03",
-  "resume": "Dans un entretien au « Monde », le directeur de la Fondation de l’innovation pour la démocratie défend un modèle propre au continent africain.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "c32414c1a2a4",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Midterms 2026 : au Minnesota, « comme partout en Amérique, le rejet de Donald Trump est immense »",
-  "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-au-minnesota-comme-partout-en-amerique-le-rejet-de-donald-trump-est-immense_6805550_3210.html",
-  "date": "2026-11-03",
-  "resume": "Larry Jacobs, professeur en sciences politiques à l’université du Minnesota-Twin Cities, estime que l’animosité envers le président américain dans cet Etat traumatisé par les violences de la police de l’immigration n’éclipse pas les facteurs locaux. Ainsi la candidate démocrate au Sénat, Peggy Flanagan, pourrait-elle être considérée comme trop à gauche par les électeurs indécis ou modérés.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "fd547d5c9d35",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "« America », un ballet dont Trump est l’anti-héros",
-  "url": "https://www.lemonde.fr/culture/article/2026/11/03/america-un-ballet-dont-trump-est-l-anti-heros_6805540_3246.html",
-  "date": "2026-11-03",
-  "resume": "Dans ce ballet pour 12 danseurs, le chorégraphe Martin Harriague de l’Opéra Grand Avignon se joue de l’image burlesque, cartoonesque, à la fois « divertissante et glaçante » du président américain. Un spectacle à découvrir lors de l’événement du « Monde » « Quel monde après Trump ? », organisé au Grand Rex le 10 novembre et diffusé en direct dans des cinémas partenaires.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "88b7c98364fe",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "La forte demande en cuivre donne de l’allant à l’Afrique dans la course aux métaux",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/03/la-forte-demande-en-cuivre-donne-de-l-allant-a-l-afrique-dans-la-course-aux-metaux_6805589_3234.html",
-  "date": "2026-11-03",
-  "resume": "La ruée vers le cuivre soutient la croissance de la production en République démocratique du Congo et en Zambie. Les perspectives florissantes de ce marché attirent de nouveaux investisseurs, notamment américains.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "c3b55429bdba",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "« Christine Lagarde entend jouer un rôle dans la campagne présidentielle. Pour y faire quoi ? »",
-  "url": "https://www.lemonde.fr/idees/article/2026/11/03/christine-lagarde-entend-jouer-un-role-dans-la-campagne-presidentielle-pour-y-faire-quoi_6805583_3232.html",
-  "date": "2026-11-03",
-  "resume": "La présidente de la BCE quittera son poste en février 2027, huit mois avant la fin de son mandat, pour retrouver sa « liberté d’expression ». Jusqu’à être candidate à l’Elysée ? s’interroge Eric Albert, dans sa chronique au « Monde ».",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 2
- },
- {
   "id": "ad2df65419af",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -4719,261 +4999,6 @@
   "score": 3
  },
  {
-  "id": "6f572656b6bc",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "030f4fe1d67f",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "39fabd67769e",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans Samba (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1400/",
-  "date": "2026-10-28",
-  "resume": "Une vulnérabilité a été découverte dans Samba. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "c3653add9321",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Docker Desktop (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1401/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Docker Desktop. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "0059b9bd2f44",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitées.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "8374ad3c3987",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "9741d79bd3fe",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Mitel OpenScape Endpoint Management (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1404/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Mitel OpenScape Endpoint Management. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "91246456017a",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "743b91969d36",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans les produits Mozilla (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
-  "date": "2026-10-28",
-  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "5b7d0f8be878",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
-  "date": "2026-10-28",
-  "resume": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "c8d8366281d6",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
-  "date": "2026-10-28",
-  "resume": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "eb73651e36ee",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-  "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-  "date": "2026-10-28",
-  "resume": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "IA"
-  ],
-  "score": 3
- },
- {
-  "id": "29d08fa787d9",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-  "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-  "date": "2026-10-28",
-  "resume": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "ce5fe177d9da",
-  "source": "The Hacker News",
-  "rubrique": 4,
-  "titre": "Wazuh and AI for Enhanced SOC Workflows",
-  "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-  "date": "2026-10-28",
-  "resume": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "IA"
-  ],
-  "score": 3
- },
- {
-  "id": "42a9e60af11b",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-  "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-  "date": "2026-10-28",
-  "resume": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
-  "id": "d75560f4cad5",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-  "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-  "date": "2026-10-28",
-  "resume": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "IA"
-  ],
-  "score": 3
- },
- {
-  "id": "dc166c047f57",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-  "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-  "date": "2026-10-28",
-  "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
- },
- {
   "id": "44a5cf1a9a6f",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -5047,21 +5072,6 @@
    "Vulnérabilité"
   ],
   "score": 4
- },
- {
-  "id": "b9fafd6eaac2",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (27 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1394/",
-  "date": "2026-10-27",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
  },
  {
   "id": "5943b3ba0784",
@@ -5422,21 +5432,6 @@
    "Rançongiciel"
   ],
   "score": 4
- },
- {
-  "id": "edde2ad25f2f",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
-  "date": "2026-10-19",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 3
  },
  {
   "id": "7d3104b45e33",
