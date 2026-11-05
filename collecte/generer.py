@@ -5,6 +5,7 @@ Lit data/items.json (écrit par l'éditeur) et produit :
   articles/<slug>/index.html   une vraie page par article (texte lisible par Google)
   rubriques/<slug>/index.html  une page par rubrique
   lexique/index.html           le lexique
+  threat-actors/index.html     l'observatoire des acteurs de la menace (data/acteurs.json)
   sitemap.xml, robots.txt
 Le design est repris de index.html (même feuille de style).
 Aucune dépendance : bibliothèque standard Python uniquement.
@@ -490,6 +491,9 @@ EXTRA_CSS = """
 .list-st{list-style:none;margin:0;padding:0}.list-st li{padding:14px 0;border-top:1px solid var(--line)}.list-st li:first-child{border-top:0}
 .list-st h2{margin:2px 0;font:700 1.25rem var(--head)}.list-st p{margin:4px 0;color:var(--muted)}.list-st time{font-size:.8rem;color:var(--muted)}
 .lxd dt{font:700 1.1rem var(--head);margin-top:16px}.lxd dd{margin:2px 0 0}
+.to-actor{border:1px solid var(--line);border-radius:8px;margin:10px 0}.to-actor summary{cursor:pointer;padding:12px 14px;font:700 1.1rem var(--head)}.to-actor summary small{display:block;font:400 .84rem var(--body);color:var(--muted);margin-top:3px}
+.to-det{padding:4px 14px 14px;border-top:1px solid var(--line)}.to-det dt{font-size:.7rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-top:10px;font-weight:700}.to-det dd{margin:2px 0 0}
+.to-notice{margin:16px 0;padding:12px 16px;border:1px solid #c9a24f;background:rgba(255,229,0,.12);border-radius:8px}
 """
 
 
@@ -497,7 +501,7 @@ def page(base, title, desc, canonical, body, tpl, extra_head="", active=None, og
     css, fonts, theme = tpl
     nav = f'<a href="{base}">Accueil</a>' + "".join(
         f'<a href="{base}rubriques/{RS[k]}/"' + (' aria-current="page"' if active == k else "") + f">{esc(S[k][0])}</a>" for k in RUB_PAGES if k != 0
-    ) + f'<a href="{base}lexique/"' + (' aria-current="page"' if active == 8 else "") + ">Lexique</a>"
+    ) + f'<a href="{base}lexique/"' + (' aria-current="page"' if active == 8 else "") + ">Lexique</a>" + f'<a href="{base}threat-actors/"' + (' aria-current="page"' if active == 9 else "") + ">Threat Actors</a>"
     ld = ""
     if jsonld:
         ld = '<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + "</script>"
@@ -585,7 +589,7 @@ def main():
         return f"{base}articles/{slugs[str(x['id'])]}/"
 
     tpl = load_template()
-    for d in ("articles", "rubriques", "lexique", "archives"):
+    for d in ("articles", "rubriques", "lexique", "archives", "threat-actors"):
         shutil.rmtree(ROOT / d, ignore_errors=True)
 
     urls = [(base, today)]
@@ -673,6 +677,56 @@ def main():
             page(base, "Lexique cyber – Cyber Risk Observer", "Lexique : termes, sigles et notions de cybersécurité expliqués simplement.", url, body, tpl, active=8),
             encoding="utf-8")
         urls.append((url, today))
+
+    # observatoire des acteurs de la menace (data/acteurs.json, écrit par l'éditeur)
+    ap = ROOT / "data" / "acteurs.json"
+    if ap.exists():
+        try:
+            ad = json.loads(ap.read_text(encoding="utf-8"))
+        except Exception:
+            ad = {}
+        acts = [a for a in (ad.get("acteurs") or []) if isinstance(a, dict) and a.get("nom")]
+        if acts:
+            cats = [("state", "APT / acteurs liés à un État"), ("crime", "Cybercriminalité"), ("hacktivist", "Hacktivisme")]
+            parts = []
+            for ck, cl in cats:
+                lst = [a for a in acts if a.get("cat") == ck]
+                if not lst:
+                    continue
+                cards = ""
+                for a in lst:
+                    sub = " · ".join(x for x in (a.get("debut"), a.get("affil")) if x)
+                    dd = "".join(f"<dt>{esc(f.get('l'))}</dt><dd>{esc(f.get('v'))}</dd>" for f in (a.get("champs") or []) if isinstance(f, dict) and f.get("v"))
+                    cards += (f"<details class='to-actor' id='{esc(a.get('id') or '')}'><summary>{esc(a['nom'])}"
+                              + (f" <span style='font-weight:400;color:var(--muted)'>/ {esc(a['alias'])}</span>" if a.get("alias") else "")
+                              + f"<small>{esc(sub)}</small></summary><div class='to-det'><dl>{dd}</dl></div></details>")
+                parts.append(f"<h2 style='font:700 1.35rem var(--head);margin-top:26px'>{esc(cl)} ({len(lst)})</h2>{cards}")
+
+            def tab(head, rows):
+                if not rows:
+                    return ""
+                th = "".join(f"<th>{esc(h)}</th>" for h in head)
+                tr = "".join("<tr>" + "".join(f"<td>{esc((r + [''] * len(head))[i])}</td>" for i in range(len(head))) + "</tr>" for r in rows if isinstance(r, list))
+                return f"<div class='tw'><table><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table></div>"
+
+            ttp = tab(["Mode opératoire", "Objectif principal", "Groupes représentatifs cités"], ad.get("ttp"))
+            vei = tab(["Domaine de veille", "Groupes à suivre"], ad.get("veille"))
+            notice = (f"<div class='to-notice'><strong>Précaution méthodologique.</strong> {esc(ad.get('notice'))}</div>" if ad.get("notice") else "")
+            body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › Threat Actors Observatory</div>"
+                    f"<h1>Threat Actors Observatory</h1>"
+                    f"<p style='color:var(--muted)'>Registre de veille des groupes de hackers, cybercriminels et hacktivistes : {len(acts)} acteurs, leurs motivations, leurs modes opératoires et les secteurs exposés.</p>"
+                    f"{notice}{''.join(parts)}"
+                    + (f"<h2 style='font:700 1.35rem var(--head);margin-top:30px'>Comparer les modes opératoires (TTP)</h2>{ttp}" if ttp else "")
+                    + (f"<h2 style='font:700 1.35rem var(--head);margin-top:30px'>Axes de veille recommandés</h2>{vei}" if vei else "")
+                    + f"<p style='margin-top:26px'><a href='{base}#threat-actors' style='text-decoration:underline'>Ouvrir l’observatoire interactif (recherche et filtres)</a></p></div>")
+            url = f"{base}threat-actors/"
+            out = ROOT / "threat-actors"
+            out.mkdir(parents=True, exist_ok=True)
+            (out / "index.html").write_text(
+                page(base, "Threat Actors Observatory – Cyber Risk Observer",
+                     f"Registre de veille de {len(acts)} groupes de hackers, cybercriminels et hacktivistes : motivations, modes opératoires, cibles.",
+                     url, body, tpl, active=9), encoding="utf-8")
+            urls.append((url, str(ad.get("maj") or today)[:10]))
 
     # sitemap + robots
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
