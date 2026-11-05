@@ -687,7 +687,7 @@ def main():
             ad = {}
         acts = [a for a in (ad.get("acteurs") or []) if isinstance(a, dict) and a.get("nom")]
         if acts:
-            cats = [("state", "APT / acteurs liés à un État"), ("crime", "Cybercriminalité"), ("hacktivist", "Hacktivisme")]
+            cats = [(c.get("k"), c.get("l")) for c in (ad.get("cats") or []) if isinstance(c, dict) and c.get("k")] or [("state", "APT / liés à un État"), ("crime", "Cybercriminalité"), ("hacktivist", "Hacktivisme")]
             parts = []
             for ck, cl in cats:
                 lst = [a for a in acts if a.get("cat") == ck]
