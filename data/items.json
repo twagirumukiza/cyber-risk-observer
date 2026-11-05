@@ -1,7 +1,7 @@
 [
  {
   "id": "rmw34vqc3zyhg",
-  "section": 1,
+  "section": 5,
   "kicker": "",
   "titre": "CYBERATTAQUES CONTRE LES RÉFRIGÉRATEURS DES SUPERMARCHÉS",
   "resume": "<p>En octobre 2026, plusieurs centaines de magasins en France ont été touchés par des manipulations à er distance de leurs installations frigorifiques. Une nouvelle vague a été signalée dans la nuit du 1 au 2 novembre dans plusieurs pays européens, notamment la Belgique, l'Estonie, l'Irlande, le Luxembourg, les Pays-Bas et la Suède. Des incidents ont également été rapportés en Finlande.</p><p>Les attaquants ont modifié des paramètres de régulation, notamment les cycles de dégivrage et les températures, provoquant le réchauffement d'enceintes réfrigérées et la perte de denrées. Dans certains cas, des températures de 50 °C ont été rapportées.</p><p>Le point technique central concerne les <b>contrôleurs</b> et interfaces de supervision OT utilisés pour piloter les équipements frigorifiques. Parmi les matériels cités dans les incidents figurent des contrôleurs Danfoss des gammes AK-SM et AK-SC, mais aussi des solutions d'autres fabricants, notamment Copeland/Dixell XWEB. Il serait donc inexact d'attribuer l'ensemble des incidents à une seule marque.</p>",
