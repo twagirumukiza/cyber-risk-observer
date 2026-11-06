@@ -236,181 +236,464 @@
  "classTitre": "Classement mondial CTFtime 2026",
  "writeups": [
   {
-   "id": "w87aca5dd",
-   "cat": "Web",
-   "titre": "L3akCTF 2026 Relizane is Down! team Cyber Pullingo",
+   "id": "w29ff31b8",
+   "cat": "Reverse",
+   "titre": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41141"
+   "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+   "d": "2026-11-05",
+   "s": "Check Point Research"
   },
   {
-   "id": "w2c4a1b3b",
-   "cat": "Web",
-   "titre": "JerseyCTF VI Relay Artifact TX-7 team NYUSEC",
+   "id": "w94d27511",
+   "cat": "Reverse",
+   "titre": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41140"
+   "url": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/",
+   "d": "2026-11-05",
+   "s": "Check Point Research"
   },
   {
-   "id": "w11138367",
-   "cat": "Web",
-   "titre": "JerseyCTF VI qaStaH nuq team NYUSEC",
+   "id": "wd6f9acbe",
+   "cat": "Autre",
+   "titre": "Looking for a co-founder to build something in cybersecurity (India)",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41139"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xos6ra/looking_for_a_cofounder_to_build_something_in/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "we0d50ae8",
-   "cat": "Web",
-   "titre": "JerseyCTF VI Recovered Signal File team NYUSEC",
+   "id": "w2ed07106",
+   "cat": "Autre",
+   "titre": "New Jersey Institute of Technology is hosting a 24-hour CTF this weekend!",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41138"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xordt3/new_jersey_institute_of_technology_is_hosting_a/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "w8bc65323",
-   "cat": "Web",
-   "titre": "JerseyCTF VI Fix Your Ship team NYUSEC",
+   "id": "w605fdff6",
+   "cat": "Autre",
+   "titre": "[CTF] New \"Intermediate\" vulnerable VM aka \"Discuss\" at hackmyvm.eu",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41137"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xoczb8/ctf_new_intermediate_vulnerable_vm_aka_discuss_at/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "w7952b35d",
+   "id": "w21c9f0f9",
    "cat": "Web",
-   "titre": "KubSTU CTF HellDriver team GR3B0M4",
+   "titre": "I got tired of juggling tools during CTFs, so I built this",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41136"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xopf8z/i_got_tired_of_juggling_tools_during_ctfs_so_i/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "w4f8c871c",
+   "id": "wb4269601",
    "cat": "Web",
-   "titre": "KubSTU CTF [Beginner] Mobile Waf 2 team mpei_larpers",
+   "titre": "Making HTTP header injection critical with one prompt",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41135"
+   "url": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
+   "d": "2026-11-04",
+   "s": "PortSwigger Research"
   },
   {
-   "id": "w35a30ffc",
+   "id": "wae775235",
    "cat": "Web",
-   "titre": "KubSTU CTF [Beginner] Matryoshka team mpei_larpers",
+   "titre": "The AI Pentesting wave. Pay for effort vs pay for impact.",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41134"
+   "url": "https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact",
+   "d": "2026-11-04",
+   "s": "Intigriti"
   },
   {
-   "id": "wd0355221",
-   "cat": "Web",
-   "titre": "KubSTU CTF [Beginner] Honeyleaf team mpei_larpers",
+   "id": "w1ab1e01f",
+   "cat": "Autre",
+   "titre": "Using AI to Capture the Flag: Huntress CTF Walkthrough + HomeBase Submission",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41133"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xntr17/using_ai_to_capture_the_flag_huntress_ctf/",
+   "d": "2026-11-04",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "w13fa9f1d",
+   "id": "w5749ff28",
    "cat": "Web",
-   "titre": "KubSTU CTF [Beginner] Gridlock team mpei_larpers",
+   "titre": "Huntress CTF26 - Welcome Robots",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41132"
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pUVBDSWN0c1hvMktTWE51blg5NVJMRWd6R0ZTWTBXLTlJQlZEeWNxdzlOdDhpV3c1TDJscUp4ZXRtdw?oc=5",
+   "d": "2026-11-04",
+   "s": "YouTube"
   },
   {
-   "id": "w37220c65",
-   "cat": "Web",
-   "titre": "KubSTU CTF [Beginner] Clearline team mpei_larpers",
+   "id": "wa53ec420",
+   "cat": "Forensic",
+   "titre": "Quickpost: Banana Equivalent Dose",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41131"
+   "url": "https://blog.didierstevens.com/2026/11/03/quickpost-banana-equivalent-dose/",
+   "d": "2026-11-03",
+   "s": "Didier Stevens"
   },
   {
-   "id": "w1b906140",
-   "cat": "Web",
-   "titre": "KubSTU CTF madk1dify team mpei_larpers",
+   "id": "w242d51ff",
+   "cat": "Reverse",
+   "titre": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41130"
+   "url": "https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/",
+   "d": "2026-11-03",
+   "s": "Check Point Research"
   },
   {
-   "id": "wedec10ca",
-   "cat": "Web",
-   "titre": "KubSTU CTF [STEGO] Subway 2 team mpei_larpers",
+   "id": "w0d57e39d",
+   "cat": "Autre",
+   "titre": "Looking for CTF Teammates – Building a Team for Cybersecurity CTFs",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41129"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xn3o5j/looking_for_ctf_teammates_building_a_team_for/",
+   "d": "2026-11-03",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "w5f36b28f",
-   "cat": "Web",
-   "titre": "KubSTU CTF RISC-V. team mpei_larpers",
+   "id": "wb3493e3d",
+   "cat": "Autre",
+   "titre": "HKCERT CTF 2026",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41128"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xmobl5/hkcert_ctf_2026/",
+   "d": "2026-11-03",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "w9feb5305",
+   "id": "wd0a1468c",
    "cat": "Web",
-   "titre": "KubSTU CTF Ouroboros team mpei_larpers",
+   "titre": "Is OpenAI Daybreak necessary for solving CTF challenges with Codex?",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41127"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xms09a/is_openai_daybreak_necessary_for_solving_ctf/",
+   "d": "2026-11-03",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "wbc617d2f",
+   "id": "wb7fe3673",
    "cat": "Web",
-   "titre": "KubSTU CTF WEB-3 Casino team mpei_larpers",
+   "titre": "PHP2Shell revisited: What Intigriti’s insights tell us about real-world risk",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41126"
+   "url": "https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk",
+   "d": "2026-11-02",
+   "s": "Intigriti"
   },
   {
-   "id": "w3508f8fc",
-   "cat": "Web",
-   "titre": "KubSTU CTF [Bounty] The Eyes of the Ranger team mpei_larpers",
+   "id": "webcf3b86",
+   "cat": "Forensic",
+   "titre": "Quickpost: Rad Pro",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41125"
+   "url": "https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/",
+   "d": "2026-11-02",
+   "s": "Didier Stevens"
   },
   {
-   "id": "wdc8ef861",
-   "cat": "Web",
-   "titre": "KubSTU CTF Bday party team mpei_larpers",
+   "id": "w77cb56fa",
+   "cat": "Reverse",
+   "titre": "2nd November – Threat Intelligence Report",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41124"
+   "url": "https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/",
+   "d": "2026-11-02",
+   "s": "Check Point Research"
   },
   {
-   "id": "w2cd4d4b2",
-   "cat": "Web",
-   "titre": "KubSTU CTF The Deterministic Fog team mpei_larpers",
+   "id": "w1c2d0ffc",
+   "cat": "Autre",
+   "titre": "A challenge for those willing to crack a cypher",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41123"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xlyks2/a_challenge_for_those_willing_to_crack_a_cypher/",
+   "d": "2026-11-02",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "wad7d9426",
+   "id": "w9c97b0c3",
    "cat": "Web",
-   "titre": "FAUST CTF 2026 Interstellar Mission Control team qiyu",
+   "titre": "I made a practical Arabic walkthrough of UNION-Based SQL Injection (3 PortSwigger Labs)",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41122"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xlzqn3/i_made_a_practical_arabic_walkthrough_of/",
+   "d": "2026-11-02",
+   "s": "Reddit r/securityCTF"
   },
   {
-   "id": "wa9ab33eb",
-   "cat": "Web",
-   "titre": "scriptCTF 2026 F**K team Abdelkader",
+   "id": "wa9e8deda",
+   "cat": "Forensic",
+   "titre": "Overview of Content Published in October",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41121"
+   "url": "https://blog.didierstevens.com/2026/11/01/overview-of-content-published-in-october-12/",
+   "d": "2026-11-01",
+   "s": "Didier Stevens"
   },
   {
-   "id": "w25fd5a7a",
+   "id": "w431f7f9d",
    "cat": "Web",
-   "titre": "scriptCTF 2026 Misdirection team Abdelkader",
+   "titre": "HTB: MakeSense",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41120"
+   "url": "https://0xdf.gitlab.io/2026/10/31/htb-makesense.html",
+   "d": "2026-10-31",
+   "s": "0xdf hacks stuff"
   },
   {
-   "id": "w371aca8a",
-   "cat": "Web",
-   "titre": "UIUCTF 2026 Sparxie: Vanishing Encore team Abdelkader",
+   "id": "we13bae5a",
+   "cat": "Forensic",
+   "titre": "Quickpost: WT20 Welding Electrodes & Radiation",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41119"
+   "url": "https://blog.didierstevens.com/2026/10/31/quickpost-wt20-welding-electrodes-radiation/",
+   "d": "2026-10-31",
+   "s": "Didier Stevens"
   },
   {
-   "id": "wf2f9aef4",
-   "cat": "Web",
-   "titre": "UIUCTF 2026 Firefly: Complete Combustion team Abdelkader",
+   "id": "wa5f0eb75",
+   "cat": "Forensic",
+   "titre": "Quickpost: Ghost USB-C",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41118"
+   "url": "https://blog.didierstevens.com/2026/10/31/quickpost-ghost-usb-c/",
+   "d": "2026-10-31",
+   "s": "Didier Stevens"
   },
   {
-   "id": "wdfd45330",
-   "cat": "Web",
-   "titre": "UIUCTF 2026 Something Handmade team Abdelkader",
+   "id": "wb4069083",
+   "cat": "Autre",
+   "titre": "[CTF] New \"Beginner\" vulnerable VM aka \"Madlabs\" at hackmyvm.eu",
    "niveau": "",
-   "url": "https://ctftime.org/writeup/41117"
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xkggx7/ctf_new_beginner_vulnerable_vm_aka_madlabs_at/",
+   "d": "2026-10-31",
+   "s": "Reddit r/securityCTF"
+  },
+  {
+   "id": "wdbf485e3",
+   "cat": "Web",
+   "titre": "Intigriti Bug Bytes #241 - October 2026 🚀",
+   "niveau": "",
+   "url": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
+   "d": "2026-10-30",
+   "s": "Intigriti"
+  },
+  {
+   "id": "w51b1baf5",
+   "cat": "Forensic",
+   "titre": "“A Ring Tone That I Cannot Hear” – Twenty Years Later",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/10/30/a-ring-tone-that-i-cannot-hear-twenty-years-later/",
+   "d": "2026-10-30",
+   "s": "Didier Stevens"
+  },
+  {
+   "id": "w8b65b353",
+   "cat": "Web",
+   "titre": "Everyone in the competition failed to solve this CTF challenge. Can you crack it?",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xjp31y/everyone_in_the_competition_failed_to_solve_this/",
+   "d": "2026-10-30",
+   "s": "Reddit r/securityCTF"
+  },
+  {
+   "id": "wb4246573",
+   "cat": "Autre",
+   "titre": "Constantly needing to consult write-ups",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xjghvn/constantly_needing_to_consult_writeups/",
+   "d": "2026-10-30",
+   "s": "Reddit r/securityCTF"
+  },
+  {
+   "id": "w9e873023",
+   "cat": "Reverse",
+   "titre": "Cohere’s Qwen Story: Looks More Like Model Jaggedness",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/",
+   "d": "2026-10-29",
+   "s": "Check Point Research"
+  },
+  {
+   "id": "wc49504ab",
+   "cat": "Autre",
+   "titre": "$5,000 API key challenge (root access provided)",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xiisq1/5000_api_key_challenge_root_access_provided/",
+   "d": "2026-10-29",
+   "s": "Reddit r/securityCTF"
+  },
+  {
+   "id": "we11ae897",
+   "cat": "Forensic",
+   "titre": "Quickpost: Uranium Glass",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/",
+   "d": "2026-10-28",
+   "s": "Didier Stevens"
+  },
+  {
+   "id": "w5d420a5d",
+   "cat": "Reverse",
+   "titre": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
+   "d": "2026-10-27",
+   "s": "Check Point Research"
+  },
+  {
+   "id": "w4f8c9402",
+   "cat": "Pwn",
+   "titre": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+   "niveau": "",
+   "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+   "d": "2026-10-27",
+   "s": "Google Project Zero"
+  },
+  {
+   "id": "wd207eac1",
+   "cat": "Reverse",
+   "titre": "26th October – Threat Intelligence Report",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/",
+   "d": "2026-10-26",
+   "s": "Check Point Research"
+  },
+  {
+   "id": "wbc582bfe",
+   "cat": "Reverse",
+   "titre": "Infostealer riding the AI Train",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
+   "d": "2026-10-23",
+   "s": "Check Point Research"
+  },
+  {
+   "id": "w6d304f20",
+   "cat": "Reverse",
+   "titre": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/",
+   "d": "2026-10-20",
+   "s": "Check Point Research"
+  },
+  {
+   "id": "w63bc80e5",
+   "cat": "Reverse",
+   "titre": "19th October – Threat Intelligence Report",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/",
+   "d": "2026-10-19",
+   "s": "Check Point Research"
+  },
+  {
+   "id": "w8c616d58",
+   "cat": "Forensic",
+   "titre": "Update: onedump.py Version 0.0.3",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/10/12/update-onedump-py-version-0-0-3/",
+   "d": "2026-10-12",
+   "s": "Didier Stevens"
+  },
+  {
+   "id": "w440dc284",
+   "cat": "Pwn",
+   "titre": "How to fix a bug in a fix",
+   "niveau": "",
+   "url": "https://projectzero.google/2026/10/emergency-patching.html",
+   "d": "2026-10-06",
+   "s": "Google Project Zero"
+  },
+  {
+   "id": "w3dbeb77d",
+   "cat": "Forensic",
+   "titre": "Overview of Content Published in September",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/",
+   "d": "2026-10-01",
+   "s": "Didier Stevens"
+  },
+  {
+   "id": "w00de0986",
+   "cat": "Forensic",
+   "titre": "Update: search-for-compression.py Version 0.0.8",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/",
+   "d": "2026-09-30",
+   "s": "Didier Stevens"
+  },
+  {
+   "id": "wdd842752",
+   "cat": "Crypto",
+   "titre": "New Challenges 10/2026",
+   "niveau": "",
+   "url": "https://blog.cryptohack.org/new-challenges-oct-2026",
+   "d": "2026-09-29",
+   "s": "CryptoHack"
+  },
+  {
+   "id": "w2b7f7c28",
+   "cat": "Pwn",
+   "titre": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+   "niveau": "",
+   "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+   "d": "2026-09-21",
+   "s": "Google Project Zero"
+  },
+  {
+   "id": "w337d2181",
+   "cat": "Pwn",
+   "titre": "Claude refused to write the exploit! A lie about the target was enough to change its mind",
+   "niveau": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1RSYjNYYWdDMzFSX2Q0Yk9Lem5obV9KYmFEc3VPTmI2a0kxbW85b2hoUWxodkp2RGw4aTkzOEZ4YkVwMUFzWnR2TXcxMzB0TDlITVczNDBxNzlOS1QzYnhsanFYUTNnT0QwQTJPTW9GVmZLNk8tZ3Q3US1IVmZrVTJpdU1tcHBUcHZvQ3VzemlaZUxyR194YjNGd1BiNzZCWDYwbHBKMmxyVGhvclQyMkdUNDJ5MktIQjY5WktyYk04dW5FRzFBcWlCblPSAdIBQVVfeXFMUDRCOE1zTHJBdnU4QV9hWlhWYXFXS0NUM1A5M01IYXIxdFJOM2FKOFA2MS1NcHlYME1WSFNaSkZlS01nMXU3WVJEblgwaTdOY2N6cWh6cG9uaUlJcEItRWNWc0hCZ2wzQldOcDF1TzdBWnJEWUotd2FNeE1CdnNQX2Qya2o4V1ZCUHNUbW04T1JHOENVeUJGRXlGaUd5ZWZIc3lIREozeU9VY0xORm9ObHZWYzRfa0pIWldDdFZUQUpPTnlCRUc5YkNkQ0swc1FPYmNB?oc=5",
+   "d": "2026-09-19",
+   "s": "WION"
+  },
+  {
+   "id": "w13c41cfd",
+   "cat": "Pwn",
+   "titre": "HTB: Silentium",
+   "niveau": "",
+   "url": "https://0xdf.gitlab.io/2026/09/12/htb-silentium.html",
+   "d": "2026-09-12",
+   "s": "0xdf hacks stuff"
+  },
+  {
+   "id": "w8bcfcfc6",
+   "cat": "Pwn",
+   "titre": "Once in a BlueMoon: Multiple State-Aligned Threat Actors Rapidly Adopt Novel Exploit Chain Using Chrome and Windows Zero-Days",
+   "niveau": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWRmdnVfYU9Jb19QV1lnSWMtc1FkbWJDcDVoWGl4NUFDb0ppdjZ4M18zUkZXcGQyeEdUYmxFZ0dkcWphRDdzLVk4QWN0T2wyRENuLVo5MmViYnZpNzlnOXNRZ1J3RmNpREJNYWZyTHJoNnZsVExaZnpGdW0wQXZqZE9oRzJHTkNHMENtdzBaeHdjZ1Z1cmNHanljODNlYmZtZ09icW9RNDZTRmtzaDdVOS1tV25JbVFZOUcwc3NIeUQxSGRVQkg4?oc=5",
+   "d": "2026-09-09",
+   "s": "Proofpoint"
+  },
+  {
+   "id": "w6da4aadd",
+   "cat": "Pwn",
+   "titre": "Testing race conditions with memory access tracing and stack-based delay injection",
+   "niveau": "",
+   "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+   "d": "2026-09-08",
+   "s": "Google Project Zero"
+  },
+  {
+   "id": "w5bef8f7a",
+   "cat": "Pwn",
+   "titre": "OpenAI: Hugging Face Incident a “Warning Shot” to the World",
+   "niveau": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3hTczJvWWZCNnBVMjJOTVFnV1JWYzVOSDI4bHBtQkZyWWRvOHEzdXVhUTFGU2hGaEZqTzFReWxVSThIbXY2MEJlUXl0M3lndTRJRTVNUS1EdlhYc3VTRVNmbmxBT1ptUmszX3g5ZTQ5Y3hscXZDMlJsajRuMENYbVFR?oc=5",
+   "d": "2026-08-27",
+   "s": "Infosecurity Magazine"
   }
  ],
- "maj": "2026-11-06T05:44:55Z",
+ "maj": "2026-11-06T06:08:56Z",
+ "sources": {
+  "CTFtime — writeups": 0,
+  "0xdf hacks stuff": 18,
+  "CryptoHack": 1,
+  "PortSwigger Research": 9,
+  "Intigriti": 20,
+  "The DFIR Report": 1,
+  "Didier Stevens": 10,
+  "Check Point Research": 15,
+  "Google Project Zero": 4,
+  "Reddit r/securityCTF": 21,
+  "Web — Web": 2,
+  "Web — Crypto": 0,
+  "Web — Forensic": 0,
+  "Web — Reverse": 1,
+  "Web — Pwn": 4
+ },
  "erreurs": []
 }
