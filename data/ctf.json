@@ -1,0 +1,132 @@
+{
+ "maj": "2026-11-05",
+ "intro": "Actualité des Capture The Flag : compétitions, classements et corrigés commentés.",
+ "debuter": "Choisissez une catégorie, une plateforme d’entraînement et documentez chaque résolution : c’est la meilleure façon de progresser.",
+ "classTitre": "Classement de la saison",
+ "classAuto": true,
+ "cats": [
+  "Web",
+  "Crypto",
+  "Forensic",
+  "Reverse",
+  "Pwn"
+ ],
+ "calendrier": [
+  {
+   "id": "c1",
+   "nom": "CTF d’automne en ligne",
+   "date": "2026-11-08",
+   "duree": "24 h",
+   "format": "équipes",
+   "niveau": "tous niveaux",
+   "ex": 1
+  },
+  {
+   "id": "c2",
+   "nom": "Défi forensic du week-end",
+   "date": "2026-11-14",
+   "duree": "48 h",
+   "format": "individuel",
+   "niveau": "intermédiaire",
+   "ex": 1
+  },
+  {
+   "id": "c3",
+   "nom": "CTF inter-écoles",
+   "date": "2026-11-21",
+   "duree": "12 h",
+   "format": "équipes",
+   "niveau": "débutant",
+   "ex": 1
+  },
+  {
+   "id": "c4",
+   "nom": "Attaque-défense régional",
+   "date": "2026-12-05",
+   "duree": "8 h",
+   "format": "équipes",
+   "niveau": "avancé",
+   "ex": 1
+  },
+  {
+   "id": "c5",
+   "nom": "Hackathon sécurité web",
+   "date": "2026-12-12",
+   "duree": "24 h",
+   "format": "équipes",
+   "niveau": "intermédiaire",
+   "ex": 1
+  }
+ ],
+ "classement": [
+  {
+   "equipe": "Zéro Jour",
+   "points": 4820,
+   "ex": 1
+  },
+  {
+   "equipe": "Pointeur Nul",
+   "points": 4510,
+   "ex": 1
+  },
+  {
+   "equipe": "Rootine",
+   "points": 4105,
+   "ex": 1
+  },
+  {
+   "equipe": "Chiffre Impair",
+   "points": 3960,
+   "ex": 1
+  },
+  {
+   "equipe": "Ping Pong",
+   "points": 3720,
+   "ex": 1
+  }
+ ],
+ "writeups": [
+  {
+   "id": "w1",
+   "cat": "Web",
+   "titre": "Injection SQL jusqu’à l’exécution de code",
+   "niveau": "Intermédiaire",
+   "ex": 1
+  },
+  {
+   "id": "w2",
+   "cat": "Crypto",
+   "titre": "Un chiffrement RSA mal paramétré",
+   "niveau": "Débutant",
+   "ex": 1
+  },
+  {
+   "id": "w3",
+   "cat": "Forensic",
+   "titre": "Retrouver un fichier supprimé dans une capture mémoire",
+   "niveau": "Intermédiaire",
+   "ex": 1
+  },
+  {
+   "id": "w4",
+   "cat": "Reverse",
+   "titre": "Déobfusquer un binaire en trois étapes",
+   "niveau": "Avancé",
+   "ex": 1
+  },
+  {
+   "id": "w5",
+   "cat": "Pwn",
+   "titre": "Dépassement de tampon : premiers pas",
+   "niveau": "Avancé",
+   "ex": 1
+  },
+  {
+   "id": "w6",
+   "cat": "Web",
+   "titre": "Contourner une authentification par jeton",
+   "niveau": "Débutant",
+   "ex": 1
+  }
+ ]
+}
