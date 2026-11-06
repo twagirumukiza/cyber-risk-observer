@@ -7,7 +7,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 10.31",
-   "url": "https://ctftime.org/event/3418/"
+   "url": "https://ctf.hkcert.org/",
+   "mode": "online",
+   "poids": 10.31,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3331,
@@ -16,7 +22,13 @@
    "duree": "3 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3331/"
+   "url": "https://ctf.pink.bayern/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3333,
@@ -25,7 +37,13 @@
    "duree": "2 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3333/"
+   "url": "https://2026.chronos-security.ro/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3339,
@@ -34,7 +52,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3339/"
+   "url": "https://spooky.ctfd.io/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3242,
@@ -43,7 +67,13 @@
    "duree": "4 h",
    "format": "Jeopardy · sur site (Switzerland, Yverdon-les-Bains)",
    "niveau": "",
-   "url": "https://ctftime.org/event/3242/"
+   "url": "https://blackalps.ch/ba-26/contest",
+   "mode": "onsite",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3455,
@@ -52,7 +82,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3455/"
+   "url": "https://ctf.rarebytehub.com/events/mimic",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
   },
   {
    "ct": 3410,
@@ -61,7 +97,13 @@
    "duree": "1 j 12 h",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 1",
-   "url": "https://ctftime.org/event/3410/"
+   "url": "https://ctf.csaw.io/",
+   "mode": "online",
+   "poids": 1.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
   },
   {
    "ct": 3486,
@@ -70,7 +112,13 @@
    "duree": "10 h",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3486/"
+   "url": "https://ctf-techvisions.com/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3082,
@@ -79,7 +127,13 @@
    "duree": "18 h",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 37",
-   "url": "https://ctftime.org/event/3082/"
+   "url": "https://platypwnies.de/events/platypwn/",
+   "mode": "online",
+   "poids": 37.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3049,
@@ -88,7 +142,13 @@
    "duree": "2 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3049/"
+   "url": "https://wolvctf.io/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3464,
@@ -97,7 +157,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 24.23",
-   "url": "https://ctftime.org/event/3464/"
+   "url": "https://h4ckc0n.in/",
+   "mode": "online",
+   "poids": 24.23,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ko"
   },
   {
    "ct": 3467,
@@ -106,7 +172,13 @@
    "duree": "8 h",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3467/"
+   "url": "https://hackersinindia.com/init-ctf",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3419,
@@ -115,7 +187,13 @@
    "duree": "2 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3419/"
+   "url": "https://eyesopensecurity.com/ctf-briefing.html",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3337,
@@ -124,7 +202,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 73.17",
-   "url": "https://ctftime.org/event/3337/"
+   "url": "https://glacierctf.com/",
+   "mode": "online",
+   "poids": 73.17,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3425,
@@ -133,7 +217,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3425/"
+   "url": "http://ctf.hscyber.org/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3408,
@@ -142,7 +232,13 @@
    "duree": "20 h",
    "format": "Jeopardy · sur site (Mathura, Uttar Pradesh, India)",
    "niveau": "",
-   "url": "https://ctftime.org/event/3408/"
+   "url": "https://seizedaflaq.cyberonites.com/",
+   "mode": "onsite",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3336,
@@ -151,7 +247,13 @@
    "duree": "8 h",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 37",
-   "url": "https://ctftime.org/event/3336/"
+   "url": "https://foi.se/cratectf",
+   "mode": "online",
+   "poids": 37.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3436,
@@ -160,7 +262,13 @@
    "duree": "7 h",
    "format": "Jeopardy · sur site (Onsite at 6 locations in Canada)",
    "niveau": "",
-   "url": "https://ctftime.org/event/3436/"
+   "url": "https://cybersecuritychallenge.ca/",
+   "mode": "onsite",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3474,
@@ -169,7 +277,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 45.76",
-   "url": "https://ctftime.org/event/3474/"
+   "url": "https://lakectf.epfl.ch/",
+   "mode": "online",
+   "poids": 45.76,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3485,
@@ -178,7 +292,163 @@
    "duree": "12 h",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3485/"
+   "url": "https://l3m0nctf.xyz/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
+  },
+  {
+   "ct": 3489,
+   "nom": "CyberNSK2027-Qualifier",
+   "date": "2026-11-28",
+   "duree": "12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://quals.sslctf.ru/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
+  },
+  {
+   "ct": 3386,
+   "nom": "BlackHat MEA CTF Final 2026",
+   "date": "2026-12-01",
+   "duree": "2 j",
+   "format": "Jeopardy · sur site (Riyadh, Saudi Arabia)",
+   "niveau": "",
+   "url": "https://blackhatmea.com/capture-the-flag",
+   "mode": "onsite",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
+  },
+  {
+   "ct": 3450,
+   "nom": "x3CTF 2026",
+   "date": "2026-12-04",
+   "duree": "2 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://x3c.tf/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
+  },
+  {
+   "ct": 3480,
+   "nom": "bi0sCTF 2026",
+   "date": "2026-12-05",
+   "duree": "1 j 12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 79.51",
+   "url": "https://ctf.bi0s.in/",
+   "mode": "online",
+   "poids": 79.51,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
+  },
+  {
+   "ct": 3493,
+   "nom": "OTERIA Cyber Cup #4",
+   "date": "2026-12-05",
+   "duree": "8 h",
+   "format": "Jeopardy · sur site (France, Gennevilliers)",
+   "niveau": "",
+   "url": "https://www.oteria-cyber-cup.fr/",
+   "mode": "onsite",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
+  },
+  {
+   "ct": 3367,
+   "nom": "niteCTF 2026",
+   "date": "2026-12-11",
+   "duree": "2 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 59",
+   "url": "https://nitectf.cryptonitemit.in/",
+   "mode": "online",
+   "poids": 59.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
+  },
+  {
+   "ct": 3475,
+   "nom": "BSides Algiers 2026",
+   "date": "2026-12-17",
+   "duree": "1 j 12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 22.9",
+   "url": "https://shellmates.club/",
+   "mode": "online",
+   "poids": 22.9,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
+  },
+  {
+   "ct": 3472,
+   "nom": "BackdoorCTF 2026",
+   "date": "2026-12-19",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 77.38",
+   "url": "https://backdoor.infoseciitr.in/",
+   "mode": "online",
+   "poids": 77.38,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
+  },
+  {
+   "ct": 3062,
+   "nom": "ASIS CTF Finals 2026",
+   "date": "2026-12-27",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 99.38",
+   "url": "https://asisctf.com/",
+   "mode": "online",
+   "poids": 99.38,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
+  },
+  {
+   "ct": 3492,
+   "nom": "GaianSpace Perihelion CTF 2027",
+   "date": "2027-01-02",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 25",
+   "url": "https://gaian.space/ctf",
+   "mode": "online",
+   "poids": 25.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   }
  ],
  "classement": [
@@ -233,7 +503,7 @@
    "pays": ""
   }
  ],
- "classTitre": "Classement mondial CTFtime 2026",
+ "classTitre": "Classement mondial 2026",
  "writeups": [
   {
    "id": "w29ff31b8",
@@ -242,7 +512,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
    "d": "2026-11-05",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w94d27511",
@@ -251,7 +523,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/",
    "d": "2026-11-05",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "wd6f9acbe",
@@ -260,7 +534,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xos6ra/looking_for_a_cofounder_to_build_something_in/",
    "d": "2026-11-05",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "w2ed07106",
@@ -269,7 +545,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xordt3/new_jersey_institute_of_technology_is_hosting_a/",
    "d": "2026-11-05",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "w605fdff6",
@@ -278,7 +556,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xoczb8/ctf_new_intermediate_vulnerable_vm_aka_discuss_at/",
    "d": "2026-11-05",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "w21c9f0f9",
@@ -287,16 +567,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xopf8z/i_got_tired_of_juggling_tools_during_ctfs_so_i/",
    "d": "2026-11-05",
-   "s": "Reddit r/securityCTF"
-  },
-  {
-   "id": "wb4269601",
-   "cat": "Web",
-   "titre": "Making HTTP header injection critical with one prompt",
-   "niveau": "",
-   "url": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
-   "d": "2026-11-04",
-   "s": "PortSwigger Research"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wae775235",
@@ -305,7 +578,9 @@
    "niveau": "",
    "url": "https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact",
    "d": "2026-11-04",
-   "s": "Intigriti"
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w1ab1e01f",
@@ -314,16 +589,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xntr17/using_ai_to_capture_the_flag_huntress_ctf/",
    "d": "2026-11-04",
-   "s": "Reddit r/securityCTF"
-  },
-  {
-   "id": "w5749ff28",
-   "cat": "Web",
-   "titre": "Huntress CTF26 - Welcome Robots",
-   "niveau": "",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pUVBDSWN0c1hvMktTWE51blg5NVJMRWd6R0ZTWTBXLTlJQlZEeWNxdzlOdDhpV3c1TDJscUp4ZXRtdw?oc=5",
-   "d": "2026-11-04",
-   "s": "YouTube"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wa53ec420",
@@ -332,7 +600,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/11/03/quickpost-banana-equivalent-dose/",
    "d": "2026-11-03",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w242d51ff",
@@ -341,7 +611,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/",
    "d": "2026-11-03",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w0d57e39d",
@@ -350,7 +622,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xn3o5j/looking_for_ctf_teammates_building_a_team_for/",
    "d": "2026-11-03",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wb3493e3d",
@@ -359,7 +633,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xmobl5/hkcert_ctf_2026/",
    "d": "2026-11-03",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wd0a1468c",
@@ -368,7 +644,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xms09a/is_openai_daybreak_necessary_for_solving_ctf/",
    "d": "2026-11-03",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wb7fe3673",
@@ -377,7 +655,9 @@
    "niveau": "",
    "url": "https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk",
    "d": "2026-11-02",
-   "s": "Intigriti"
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "webcf3b86",
@@ -386,7 +666,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/",
    "d": "2026-11-02",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w77cb56fa",
@@ -395,7 +677,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/",
    "d": "2026-11-02",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w1c2d0ffc",
@@ -404,7 +688,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xlyks2/a_challenge_for_those_willing_to_crack_a_cypher/",
    "d": "2026-11-02",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "w9c97b0c3",
@@ -413,7 +699,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xlzqn3/i_made_a_practical_arabic_walkthrough_of/",
    "d": "2026-11-02",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wa9e8deda",
@@ -422,7 +710,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/11/01/overview-of-content-published-in-october-12/",
    "d": "2026-11-01",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w431f7f9d",
@@ -431,7 +721,9 @@
    "niveau": "",
    "url": "https://0xdf.gitlab.io/2026/10/31/htb-makesense.html",
    "d": "2026-10-31",
-   "s": "0xdf hacks stuff"
+   "s": "0xdf hacks stuff",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "we13bae5a",
@@ -440,7 +732,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/10/31/quickpost-wt20-welding-electrodes-radiation/",
    "d": "2026-10-31",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "wa5f0eb75",
@@ -449,7 +743,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/10/31/quickpost-ghost-usb-c/",
    "d": "2026-10-31",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "wb4069083",
@@ -458,7 +754,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xkggx7/ctf_new_beginner_vulnerable_vm_aka_madlabs_at/",
    "d": "2026-10-31",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wdbf485e3",
@@ -467,7 +765,9 @@
    "niveau": "",
    "url": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
    "d": "2026-10-30",
-   "s": "Intigriti"
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w51b1baf5",
@@ -476,7 +776,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/10/30/a-ring-tone-that-i-cannot-hear-twenty-years-later/",
    "d": "2026-10-30",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w8b65b353",
@@ -485,7 +787,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xjp31y/everyone_in_the_competition_failed_to_solve_this/",
    "d": "2026-10-30",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "wb4246573",
@@ -494,7 +798,9 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xjghvn/constantly_needing_to_consult_writeups/",
    "d": "2026-10-30",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "w9e873023",
@@ -503,7 +809,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/",
    "d": "2026-10-29",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "wc49504ab",
@@ -512,7 +820,20 @@
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xiisq1/5000_api_key_challenge_root_access_provided/",
    "d": "2026-10-29",
-   "s": "Reddit r/securityCTF"
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
+   "id": "w90a369c7",
+   "cat": "Web",
+   "titre": "Exploiting LLM prompt injection vulnerabilities",
+   "niveau": "",
+   "url": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities",
+   "d": "2026-10-28",
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "we11ae897",
@@ -521,7 +842,20 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/",
    "d": "2026-10-28",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
+  },
+  {
+   "id": "wcba0f9ed",
+   "cat": "Web",
+   "titre": "GONE - Expert Crypto CTF Challenge",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xhmv1r/gone_expert_crypto_ctf_challenge/",
+   "d": "2026-10-28",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
   },
   {
    "id": "w5d420a5d",
@@ -530,7 +864,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
    "d": "2026-10-27",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w4f8c9402",
@@ -539,7 +875,9 @@
    "niveau": "",
    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
    "d": "2026-10-27",
-   "s": "Google Project Zero"
+   "s": "Google Project Zero",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "wd207eac1",
@@ -548,7 +886,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/",
    "d": "2026-10-26",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "wbc582bfe",
@@ -557,7 +897,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
    "d": "2026-10-23",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w6d304f20",
@@ -566,7 +908,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/",
    "d": "2026-10-20",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w63bc80e5",
@@ -575,7 +919,9 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/",
    "d": "2026-10-19",
-   "s": "Check Point Research"
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w8c616d58",
@@ -584,7 +930,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/10/12/update-onedump-py-version-0-0-3/",
    "d": "2026-10-12",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w440dc284",
@@ -593,7 +941,9 @@
    "niveau": "",
    "url": "https://projectzero.google/2026/10/emergency-patching.html",
    "d": "2026-10-06",
-   "s": "Google Project Zero"
+   "s": "Google Project Zero",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w3dbeb77d",
@@ -602,7 +952,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/",
    "d": "2026-10-01",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w00de0986",
@@ -611,7 +963,9 @@
    "niveau": "",
    "url": "https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/",
    "d": "2026-09-30",
-   "s": "Didier Stevens"
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "wdd842752",
@@ -620,7 +974,9 @@
    "niveau": "",
    "url": "https://blog.cryptohack.org/new-challenges-oct-2026",
    "d": "2026-09-29",
-   "s": "CryptoHack"
+   "s": "CryptoHack",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w2b7f7c28",
@@ -629,16 +985,9 @@
    "niveau": "",
    "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
    "d": "2026-09-21",
-   "s": "Google Project Zero"
-  },
-  {
-   "id": "w337d2181",
-   "cat": "Pwn",
-   "titre": "Claude refused to write the exploit! A lie about the target was enough to change its mind",
-   "niveau": "",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1RSYjNYYWdDMzFSX2Q0Yk9Lem5obV9KYmFEc3VPTmI2a0kxbW85b2hoUWxodkp2RGw4aTkzOEZ4YkVwMUFzWnR2TXcxMzB0TDlITVczNDBxNzlOS1QzYnhsanFYUTNnT0QwQTJPTW9GVmZLNk8tZ3Q3US1IVmZrVTJpdU1tcHBUcHZvQ3VzemlaZUxyR194YjNGd1BiNzZCWDYwbHBKMmxyVGhvclQyMkdUNDJ5MktIQjY5WktyYk04dW5FRzFBcWlCblPSAdIBQVVfeXFMUDRCOE1zTHJBdnU4QV9hWlhWYXFXS0NUM1A5M01IYXIxdFJOM2FKOFA2MS1NcHlYME1WSFNaSkZlS01nMXU3WVJEblgwaTdOY2N6cWh6cG9uaUlJcEItRWNWc0hCZ2wzQldOcDF1TzdBWnJEWUotd2FNeE1CdnNQX2Qya2o4V1ZCUHNUbW04T1JHOENVeUJGRXlGaUd5ZWZIc3lIREozeU9VY0xORm9ObHZWYzRfa0pIWldDdFZUQUpPTnlCRUc5YkNkQ0swc1FPYmNB?oc=5",
-   "d": "2026-09-19",
-   "s": "WION"
+   "s": "Google Project Zero",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w13c41cfd",
@@ -647,16 +996,9 @@
    "niveau": "",
    "url": "https://0xdf.gitlab.io/2026/09/12/htb-silentium.html",
    "d": "2026-09-12",
-   "s": "0xdf hacks stuff"
-  },
-  {
-   "id": "w8bcfcfc6",
-   "cat": "Pwn",
-   "titre": "Once in a BlueMoon: Multiple State-Aligned Threat Actors Rapidly Adopt Novel Exploit Chain Using Chrome and Windows Zero-Days",
-   "niveau": "",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWRmdnVfYU9Jb19QV1lnSWMtc1FkbWJDcDVoWGl4NUFDb0ppdjZ4M18zUkZXcGQyeEdUYmxFZ0dkcWphRDdzLVk4QWN0T2wyRENuLVo5MmViYnZpNzlnOXNRZ1J3RmNpREJNYWZyTHJoNnZsVExaZnpGdW0wQXZqZE9oRzJHTkNHMENtdzBaeHdjZ1Z1cmNHanljODNlYmZtZ09icW9RNDZTRmtzaDdVOS1tV25JbVFZOUcwc3NIeUQxSGRVQkg4?oc=5",
-   "d": "2026-09-09",
-   "s": "Proofpoint"
+   "s": "0xdf hacks stuff",
+   "n": 1,
+   "v": 1
   },
   {
    "id": "w6da4aadd",
@@ -665,20 +1007,14 @@
    "niveau": "",
    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
    "d": "2026-09-08",
-   "s": "Google Project Zero"
-  },
-  {
-   "id": "w5bef8f7a",
-   "cat": "Pwn",
-   "titre": "OpenAI: Hugging Face Incident a “Warning Shot” to the World",
-   "niveau": "",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3hTczJvWWZCNnBVMjJOTVFnV1JWYzVOSDI4bHBtQkZyWWRvOHEzdXVhUTFGU2hGaEZqTzFReWxVSThIbXY2MEJlUXl0M3lndTRJRTVNUS1EdlhYc3VTRVNmbmxBT1ptUmszX3g5ZTQ5Y3hscXZDMlJsajRuMENYbVFR?oc=5",
-   "d": "2026-08-27",
-   "s": "Infosecurity Magazine"
+   "s": "Google Project Zero",
+   "n": 1,
+   "v": 1
   }
  ],
- "maj": "2026-11-06T06:08:56Z",
+ "maj": "2026-11-06T06:53:35Z",
  "sources": {
+  "Compétitions — CTFtime": 30,
   "CTFtime — writeups": 0,
   "0xdf hacks stuff": 18,
   "CryptoHack": 1,
@@ -689,11 +1025,11 @@
   "Check Point Research": 15,
   "Google Project Zero": 4,
   "Reddit r/securityCTF": 21,
-  "Web — Web": 2,
+  "Web — Web": 0,
   "Web — Crypto": 0,
   "Web — Forensic": 0,
-  "Web — Reverse": 1,
-  "Web — Pwn": 4
+  "Web — Reverse": 0,
+  "Web — Pwn": 0
  },
  "erreurs": []
 }
