@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05T22:27:00Z",
+ "maj": "2026-11-06T12:29:14Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -219,16 +219,16 @@
     "r": 1
    },
    {
+    "t": "APT29's Watering Holes Target Thousands of Mobile Users",
+    "s": "Dark Reading",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdl9HT2RhcVh2NnpCSkhfcC15SU9qTmpGQmZlVTBDRkJRUXp0TGJTOS1FT3RjWmN5dzhIMmtuUXJVWjRiVHdjRmw5WHZzMFp1aFNsSnBmSGZNVW55MTlnQTNfOVVtejh4R19uUEZBaFdOZnBNTnJKQmp6RVA3RnJrMjBGelZ5czdYVi16Tw?oc=5"
+   },
+   {
     "t": "Russian APT29 Targets Mobile Users with Watering Hole Attacks",
     "s": "Security Affairs",
     "d": "2026-11-05",
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbS15aUJJZHlpZ3l6YjJqSWNhR21IdUs1cjFhbjlYMHlicmNEbC1XWURlaDZ1THBTUHJ4RFNMaVNMWkJBaEJ4UFFQeUlpczRuSnpTSlFPQVRQNzF2QlI3QzBrQU9YaVpsV3hJTklJREhyTTg1VEhIRVlHZmE5Wlh2QnlUR3ZBQ0JyeUlwLUx3Y0VJRVNNV1gwMWlBVk8yVkFWX0xkTnhrQ2jSAa4BQVVfeXFMT3BlRFRpd3pnTzV2VWdKeUtfaGVxNUw3WHY3T2pjUnk1Mkdqb3RFb0ViOEVmT0trWlVjcFdaUjVtZ0Q4SDdOcnd4MUdScXM0NFdnakZjWWFKRkQxOUlyRlBUcjlONGE0cGtjOW5TZGx0WFhxUmdjMDVDdjQtODBmQlJvMlY3QzhoTUhrcld2RzVlUjZVLVd3RnhqNDR6Y08xbUlCYUVoSXp2N1pHdzZn?oc=5"
-   },
-   {
-    "t": "APT29 Watering Hole Attack Targets Unpatched iPhones and Android",
-    "s": "ShiftDelete.Net",
-    "d": "2026-11-05",
-    "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1taFJrRzhFU1YzcDlfZU9lV1F5cDVHWnJ2OWhKazR1R0JsLTRBS2hGSE5JUk1rRE5tWUwyUHJBMF9qeThJWUxLNVMtMzJsTFU2dHVxalcyQ3RHTVFyMGdTc1Zldw?oc=5"
    }
   ],
   "sandworm": [
@@ -253,16 +253,16 @@
     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3lxanVLTmJZLUh1UXg1cVZJWmVzNW53WDZUUXB6TU1rVnY4d0g4Nl9LWXM4c01pajBsVUtXYXNiRUFJVGxCLU84YmZXR2Zaczg4WGtkSDFkTmwtV1lTaTcwM2o1bktMa2JfdXhlVWtLWHk0R2J4QVI4X3RxZmdtOG9MT0JVTnJDT1huMmNVX0hMdw?oc=5"
    },
    {
+    "t": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
+    "s": "WeLiveSecurity",
+    "d": "2026-10-22",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdXRLWVE0dFpCRDJFY05aYkF6Yi16Ni1CeDZpOWFyYzlMVmtmbzlETWdpc1JvZzRCSHJ2NzZuWHIzdWVSNkhWbGs4T3FpN1c1RkJNTnc2XzczcmlISlN6Y1ZIWUV0dDAwVGFkTkZBaE1oNnJvSzdreEVOaVYwZnBENFl6VFJkbXJhekNpa2VZanRUajc0UC1qRDFnanJXWHBEZkJxeXZnbUVMSDZRU3loU2RqWXdZWi16U3dWVFMzWmxjaUM0T2M1MHVESQ?oc=5"
+   },
+   {
     "t": "Sandworm-Linked Group Sharpens Matchboil Downloader",
     "s": "BankInfoSecurity",
     "d": "2026-10-08",
     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXNzQVFOVFFIbFJXWWEzYmZ5aUxKbktHS1NHbGczYUk3cnIzZjVwWU5SLTA2TTFlckNLdi03X0JKNFo4NEVOXzIzOUxJLU5IRl9rYlM0R3F4OGxCTnAtRFJIRDBCUDRaT29KT19WUms5VVF0VjQ3eHRfckhubnNPMy13LXQtenhPdW5oVGp4ZTQzMk8zdWlV?oc=5"
-   },
-   {
-    "t": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
-    "s": "Dark Reading",
-    "d": "2026-09-14",
-    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1ZrdXlxYjc3X1VoMEZWWTlHSjM0YS00Wl9uU1RfY0ZxRlVtNkgteDMzSUJwLUlNeW1sZDVxUGNqLWUzSDJVNEhubXh2MmNpQW45QkpNSE95NS13c1d2VjJvOW9VVTc3TE54Q3d5ZHNpNWRwOHdSMi1yMTJHZWZsRlJkY1kya3NLSEtRbDd6OVlKU3NuUDB5Yy1waXZXN3hkYU5wUndfb1NDUQ?oc=5"
    }
   ],
   "lazarus-group": [
@@ -520,18 +520,18 @@
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTRPS3pBdTByN2VYaE5oRDZ1TE9LYlBMeVpCSy1SNXVKcm1YNmpqeUVxbmtERk5oOEJZX3N6ZHAyVnFQbVV6aFJFcGZuOWNvbzFkVXhjSUhvWnlxRTNuRlM1SDFZMXpMc1dDb2d1UUEzSV80WFVPLWJ1eHl6OWNOSjJTZFA0aFIxR2tFVTFKak9lUU9xaUxhXzNOYnhtcFFzQ0NuNVJwNk0?oc=5"
    },
    {
-    "t": "Akira Ransomware Targets Dutch Coffee Machine Manufacturer Bravilor Bonamat",
-    "s": "DeXpose",
-    "d": "2026-10-23",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnp5UTlleXc5QVJkMTVzZWZ2azBnaFVla0IzV2xDVmRWZ2lmOEY5LS1sR3NHTFlOUzR1RjZoSWZmZDJUcFYzekJaWUFKV2hLUy1HcHB0UjIzWDFueTB4SnVTZjJxc3gyNFVQZ1J2NDVqaElzX182VVhjcHdaZDFTMG1lRUdHSVR6d2xpXzJVaXd4aUxZZDBKM3NYdHlvSDgx?oc=5"
+    "t": "Bahamas Issues Cybersecurity Alert Over Akira Ransomware Threat",
+    "s": "Magnetic Media",
+    "d": "2026-10-22",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0FsZ2ozMEtTWEZ3c0xxaEhKRFhSck9uQ096c0p0c0hyMUN5SlJ2WEtTQTQ5dE5ULVZrbXRxMGRYa1I5RGpHY0ZsR2VWcEprZHpJVVduTFVEcHhvdlh0ZldlYUpHN2s0cmUtVzBNWUVCSmVOYnp1TkpYVzY0SGxrdjlmVE16WXpnLTJRVXI2aW1hMGpNdHdkLTNxSHAwbTZrNHfSAaoBQVVfeXFMTm1WX1JrS2NuVVNHZ3hMRVJQNDJaNGVIcDVuS3RfMkpZN2I5M0ZTZ1gwajZ6ZDBLRTJVSGk4Q3hRWkc2bUhDTXhacXY0c0RJa2xFbUU2NTN5OFlHUmhXbngzY3pIVEs0RlZRSmNLZWw0cjR1ODdWUmlfY25FX0NrOUQ4MXVydGJKcFFOOXBuMU1DZFExRldLNUwtcFNFZ0lvSnZnV0tEaHNIcHc?oc=5"
    }
   ],
   "scattered-spider": [
    {
-    "t": "Scattered Spider Hackers Exploit Help Desk Calls to Bypass MFA and Breach Corporate Networks",
-    "s": "CyberSecurityNews",
-    "d": "2026-10-21",
-    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wYmdCN0NUX1dldGVadFpnQnNYZkpSelQ1UFd6VDJhZzJhVWRCWWQyeFdtdmEtU0RsejYxV0MxVF9GY1lTX29ETFd4OFJScDQ5VnFnTG9ZVDNKZEViX3BGV01VcHFRZ9IBa0FVX3lxTE0wVXpQR2FNNkRxYWFuTkNmUXY0TUVNSVJJd2U0VzZJSUJfNmUyWjUxTEJna0htUTRDclNFcnl3OURYdFdtX1J0TDY1VFFHdGF6a1RXOVdMbWNpUzk4eXAtekRLUXVvcjFsNGNj?oc=5"
+    "t": "Black Hat Europe 2026 Keynotes to Address AI Security Blind Spots and the Network Behind Scattered Spider and Lapsus$",
+    "s": "Business Wire",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUZQMnFiLWN5aFlqM0p3YTZGS1ctV3E0ekhJWUdCdDc3RDlDQUhabTdSU1RnaEFqb3hKbl9Ia3U5VTRkU0NRaDJlbVh5Y2JTbjkxd29Yc0pHQU85cDdfWms1MG1JazZUbVg3WUhVQmlWTVZuNDVGaHVtLUVIQUMyRFlST0cwem1FMXlPZ2tpQ3Rfb1J5LXRFUHk0a1pfczVBVkczZXlNUkl3UWMwckNzSXFOeVpLU3YwdEtaNnFuTG9GZ2RlNlEzM0J2aDlkMHZUd1k3OGFqaUZKSW5CWHdRMHdhNkd4U2huTmxfSUhRdWcxdXg5S25uR3A3RHBBb05WMGkzZ29tWQ?oc=5"
    },
    {
     "t": "Texas man pleads guilty in Scattered Spider extortion scheme",
