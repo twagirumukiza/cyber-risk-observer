@@ -743,7 +743,7 @@ def main():
             if cal or rk or wu:
                 def lien(t, u):
                     u = str(u or "")
-                    return f"<a href='{esc(u)}' rel='noopener' style='text-decoration:underline'>{esc(t)}</a>" if u.startswith(("http://", "https://")) else esc(t)
+                    return f"<a href='{esc(u)}' rel='noopener' style='text-decoration:underline'>{esc(t)}</a>" if u.startswith(("http://", "https://")) and "ctftime.org" not in u else esc(t)
                 hh = lambda t: f"<h2 style='font:700 1.35rem var(--head);margin-top:26px'>{esc(t)}</h2>"
                 body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › CTF</div><h1>CTF</h1>"
                         f"<p style='color:var(--muted)'>{esc(cd.get('intro') or 'Actualité des Capture The Flag : compétitions, classements et corrigés commentés.')}</p>")
