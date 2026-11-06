@@ -2,7 +2,7 @@
  "maj": "2026-11-06",
  "intro": "Actualité des Capture The Flag : compétitions, classements et corrigés commentés.",
  "debuter": "Choisissez une catégorie, une plateforme d’entraînement et documentez chaque résolution : c’est la meilleure façon de progresser.",
- "classTitre": "Classement mondial CTFtime 2026",
+ "classTitre": "Classement mondial 2026",
  "classAuto": true,
  "cats": [
   "Web",
@@ -20,8 +20,15 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 10.31",
-   "url": "https://ctftime.org/event/3418/",
-   "auto": 1
+   "url": "https://ctf.hkcert.org/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 10.31,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3331",
@@ -30,8 +37,15 @@
    "duree": "3 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3331/",
-   "auto": 1
+   "url": "https://ctf.pink.bayern/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3333",
@@ -40,8 +54,15 @@
    "duree": "2 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3333/",
-   "auto": 1
+   "url": "https://2026.chronos-security.ro/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3339",
@@ -50,8 +71,15 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3339/",
-   "auto": 1
+   "url": "https://spooky.ctfd.io/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3242",
@@ -60,18 +88,32 @@
    "duree": "4 h",
    "format": "Jeopardy · sur site (Switzerland, Yverdon-les-Bains)",
    "niveau": "",
-   "url": "https://ctftime.org/event/3242/",
-   "auto": 1
+   "url": "https://blackalps.ch/ba-26/contest",
+   "auto": 1,
+   "mode": "onsite",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3455",
    "nom": "Mimic",
    "date": "2026-11-07",
    "duree": "1 j",
-   "format": "en ligne",
+   "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctf.rarebytehub.com/events/mimic?i=1",
-   "auto": 1
+   "url": "https://ctf.rarebytehub.com/events/mimic",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "",
+   "ecart": 0
   },
   {
    "id": "ct3410",
@@ -80,8 +122,15 @@
    "duree": "1 j 12 h",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 1",
-   "url": "https://ctftime.org/event/3410/",
-   "auto": 1
+   "url": "https://ctf.csaw.io/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 1,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "",
+   "ecart": 0
   },
   {
    "id": "ct3486",
@@ -90,8 +139,15 @@
    "duree": "10 h",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3486/",
-   "auto": 1
+   "url": "https://ctf-techvisions.com/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3082",
@@ -100,8 +156,15 @@
    "duree": "18 h",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 37",
-   "url": "https://ctftime.org/event/3082/",
-   "auto": 1
+   "url": "https://platypwnies.de/events/platypwn/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 37,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3049",
@@ -110,8 +173,15 @@
    "duree": "2 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3049/",
-   "auto": 1
+   "url": "https://wolvctf.io/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3464",
@@ -120,8 +190,15 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 24.23",
-   "url": "https://ctftime.org/event/3464/",
-   "auto": 1
+   "url": "https://h4ckc0n.in/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 24.23,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ko",
+   "ecart": 0
   },
   {
    "id": "ct3467",
@@ -130,8 +207,15 @@
    "duree": "8 h",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3467/",
-   "auto": 1
+   "url": "https://hackersinindia.com/init-ctf",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3419",
@@ -140,8 +224,15 @@
    "duree": "2 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3419/",
-   "auto": 1
+   "url": "https://eyesopensecurity.com/ctf-briefing.html",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3337",
@@ -150,8 +241,15 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 73.17",
-   "url": "https://ctftime.org/event/3337/",
-   "auto": 1
+   "url": "https://glacierctf.com/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 73.17,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3425",
@@ -160,8 +258,15 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3425/",
-   "auto": 1
+   "url": "http://ctf.hscyber.org/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3408",
@@ -170,8 +275,15 @@
    "duree": "20 h",
    "format": "Jeopardy · sur site (Mathura, Uttar Pradesh, India)",
    "niveau": "",
-   "url": "https://ctftime.org/event/3408/",
-   "auto": 1
+   "url": "https://seizedaflaq.cyberonites.com/",
+   "auto": 1,
+   "mode": "onsite",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3336",
@@ -180,8 +292,15 @@
    "duree": "8 h",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 37",
-   "url": "https://ctftime.org/event/3336/",
-   "auto": 1
+   "url": "https://foi.se/cratectf",
+   "auto": 1,
+   "mode": "online",
+   "poids": 37,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3436",
@@ -190,8 +309,15 @@
    "duree": "7 h",
    "format": "Jeopardy · sur site (Onsite at 6 locations in Canada)",
    "niveau": "",
-   "url": "https://ctftime.org/event/3436/",
-   "auto": 1
+   "url": "https://cybersecuritychallenge.ca/",
+   "auto": 1,
+   "mode": "onsite",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3474",
@@ -200,8 +326,15 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 45.76",
-   "url": "https://ctftime.org/event/3474/",
-   "auto": 1
+   "url": "https://lakectf.epfl.ch/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 45.76,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0
   },
   {
    "id": "ct3485",
@@ -210,7 +343,184 @@
    "duree": "12 h",
    "format": "Jeopardy · en ligne",
    "niveau": "",
-   "url": "https://ctftime.org/event/3485/",
+   "url": "https://l3m0nctf.xyz/",
+   "auto": 1,
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "",
+   "ecart": 0
+  },
+  {
+   "nom": "CyberNSK2027-Qualifier",
+   "date": "2026-11-28",
+   "duree": "12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://quals.sslctf.ru/",
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "",
+   "ecart": 0,
+   "id": "ct3489",
+   "auto": 1
+  },
+  {
+   "nom": "BlackHat MEA CTF Final 2026",
+   "date": "2026-12-01",
+   "duree": "2 j",
+   "format": "Jeopardy · sur site (Riyadh, Saudi Arabia)",
+   "niveau": "",
+   "url": "https://blackhatmea.com/capture-the-flag",
+   "mode": "onsite",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "",
+   "ecart": 0,
+   "id": "ct3386",
+   "auto": 1
+  },
+  {
+   "nom": "x3CTF 2026",
+   "date": "2026-12-04",
+   "duree": "2 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://x3c.tf/",
+   "mode": "online",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0,
+   "id": "ct3450",
+   "auto": 1
+  },
+  {
+   "nom": "bi0sCTF 2026",
+   "date": "2026-12-05",
+   "duree": "1 j 12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 79.51",
+   "url": "https://ctf.bi0s.in/",
+   "mode": "online",
+   "poids": 79.51,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "",
+   "ecart": 0,
+   "id": "ct3480",
+   "auto": 1
+  },
+  {
+   "nom": "OTERIA Cyber Cup #4",
+   "date": "2026-12-05",
+   "duree": "8 h",
+   "format": "Jeopardy · sur site (France, Gennevilliers)",
+   "niveau": "",
+   "url": "https://www.oteria-cyber-cup.fr/",
+   "mode": "onsite",
+   "poids": 0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0,
+   "id": "ct3493",
+   "auto": 1
+  },
+  {
+   "nom": "niteCTF 2026",
+   "date": "2026-12-11",
+   "duree": "2 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 59",
+   "url": "https://nitectf.cryptonitemit.in/",
+   "mode": "online",
+   "poids": 59,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0,
+   "id": "ct3367",
+   "auto": 1
+  },
+  {
+   "nom": "BSides Algiers 2026",
+   "date": "2026-12-17",
+   "duree": "1 j 12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 22.9",
+   "url": "https://shellmates.club/",
+   "mode": "online",
+   "poids": 22.9,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0,
+   "id": "ct3475",
+   "auto": 1
+  },
+  {
+   "nom": "BackdoorCTF 2026",
+   "date": "2026-12-19",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 77.38",
+   "url": "https://backdoor.infoseciitr.in/",
+   "mode": "online",
+   "poids": 77.38,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "",
+   "ecart": 0,
+   "id": "ct3472",
+   "auto": 1
+  },
+  {
+   "nom": "ASIS CTF Finals 2026",
+   "date": "2026-12-27",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 99.38",
+   "url": "https://asisctf.com/",
+   "mode": "online",
+   "poids": 99.38,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0,
+   "id": "ct3062",
+   "auto": 1
+  },
+  {
+   "nom": "GaianSpace Perihelion CTF 2027",
+   "date": "2027-01-02",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 25",
+   "url": "https://gaian.space/ctf",
+   "mode": "online",
+   "poids": 25,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok",
+   "ecart": 0,
+   "id": "ct3492",
    "auto": 1
   }
  ],
@@ -277,6 +587,306 @@
   }
  ],
  "writeups": [
+  {
+   "id": "w29ff31b8",
+   "cat": "Reverse",
+   "titre": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+   "d": "2026-11-05",
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w94d27511",
+   "cat": "Reverse",
+   "titre": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/",
+   "d": "2026-11-05",
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "wd6f9acbe",
+   "cat": "Autre",
+   "titre": "Looking for a co-founder to build something in cybersecurity (India)",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xos6ra/looking_for_a_cofounder_to_build_something_in/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "w2ed07106",
+   "cat": "Autre",
+   "titre": "New Jersey Institute of Technology is hosting a 24-hour CTF this weekend!",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xordt3/new_jersey_institute_of_technology_is_hosting_a/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "w605fdff6",
+   "cat": "Autre",
+   "titre": "[CTF] New \"Intermediate\" vulnerable VM aka \"Discuss\" at hackmyvm.eu",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xoczb8/ctf_new_intermediate_vulnerable_vm_aka_discuss_at/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "w21c9f0f9",
+   "cat": "Web",
+   "titre": "I got tired of juggling tools during CTFs, so I built this",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xopf8z/i_got_tired_of_juggling_tools_during_ctfs_so_i/",
+   "d": "2026-11-05",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "wae775235",
+   "cat": "Web",
+   "titre": "The AI Pentesting wave. Pay for effort vs pay for impact.",
+   "niveau": "",
+   "url": "https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact",
+   "d": "2026-11-04",
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w1ab1e01f",
+   "cat": "Autre",
+   "titre": "Using AI to Capture the Flag: Huntress CTF Walkthrough + HomeBase Submission",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xntr17/using_ai_to_capture_the_flag_huntress_ctf/",
+   "d": "2026-11-04",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "wa53ec420",
+   "cat": "Forensic",
+   "titre": "Quickpost: Banana Equivalent Dose",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/11/03/quickpost-banana-equivalent-dose/",
+   "d": "2026-11-03",
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w242d51ff",
+   "cat": "Reverse",
+   "titre": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/",
+   "d": "2026-11-03",
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w0d57e39d",
+   "cat": "Autre",
+   "titre": "Looking for CTF Teammates – Building a Team for Cybersecurity CTFs",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xn3o5j/looking_for_ctf_teammates_building_a_team_for/",
+   "d": "2026-11-03",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "wb3493e3d",
+   "cat": "Autre",
+   "titre": "HKCERT CTF 2026",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xmobl5/hkcert_ctf_2026/",
+   "d": "2026-11-03",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "wd0a1468c",
+   "cat": "Web",
+   "titre": "Is OpenAI Daybreak necessary for solving CTF challenges with Codex?",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xms09a/is_openai_daybreak_necessary_for_solving_ctf/",
+   "d": "2026-11-03",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "wb7fe3673",
+   "cat": "Web",
+   "titre": "PHP2Shell revisited: What Intigriti’s insights tell us about real-world risk",
+   "niveau": "",
+   "url": "https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk",
+   "d": "2026-11-02",
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "webcf3b86",
+   "cat": "Forensic",
+   "titre": "Quickpost: Rad Pro",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/",
+   "d": "2026-11-02",
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w77cb56fa",
+   "cat": "Reverse",
+   "titre": "2nd November – Threat Intelligence Report",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/",
+   "d": "2026-11-02",
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w1c2d0ffc",
+   "cat": "Autre",
+   "titre": "A challenge for those willing to crack a cypher",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xlyks2/a_challenge_for_those_willing_to_crack_a_cypher/",
+   "d": "2026-11-02",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "w9c97b0c3",
+   "cat": "Web",
+   "titre": "I made a practical Arabic walkthrough of UNION-Based SQL Injection (3 PortSwigger Labs)",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xlzqn3/i_made_a_practical_arabic_walkthrough_of/",
+   "d": "2026-11-02",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "wa9e8deda",
+   "cat": "Forensic",
+   "titre": "Overview of Content Published in October",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/11/01/overview-of-content-published-in-october-12/",
+   "d": "2026-11-01",
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w431f7f9d",
+   "cat": "Web",
+   "titre": "HTB: MakeSense",
+   "niveau": "",
+   "url": "https://0xdf.gitlab.io/2026/10/31/htb-makesense.html",
+   "d": "2026-10-31",
+   "s": "0xdf hacks stuff",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "we13bae5a",
+   "cat": "Forensic",
+   "titre": "Quickpost: WT20 Welding Electrodes & Radiation",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/10/31/quickpost-wt20-welding-electrodes-radiation/",
+   "d": "2026-10-31",
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "wa5f0eb75",
+   "cat": "Forensic",
+   "titre": "Quickpost: Ghost USB-C",
+   "niveau": "",
+   "url": "https://blog.didierstevens.com/2026/10/31/quickpost-ghost-usb-c/",
+   "d": "2026-10-31",
+   "s": "Didier Stevens",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "wb4069083",
+   "cat": "Autre",
+   "titre": "[CTF] New \"Beginner\" vulnerable VM aka \"Madlabs\" at hackmyvm.eu",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xkggx7/ctf_new_beginner_vulnerable_vm_aka_madlabs_at/",
+   "d": "2026-10-31",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "w90a369c7",
+   "cat": "Web",
+   "titre": "Exploiting LLM prompt injection vulnerabilities",
+   "niveau": "",
+   "url": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities",
+   "d": "2026-10-28",
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "wcba0f9ed",
+   "cat": "Web",
+   "titre": "GONE - Expert Crypto CTF Challenge",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xhmv1r/gone_expert_crypto_ctf_challenge/",
+   "d": "2026-10-28",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
   {
    "id": "w5bef8f7a",
    "cat": "Pwn",
