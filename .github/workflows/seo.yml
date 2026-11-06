@@ -11,6 +11,7 @@ on:
     paths:
       - "data/items.json"
       - "data/acteurs.json"
+      - "data/ctf.json"
       - "collecte/generer.py"
       - "index.html"
   schedule:
