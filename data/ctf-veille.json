@@ -1,0 +1,416 @@
+{
+ "calendrier": [
+  {
+   "ct": 3418,
+   "nom": "HKCERT CTF 2026 (Qualifying Round)",
+   "date": "2026-11-06",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 10.31",
+   "url": "https://ctftime.org/event/3418/"
+  },
+  {
+   "ct": 3331,
+   "nom": "PINK+ CTF 2026",
+   "date": "2026-11-06",
+   "duree": "3 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3331/"
+  },
+  {
+   "ct": 3333,
+   "nom": "CSCTF 2026",
+   "date": "2026-11-06",
+   "duree": "2 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3333/"
+  },
+  {
+   "ct": 3339,
+   "nom": "SpookyCTF 2026",
+   "date": "2026-11-06",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3339/"
+  },
+  {
+   "ct": 3242,
+   "nom": "BlackAlps CTF 2026",
+   "date": "2026-11-06",
+   "duree": "4 h",
+   "format": "Jeopardy · sur site (Switzerland, Yverdon-les-Bains)",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3242/"
+  },
+  {
+   "ct": 3455,
+   "nom": "Mimic",
+   "date": "2026-11-07",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3455/"
+  },
+  {
+   "ct": 3410,
+   "nom": "CSAW CTF Final Round 2026",
+   "date": "2026-11-12",
+   "duree": "1 j 12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 1",
+   "url": "https://ctftime.org/event/3410/"
+  },
+  {
+   "ct": 3486,
+   "nom": "TVX CTF 2026",
+   "date": "2026-11-13",
+   "duree": "10 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3486/"
+  },
+  {
+   "ct": 3082,
+   "nom": "Platypwn 2026",
+   "date": "2026-11-13",
+   "duree": "18 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 37",
+   "url": "https://ctftime.org/event/3082/"
+  },
+  {
+   "ct": 3049,
+   "nom": "WolvCTF 2026",
+   "date": "2026-11-13",
+   "duree": "2 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3049/"
+  },
+  {
+   "ct": 3464,
+   "nom": "h4ckc0n 2026",
+   "date": "2026-11-14",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 24.23",
+   "url": "https://ctftime.org/event/3464/"
+  },
+  {
+   "ct": 3467,
+   "nom": "InIt CTF",
+   "date": "2026-11-14",
+   "duree": "8 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3467/"
+  },
+  {
+   "ct": 3419,
+   "nom": "EyesOpenCTF 7th edition",
+   "date": "2026-11-20",
+   "duree": "2 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3419/"
+  },
+  {
+   "ct": 3337,
+   "nom": "GlacierCTF 2026",
+   "date": "2026-11-20",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 73.17",
+   "url": "https://ctftime.org/event/3337/"
+  },
+  {
+   "ct": 3425,
+   "nom": "Outback Overflow",
+   "date": "2026-11-20",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3425/"
+  },
+  {
+   "ct": 3408,
+   "nom": "Seize da Flaq",
+   "date": "2026-11-21",
+   "duree": "20 h",
+   "format": "Jeopardy · sur site (Mathura, Uttar Pradesh, India)",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3408/"
+  },
+  {
+   "ct": 3336,
+   "nom": "Crate-CTF 2026",
+   "date": "2026-11-21",
+   "duree": "8 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 37",
+   "url": "https://ctftime.org/event/3336/"
+  },
+  {
+   "ct": 3436,
+   "nom": "CyberSci Regional Qualifiers 2026-27",
+   "date": "2026-11-21",
+   "duree": "7 h",
+   "format": "Jeopardy · sur site (Onsite at 6 locations in Canada)",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3436/"
+  },
+  {
+   "ct": 3474,
+   "nom": "LakeCTF Quals 26-27",
+   "date": "2026-11-27",
+   "duree": "1 j",
+   "format": "Jeopardy · en ligne",
+   "niveau": "poids CTFtime 45.76",
+   "url": "https://ctftime.org/event/3474/"
+  },
+  {
+   "ct": 3485,
+   "nom": "L3m0n CTF 2026 (Quals)",
+   "date": "2026-11-28",
+   "duree": "12 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctftime.org/event/3485/"
+  }
+ ],
+ "classement": [
+  {
+   "equipe": "Team H4C",
+   "points": "1331.41",
+   "pays": ""
+  },
+  {
+   "equipe": "W4llz",
+   "points": "1055.24",
+   "pays": ""
+  },
+  {
+   "equipe": "H-T8",
+   "points": "1054.84",
+   "pays": ""
+  },
+  {
+   "equipe": "RubiyaLab",
+   "points": "901.17",
+   "pays": ""
+  },
+  {
+   "equipe": "tjcsc",
+   "points": "848.1",
+   "pays": ""
+  },
+  {
+   "equipe": "krauq",
+   "points": "839.42",
+   "pays": ""
+  },
+  {
+   "equipe": "Bunkyowerstens",
+   "points": "837.08",
+   "pays": ""
+  },
+  {
+   "equipe": "r3kapig",
+   "points": "808.37",
+   "pays": ""
+  },
+  {
+   "equipe": "Infobahn",
+   "points": "794.18",
+   "pays": ""
+  },
+  {
+   "equipe": "BunkyoWesterns",
+   "points": "717.58",
+   "pays": ""
+  }
+ ],
+ "classTitre": "Classement mondial CTFtime 2026",
+ "writeups": [
+  {
+   "id": "w87aca5dd",
+   "cat": "Web",
+   "titre": "L3akCTF 2026 Relizane is Down! team Cyber Pullingo",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41141"
+  },
+  {
+   "id": "w2c4a1b3b",
+   "cat": "Web",
+   "titre": "JerseyCTF VI Relay Artifact TX-7 team NYUSEC",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41140"
+  },
+  {
+   "id": "w11138367",
+   "cat": "Web",
+   "titre": "JerseyCTF VI qaStaH nuq team NYUSEC",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41139"
+  },
+  {
+   "id": "we0d50ae8",
+   "cat": "Web",
+   "titre": "JerseyCTF VI Recovered Signal File team NYUSEC",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41138"
+  },
+  {
+   "id": "w8bc65323",
+   "cat": "Web",
+   "titre": "JerseyCTF VI Fix Your Ship team NYUSEC",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41137"
+  },
+  {
+   "id": "w7952b35d",
+   "cat": "Web",
+   "titre": "KubSTU CTF HellDriver team GR3B0M4",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41136"
+  },
+  {
+   "id": "w4f8c871c",
+   "cat": "Web",
+   "titre": "KubSTU CTF [Beginner] Mobile Waf 2 team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41135"
+  },
+  {
+   "id": "w35a30ffc",
+   "cat": "Web",
+   "titre": "KubSTU CTF [Beginner] Matryoshka team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41134"
+  },
+  {
+   "id": "wd0355221",
+   "cat": "Web",
+   "titre": "KubSTU CTF [Beginner] Honeyleaf team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41133"
+  },
+  {
+   "id": "w13fa9f1d",
+   "cat": "Web",
+   "titre": "KubSTU CTF [Beginner] Gridlock team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41132"
+  },
+  {
+   "id": "w37220c65",
+   "cat": "Web",
+   "titre": "KubSTU CTF [Beginner] Clearline team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41131"
+  },
+  {
+   "id": "w1b906140",
+   "cat": "Web",
+   "titre": "KubSTU CTF madk1dify team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41130"
+  },
+  {
+   "id": "wedec10ca",
+   "cat": "Web",
+   "titre": "KubSTU CTF [STEGO] Subway 2 team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41129"
+  },
+  {
+   "id": "w5f36b28f",
+   "cat": "Web",
+   "titre": "KubSTU CTF RISC-V. team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41128"
+  },
+  {
+   "id": "w9feb5305",
+   "cat": "Web",
+   "titre": "KubSTU CTF Ouroboros team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41127"
+  },
+  {
+   "id": "wbc617d2f",
+   "cat": "Web",
+   "titre": "KubSTU CTF WEB-3 Casino team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41126"
+  },
+  {
+   "id": "w3508f8fc",
+   "cat": "Web",
+   "titre": "KubSTU CTF [Bounty] The Eyes of the Ranger team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41125"
+  },
+  {
+   "id": "wdc8ef861",
+   "cat": "Web",
+   "titre": "KubSTU CTF Bday party team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41124"
+  },
+  {
+   "id": "w2cd4d4b2",
+   "cat": "Web",
+   "titre": "KubSTU CTF The Deterministic Fog team mpei_larpers",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41123"
+  },
+  {
+   "id": "wad7d9426",
+   "cat": "Web",
+   "titre": "FAUST CTF 2026 Interstellar Mission Control team qiyu",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41122"
+  },
+  {
+   "id": "wa9ab33eb",
+   "cat": "Web",
+   "titre": "scriptCTF 2026 F**K team Abdelkader",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41121"
+  },
+  {
+   "id": "w25fd5a7a",
+   "cat": "Web",
+   "titre": "scriptCTF 2026 Misdirection team Abdelkader",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41120"
+  },
+  {
+   "id": "w371aca8a",
+   "cat": "Web",
+   "titre": "UIUCTF 2026 Sparxie: Vanishing Encore team Abdelkader",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41119"
+  },
+  {
+   "id": "wf2f9aef4",
+   "cat": "Web",
+   "titre": "UIUCTF 2026 Firefly: Complete Combustion team Abdelkader",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41118"
+  },
+  {
+   "id": "wdfd45330",
+   "cat": "Web",
+   "titre": "UIUCTF 2026 Something Handmade team Abdelkader",
+   "niveau": "",
+   "url": "https://ctftime.org/writeup/41117"
+  }
+ ],
+ "maj": "2026-11-06T05:44:55Z",
+ "erreurs": []
+}
