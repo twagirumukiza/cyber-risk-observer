@@ -1,7 +1,7 @@
 name: CTF — mise à jour
 
 # Met à jour data/ctf-veille.json : prochaines compétitions, classement mondial et derniers
-# writeups (CTFtime.org). Se lance :
+# writeups (CTFtime.org, blogs spécialisés, recherche web). Se lance :
 #  - chaque jour à 05 h 20 (heure de Paris en hiver) ;
 #  - à la main (Actions > « CTF — mise à jour » > Run workflow) ;
 #  - depuis l'éditeur (onglet CTF > « Mettre à jour depuis internet »).
