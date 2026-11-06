@@ -728,6 +728,41 @@ def main():
                      url, body, tpl, active=9), encoding="utf-8")
             urls.append((url, str(ad.get("maj") or today)[:10]))
 
+    # rubrique CTF (data/ctf.json, écrit par l'éditeur ; éléments d'exemple exclus)
+    cp = ROOT / "data" / "ctf.json"
+    if cp.exists():
+        try:
+            cd = json.loads(cp.read_text(encoding="utf-8"))
+        except Exception:
+            cd = {}
+        if isinstance(cd, dict):
+            keep = lambda l: [x for x in (l or []) if isinstance(x, dict) and not x.get("ex")]
+            cal = sorted([c for c in keep(cd.get("calendrier")) if c.get("nom") and (not c.get("date") or str(c["date"]) >= today)], key=lambda c: str(c.get("date") or "9"))
+            rk = [r for r in keep(cd.get("classement")) if r.get("equipe")]
+            wu = [w for w in keep(cd.get("writeups")) if w.get("titre")]
+            if cal or rk or wu:
+                def lien(t, u):
+                    u = str(u or "")
+                    return f"<a href='{esc(u)}' rel='noopener' style='text-decoration:underline'>{esc(t)}</a>" if u.startswith(("http://", "https://")) else esc(t)
+                hh = lambda t: f"<h2 style='font:700 1.35rem var(--head);margin-top:26px'>{esc(t)}</h2>"
+                body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › CTF</div><h1>CTF</h1>"
+                        f"<p style='color:var(--muted)'>{esc(cd.get('intro') or 'Actualité des Capture The Flag : compétitions, classements et corrigés commentés.')}</p>")
+                if cal:
+                    body += hh("Calendrier") + "<ul>" + "".join(f"<li><b>{esc(c.get('date'))}</b> — {lien(c['nom'], c.get('url'))} <span style='color:var(--muted)'>{esc(' · '.join(x for x in (c.get('duree'), c.get('format'), c.get('niveau')) if x))}</span></li>" for c in cal) + "</ul>"
+                if rk:
+                    body += hh(cd.get("classTitre") or "Classement") + "<div class='tw'><table><thead><tr><th>Rang</th><th>Équipe</th><th>Points</th></tr></thead><tbody>" + "".join(f"<tr><td>{i + 1}</td><td>{esc(r['equipe'])}</td><td>{esc(r.get('points'))}</td></tr>" for i, r in enumerate(rk)) + "</tbody></table></div>"
+                if cd.get("debuter"):
+                    body += hh("Débuter") + f"<p>{esc(cd['debuter'])}</p>"
+                if wu:
+                    body += hh("Writeups") + "<ul>" + "".join(f"<li><b>{esc(w.get('cat'))}</b> — {lien(w['titre'], w.get('url'))}</li>" for w in wu) + "</ul>"
+                body += f"<p style='margin-top:26px'><a href='{base}#ctf' style='text-decoration:underline'>Ouvrir la rubrique interactive</a></p></div>"
+                url = f"{base}rubriques/ctf/"
+                out = ROOT / "rubriques" / "ctf"
+                out.mkdir(parents=True, exist_ok=True)
+                (out / "index.html").write_text(
+                    page(base, "CTF – Cyber Risk Observer", "Calendrier des Capture The Flag, classement et writeups.", url, body, tpl, active=6), encoding="utf-8")
+                urls.append((url, str(cd.get("maj") or today)[:10]))
+
     # sitemap + robots
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u, d in urls:
