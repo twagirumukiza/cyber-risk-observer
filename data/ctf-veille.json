@@ -471,6 +471,17 @@
  "classTitre": "Classement mondial 2026",
  "writeups": [
   {
+   "id": "w14362f0f",
+   "cat": "Crypto",
+   "titre": "A question",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xq2seh/a_question/",
+   "d": "2026-11-07",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
    "id": "w64fe5050",
    "cat": "Web",
    "titre": "CTF Team for beginners and professionals in Discord",
@@ -977,7 +988,7 @@
    "v": 1
   }
  ],
- "maj": "2026-11-07T04:52:59Z",
+ "maj": "2026-11-07T11:06:31Z",
  "sources": {
   "Compétitions — CTFtime": 27,
   "CTFtime — writeups": 0,
