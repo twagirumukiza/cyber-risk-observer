@@ -1,81 +1,6 @@
 {
  "calendrier": [
   {
-   "ct": 3418,
-   "nom": "HKCERT CTF 2026 (Qualifying Round)",
-   "date": "2026-11-06",
-   "duree": "1 j",
-   "format": "Jeopardy · en ligne",
-   "niveau": "poids CTFtime 10.31",
-   "url": "https://ctf.hkcert.org/",
-   "mode": "online",
-   "poids": 10.31,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
-   "ct": 3331,
-   "nom": "PINK+ CTF 2026",
-   "date": "2026-11-06",
-   "duree": "3 j",
-   "format": "Jeopardy · en ligne",
-   "niveau": "",
-   "url": "https://ctf.pink.bayern/",
-   "mode": "online",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
-   "ct": 3333,
-   "nom": "CSCTF 2026",
-   "date": "2026-11-06",
-   "duree": "2 j",
-   "format": "Jeopardy · en ligne",
-   "niveau": "",
-   "url": "https://2026.chronos-security.ro/",
-   "mode": "online",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
-   "ct": 3339,
-   "nom": "SpookyCTF 2026",
-   "date": "2026-11-06",
-   "duree": "1 j",
-   "format": "Jeopardy · en ligne",
-   "niveau": "",
-   "url": "https://spooky.ctfd.io/",
-   "mode": "online",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
-   "ct": 3242,
-   "nom": "BlackAlps CTF 2026",
-   "date": "2026-11-06",
-   "duree": "4 h",
-   "format": "Jeopardy · sur site (Switzerland, Yverdon-les-Bains)",
-   "niveau": "",
-   "url": "https://blackalps.ch/ba-26/contest",
-   "mode": "onsite",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
    "ct": 3455,
    "nom": "Mimic",
    "date": "2026-11-07",
@@ -88,7 +13,22 @@
    "src": [
     "CTFtime"
    ],
-   "verif": ""
+   "verif": "ok"
+  },
+  {
+   "ct": 3499,
+   "nom": "CyberZerk CTF 2026",
+   "date": "2026-11-09",
+   "duree": "13 j 4 h",
+   "format": "Jeopardy · en ligne",
+   "niveau": "",
+   "url": "https://ctf.cyberzerk.fr/",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": "ok"
   },
   {
    "ct": 3410,
@@ -103,7 +43,7 @@
    "src": [
     "CTFtime"
    ],
-   "verif": ""
+   "verif": "ko"
   },
   {
    "ct": 3486,
@@ -391,6 +331,21 @@
    "verif": "ok"
   },
   {
+   "ct": 3498,
+   "nom": "Leo's 20th Birthday Bash",
+   "date": "2026-12-12",
+   "duree": "1 j",
+   "format": "hack quest · en ligne",
+   "niveau": "",
+   "url": "https://dmoj.ca/contest/leo20",
+   "mode": "online",
+   "poids": 0.0,
+   "src": [
+    "CTFtime"
+   ],
+   "verif": ""
+  },
+  {
    "ct": 3475,
    "nom": "BSides Algiers 2026",
    "date": "2026-12-17",
@@ -455,56 +410,77 @@
   {
    "equipe": "Team H4C",
    "points": "1331.41",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "W4llz",
    "points": "1055.24",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "H-T8",
    "points": "1054.84",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "RubiyaLab",
    "points": "901.17",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "tjcsc",
    "points": "848.1",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "krauq",
    "points": "839.42",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "Bunkyowerstens",
    "points": "837.08",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "r3kapig",
    "points": "808.37",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "Infobahn",
    "points": "794.18",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   },
   {
    "equipe": "BunkyoWesterns",
    "points": "717.58",
-   "pays": ""
+   "pays": "",
+   "evo": 0
   }
  ],
  "classTitre": "Classement mondial 2026",
  "writeups": [
+  {
+   "id": "w64fe5050",
+   "cat": "Web",
+   "titre": "CTF Team for beginners and professionals in Discord",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xp9br8/ctf_team_for_beginners_and_professionals_in/",
+   "d": "2026-11-06",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
   {
    "id": "w29ff31b8",
    "cat": "Reverse",
@@ -847,17 +823,6 @@
    "v": 1
   },
   {
-   "id": "wcba0f9ed",
-   "cat": "Web",
-   "titre": "GONE - Expert Crypto CTF Challenge",
-   "niveau": "",
-   "url": "https://www.reddit.com/r/securityCTF/comments/1xhmv1r/gone_expert_crypto_ctf_challenge/",
-   "d": "2026-10-28",
-   "s": "Reddit r/securityCTF",
-   "n": 1,
-   "v": 0
-  },
-  {
    "id": "w5d420a5d",
    "cat": "Reverse",
    "titre": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
@@ -1012,9 +977,9 @@
    "v": 1
   }
  ],
- "maj": "2026-11-06T06:53:35Z",
+ "maj": "2026-11-07T04:52:59Z",
  "sources": {
-  "Compétitions — CTFtime": 30,
+  "Compétitions — CTFtime": 27,
   "CTFtime — writeups": 0,
   "0xdf hacks stuff": 18,
   "CryptoHack": 1,
