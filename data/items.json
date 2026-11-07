@@ -3081,7 +3081,12 @@
     "type": "texte",
     "titre": "1. Nvidia, un actif stratégique dans la rivalité sino-américaine",
     "texte": "<p>Nvidia occupe une position centrale dans l'industrie mondiale des semi-conducteurs dédiés à l'intelligence artificielle.</p><p>Ses processeurs graphiques alimentent les infrastructures de calcul nécessaires à l'entraînement et à l'exploitation des grands modèles d'IA. Cette position confère à l'entreprise une importance qui dépasse largement sa valeur commerciale. Ses technologies représentent un enjeu industriel, économique, militaire et géopolitique.</p><p>Les restrictions américaines sur les exportations de semi-conducteurs avancés vers la Chine illustrent cette dimension stratégique.</p><p>Dans ce contexte, toute information concernant les capacités technologiques, les projets industriels ou les circuits de distribution de Nvidia peut présenter un intérêt majeur pour un État concurrent.</p>",
-    "imgs": []
+    "imgs": [
+     {
+      "image": "images/rmw6yozq8ctc7-m719cef2d46d13.jpg",
+      "legende": ""
+     }
+    ]
    },
    {
     "id": "rmw6yogugcd1t",
@@ -3129,7 +3134,7 @@
     "id": "rmw6yogugctpn",
     "type": "texte",
     "titre": "8. Quels enseignements tirer des référentiels de sécurité ?",
-    "texte": "<p>Les normes et cadres de gouvernance existants peuvent contribuer à structurer cette approche.</p><p>ISO/IEC 27001 permet de mettre en place un système de management de la sécurité de l'information intégrant les risques liés aux actifs, aux personnes et aux relations avec les tiers. ISO/IEC 27005 fournit une méthode pour identifier, analyser, évaluer et traiter les risques de sécurité de l'information.</p><p>Les principes de gestion des fournisseurs et des relations avec les tiers permettent également de mieux encadrer les dépendances stratégiques.</p><p>Toutefois, les organisations doivent aller au-delà d'une approche documentaire. L'enjeu est de vérifier que les scénarios de renseignement économique, d'ingérence et de collecte humaine sont réellement pris en compte dans les analyses de risques.</p>",
+    "texte": "<p>Les normes et cadres de gouvernance existants peuvent contribuer à structurer cette approche.</p><p><span class=\"tip\" data-tip=\"&lt;b&gt;ISO&lt;/b&gt; l'Organisation internationale de normalisation\" data-lex=\"rmw729t81k4pk\">ISO</span>/<span class=\"tip\" data-tip=\"La norme &lt;b&gt;ISO/IEC 27001&lt;/b&gt; est le référentiel international de référence en matière de sécurité de l'information et de gestion des cybermenaces. Elle a été développée conjointement par l'Organisation internationale de normalisation (&lt;b&gt;ISO&lt;/b&gt;) et la Commission électrotechnique internationale (&lt;b&gt;IEC&lt;/b&gt;).\" data-lex=\"rmw727pyol078\">IEC 27001</span> permet de mettre en place un système de management de la sécurité de l'information intégrant les risques liés aux actifs, aux personnes et aux relations avec les tiers. ISO/<span class=\"tip\" data-tip=\"Commission électrotechnique internationale\" data-lex=\"rmw72as301aqb\">IEC</span> 27005 fournit une méthode pour identifier, analyser, évaluer et traiter les risques de sécurité de l'information.</p><p>Les principes de gestion des fournisseurs et des relations avec les tiers permettent également de mieux encadrer les dépendances stratégiques.</p><p>Toutefois, les organisations doivent aller au-delà d'une approche documentaire. L'enjeu est de vérifier que les scénarios de renseignement économique, d'ingérence et de collecte humaine sont réellement pris en compte dans les analyses de risques.</p>",
     "imgs": []
    }
   ],
