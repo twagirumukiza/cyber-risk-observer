@@ -1,5 +1,196 @@
 [
  {
+  "id": "d1ee4a6cc541",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "CyberZerk CTF 2026",
+  "url": "https://ctftime.org/event/3499",
+  "date": "2026-11-07",
+  "resume": "Name: CyberZerk CTF 2026 (an CTF CyberZerk event.) Date: Nov. 9, 2026, 1 p.m. &mdash; 22 Nov. 2026, 17:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://ctf.cyberzerk.fr/ Rating weight: 0 Event organizers: CyberZerk",
+  "criticite": "",
+  "poids": 2,
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "ef016e675852",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Outback Overflow",
+  "url": "https://ctftime.org/event/3425",
+  "date": "2026-11-07",
+  "resume": "Name: Outback Overflow (an Outback Overflow event.) Date: Nov. 20, 2026, 11 p.m. &mdash; 21 Nov. 2026, 23:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: http://ctf.hscyber.org/ Rating weight: 0.00 Event organizers: HSCC",
+  "criticite": "",
+  "poids": 2,
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "ca1a9396bb65",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+  "date": "2026-11-07",
+  "resume": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Identité & accès"
+  ],
+  "score": 6
+ },
+ {
+  "id": "824934ef2ea3",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Seize da Flaq",
+  "url": "https://ctftime.org/event/3408",
+  "date": "2026-11-07",
+  "resume": "Name: Seize da Flaq (an Seize da Flaq event.) Date: Nov. 21, 2026, 6:30 a.m. &mdash; 22 Nov. 2026, 02:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: Mathura, Uttar Pradesh, India Offical URL: https://seizedaflaq.cyberonites.com/ Rating weight: 0 Event organizers: Seize da Flaq",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "030164d51c10",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "CyberSci Regional Qualifiers 2026-27",
+  "url": "https://ctftime.org/event/3436",
+  "date": "2026-11-07",
+  "resume": "Name: CyberSci Regional Qualifiers 2026-27 (an CyberSci event.) Date: Nov. 21, 2026, 3 p.m. &mdash; 21 Nov. 2026, 22:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: Onsite at 6 locations in Canada Offical URL: https://cybersecuritychallenge.ca/ Rating weight: 0 Event organizers: CyberSciOrganizers",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "44994f16eb69",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "LakeCTF Quals 26-27",
+  "url": "https://ctftime.org/event/3474",
+  "date": "2026-11-07",
+  "resume": "Name: LakeCTF Quals 26-27 (an LakeCTF event.) Date: Nov. 27, 2026, 6 p.m. &mdash; 28 Nov. 2026, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://lakectf.epfl.ch/ Rating weight: 45.76 Event organizers: polygl0ts",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "182255dd17e0",
+  "source": "CTFtime",
+  "rubrique": 1,
+  "titre": "CyberNSK2027-Qualifier",
+  "url": "https://ctftime.org/event/3489",
+  "date": "2026-11-07",
+  "resume": "Name: CyberNSK2027-Qualifier (an CyberNSK event.) Date: Nov. 28, 2026, 9 a.m. &mdash; 28 Nov. 2026, 21:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Location: Russia Offical URL: https://quals.sslctf.ru/ Rating weight: 0 Event organizers: siberiansecurityleague",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "f6b7dc22d5c3",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "x3CTF 2026",
+  "url": "https://ctftime.org/event/3450",
+  "date": "2026-11-07",
+  "resume": "Name: x3CTF 2026 (an x3ctf event.) Date: Dec. 4, 2026, 6 p.m. &mdash; 06 Dec. 2026, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://x3c.tf/ Rating weight: 0.00 Event organizers: x3CTF",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "5b72ff8e55a2",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "niteCTF 2026",
+  "url": "https://ctftime.org/event/3367",
+  "date": "2026-11-07",
+  "resume": "Name: niteCTF 2026 (an niteCTF event.) Date: Dec. 11, 2026, noon &mdash; 13 Dec. 2026, 12:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://nitectf.cryptonitemit.in/ Rating weight: 59.00 Event organizers: Cryptonite",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "6c01c4b3516c",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "BackdoorCTF 2026",
+  "url": "https://ctftime.org/event/3472",
+  "date": "2026-11-07",
+  "resume": "Name: BackdoorCTF 2026 (an BackdoorCTF event.) Date: Dec. 19, 2026, noon &mdash; 20 Dec. 2026, 12:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://backdoor.infoseciitr.in/ Rating weight: 77.38 Event organizers: InfoSecIITR",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "b4aa9c9e9982",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Undutmaning 2027",
+  "url": "https://ctftime.org/event/3481",
+  "date": "2026-11-07",
+  "resume": "Name: Undutmaning 2027 (an Undutmaning event.) Date: March 20, 2027, 11 a.m. &mdash; 20 March 2027, 19:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://undutmaning.se/ Rating weight: 44.75 Event organizers: Undutmaning",
+  "criticite": "",
+  "poids": 2,
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "e75d0dffd33d",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Etats-Unis : plus de 5 000 cas de rougeole recensés depuis le début de l’année, un niveau jamais-vu en trente-cinq ans",
+  "url": "https://www.lemonde.fr/planete/article/2026/11/07/etats-unis-plus-de-5-000-cas-de-rougeole-recenses-depuis-le-debut-de-l-annee-un-niveau-jamais-vu-en-trente-cinq-ans_6807968_3244.html",
+  "date": "2026-11-07",
+  "resume": "La quasi-totalité des personnes infectées étaient non-vaccinées.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "e756c063cb16",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : l’ex-amirale Nancy Lacore, victime des purges de l’administration Trump à la tête du Pentagone, élue surprise en Caroline du Sud",
+  "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-l-ex-amirale-nancy-lacore-victime-des-purges-de-l-administration-trump-a-la-tete-du-pentagone-elue-surprise-en-caroline-du-sud_6807934_3210.html",
+  "date": "2026-11-07",
+  "resume": "L’ancienne cheffe d’état-major des forces navales américaines en Europe et en Afrique, qui s’était présentée sous la bannière démocrate, fait partie d’un nombre inédit de vétérans qui se sont lancés dans la course politique lors de ces élections de mi-mandat.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "7340dbad9c1e",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-19868 – SonicWall SonicOS SSLVPN : SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
+  "date": "2026-11-06",
+  "resume": "SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).",
+  "criticite": "Critique",
+  "poids": 2,
+  "tags": [
+   "Vulnérabilité",
+   "Identité & accès"
+  ],
+  "score": 12
+ },
+ {
   "id": "d0b8b49f25ce",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -11,6 +202,21 @@
   "poids": 1,
   "tags": [
    "Zero-day"
+  ],
+  "score": 7
+ },
+ {
+  "id": "c776d35c062b",
+  "source": "CISA avis",
+  "rubrique": 2,
+  "titre": "CISA Adds One Known Exploited Vulnerability to Catalog",
+  "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "date": "2026-11-06",
+  "resume": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BO",
+  "criticite": "",
+  "poids": 2,
+  "tags": [
+   "Vulnérabilité"
   ],
   "score": 7
  },
@@ -281,6 +487,36 @@
   "poids": 1,
   "tags": [
    "Vulnérabilité"
+  ],
+  "score": 6
+ },
+ {
+  "id": "b99b441690fc",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+  "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+  "date": "2026-11-06",
+  "resume": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "ba147c5fc5c9",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+  "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+  "date": "2026-11-06",
+  "resume": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "IA"
   ],
   "score": 6
  },
@@ -1214,6 +1450,123 @@
   "score": 3
  },
  {
+  "id": "ca364aed8572",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Paraguay : Pedro Alliana investi président, le président destitué Santiago Peña placé en détention à domicile",
+  "url": "https://www.lemonde.fr/international/article/2026/11/07/paraguay-le-vice-president-pedro-alliana-investi-president-apres-la-destitution-de-santiago-pena-par-le-senat_6807901_3210.html",
+  "date": "2026-11-06",
+  "resume": "Santiago Peña, qui était le président du pays depuis 2023, a été destitué vendredi au terme de son procès au Sénat pour sa responsabilité dans le scandale bancaire qui a affecté les avoirs de près de 3 millions d’épargnants.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "a9b5faf5eb68",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, visée par au moins six missiles balistiques selon l’armée de l’air",
+  "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-visee-par-au-moins-six-missiles-balistiques-selon-l-armee-de-l-air_6803934_3210.html",
+  "date": "2026-11-06",
+  "resume": "Plus tôt dans la soirée de vendredi, Volodymyr Zelensky avait averti que, selon les renseignements ukrainiens, la Russie préparait une nouvelle attaque contre les infrastructures énergétiques, les ponts sur le Dniepr et des installations civiles",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "bd644dc34ec4",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Vague de démissions au ministère de la justice américain",
+  "url": "https://www.lemonde.fr/international/article/2026/11/06/vague-de-demissions-au-ministere-de-la-justice-americain_6807868_3210.html",
+  "date": "2026-11-06",
+  "resume": "Plusieurs hauts responsables quittent leurs fonctions, dont la ministre adjointe de la justice chargée des droits civiques.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "0f3f88b4101e",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Voyage de Léon XIV en Amérique latine : en Uruguay, le pape évoque sa maladie pour défendre des soins « accessibles à chacun »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html",
+  "date": "2026-11-06",
+  "resume": "Le souverain pontife, opéré en octobre d’un cancer du poumon, a déclaré être « plutôt en bonne forme » dans l’avion qui le menait vendredi à Montevideo, capitale de l’Uruguay et première étape de sa tournée.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "308635de60c2",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
+  "date": "2026-11-06",
+  "resume": "Les menaces, qui se sont révélées infondées, ont été adressées vendredi à plusieurs médias irlandais ainsi qu’à plusieurs vols commerciaux entre des pays européens. Le flou demeure sur l’origine et les intentions réelles des auteurs.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "c31a400ea2d2",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+  "url": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+  "date": "2026-11-06",
+  "resume": "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "11cae26946aa",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Allemagne : Ilse Aigner, conservatrice bavaroise, pourrait devenir la première femme présidente de la République fédérale",
+  "url": "https://www.lemonde.fr/international/article/2026/11/06/allemagne-ilse-aigner-conservatrice-bavaroise-pourrait-devenir-la-premiere-femme-presidente-de-la-republique-federale_6807858_3210.html",
+  "date": "2026-11-06",
+  "resume": "Le nom de la candidate retenue par la CDU du chancelier Friedrich Merz pour succéder au social-démocrate Frank-Walter Steinmeier a été éventé, vendredi, par plusieurs médias allemands. Participeront à l’élection, le 30 janvier 2027, les 630 députés du Bundestag et un nombre égal de délégués désignés par les Parlements des Länder.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "b25b4c3673b4",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "« La propagande d’extrême droite tue » : à Paris des activistes « déménagent » un Relay pour dénoncer le « monopole » de Bolloré",
+  "url": "https://www.lemonde.fr/politique/article/2026/11/06/la-propagande-d-extreme-droite-tue-a-paris-des-activistes-demenagent-un-relay-pour-denoncer-le-monopole-de-bollore_6807862_823448.html",
+  "date": "2026-11-06",
+  "resume": "Des militants ont vidé un Relay à Montparnasse, accusant la SNCF de favoriser la diffusion d’ouvrages d’extrême droite et de manquer de neutralité dans l’espace public.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "d496ab242429",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "A bord du « TGV nouvelle génération », entre Paris et Marseille : un train repensé de A à Z, à la capacité accrue et moins gourmand en énergie",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/06/a-bord-du-tgv-nouvelle-generation-entre-paris-et-marseille-un-train-repense-de-a-a-z-a-la-capacite-accrue-et-moins-gourmand-en-energie_6807856_3234.html",
+  "date": "2026-11-06",
+  "resume": "Livré par Alstom à la SNCF avec plus de deux ans de retard, il a effectué son voyage inaugural vendredi. Il remplacera progressivement les plus vieilles unités de la flotte.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
   "id": "790327c5c921",
   "source": "CERT-FR alertes",
   "rubrique": 2,
@@ -1227,7 +1580,7 @@
    "Vulnérabilité",
    "Identité & accès"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "306be99284dc",
@@ -1244,7 +1597,7 @@
    "IA",
    "Hameçonnage"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "a665869d02d2",
@@ -1259,7 +1612,7 @@
   "tags": [
    "Zero-day"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "4f9bb7c1ff8e",
@@ -1274,7 +1627,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "2a5b7d5a686a",
@@ -1289,7 +1642,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "25c3eda20cfe",
@@ -1304,7 +1657,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "a43f221f9628",
@@ -1319,7 +1672,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "c8f5c2d8f23d",
@@ -1334,7 +1687,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "45a027a4c288",
@@ -1349,7 +1702,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "2025f328c3d4",
@@ -1364,7 +1717,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "1ab6fb49689b",
@@ -1379,7 +1732,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "463ebe39838b",
@@ -1394,7 +1747,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "79dd47017c56",
@@ -1409,7 +1762,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "5d4d03269391",
@@ -1424,7 +1777,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "1981b067cd83",
@@ -1439,7 +1792,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "7e637a2f9fd7",
@@ -1454,7 +1807,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "671b07a9ce2d",
@@ -1469,7 +1822,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "6b1d9cd5a096",
@@ -1484,7 +1837,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "dad53d7e3ed5",
@@ -1499,7 +1852,7 @@
   "tags": [
    "Identité & accès"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "886e9406677f",
@@ -1514,7 +1867,7 @@
   "tags": [
    "Hameçonnage"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "b3caa2c28121",
@@ -1529,7 +1882,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "f3486834d347",
@@ -1544,7 +1897,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "408ff287345d",
@@ -1559,7 +1912,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "780955fd1e41",
@@ -1572,7 +1925,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "09b518162789",
@@ -1585,7 +1938,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5
+  "score": 4
  },
  {
   "id": "96a1ace9f58c",
@@ -1598,7 +1951,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "da77af0f435f",
@@ -1611,7 +1964,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "49bf8b366c47",
@@ -1624,7 +1977,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "59043a855535",
@@ -1637,7 +1990,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "5263a8e99f87",
@@ -1650,7 +2003,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "0e040b8f64fe",
@@ -1663,7 +2016,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "3fe484f436f5",
@@ -1676,7 +2029,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "58f4053a1bb9",
@@ -1689,7 +2042,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "59945f264a71",
@@ -1702,7 +2055,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b0ed286621dd",
@@ -1715,7 +2068,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ff4c5fc0e102",
@@ -1728,7 +2081,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "de9777ac31c5",
@@ -1741,7 +2094,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "24b0cd5e8604",
@@ -1754,7 +2107,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ec46104b96cd",
@@ -1767,7 +2120,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1ce6de927654",
@@ -1780,7 +2133,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "be7fab400272",
@@ -1793,7 +2146,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "5f55f7e3fece",
@@ -1806,7 +2159,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "747b121995ee",
@@ -1819,7 +2172,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "491e8580b4f6",
@@ -1832,7 +2185,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "adeae20cba46",
@@ -1845,7 +2198,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1e46ddcd0dce",
@@ -1858,7 +2211,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9dbb0c54a36e",
@@ -1871,7 +2224,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "58e3ef27bbc1",
@@ -1884,7 +2237,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "d4663d3d04f3",
@@ -1897,7 +2250,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "a597f5c61900",
@@ -1910,7 +2263,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "d3c1e556b219",
@@ -1923,7 +2276,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "c19301ccd2e2",
@@ -1936,7 +2289,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e8a8587ac0fe",
@@ -1949,7 +2302,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "576c950b72bd",
@@ -1962,7 +2315,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "3b6fee549659",
@@ -1975,7 +2328,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "290a6bcbea74",
@@ -1988,7 +2341,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "51dce8c37d6a",
@@ -2001,7 +2354,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "5b5f2d60cb9c",
@@ -2014,7 +2367,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "334a74d9e792",
@@ -2027,7 +2380,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "8727f121038f",
@@ -2040,7 +2393,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b46ccb355f21",
@@ -2053,7 +2406,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b045da53d3ca",
@@ -2066,7 +2419,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b7fe808f2968",
@@ -2079,7 +2432,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "35f3eccda7e0",
@@ -2092,7 +2445,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "941741e796c8",
@@ -2105,7 +2458,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "340d4660354f",
@@ -2118,7 +2471,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "a5066476e15a",
@@ -2131,7 +2484,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "306779ec6ea5",
@@ -2144,7 +2497,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "0be0772f68c8",
@@ -2157,7 +2510,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9c9fe3dd7a5c",
@@ -2170,7 +2523,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9a3fa2d5c26d",
@@ -2183,7 +2536,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "3e2bc14bd466",
@@ -2196,7 +2549,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e262113bb849",
@@ -2209,7 +2562,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "5aa0a5807d06",
@@ -2222,7 +2575,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "430866f91edf",
@@ -2235,7 +2588,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "bb8cb1ca8da5",
@@ -2248,7 +2601,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7b2329a5e79e",
@@ -2261,7 +2614,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "4a39cfba104b",
@@ -2274,7 +2627,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "2f08bff818a4",
@@ -2287,7 +2640,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "363930edbbdf",
@@ -2300,7 +2653,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7c373f921f13",
@@ -2313,215 +2666,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
- },
- {
-  "id": "d1a0bac5351e",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
-  "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
-  "date": "2026-11-05",
-  "resume": "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "5261e7b470b9",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "Sébastien Lecornu exhorte les banques à financer les candidats à l’élection présidentielle",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/05/sebastien-lecornu-exhorte-les-banques-a-financer-les-candidats-a-la-presidentielle_6807149_3234.html",
-  "date": "2026-11-05",
-  "resume": "Le premier ministre a envoyé deux nouveaux courriers aux banques françaises. Celles-ci plaident pour une solution impliquant des établissements financiers détenus directement ou indirectement par l’Etat.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "05cf6038c46a",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi",
-  "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
-  "date": "2026-11-05",
-  "resume": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. Peu avant 17 heures, Beauvau a fait savoir que près de 600 000 personnes ont participé à la mobilisation, ajoutant qu’il s’agissait d’une estimation non définitive.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "50151d7d0577",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "« Le gouvernement français a laissé passer l’occasion de redonner une dynamique aux salaires »",
-  "url": "https://www.lemonde.fr/idees/article/2026/11/05/le-gouvernement-francais-a-laisse-passer-l-occasion-de-redonner-une-dynamique-aux-salaires_6806904_3232.html",
-  "date": "2026-11-05",
-  "resume": "Pour l’heure, la réponse du gouvernement à la crise du pouvoir d’achat se concentre sur le smic, au risque d’accentuer le sentiment de déclassement des classes moyennes. Autant chercher à éteindre un incendie en craquant une allumette, estime dans sa chronique la journaliste au « Monde » Béatrice Madeline.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "e55e08145bd9",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "Appel à témoignages : salariés, étudiants, comment vous adaptez-vous à la flambée des factures de gaz et d’électricité ?",
-  "url": "https://www.lemonde.fr/economie/appel-temoignages/2026/11/05/appel-a-temoignages-salaries-etudiants-comment-vous-adaptez-vous-a-la-flambee-des-factures-de-gaz-et-d-electricite_6806862_3234.html",
-  "date": "2026-11-05",
-  "resume": "Alors que les températures baissent drastiquement en France, les prix du gaz et de l’électricité s’envolent, sur fond de tensions internationales. Racontez-nous vos stratégies pour vous ajuster à ces factures qui s’alourdissent.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "b1e56ba2ce8a",
-  "source": "Le Monde Économie",
-  "rubrique": 5,
-  "titre": "« Il faudrait une augmentation du smic de plus de 130 euros par mois pour un temps plein uniquement pour retrouver le niveau de 2012 »",
-  "url": "https://www.lemonde.fr/idees/article/2026/11/05/il-faudrait-une-augmentation-du-smic-de-plus-de-130-euros-par-mois-pour-un-temps-plein-uniquement-pour-retrouver-le-niveau-de-2012_6806861_3232.html",
-  "date": "2026-11-05",
-  "resume": "En réponse à la mobilisation sociale, le gouvernement a évoqué la piste d’une revalorisation du smic. L’économiste Clément Carbonnier rappelle, dans une tribune au « Monde », que le salaire minimum n’a pas connu de coup de pouce depuis quatorze ans et que les salariés qui le touchent se sont appauvris par rapport à l’ensemble du pays.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "52993d924f1f",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
-  "date": "2026-11-05",
-  "resume": "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "beef047447de",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "En Ile-de-France, le nombre de locations Airbnb longue durée a atteint un record en 2025",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/05/en-ile-de-france-le-nombre-de-locations-airbnb-a-l-annee-a-atteint-un-record-en-2025_6806858_3234.html",
-  "date": "2026-11-05",
-  "resume": "Parmi les 139 400 annonces actives en Ile-de-France sur la plateforme, 52 900 sont louées plus de 120 jours par an – un chiffre qui a doublé depuis 2019.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "9df2cac594e6",
-  "source": "Le Monde Pixels",
-  "rubrique": 4,
-  "titre": "Aide aux créateurs de contenu : pourquoi les annonces du CNC font grincer des dents",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/aide-aux-createurs-de-contenus-pourquoi-les-annonces-du-cnc-font-grincer-des-dents_6807331_4408996.html",
-  "date": "2026-11-05",
-  "resume": "Suspendu depuis le mois d’avril après une polémique, le fonds d’aide à la création sur les plateformes sociales du Centre national du cinéma et de l’image animée sera relancé en 2027, a annoncé son président, Gaëtan Bruel, jeudi, à la Paris Creator Week. Sans parvenir toutefois à convaincre des professionnels du secteur qui s’estiment « méprisés ».",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "d4cf46b498e7",
-  "source": "Le Monde Pixels",
-  "rubrique": 5,
-  "titre": "Mobilisation sociale et TikTok : une étude bat en brèche le rôle joué par la plateforme dans les violences",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html",
-  "date": "2026-11-05",
-  "resume": "Contrairement à ce qu’avance le gouvernement, les chercheurs n’ont pas trouvé de traces d’une coordination particulière des actions violentes sur le réseau social, ni d’une forte viralité des appels à en commettre.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "b91d03ddd05d",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "EN DIRECT, midterms 2026 : après avoir accepté les résultats, Donald Trump dénonce à présent des élections « truquées »",
-  "url": "https://www.lemonde.fr/international/live/2026/11/06/en-direct-midterms-2026-apres-avoir-accepte-les-resultats-donald-trump-denonce-a-present-des-elections-truquees_6805528_3210.html",
-  "date": "2026-11-05",
-  "resume": "« Nos élections sont tellement truquées, vous n’avez pas idée », a déclaré une nouvelle fois, sans apporter de preuve, le président américain, jeudi, à la presse. Deux jours après les scrutins de mi-mandat, les démocrates sont assurés d’une confortable majorité dans les deux chambres du Congrès, alors que les décomptes se poursuivent dans plusieurs Etats.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "1f6dcba97d48",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "EN DIRECT, guerre en Ukraine : la trêve d’Olechky prouve que « quand Poutine le veut, les combats s’arrêtent », estime Volodymyr Zelensky",
-  "url": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-la-treve-d-olechky-prouve-que-quand-poutine-le-veut-les-combats-s-arretent-estime-volodymyr-zelensky_6803934_3210.html",
-  "date": "2026-11-05",
-  "resume": "« Il en va de même pour nos compatriotes détenus en captivité en Russie. Quand Poutine le veut, ils rentrent chez eux. Et il en va de même pour nos enfants enlevés par la Russie », a ajouté le président ukrainien.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "d5a7fca5d4eb",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Etats-Unis : le gouverneur démocrate de Californie commue la peine de 548 condamnés à mort",
-  "url": "https://www.lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
-  "date": "2026-11-05",
-  "resume": "Gavin Newsom, candidat probable à l’investiture démocrate pour la présidentielle de 2028, dénonce un système incapable d’être « mis en œuvre de manière équitable ». Sa décision, annoncée jeudi, concerne un quart des condamnés à mort aux Etats-Unis.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "b370f652eb6e",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Midterms 2026 : à Los Angeles, la victoire de Nithya Raman à la mairie illustre la montée en puissance d’une nouvelle gauche aux Etats-Unis",
-  "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-a-los-angeles-la-victoire-de-nithya-raman-a-la-mairie-illustre-la-montee-en-puissance-d-une-nouvelle-gauche-aux-etats-unis_6807341_3210.html",
-  "date": "2026-11-05",
-  "resume": "La démocrate, 45 ans, a battu l’actuelle maire de la ville de Los Angeles, Karen Bass, 73 ans, une responsable politique pourtant chevronnée. Comme Zohran Mamdani, maire de New York, Nithya Raman se concentre sur les préoccupations sociales des électeurs.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "0044edf69a21",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi",
-  "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
-  "date": "2026-11-05",
-  "resume": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. De son côté, le ministère de l’intérieur a évalué à 575 000 le nombre de manifestants en France, dont 65 000 dans la capitale.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "7e1dc3704538",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "Le ciel européen en état d’alerte après des menaces visant une vingtaine de vols commerciaux",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/05/le-ciel-europeen-en-etat-d-alerte-apres-des-menaces-visant-une-vingtaine-de-vols-commerciaux_6807344_3234.html",
-  "date": "2026-11-05",
-  "resume": "Plusieurs pays, dont la France, ont dû mobiliser leur armée de l’air pour escorter des avions de ligne menacés par des alertes à la bombe. Une vingtaine de vols étaient concernés, ce qui laisse supposer une opération coordonnée.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "eaa8d66bc6fe",
@@ -3174,7 +3319,7 @@
    "Cloud",
    "Fuite de données"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "b87761b9d725",
@@ -3189,7 +3334,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "d108c8cad61e",
@@ -3205,7 +3350,7 @@
    "Rançongiciel",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "c136875d05ca",
@@ -3221,7 +3366,7 @@
    "Rançongiciel",
    "IA"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "19a35a6714f9",
@@ -3237,7 +3382,7 @@
    "IA",
    "Hameçonnage"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "27b11b637919",
@@ -3253,7 +3398,7 @@
    "IA",
    "Fuite de données"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "8ede56d402c1",
@@ -3269,7 +3414,7 @@
    "Vulnérabilité",
    "Cloud"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "4ee243d9c309",
@@ -3284,7 +3429,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "77eef035ebfc",
@@ -3300,7 +3445,7 @@
    "IA",
    "Cloud"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "496fbffc6e4d",
@@ -3315,7 +3460,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "3e6bc640da57",
@@ -3330,7 +3475,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "d4042f8de11d",
@@ -3345,7 +3490,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "77f64f32faf5",
@@ -3360,7 +3505,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "8491f2b2e054",
@@ -3375,7 +3520,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "ce8dbfe1c455",
@@ -3390,7 +3535,7 @@
   "tags": [
    "GRC"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "a1b249764f1c",
@@ -3405,7 +3550,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "7ca99e03f5c2",
@@ -3420,7 +3565,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "d64e16f3a968",
@@ -3435,7 +3580,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "dc2a246bd225",
@@ -3450,7 +3595,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "6cb26059f760",
@@ -3465,7 +3610,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "8afc2fab5966",
@@ -3480,7 +3625,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "bc96c130a163",
@@ -3495,7 +3640,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "f6282e8c323a",
@@ -3510,7 +3655,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "0b096c97b536",
@@ -3523,7 +3668,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "8d7e6e89b151",
@@ -3538,7 +3683,7 @@
   "tags": [
    "IA"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "9e1a2733e73a",
@@ -3550,164 +3695,6 @@
   "resume": "Name: h4ckc0n 2026 (an h4ckc0n event.) Date: Nov. 14, 2026, 3:30 p.m. &mdash; 15 Nov. 2026, 15:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://h4ckc0n.in/ Rating weight: 24.23 Event organizers: d4rkc0de",
   "criticite": "",
   "poids": 2,
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "3b6a51103bfa",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-  "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-  "date": "2026-11-03",
-  "resume": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised ",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "086ae7861f1a",
-  "source": "Le Monde Économie",
-  "rubrique": 3,
-  "titre": "Assurance-vie : les bonus des fonds en euros, des taux alléchants en trompe-l’œil",
-  "url": "https://www.lemonde.fr/argent/article/2026/11/03/assurance-vie-les-bonus-des-fonds-en-euros-des-taux-allechants-en-trompe-l-il_6805533_1657007.html",
-  "date": "2026-11-03",
-  "resume": "Les taux séduisants, mais temporaires, masquent la rémunération réelle de ce placement. Ces rendements dopés, souvent réservés aux gros versements ou conditionnés à l’achat d’unités de compte risquées, creusent les inégalités entre les épargnants.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [
-   "Assurance"
-  ],
-  "score": 3
- },
- {
-  "id": "20c9c9965d29",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-  "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-  "date": "2026-11-03",
-  "resume": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "3ce297811edf",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-  "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-  "date": "2026-11-03",
-  "resume": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "07d9937fab38",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-  "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-  "date": "2026-11-03",
-  "resume": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "36d509a3e525",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-  "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-  "date": "2026-11-03",
-  "resume": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,&nbsp",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "06b26e44f1d6",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Police seizes over 100 servers in investment scam crackdown",
-  "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-  "date": "2026-11-03",
-  "resume": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "9ca07b46843b",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-  "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-  "date": "2026-11-03",
-  "resume": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "63d055e30b47",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-  "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-  "date": "2026-11-03",
-  "resume": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data. cPGuard 5.88.25 and later versions",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "317e8557e095",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Binance says fake job interview led to $6.3 billion crypto heist",
-  "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-  "date": "2026-11-03",
-  "resume": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "36b3d0baf9aa",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Barracuda warns of critical flaws allowing root access to devices",
-  "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-  "date": "2026-11-03",
-  "resume": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "b0a8ea5b6986",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-  "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-  "date": "2026-11-03",
-  "resume": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-  "criticite": "",
-  "poids": 1,
   "tags": [],
   "score": 3
  },
@@ -4320,6 +4307,21 @@
   "score": 3
  },
  {
+  "id": "39749d757eb1",
+  "source": "The Hacker News",
+  "rubrique": 1,
+  "titre": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+  "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+  "date": "2026-11-02",
+  "resume": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Cloud"
+  ],
+  "score": 3
+ },
+ {
   "id": "af6ffe74845e",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -4454,7 +4456,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "4854dc1468c2",
@@ -4469,7 +4471,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "4760f9242e3b",
@@ -4484,7 +4486,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "5d0aa1865d5d",
@@ -4499,7 +4501,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "565b19547f10",
@@ -4514,7 +4516,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "b933ef472f9d",
@@ -4529,7 +4531,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "6b1f0a190440",
@@ -4544,7 +4546,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "a04cc8e270bb",
@@ -4559,7 +4561,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "b0ef52c1a470",
@@ -4574,7 +4576,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "92650a1e7ae8",
@@ -4589,7 +4591,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "a6b51e86c41d",
@@ -4604,7 +4606,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "c2bc9ee7faad",
@@ -4619,7 +4621,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "06c4ba24038c",
@@ -4634,7 +4636,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "0b98238d4eef",
@@ -4649,7 +4651,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "56927490b177",
@@ -4664,7 +4666,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "01b3d65ece3b",
@@ -4679,7 +4681,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "46d8d781bead",
@@ -4694,7 +4696,7 @@
   "tags": [
    "IA"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "6473fc7702e5",
@@ -4709,7 +4711,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "6d2a0802c49f",
@@ -4724,7 +4726,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "5100bc6323f0",
@@ -4739,7 +4741,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "f167e37bde6d",
@@ -4754,7 +4756,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "2dc39333ee97",
@@ -5438,6 +5440,21 @@
    "Rançongiciel"
   ],
   "score": 4
+ },
+ {
+  "id": "edde2ad25f2f",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+  "date": "2026-10-19",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+  "criticite": "",
+  "poids": 1,
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "score": 3
  },
  {
   "id": "7d3104b45e33",
