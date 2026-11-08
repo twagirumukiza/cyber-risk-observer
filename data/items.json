@@ -15,7 +15,7 @@
   "intro": "<p>Le 9 octobre 2026, la primaire de la gauche socialiste et démocratique connaît d’importantes difficultés techniques dès l’ouverture de sa plateforme de vote électronique. Près de 140 000 électeurs sont appelés à départager cinq candidats : Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel.</p><p>Dès les premières heures, les organisateurs dénoncent une cyberattaque reposant sur un afflux massif de connexions automatisées, générées par des bots. Ces connexions auraient saturé les capacités de la plateforme et empêché une partie des électeurs d’accéder normalement au scrutin.</p><p>Face à la situation, les organisateurs décident de prolonger le vote jusqu’au dimanche 11 octobre à 18 heures. Ils affirment parallèlement que l’intégrité des suffrages enregistrés n’a pas été compromise.</p><p>Mais l’affaire prend une autre dimension le 3 novembre. <b>Les Dernières Nouvelles d’Alsace</b>, reprenant des informations du <b>Canard enchaîné</b>, rapportent que les difficultés pourraient finalement résulter d’un mauvais dimensionnement de la plateforme et d’une sous-estimation du nombre de votants attendus.</p><p>Les organisateurs contestent cette interprétation dans un communiqué publié le même jour. Ils maintiennent que la plateforme a subi des tentatives massives de connexions malveillantes automatisées et affirment que des contrôles d’intégrité ont été effectués sous la supervision d’un expert indépendant. À ce stade, les informations publiques ne permettent pas de trancher définitivement entre les différentes explications.</p><p>Pourtant, une question supplémentaire mérite d’être posée, et elle est peut-être plus importante encore que la qualification technique de l’incident :</p><p><b>Les perturbations informatiques ont-elles pu favoriser ou désavantager un candidat ? Et si oui, dans quelle mesure ont-elles pu influencer le résultat final ?</b></p><p>Cette interrogation conduit à dépasser le seul cadre de la cybersécurité pour aborder celui de la gouvernance, de la gestion des risques et de la sincérité du scrutin.</p>",
   "stIntro": "",
   "rang": null,
-  "une": 0,
+  "une": 3,
   "uneR": 0,
   "ordre": [
    "info",
@@ -3193,7 +3193,7 @@
   "intro": "L'affaire impliquant Jensen Huang, PDG de Nvidia, et Alice Huang, dirigeante associée à l'entreprise singapourienne Megaspeed, dépasse largement le cadre d'un éventuel scandale personnel ou commercial. Elle met en lumière une dimension essentielle de la compétition technologique internationale : la collecte de renseignements stratégiques par l'exploitation des relations humaines et économiques.<p>Selon plusieurs révélations du New York Times publiées en octobre et novembre 2026, les services de renseignement américains soupçonnent Alice Huang d'avoir été impliquée dans une opération pilotée par les services chinois. L'objectif présumé aurait été d'obtenir des informations sur Nvidia, ses technologies et ses orientations stratégiques.</p><p>Ces accusations restent contestées et ne constituent pas des faits judiciairement établis. Nvidia nie toute transmission d'informations sensibles, tandis que Pékin rejette les allégations américaines.</p><p>Au-delà de la véracité des soupçons, cette affaire constitue un cas d'étude particulièrement intéressant pour comprendre l'évolution du risque cyber et géopolitique.</p>",
   "stIntro": "",
   "rang": null,
-  "une": 3,
+  "une": 4,
   "uneR": 0,
   "ordre": [
    "info",
