@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-07T11:20:31Z",
+ "maj": "2026-11-08T11:31:23Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -190,6 +190,12 @@
     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BWjBwd205UkI0U01JUHB2dWJpbVpHVkJDVXA3MlFUMmtmeFE1a1dNbzJHa01nOG5HVno0RGlVSktFem40bHEyZHkxZ1VkdjNCUXlzZU1iS2hwdHBnSWFqMGFBZnVRM0ZmeVRwRXo1czdHYWVGcGJyU0w4WGo?oc=5"
    },
    {
+    "t": "Russian APT28 Breaches NATO Naval Shipbuilder With New Reflective Loader",
+    "s": "The 420.in",
+    "d": "2026-10-20",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUUJ2ek9DbmgtOHBNbkJFZGJEX1BYRDBKaTU3Tlp6ZTBZQ2VySnFPZE41Zzc1eDdvLTVoV013ZWpJd2pqUlZSNjk5bmdTUUFPVnB0bGF2SmhubER1Y1NGM1cwVG1BREZzTkp2VmdrWXJkdWo1YjBOSFlPZ18?oc=5"
+   },
+   {
     "t": "Trellix Details DarkSword, JSCeal, Axios npm Attack and APT28 Campaigns",
     "s": "Hackread",
     "d": "2026-09-14",
@@ -354,16 +360,16 @@
     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZkg0eFRTVFJUeDllalZHUVRNSTZlRHRwa3ZfYUJ5TTJ6amg5dTNacTFoVTlFQkQxTXVna0p0bFNSQklsYWJCMTdrWG9nX1d1ckNOWVNVeEVRaXNxR1huYVZwRUhOZzExejdNbVhnaWlnRm12XzZoZG5kb2ZyeWdOa25RMXZ6TzQ1TDJiRzMyVE1td0hKVExPdHUxVkR5eVhJT0NicGY3czNYeWtmcmplak9yeHpOT0MtNEZlNi1Jc0JuenY1LUtMblNUSW91ZXFHNktua3lDS0VaS2tUZFJJZlA3SkZBU1lVd1ZOQVJlYzRQQlJ5amlBeGd3?oc=5"
    },
    {
-    "t": "A deep dive into China’s Volt Typhoon suggests it is preparing for an assault on infrastructure",
-    "s": "CSO Online",
-    "d": "2026-10-30",
-    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHgyMHpPejl1YW9fbWVGbGt6Q05uODI0WjNDTnd2WWhKZGpQa25qV3J0bzdWVTBmdmYwZXVOTENsd0c5OTFVRDNsUnN6TER6MlZXcWQwUE9XVWliTnMyYmlEUkhVT1JxLXgxYVNWcHc5a1Y2dENDbmh5QWR4bE02clJ5dGM2d1hZM2JldGV3alU1aUU0UGhvaFZ4VTI2RDVsZ3Z1ME5oN2F6Umh5R1NQZUtjTEszWTBNdF9hemV5NHpqLXVIdWswbkR1MkF3WEo0WkZsejZCU3A?oc=5"
-   },
-   {
     "t": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
     "s": "SecurityWeek",
     "d": "2026-10-29",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1l3a1RvZGc4bzlObG9oOXAxV25wbWZBaC1HVjlMeG1TNHZOYVo0ZUk5VGIzSUJUSkxySU9LYkFydnZnMU1PWnFvdFg2VFdraTNFb3ZYY3lpYk5UMmU0ZjBRd0RQT1JyOEdQNzBZNTZqekNoU05EMG0xR2NrVWRkMXJzT3BfeVFqY2VaTjJtSHhGcGpJZVVGSUVmdFdhVzA4YjR4aDVGZDc0eXfSAbABQVVfeXFMTUpHR3YzVjJMdEFuUWFycWcxTWludUhoZlY4aklHUkVZNlpHN3k4bnBGcVhRWDJyX2NaOFJxZ0VLS0pBaUZ2dXlfZE40bzBTTUZheHcwdDVoVWVFNEJIQlRCQ0pWeW5xVmRIY252Ujk1MnkyN1czOVdjUXlCejcyMXFzMC1hcWEtZEQyTUNjMktjTGo4UlR4S3FLNEZOdTBhZlZ5alpNZ2hmc2dEWXc0UnA?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1l3a1RvZGc4bzlObG9oOXAxV25wbWZBaC1HVjlMeG1TNHZOYVo0ZUk5VGIzSUJUSkxySU9LYkFydnZnMU1PWnFvdFg2VFdraTNFb3ZYY3lpYk5UMmU0ZjBRd0RQT1JyOEdQNzBZNTZqekNoU05EMG0xR2NrVWRkMXJzT3BfeVFqY2VaTjJtSHhGcGpJZVVGSUVmdFdhVzA4YjR4aDVGZDc0eXc?oc=5"
+   },
+   {
+    "t": "Cisco SD-WAN Catalyst Controller attacks linked to Volt Typhoon’s Silent Train network",
+    "s": "SC Media",
+    "d": "2026-10-29",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1dlQWYxaTJLQ05qcU9yVlMtV2FwQnYxazdzYThicGhtZFRMMTNFRXJYcTN1VnhyLTlFcU1aY3BsT3VQcUNfa3ozc3RwaDhhUWNIWW5UQlhGVHhTT01ITzg2RHFGQUdzbEZ5UzhxVjRIUmRCSjY0bm8zd0V0R0EzalNoX1FxeDUzQWxjUG9zYUZoNVg0NmVweVhRTjFXMTZfZHluMHFqSzlPNjVMeWwyQWlITG4?oc=5"
    }
   ],
   "fin7": [
@@ -411,7 +417,7 @@
    {
     "t": "Bhopal Cyber Alert As MPCERT Issues High-Level Security Advisory To MP Government Departments After LockBit",
     "s": "Free Press Journal",
-    "d": "2026-11-01",
+    "d": "2026-10-31",
     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVU4xdGxlY3k1WnBDMnZCVGlTdGxRXzROSFlFX3BvWnBIY0JvWHNGY3MzZlB3RjhyZDJxSDIyMUR5dHhaWnZhM0hGWWotUjRGRUFtQlN2bkVVX0tINUtRLUZvNnNpOVdDampkQVM0eVJINzV3eXlEVGZuX2tZWEZtalZMblZVakRva05INUlkR2N4VmxzYzZabGRkajhnOFhQdmxfRlF5WUJpdDRuT1V6cGEwNGpKa3hZdFU1TWtHcUNjM192SmJzNWR1VDJmak4tcUtXT3Rtd21YclJqR1ZzRGtOWW9YRXJTZ0VmdC1GUUQ5U0pvaUpr0gH8AUFVX3lxTE1wM1Y4NGZ1OUJwM21TUldZWnRTdC1XU0dkNi1iRTE3cUcyOXBFUFE1N3ZwZHNTdEFNMWhlVkQxaVpQSzZ5YVBxRGFHRWZsUUVaWDdRUHR6Si00am42VG9TSU5TUnhCOWpveFJoQ0NtMkdjR1FWY2RWOU1tNFlnempPVHRhWV92UEZ0QUNRS3BuSFNBakhmaTU2c3dkUTA2MUpnUXVNampmRzNhdVA2c2lGVUZqM3RveUROVGdtQkVzTzR4NGM5V3I0NTg1em1YQkc4Y080NXBsUml0U1VsQUJrc19DUjhMQjZ5UFRCQXNQc25QR2pzUDlMYlU3QQ?oc=5"
    },
    {
@@ -528,6 +534,12 @@
   ],
   "scattered-spider": [
    {
+    "t": "Black Hat Europe 2026 Keynotes to Address AI Security Blind Spots and the Network Behind Scattered Spider and Lapsus$",
+    "s": "Business Wire",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUZQMnFiLWN5aFlqM0p3YTZGS1ctV3E0ekhJWUdCdDc3RDlDQUhabTdSU1RnaEFqb3hKbl9Ia3U5VTRkU0NRaDJlbVh5Y2JTbjkxd29Yc0pHQU85cDdfWms1MG1JazZUbVg3WUhVQmlWTVZuNDVGaHVtLUVIQUMyRFlST0cwem1FMXlPZ2tpQ3Rfb1J5LXRFUHk0a1pfczVBVkczZXlNUkl3UWMwckNzSXFOeVpLU3YwdEtaNnFuTG9GZ2RlNlEzM0J2aDlkMHZUd1k3OGFqaUZKSW5CWHdRMHdhNkd4U2huTmxfSUhRdWcxdXg5S25uR3A3RHBBb05WMGkzZ29tWQ?oc=5"
+   },
+   {
     "t": "Texas man pleads guilty in Scattered Spider extortion scheme",
     "s": "SC Media",
     "d": "2026-09-21",
@@ -584,6 +596,20 @@
     "s": "Forbes",
     "d": "2026-11-02",
     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmd5ZHpZc25KcVhPQmJQNjhxaDZ6c3RnX1gwYmh2eTA5dFhWMHZxRG44SlhzUHh5dmozZDFsbjdDLTB1VzN0UjR0aHowci1GX2RoLWY3RFUwWEtKZGpHd3BnZXE0aDFEa2VxSTRLSkVrcGpzbk56ZFBySm4xX3F4dEVYamk5LWpiczlV?oc=5"
+   }
+  ],
+  "noname057-16": [
+   {
+    "t": "NoName057(16) hackers target their investigators, bounty on data of 18 people",
+    "s": "Pasquale Pillitteri",
+    "d": "2026-11-07",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbk1nN1IxbFhLcGQ1a1lrOW5KNm5QUjhYX0pZTVdEZEQ0LTNEUU5PbzlKMkU5VU51aWV4S1RXOTlIcGdfbFdCcWF6WEMyR2pLN2lEdmN5T0hXQXg4TWRMVWRBS1F4S1IzbjVCYlBFejhpWVQ3SE9VZHpBak9uVnljNDg5RExyanZXem9hVzh0Yi1jT3dIQkluam9n?oc=5"
+   },
+   {
+    "t": "NoName057(16) attaque ses enquêteurs, prime sur les données de 18 personnes",
+    "s": "Pasquale Pillitteri",
+    "d": "2026-11-07",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUxQTENuTmFQU0kwRl9XcFlQTEpWakJTQ05LeWVuLXF3Yk5ycXAwZXQ2ZzdBcU5IUnh3RzdBdDZmLVFmNzlFTGMwYkg5Q3FYa0R3ZkpONjlEaXVMLTF3OTdPN25NTWZMbUttVXdWdEZ0N0ZycTVBaUYzcHR0d1E2ODl0WEU5Sk9WM3NZekRCb1RISFNLXzVtT0RIQmk?oc=5"
    }
   ]
  },
