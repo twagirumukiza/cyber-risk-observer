@@ -5,6 +5,12 @@ Ce fichier alimente l'onglet « Veille » de la rédaction : des SUJETS à trait
 classés par rubrique et par pertinence. Rien n'est publié automatiquement et
 data/items.json (les articles du journal) n'est jamais modifié ici.
 
+Règle de pertinence : n'est conservé que ce qui touche à la MENACE CYBER (attaque,
+vulnérabilité, fuite de données, rançongiciel, espionnage, désinformation…) ou aux
+textes qui l'encadrent (NIS2, DORA, RGPD…), puis rangé dans une rubrique du journal.
+Les sources généralistes (presse, recherche web) sont filtrées ; les sources cyber
+spécialisées sont gardées telles quelles.
+
 Seuls le titre, l'adresse, la date et un court extrait (400 caractères) sont
 conservés : l'article est à rédiger avec vos propres mots, source citée.
 Bibliothèque standard uniquement (aucune dépendance à installer).
@@ -13,6 +19,8 @@ import hashlib
 import json
 import re
 import sys
+import time
+import urllib.parse
 import unicodedata
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -47,20 +55,36 @@ SOURCES = [
      "url": "https://krebsonsecurity.com/feed/"},
     {"nom": "ZATAZ", "type": "rss", "rubrique": ACTU, "poids": 1,
      "url": "https://www.zataz.com/feed/"},
-    {"nom": "Le Monde International", "type": "rss", "rubrique": GEO, "poids": 0,
+    {"nom": "Le Monde International", "type": "rss", "rubrique": GEO, "poids": 0, "filtre": True,
      "url": "https://www.lemonde.fr/international/rss_full.xml"},
-    {"nom": "Le Monde Économie", "type": "rss", "rubrique": ECO, "poids": 0,
+    {"nom": "Le Monde Économie", "type": "rss", "rubrique": ECO, "poids": 0, "filtre": True,
      "url": "https://www.lemonde.fr/economie/rss_full.xml"},
-    {"nom": "Le Monde Pixels", "type": "rss", "rubrique": SOCIETE, "poids": 0,
+    {"nom": "Le Monde Pixels", "type": "rss", "rubrique": SOCIETE, "poids": 0, "filtre": True,
      "url": "https://www.lemonde.fr/pixels/rss_full.xml"},
     {"nom": "CTFtime", "type": "rss", "rubrique": CTF, "poids": 2,
      "url": "https://ctftime.org/event/list/upcoming/rss/"},
     {"nom": "ANSSI", "type": "rss", "rubrique": ACTU, "poids": 3, "actif": False,
      "url": "https://www.ssi.gouv.fr/feed/actualite/"},
-    {"nom": "CNIL", "type": "rss", "rubrique": ECO, "poids": 2, "actif": False,
+    {"nom": "CNIL", "type": "rss", "rubrique": ECO, "poids": 2, "actif": False, "filtre": True,
      "url": "https://www.cnil.fr/fr/rss.xml"},
-    {"nom": "ENISA", "type": "rss", "rubrique": ECO, "poids": 2, "actif": False,
+    {"nom": "ENISA", "type": "rss", "rubrique": ECO, "poids": 2, "actif": False, "filtre": True,
      "url": "https://www.enisa.europa.eu/news/enisa-news/RSS"},
+    # Recherche sur le web (Bing Actualités, liens directs vers les éditeurs) : une
+    # série de requêtes par rubrique, toujours filtrées sur la menace cyber.
+    {"nom": "Web · Actualités", "type": "web", "rubrique": ACTU, "poids": 1, "filtre": True,
+     "requetes": [("cyberattaque France", "fr-FR"), ("cybersécurité alerte incident", "fr-FR")]},
+    {"nom": "Web · Géopolitique", "type": "web", "rubrique": GEO, "poids": 1, "filtre": True,
+     "requetes": [("cyberattaque ingérence géopolitique État", "fr-FR"), ("nation-state cyber espionage attack", "en-US")]},
+    {"nom": "Web · Cyber & numérique", "type": "web", "rubrique": CYBER, "poids": 1, "filtre": True,
+     "requetes": [("rançongiciel attaque entreprise", "fr-FR"), ("zero-day vulnerability exploited", "en-US"), ("data breach ransomware", "en-US")]},
+    {"nom": "Web · Économie", "type": "web", "rubrique": ECO, "poids": 1, "filtre": True,
+     "requetes": [("cyberattaque coût entreprise assurance cyber", "fr-FR"), ("amende RGPD CNIL cybersécurité", "fr-FR"), ("cybersecurity acquisition market", "en-US")]},
+    {"nom": "Web · Société", "type": "web", "rubrique": SOCIETE, "poids": 1, "filtre": True,
+     "requetes": [("cyberattaque hôpital école collectivité", "fr-FR"), ("désinformation deepfake cybersécurité", "fr-FR"), ("fuite de données citoyens vie privée", "fr-FR")]},
+    {"nom": "Web · Analyses", "type": "web", "rubrique": ANALYSES, "poids": 1, "filtre": True,
+     "requetes": [("rapport menace cyber panorama", "fr-FR"), ("threat landscape report cybersecurity", "en-US")]},
+    {"nom": "Web · Notions cyber", "type": "web", "rubrique": NOTIONS, "poids": 0, "filtre": True,
+     "requetes": [("bonnes pratiques cybersécurité hygiène numérique", "fr-FR")]},
 ]
 
 # Sujets qui intéressent le journal : (expression, étiquette, points)
@@ -84,6 +108,28 @@ INTERETS = [
     (r"\bctf\b|capture the flag", "CTF", 2),
 ]
 
+# Pertinence : tout ce qui touche à la menace cyber, ou aux textes qui l'encadrent
+CYBER = (r"cyber|piratage|pirate|hack|malware|logiciel malveillant|ransomware|rancongiciel|phishing|hamecon|"
+         r"vulnerab|\bcve-\d|zero.?day|0.?day|faille|ddos|deni de service|botnet|exfiltration|fuite de donnees|"
+         r"data breach|\bleak|intrusion|compromission|spyware|espionnage|\bapt\b|infostealer|backdoor|porte derobee|"
+         r"incident de securite|securite informatique|securite des systemes|\bssi\b|\banssi\b|cert-fr|\bnis ?2\b|"
+         r"\bdora\b|\brgpd\b|\bgdpr\b|cyber resilience|\bcra\b|deepfake|ingerence numerique|desinformation|"
+         r"souverainete numerique|\bctf\b|capture the flag")
+
+# Types de menace repérés dans le texte : (étiquette, expression)
+MENACES = [
+    ("Rançongiciel", r"ransomware|rancongiciel|extorsion"),
+    ("Vulnérabilité / zero-day", r"zero.?day|0.?day|jour zero|vulnerab|\bcve-\d|faille|exploit"),
+    ("Fuite de données", r"fuite de donnees|data breach|\bleak|exfiltration|donnees (?:personnelles )?(?:volees|derobees|exposees)"),
+    ("Hameçonnage / fraude", r"phishing|hamecon|usurpation|arnaque|smishing|vishing|deepfake"),
+    ("Logiciel malveillant", r"malware|logiciel malveillant|trojan|cheval de troie|infostealer|spyware|botnet|backdoor|porte derobee|wiper"),
+    ("Déni de service", r"ddos|deni de service"),
+    ("Espionnage / acteur étatique", r"\bapt ?\d*\b|espionnage|state.?sponsored|nation.?state|acteur etatique|ingerence"),
+    ("Cyberattaque", r"cyber.?attaque|attaque informatique|piratage|compromission|intrusion|incident de securite|cyber attack|\bhack"),
+    ("Chaîne d'approvisionnement", r"supply chain|chaine d.approvisionnement"),
+    ("Désinformation / influence", r"desinformation|manipulation de l.information|influence operation|ingerence numerique"),
+]
+
 # Rubrique suggérée d'après le contenu (le plus d'indices l'emporte)
 REGLES = {
     GEO: r"guerre|conflit|otan|nato|ukrain|russ|chin|iran|israel|ingerence|diplomat|sanction|geopolit|nation.?state|state.?sponsored|\bapt ?\d+|espionnage",
@@ -93,6 +139,9 @@ REGLES = {
     NOTIONS: r"bonnes pratiques|hygiene|sensibilisation|guide pratique|comment se proteger|conseils",
     CTF: r"\bctf\b|capture the flag|writeup",
 }
+
+
+NOMS = {x["nom"]: x for x in SOURCES}
 
 
 def sans_accents(t):
@@ -172,7 +221,33 @@ def lire_kev(src):
                     en_date(v.get("dateAdded")), v.get("shortDescription", ""), "Critique")
 
 
-LECTEURS = {"rss": lire_rss, "kev": lire_kev}
+def lire_web(src):
+    """Recherche Bing Actualités (RSS) : lien direct vers l'éditeur, pas vers le moteur."""
+    for q, mkt in src["requetes"]:
+        url = "https://www.bing.com/news/search?" + urllib.parse.urlencode({"q": q, "format": "rss", "setmkt": mkt})
+        try:
+            racine = ET.fromstring(telecharger(url))
+        except Exception as exc:
+            print(f"[erreur] {src['nom']} ({q}) : {exc}", file=sys.stderr)
+            continue
+        for el in racine.iter("item"):
+            titre = nettoyer(el.findtext("title"))
+            lien = (el.findtext("link") or "").strip()
+            if "apiclick" in lien or "bing.com" in lien:
+                v = urllib.parse.parse_qs(urllib.parse.urlparse(lien).query).get("url")
+                lien = v[0] if v else ""
+            if not titre or not lien.startswith("http") or "bing.com" in lien or "news.google." in lien:
+                continue
+            editeur = ""
+            for c in el:
+                if c.tag.lower().endswith("source") and (c.text or "").strip():
+                    editeur = c.text.strip()
+            yield creer(dict(src, nom=editeur or urllib.parse.urlparse(lien).netloc), titre, lien,
+                        en_date(el.findtext("pubDate")), nettoyer(el.findtext("description")))
+        time.sleep(1)
+
+
+LECTEURS = {"rss": lire_rss, "kev": lire_kev, "web": lire_web}
 
 
 def evaluer(it, aujourdhui):
@@ -197,8 +272,12 @@ def evaluer(it, aujourdhui):
         if n > n_max:
             meilleur, n_max = rub, n
     it["rubrique"] = meilleur
-    it["tags"] = tags[:5]
-    it["score"] = min(pts, 20)
+    menaces = [lib for lib, motif in MENACES if re.search(motif, texte)]
+    it["menaces"] = menaces[:4]
+    it["tags"] = (menaces[:4] + [t for t in tags if t not in menaces])[:6]
+    it["score"] = min(pts + min(2 * len(menaces), 6), 20)
+    src = NOMS.get(it.get("source"))
+    it["pertinent"] = bool(menaces or re.search(CYBER, texte) or (src is not None and not src.get("filtre")))
     return it
 
 
@@ -225,12 +304,14 @@ def main():
             erreurs += 1
             print(f"[erreur] {src['nom']} : {exc}", file=sys.stderr)
     tous = [evaluer(i, aujourdhui) for i in existants.values() if i.get("date", "") >= limite]
+    ecartes = sum(1 for i in tous if not i["pertinent"])
+    tous = [i for i in tous if i.pop("pertinent")]  # hors menace cyber : écarté
     tous.sort(key=lambda i: (i["score"], i["date"]), reverse=True)
     items = tous[:MAX_ITEMS]
     items.sort(key=lambda i: i["date"], reverse=True)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{nouveaux} nouveaux sujets, {len(items)} au total, {erreurs}/{tentees} source(s) en erreur")
+    print(f"{ecartes} hors sujet écartés ; {nouveaux} nouveaux sujets, {len(items)} au total, {erreurs}/{tentees} source(s) en erreur")
     if tentees and erreurs == tentees:
         sys.exit(1)
 

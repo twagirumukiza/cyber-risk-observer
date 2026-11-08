@@ -140,7 +140,13 @@ class Clean(HTMLParser):
         a = dict(attrs)
         t = "p" if tag == "div" else tag
         close = None
-        if tag == "span":
+        if tag == "div" and "vid" in (a.get("class") or "").split():
+            src = (a.get("data-src") or "").strip()
+            if re.fullmatch(r"https://www\.youtube-nocookie\.com/embed/[\w-]{11}|https://player\.vimeo\.com/video/\d{5,12}|https://www\.dailymotion\.com/embed/video/[A-Za-z0-9]{5,12}", src):
+                self.out.append(f'<div class="vid"><iframe src="{esc(src)}" title="Vidéo" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen"></iframe></div>')
+            elif re.fullmatch(r"https://[^\s\"'<>]+\.(?:mp4|webm|ogg)(?:\?[^\s\"'<>]*)?", src, re.I):
+                self.out.append(f'<div class="vid"><video controls preload="metadata" playsinline src="{esc(src)}"></video></div>')
+        elif tag == "span":
             cls = (a.get("class") or "").split()
             tip = (a.get("data-tip") or "").strip()
             lex = a.get("data-lex") or ""
@@ -151,8 +157,13 @@ class Clean(HTMLParser):
             else:
                 bg = hexc(re.search(r"background(?:-color)?\s*:\s*([^;]+)", a.get("style") or "", re.I)[1]) \
                     if re.search(r"background(?:-color)?\s*:", a.get("style") or "", re.I) else ""
-                if bg:
-                    self.out.append(f'<span class="hl" style="background-color:{bg}">')
+                mc = re.search(r"(?:^|;)\s*color\s*:\s*([^;]+)", a.get("style") or "", re.I)
+                fc = hexc(mc[1]) if mc else ""
+                if fc == "#010203":
+                    fc = ""
+                if bg or fc:
+                    st = (f"background-color:{bg};" if bg else "") + (f"color:{fc}" if fc else "")
+                    self.out.append(f'<span{" class=\"hl\"" if bg else ""} style="{st.rstrip(";")}">')
                     close = "</span>"
         elif t in OKT:
             if t == "a":
@@ -162,7 +173,10 @@ class Clean(HTMLParser):
                     close = "</a>"
             else:
                 al = self._style(attrs, t)
-                extra = f' style="text-align:{al}"' if al else ""
+                mc2 = re.search(r"(?:^|;)\s*color\s*:\s*([^;]+)", dict(attrs).get("style") or "", re.I)
+                fc2 = hexc(mc2[1]) if mc2 else ""
+                sty = (f"text-align:{al};" if al else "") + (f"color:{fc2}" if fc2 and fc2 != "#010203" else "")
+                extra = f' style="{sty.rstrip(";")}"' if sty else ""
                 if t in ("td", "th"):
                     for k in ("colspan", "rowspan"):
                         try:
@@ -343,8 +357,9 @@ def article_body(x, base, url, related):
     titre = esc(x.get("titre") or "Sans titre")
     kicker = esc(x.get("kicker") or x.get("source") or "")
     std = esc(plain(x.get("resume")))
-    inf = rich(x.get("resume")) or (f"<p>{std}</p>" if std else "")
+    inf = rich(x.get("resume")) or ""
     intro = rich(x.get("intro"))
+    chapo = f"<div class='std chapo'>{intro}</div>" if intro else f"<p class='std'>{std}</p>"
     st_intro = esc(x.get("stIntro") or "")
     ana = rich(x.get("analyse"))
     con = rich(x.get("conclusion"))
@@ -390,7 +405,7 @@ def article_body(x, base, url, related):
             lus.append((esc(u), esc(tt or lbl(u))))
     lu = ("<div class='lv l5'><h2>Pour aller plus loin</h2><ul>" + "".join(
         f"<li><a href='{u}' rel='noopener noreferrer' target='_blank'>{t}</a></li>" for u, t in lus[:10]) + "</ul></div>") if lus else ""
-    intr = f"<div class='intro'>{('<h2>' + st_intro + '</h2>') if st_intro else ''}{intro}</div>" if intro else ""
+    intr = ""
 
     BL = {}
     for p in parts:
@@ -468,7 +483,7 @@ def article_body(x, base, url, related):
     k = sec_of(x)
     crumb = f"<div class='crumb'><a href='{base}'>Accueil</a> › <a href='{base}rubriques/{RS[k]}/'>{esc(S[k][0])}</a></div>"
     by = f"<div class='by'><span>Par {aname or 'la rédaction'}</span><span>{esc(fd(x.get('date')))}</span></div>"
-    return (f"<div class='art'>{crumb}<span class='k'>{kicker}</span><h1>{titre}</h1><p class='std'>{std}</p>{by}"
+    return (f"<div class='art'>{crumb}<span class='k'>{kicker}</span><h1>{titre}</h1>{chapo}{by}"
             f"{top}{intr}{ordh}{lu}{au}{share}{src}{relh}"
             f"<p class='noprint' style='margin-top:22px'><a href='{base}#article-{esc(x.get('id'))}'>Ouvrir dans le journal interactif (recherche, infobulles, lexique) →</a></p></div>")
 
@@ -487,7 +502,7 @@ EXTRA_CSS = """
 .mast .tabs a{color:#fff;padding:10px 12px;font:600 .95rem var(--head);border-bottom:3px solid transparent;display:inline-block}
 .mast .tabs a[aria-current=page]{border-bottom-color:var(--yel)}.mast .tabs{display:flex;flex-wrap:wrap}
 .mast .logo{color:#fff;text-decoration:none}
-.tip{border-bottom:2px solid #1f5fd1;cursor:help}
+.tip{border-bottom:2px solid #1f5fd1;cursor:help}.vid{position:relative;aspect-ratio:16/9;margin:1.2em 0;background:#000;border-radius:6px;overflow:hidden}.vid iframe,.vid video{position:absolute;inset:0;width:100%;height:100%;border:0}
 .list-st{list-style:none;margin:0;padding:0}.list-st li{padding:14px 0;border-top:1px solid var(--line)}.list-st li:first-child{border-top:0}
 .list-st h2{margin:2px 0;font:700 1.25rem var(--head)}.list-st p{margin:4px 0;color:var(--muted)}.list-st time{font-size:.8rem;color:var(--muted)}
 .lxd dt{font:700 1.1rem var(--head);margin-top:16px}.lxd dd{margin:2px 0 0}
@@ -610,7 +625,7 @@ def main():
             rel = [y for y in by_sec.get(k, []) if y is not x][:3]
         related = [(aurl(y), esc(y["titre"])) for y in rel]
         body = article_body(x, base, url, related)
-        desc = lite(x.get("resume"), 158) or lite(x.get("analyse"), 158) or S[k][1]
+        desc = lite(x.get("intro"), 158) or lite(x.get("resume"), 158) or lite(x.get("analyse"), 158) or S[k][1]
         image = img_ok(x.get("image"))
         og = base + image if image else ""
         date = str(x.get("date") or "")[:10]
@@ -637,7 +652,7 @@ def main():
         lst = by_sec.get(k, [])
         cards = "".join(
             f"<li><span class='k'>{esc(y.get('kicker') or '')}</span><h2><a href='{aurl(y)}'>{esc(y['titre'])}</a></h2>"
-            f"<p>{esc(lite(y.get('resume'), 220))}</p><time>{esc(fd(y.get('date')))}</time></li>" for y in lst)
+            f"<p>{esc((lite(y.get('intro'), 220) or lite(y.get('resume'), 220)))}</p><time>{esc(fd(y.get('date')))}</time></li>" for y in lst)
         body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › {esc(S[k][0])}</div><h1>{esc(S[k][0])}</h1>"
                 f"<p style='color:var(--muted)'>{esc(S[k][1])}</p>" + (f"<ul class='list-st'>{cards}</ul>" if cards else "<p>Aucun article pour l’instant.</p>") + "</div>")
         url = f"{base}rubriques/{RS[k]}/"
@@ -652,7 +667,7 @@ def main():
     if archived:
         cards = "".join(
             f"<li><span class='k'>{esc(S[sec_of(y)][0])}</span><h2><a href='{aurl(y)}'>{esc(y['titre'])}</a></h2>"
-            f"<p>{esc(lite(y.get('resume'), 220))}</p><time>{esc(fd(y.get('date')))}</time></li>" for y in archived)
+            f"<p>{esc((lite(y.get('intro'), 220) or lite(y.get('resume'), 220)))}</p><time>{esc(fd(y.get('date')))}</time></li>" for y in archived)
         body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › Archives</div><h1>Archives</h1>"
                 f"<p style='color:var(--muted)'>Articles plus anciens, retirés de la page d’accueil.</p><ul class='list-st'>{cards}</ul></div>")
         url = f"{base}archives/"
