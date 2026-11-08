@@ -1,21 +1,6 @@
 {
  "calendrier": [
   {
-   "ct": 3455,
-   "nom": "Mimic",
-   "date": "2026-11-07",
-   "duree": "1 j",
-   "format": "Jeopardy · en ligne",
-   "niveau": "",
-   "url": "https://ctf.rarebytehub.com/events/mimic",
-   "mode": "online",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
    "ct": 3499,
    "nom": "CyberZerk CTF 2026",
    "date": "2026-11-09",
@@ -471,6 +456,61 @@
  "classTitre": "Classement mondial 2026",
  "writeups": [
   {
+   "id": "wbcbbb268",
+   "cat": "Forensic",
+   "titre": "Comprehensive Freemium CTF Ready Guide",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xqnyo8/comprehensive_freemium_ctf_ready_guide/",
+   "d": "2026-11-08",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
+   "id": "w3850d760",
+   "cat": "Forensic",
+   "titre": "Comphrensive Freeium CTF Ready Guide",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xqnxx0/comphrensive_freeium_ctf_ready_guide/",
+   "d": "2026-11-08",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
+   "id": "wf01d63d7",
+   "cat": "Autre",
+   "titre": "HTB: Garfield",
+   "niveau": "",
+   "url": "https://0xdf.gitlab.io/2026/11/07/htb-garfield.html",
+   "d": "2026-11-07",
+   "s": "0xdf hacks stuff",
+   "n": 1,
+   "v": 1
+  },
+  {
+   "id": "w49654ea0",
+   "cat": "Web",
+   "titre": "Can you find the secret admin panel? Try a CTF challenge on Codelivly For Completely Free",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xq7sug/can_you_find_the_secret_admin_panel_try_a_ctf/",
+   "d": "2026-11-07",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
+   "id": "wf70621d8",
+   "cat": "Crypto",
+   "titre": "(CFT challenge) OpenHSM $150 to the winner.",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xq6nzy/cft_challenge_openhsm_150_to_the_winner/",
+   "d": "2026-11-07",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
    "id": "w14362f0f",
    "cat": "Crypto",
    "titre": "A question",
@@ -801,28 +841,6 @@
    "v": 1
   },
   {
-   "id": "wc49504ab",
-   "cat": "Autre",
-   "titre": "$5,000 API key challenge (root access provided)",
-   "niveau": "",
-   "url": "https://www.reddit.com/r/securityCTF/comments/1xiisq1/5000_api_key_challenge_root_access_provided/",
-   "d": "2026-10-29",
-   "s": "Reddit r/securityCTF",
-   "n": 1,
-   "v": 0
-  },
-  {
-   "id": "w90a369c7",
-   "cat": "Web",
-   "titre": "Exploiting LLM prompt injection vulnerabilities",
-   "niveau": "",
-   "url": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities",
-   "d": "2026-10-28",
-   "s": "Intigriti",
-   "n": 1,
-   "v": 1
-  },
-  {
    "id": "we11ae897",
    "cat": "Forensic",
    "titre": "Quickpost: Uranium Glass",
@@ -922,28 +940,6 @@
    "v": 1
   },
   {
-   "id": "w3dbeb77d",
-   "cat": "Forensic",
-   "titre": "Overview of Content Published in September",
-   "niveau": "",
-   "url": "https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/",
-   "d": "2026-10-01",
-   "s": "Didier Stevens",
-   "n": 1,
-   "v": 1
-  },
-  {
-   "id": "w00de0986",
-   "cat": "Forensic",
-   "titre": "Update: search-for-compression.py Version 0.0.8",
-   "niveau": "",
-   "url": "https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/",
-   "d": "2026-09-30",
-   "s": "Didier Stevens",
-   "n": 1,
-   "v": 1
-  },
-  {
    "id": "wdd842752",
    "cat": "Crypto",
    "titre": "New Challenges 10/2026",
@@ -988,11 +984,11 @@
    "v": 1
   }
  ],
- "maj": "2026-11-07T11:06:31Z",
+ "maj": "2026-11-08T11:19:36Z",
  "sources": {
-  "Compétitions — CTFtime": 27,
+  "Compétitions — CTFtime": 26,
   "CTFtime — writeups": 0,
-  "0xdf hacks stuff": 18,
+  "0xdf hacks stuff": 19,
   "CryptoHack": 1,
   "PortSwigger Research": 9,
   "Intigriti": 20,
@@ -1000,7 +996,7 @@
   "Didier Stevens": 10,
   "Check Point Research": 15,
   "Google Project Zero": 4,
-  "Reddit r/securityCTF": 21,
+  "Reddit r/securityCTF": 22,
   "Web — Web": 0,
   "Web — Crypto": 0,
   "Web — Forensic": 0,
