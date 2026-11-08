@@ -109,7 +109,7 @@ INTERETS = [
 ]
 
 # Pertinence : tout ce qui touche à la menace cyber, ou aux textes qui l'encadrent
-CYBER = (r"cyber|piratage|pirate|hack|malware|logiciel malveillant|ransomware|rancongiciel|phishing|hamecon|"
+MOTIF_CYBER = (r"cyber|piratage|pirate|hack|malware|logiciel malveillant|ransomware|rancongiciel|phishing|hamecon|"
          r"vulnerab|\bcve-\d|zero.?day|0.?day|faille|ddos|deni de service|botnet|exfiltration|fuite de donnees|"
          r"data breach|\bleak|intrusion|compromission|spyware|espionnage|\bapt\b|infostealer|backdoor|porte derobee|"
          r"incident de securite|securite informatique|securite des systemes|\bssi\b|\banssi\b|cert-fr|\bnis ?2\b|"
@@ -277,7 +277,7 @@ def evaluer(it, aujourdhui):
     it["tags"] = (menaces[:4] + [t for t in tags if t not in menaces])[:6]
     it["score"] = min(pts + min(2 * len(menaces), 6), 20)
     src = NOMS.get(it.get("source"))
-    it["pertinent"] = bool(menaces or re.search(CYBER, texte) or (src is not None and not src.get("filtre")))
+    it["pertinent"] = bool(menaces or re.search(MOTIF_CYBER, texte) or (src is not None and not src.get("filtre")))
     return it
 
 
