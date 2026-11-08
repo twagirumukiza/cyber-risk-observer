@@ -3193,7 +3193,7 @@
   "intro": "L'affaire impliquant Jensen Huang, PDG de Nvidia, et Alice Huang, dirigeante associée à l'entreprise singapourienne Megaspeed, dépasse largement le cadre d'un éventuel scandale personnel ou commercial. Elle met en lumière une dimension essentielle de la compétition technologique internationale : la collecte de renseignements stratégiques par l'exploitation des relations humaines et économiques.<p>Selon plusieurs révélations du New York Times publiées en octobre et novembre 2026, les services de renseignement américains soupçonnent Alice Huang d'avoir été impliquée dans une opération pilotée par les services chinois. L'objectif présumé aurait été d'obtenir des informations sur Nvidia, ses technologies et ses orientations stratégiques.</p><p>Ces accusations restent contestées et ne constituent pas des faits judiciairement établis. Nvidia nie toute transmission d'informations sensibles, tandis que Pékin rejette les allégations américaines.</p><p>Au-delà de la véracité des soupçons, cette affaire constitue un cas d'étude particulièrement intéressant pour comprendre l'évolution du risque cyber et géopolitique.</p>",
   "stIntro": "",
   "rang": null,
-  "une": 0,
+  "une": 3,
   "uneR": 0,
   "ordre": [
    "info",
@@ -3368,7 +3368,7 @@
   "intro": "",
   "stIntro": "",
   "rang": null,
-  "une": 1,
+  "une": 2,
   "uneR": 1,
   "ordre": [
    "info",
