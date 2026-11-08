@@ -1,0 +1,266 @@
+[
+ {
+  "sujet": "Le phishing",
+  "angle": "Comment fonctionne l'hameçonnage, signes d'alerte, bons réflexes"
+ },
+ {
+  "sujet": "Le rançongiciel (ransomware)",
+  "angle": "Mécanisme d'une attaque, double extorsion, prévention et sauvegardes"
+ },
+ {
+  "sujet": "L'authentification multifacteur (MFA)",
+  "angle": "Pourquoi elle protège, types de facteurs, limites (fatigue MFA)"
+ },
+ {
+  "sujet": "Le Zero Trust",
+  "angle": "Principes, différence avec la défense périmétrique, mise en œuvre progressive"
+ },
+ {
+  "sujet": "Le SIEM",
+  "angle": "Rôle de la corrélation des journaux, limites, lien avec le SOC"
+ },
+ {
+  "sujet": "Le SOC",
+  "angle": "Missions d'un centre opérationnel de sécurité, niveaux, indicateurs"
+ },
+ {
+  "sujet": "Le EDR et le XDR",
+  "angle": "Détection et réponse sur les terminaux, différences"
+ },
+ {
+  "sujet": "La gestion des vulnérabilités",
+  "angle": "Cycle de vie, priorisation (CVSS, KEV, EPSS), correctifs"
+ },
+ {
+  "sujet": "Le zero-day",
+  "angle": "Définition, cycle d'exploitation, mesures de réduction du risque"
+ },
+ {
+  "sujet": "La sauvegarde 3-2-1",
+  "angle": "Règle, sauvegardes immuables, tests de restauration"
+ },
+ {
+  "sujet": "Le chiffrement",
+  "angle": "Symétrique et asymétrique, données au repos et en transit, gestion des clés"
+ },
+ {
+  "sujet": "Les mots de passe et coffres-forts",
+  "angle": "Longueur, unicité, gestionnaires de mots de passe, passkeys"
+ },
+ {
+  "sujet": "Les passkeys",
+  "angle": "Fonctionnement, avantages face au phishing, déploiement"
+ },
+ {
+  "sujet": "L'ingénierie sociale",
+  "angle": "Techniques, exemples, sensibilisation"
+ },
+ {
+  "sujet": "Le DDoS",
+  "angle": "Déni de service distribué, types, mesures d'atténuation"
+ },
+ {
+  "sujet": "La supply chain logicielle",
+  "angle": "Attaques par la chaîne d'approvisionnement, SBOM, bonnes pratiques"
+ },
+ {
+  "sujet": "Le SBOM",
+  "angle": "Nomenclature logicielle, usages, limites"
+ },
+ {
+  "sujet": "La directive NIS2",
+  "angle": "Entités concernées, obligations, gouvernance, sanctions"
+ },
+ {
+  "sujet": "Le règlement DORA",
+  "angle": "Résilience opérationnelle numérique du secteur financier, principaux piliers"
+ },
+ {
+  "sujet": "Le RGPD",
+  "angle": "Principes, droits des personnes, obligations des responsables de traitement"
+ },
+ {
+  "sujet": "Le Cyber Resilience Act (CRA)",
+  "angle": "Objectifs, produits concernés, obligations des fabricants"
+ },
+ {
+  "sujet": "L'AI Act",
+  "angle": "Niveaux de risque, obligations, calendrier"
+ },
+ {
+  "sujet": "L'analyse de risques (EBIOS RM)",
+  "angle": "Méthode, étapes, livrables"
+ },
+ {
+  "sujet": "La norme ISO 27001",
+  "angle": "SMSI, cycle PDCA, certification"
+ },
+ {
+  "sujet": "Le plan de continuité d'activité (PCA)",
+  "angle": "Objectifs, RTO/RPO, tests"
+ },
+ {
+  "sujet": "Le plan de réponse aux incidents",
+  "angle": "Phases, rôles, communication de crise"
+ },
+ {
+  "sujet": "La cyberassurance",
+  "angle": "Ce qui est couvert, exclusions, exigences des assureurs"
+ },
+ {
+  "sujet": "Le shadow IT",
+  "angle": "Définition, risques, gouvernance"
+ },
+ {
+  "sujet": "La gestion des identités et des accès (IAM)",
+  "angle": "Principes, moindre privilège, cycle de vie des comptes"
+ },
+ {
+  "sujet": "Le PAM",
+  "angle": "Gestion des accès à privilèges, coffre, sessions"
+ },
+ {
+  "sujet": "Le moindre privilège",
+  "angle": "Principe, mise en œuvre, revue des droits"
+ },
+ {
+  "sujet": "La segmentation réseau",
+  "angle": "Objectifs, micro-segmentation, limites de propagation"
+ },
+ {
+  "sujet": "Le pare-feu et le WAF",
+  "angle": "Rôles distincts, cas d'usage"
+ },
+ {
+  "sujet": "Le VPN et ses limites",
+  "angle": "Fonctionnement, risques, alternatives ZTNA"
+ },
+ {
+  "sujet": "Le ZTNA",
+  "angle": "Accès réseau Zero Trust, différences avec le VPN"
+ },
+ {
+  "sujet": "Le cloud et la responsabilité partagée",
+  "angle": "Modèle de responsabilité, erreurs de configuration fréquentes"
+ },
+ {
+  "sujet": "Le CSPM",
+  "angle": "Gestion de la posture de sécurité cloud"
+ },
+ {
+  "sujet": "La sécurité des API",
+  "angle": "Risques principaux, authentification, limitation de débit"
+ },
+ {
+  "sujet": "L'OWASP Top 10",
+  "angle": "Principales familles de vulnérabilités web"
+ },
+ {
+  "sujet": "Le pentest et le red team",
+  "angle": "Différences, périmètre, bénéfices"
+ },
+ {
+  "sujet": "Le bug bounty",
+  "angle": "Principe, cadre, avantages et limites"
+ },
+ {
+  "sujet": "La threat intelligence (CTI)",
+  "angle": "Niveaux stratégique, opérationnel, tactique ; usages"
+ },
+ {
+  "sujet": "MITRE ATT&CK",
+  "angle": "Matrice, TTP, usages défensifs"
+ },
+ {
+  "sujet": "Les indicateurs de compromission (IoC)",
+  "angle": "Définition, limites, cycle de vie"
+ },
+ {
+  "sujet": "Le threat hunting",
+  "angle": "Démarche proactive, hypothèses, résultats"
+ },
+ {
+  "sujet": "La forensique numérique",
+  "angle": "Collecte, chaîne de conservation, analyses"
+ },
+ {
+  "sujet": "Le ver, le virus et le cheval de Troie",
+  "angle": "Différences et modes de propagation"
+ },
+ {
+  "sujet": "Les infostealers",
+  "angle": "Fonctionnement, vol de sessions, prévention"
+ },
+ {
+  "sujet": "Le spear phishing et la fraude au président",
+  "angle": "Techniques, signaux, contrôles organisationnels"
+ },
+ {
+  "sujet": "Les deepfakes et la cybersécurité",
+  "angle": "Usages malveillants, détection, mesures"
+ },
+ {
+  "sujet": "La désinformation numérique",
+  "angle": "Mécanismes, acteurs, réponses"
+ },
+ {
+  "sujet": "La souveraineté numérique",
+  "angle": "Enjeux, cloud de confiance, dépendances"
+ },
+ {
+  "sujet": "SecNumCloud",
+  "angle": "Qualification, exigences, intérêt pour les organisations"
+ },
+ {
+  "sujet": "Le Shadow AI",
+  "angle": "Usage non maîtrisé de l'IA, risques de fuite, gouvernance"
+ },
+ {
+  "sujet": "La gouvernance de la cybersécurité",
+  "angle": "Rôle du RSSI, comité, indicateurs, budget"
+ },
+ {
+  "sujet": "Le RSSI",
+  "angle": "Missions, positionnement, relation avec la direction"
+ },
+ {
+  "sujet": "La sensibilisation et la culture cyber",
+  "angle": "Formats efficaces, mesure, simulation de phishing"
+ },
+ {
+  "sujet": "L'hygiène informatique de l'ANSSI",
+  "angle": "Les 42 mesures : logique et priorités"
+ },
+ {
+  "sujet": "La cyber-résilience",
+  "angle": "Définition, différence avec la prévention, exemples"
+ },
+ {
+  "sujet": "La gestion de crise cyber",
+  "angle": "Cellule de crise, décisions, communication"
+ },
+ {
+  "sujet": "Les logs et la journalisation",
+  "angle": "Quoi journaliser, conservation, protection"
+ },
+ {
+  "sujet": "Le durcissement (hardening)",
+  "angle": "Principe, référentiels CIS, automatisation"
+ },
+ {
+  "sujet": "Les correctifs et la gestion des patchs",
+  "angle": "Priorisation, tests, fenêtres de maintenance"
+ },
+ {
+  "sujet": "L'OT et la sécurité industrielle",
+  "angle": "Spécificités des systèmes industriels, segmentation"
+ },
+ {
+  "sujet": "L'Internet des objets (IoT)",
+  "angle": "Risques, mises à jour, bonnes pratiques"
+ },
+ {
+  "sujet": "Le BYOD",
+  "angle": "Usage de terminaux personnels, risques, politique"
+ }
+]
