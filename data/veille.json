@@ -1,5 +1,57 @@
 [
  {
+  "id": "56e9055c9b71",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "« La fronde américaine contre les data centers a bouleversé les midterms comme aucune question environnementale ne l’avait fait jusqu’à présent »",
+  "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html",
+  "date": "2026-11-08",
+  "resume": "Dans sa chronique, le journaliste au « Monde » Stéphane Foucart revient sur les centres de données, dont le développement massif aux Etats-Unis a pesé en partie sur le vote des Américains, lors des élections de mi-mandat du 3 novembre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "513907fd6728",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "La guerre des céréales entre l’Ukraine et la Russie redessine les rapports de force géopolitiques",
+  "url": "https://www.lemonde.fr/international/article/2026/11/08/la-guerre-des-cereales-entre-l-ukraine-et-la-russie-redessine-les-rapports-de-force-geopolitiques_6808390_3210.html",
+  "date": "2026-11-08",
+  "resume": "Depuis le début de la guerre en Ukraine, blocus maritimes, céréales pillées, attaques contre les cargos se multiplient... En mer Noire, la Russie fait des céréales un instrument de pression diplomatique. Une bataille qui entrave les approvisionnements et fragilise la sécurité alimentaire mondiale.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "c056892f72ac",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
+  "url": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html",
+  "date": "2026-11-08",
+  "resume": "Le leader de l’opposition au premier ministre sortant Benyamin Nétanyahou doit être officiellement missionné, dimanche, par le président Isaac Herzog, pour constituer le prochain gouvernement israélien. Une tâche ardue après des législatives qui n’ont donné aucune majorité à la Knesset.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
+  "id": "82c304c448a3",
+  "source": "Le Monde Économie",
+  "rubrique": 4,
+  "titre": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+  "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
+  "date": "2026-11-08",
+  "resume": "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %. Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 3
+ },
+ {
   "id": "d1ee4a6cc541",
   "source": "CTFtime",
   "rubrique": 6,
@@ -740,7 +792,7 @@
    "Vulnérabilité",
    "Identité & accès"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "d0b8b49f25ce",
@@ -755,7 +807,7 @@
   "tags": [
    "Zero-day"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "c776d35c062b",
@@ -770,7 +822,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "a382c3d13c65",
@@ -785,7 +837,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "2175c1bcff38",
@@ -800,7 +852,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "558c564e4462",
@@ -815,7 +867,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "0d44818266ae",
@@ -830,7 +882,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "cbf7339c4f96",
@@ -845,7 +897,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "8739e4254e84",
@@ -860,7 +912,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "ae72c64da24b",
@@ -875,7 +927,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "ae9ac51d6439",
@@ -890,7 +942,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "9842d93ac501",
@@ -905,7 +957,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "4d3a1e4f9e3d",
@@ -920,7 +972,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "2721bf645f20",
@@ -935,7 +987,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "05b97f8020c0",
@@ -950,7 +1002,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "dcd0d1d2d30c",
@@ -965,7 +1017,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "a40dff3d749a",
@@ -980,7 +1032,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "17e04fbcf2b3",
@@ -995,7 +1047,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "649e0d8b078e",
@@ -1010,7 +1062,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "cea41b0360f6",
@@ -1025,7 +1077,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "c4daeac5c98c",
@@ -1040,7 +1092,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "b99b441690fc",
@@ -1055,7 +1107,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "ba147c5fc5c9",
@@ -1070,7 +1122,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "75283eba232a",
@@ -1085,7 +1137,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "f158e40dba08",
@@ -1100,7 +1152,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "76d7dba18290",
@@ -1115,7 +1167,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "97d7db0e7e4a",
@@ -1128,7 +1180,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "6facdf5f94df",
@@ -1141,7 +1193,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "ed60ea7fa412",
@@ -1154,7 +1206,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "3a8f9a3bb5fd",
@@ -1167,7 +1219,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "9fe769e3c933",
@@ -1180,7 +1232,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "6625b8a777d1",
@@ -1193,7 +1245,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "a97be9095b72",
@@ -1206,7 +1258,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "af6d1b8b9d25",
@@ -1219,7 +1271,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "3647bbef0072",
@@ -1232,7 +1284,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "f8e9629a67be",
@@ -1245,7 +1297,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 4
+  "score": 3
  },
  {
   "id": "97f5a2edb01f",
@@ -1258,7 +1310,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "356a75cf8198",
@@ -1271,7 +1323,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "f88e2b59ff8e",
@@ -1284,7 +1336,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ba4782ef58aa",
@@ -1297,7 +1349,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "f50089afec95",
@@ -1310,7 +1362,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "6de12b41d816",
@@ -1323,7 +1375,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b5d9beac0328",
@@ -1336,7 +1388,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b3aabc55b3b8",
@@ -1349,7 +1401,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "913f89013861",
@@ -1362,7 +1414,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ac91a3dd560f",
@@ -1375,7 +1427,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "3d630ab8d4dc",
@@ -1388,7 +1440,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e9d428db6bb8",
@@ -1401,7 +1453,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "73b3d436c2b9",
@@ -1414,7 +1466,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "a69b0b942fe4",
@@ -1427,7 +1479,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1c83b8264f82",
@@ -1440,7 +1492,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "291ffae9e6d6",
@@ -1453,7 +1505,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ff515db18f5b",
@@ -1466,7 +1518,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "739879e62dfb",
@@ -1479,7 +1531,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "8ef0a1c8dd80",
@@ -1492,7 +1544,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b523329556e9",
@@ -1505,7 +1557,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e43da8bdfea9",
@@ -1518,7 +1570,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "fe84fe64beab",
@@ -1531,7 +1583,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7d1f1f300ef9",
@@ -1544,7 +1596,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7fd4ed633765",
@@ -1557,7 +1609,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "5d3d6da72148",
@@ -1570,7 +1622,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "2d28c6cd4880",
@@ -1583,7 +1635,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "6cfdb0616097",
@@ -1596,7 +1648,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "127b365e2e89",
@@ -1609,7 +1661,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1e2b832191df",
@@ -1622,7 +1674,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "663ec44186c6",
@@ -1635,7 +1687,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "a7c837ecf1eb",
@@ -1648,7 +1700,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "cf631c641f99",
@@ -1661,7 +1713,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "cf6bc2adb951",
@@ -1674,7 +1726,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "022fb87053ad",
@@ -1687,7 +1739,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "fab6ed1095f9",
@@ -1700,7 +1752,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "1a94d0ff88da",
@@ -1713,7 +1765,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ae95fd4c8c98",
@@ -1726,7 +1778,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ef50b3045fe3",
@@ -1739,7 +1791,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "60062ceeb58a",
@@ -1752,7 +1804,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "eabbb6a84f42",
@@ -1765,7 +1817,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "37c70e8edc8e",
@@ -1778,7 +1830,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9f63a9435d58",
@@ -1791,7 +1843,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e95a0cdb47a0",
@@ -1804,7 +1856,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "bd5ca7d9d537",
@@ -1817,7 +1869,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "a59fe565fe17",
@@ -1830,7 +1882,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "f88c580ac638",
@@ -1843,7 +1895,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "4319ba0bbf54",
@@ -1856,7 +1908,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "fc5e81407aa1",
@@ -1869,7 +1921,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "bde13615e9a9",
@@ -1882,7 +1934,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "93b7ea30a09a",
@@ -1895,7 +1947,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "d665ea952f1a",
@@ -1908,7 +1960,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e4a85294271b",
@@ -1921,7 +1973,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9caab7356c6d",
@@ -1934,7 +1986,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "7a2017ca6f18",
@@ -1947,7 +1999,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "42753f07b58b",
@@ -1960,7 +2012,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "8a7359324923",
@@ -1973,7 +2025,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "e963b51b327c",
@@ -1986,7 +2038,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "4ec5ab6fc413",
@@ -1999,7 +2051,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "ca364aed8572",
@@ -2012,7 +2064,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "a9b5faf5eb68",
@@ -2025,7 +2077,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "bd644dc34ec4",
@@ -2038,7 +2090,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "0f3f88b4101e",
@@ -2051,7 +2103,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "308635de60c2",
@@ -2064,7 +2116,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "c31a400ea2d2",
@@ -2077,7 +2129,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "11cae26946aa",
@@ -2090,7 +2142,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "b25b4c3673b4",
@@ -2103,7 +2155,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "d496ab242429",
@@ -2116,7 +2168,7 @@
   "criticite": "",
   "poids": 0,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "790327c5c921",
@@ -2675,6 +2727,71 @@
   "score": 2
  },
  {
+  "id": "9df2cac594e6",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "Aide aux créateurs de contenu : pourquoi les annonces du CNC font grincer des dents",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/aide-aux-createurs-de-contenus-pourquoi-les-annonces-du-cnc-font-grincer-des-dents_6807331_4408996.html",
+  "date": "2026-11-05",
+  "resume": "Suspendu depuis le mois d’avril après une polémique, le fonds d’aide à la création sur les plateformes sociales du Centre national du cinéma et de l’image animée sera relancé en 2027, a annoncé son président, Gaëtan Bruel, jeudi, à la Paris Creator Week. Sans parvenir toutefois à convaincre des professionnels du secteur qui s’estiment « méprisés ».",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 2
+ },
+ {
+  "id": "d4cf46b498e7",
+  "source": "Le Monde Pixels",
+  "rubrique": 5,
+  "titre": "Mobilisation sociale et TikTok : une étude bat en brèche le rôle joué par la plateforme dans les violences",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html",
+  "date": "2026-11-05",
+  "resume": "Contrairement à ce qu’avance le gouvernement, les chercheurs n’ont pas trouvé de traces d’une coordination particulière des actions violentes sur le réseau social, ni d’une forte viralité des appels à en commettre.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 2
+ },
+ {
+  "id": "5b5f2d60cb9c",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "« The Legend of Zelda » ou l’art de faire peau neuve",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/the-legend-of-zelda-ou-l-art-de-faire-peau-neuve_6806825_4408996.html",
+  "date": "2026-11-05",
+  "resume": "Le remake de « Zelda : Ocarina of Time », sorti jeudi, a dérouté de nombreux fans par son aspect visuel, jugé trop éloigné de l’original sorti en 1998. Mais c’est oublier la diversité des réincarnations esthétiques passées de la franchise, d’épisode en épisode.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 2
+ },
+ {
+  "id": "334a74d9e792",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "Comment « The Legend of Zelda : Ocarina of Time » a-t-il révolutionné le monde du jeu vidéo ? Comprendre en trois minutes",
+  "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/05/comment-the-legend-of-zelda-ocarina-of-time-a-t-il-revolutionne-le-monde-du-jeu-video-comprendre-en-trois-minutes_6806815_6176282.html",
+  "date": "2026-11-05",
+  "resume": "A la fin des années 1990, alors que la 3D dans le jeu vidéo est encore balbutiante, Nintendo sort « The Legend of Zelda : Ocarina of Time », un jeu devenu culte.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 2
+ },
+ {
+  "id": "8727f121038f",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "« Nous avancions à tâtons dans le noir » : derrière « Zelda : Ocarina of Time », le génie plein de nostalgie d’Eiji Aonuma et Hidemaro Fujibayashi",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/05/nous-avancions-a-tatons-dans-le-noir-derriere-zelda-ocarina-of-time-le-genie-plein-de-nostalgie-d-eiji-aonuma-et-hidemaro-fujibayashi_6806778_4408996.html",
+  "date": "2026-11-05",
+  "resume": "A l’occasion de la sortie, jeudi, du remake de ce jeu vidéo culte de 1998, les deux principaux producteurs de la franchise racontent comment ils se sont replongés dans ce chef-d’œuvre pionnier.",
+  "criticite": "",
+  "poids": 0,
+  "tags": [],
+  "score": 2
+ },
+ {
   "id": "eaa8d66bc6fe",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -2687,7 +2804,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "0fd87eaf33b4",
@@ -2703,7 +2820,7 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "d6dd46466a93",
@@ -2719,7 +2836,7 @@
    "Hameçonnage",
    "Identité & accès"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "63a2778396f7",
@@ -2735,7 +2852,7 @@
    "Souveraineté",
    "IA"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "5e99d13bfbb2",
@@ -2750,7 +2867,7 @@
   "tags": [
    "Chaîne d'approvisionnement"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "eb87294c0988",
@@ -2765,7 +2882,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "32c90d2f0958",
@@ -2780,7 +2897,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "349817163ae5",
@@ -2795,7 +2912,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "90c840765ea7",
@@ -2810,7 +2927,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "e1a46e7ff831",
@@ -2825,7 +2942,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "ee0754369e78",
@@ -2840,7 +2957,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "8857f9c18f3d",
@@ -2855,7 +2972,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "8e91b349c146",
@@ -2870,7 +2987,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "6886851a21fc",
@@ -2885,7 +3002,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "59b477f31b5f",
@@ -2900,7 +3017,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "49a91d3e8913",
@@ -2915,7 +3032,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "2a4400c9cd6e",
@@ -2930,7 +3047,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "282e29c343fc",
@@ -2945,7 +3062,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "21e4a8fd6045",
@@ -2960,7 +3077,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "955f81b5cf5e",
@@ -2975,7 +3092,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "b13cbe60c504",
@@ -2990,7 +3107,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "60a16bf6f203",
@@ -3005,7 +3122,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "1b9b96d402ef",
@@ -3020,7 +3137,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "78de6ffe4e2d",
@@ -3035,7 +3152,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "ecf2013fdfbb",
@@ -3050,7 +3167,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "1413af0079f4",
@@ -3065,7 +3182,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "62ad9c2a6bdd",
@@ -3080,7 +3197,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "3260cc514267",
@@ -3095,7 +3212,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "4c637f2c6015",
@@ -3110,7 +3227,7 @@
   "tags": [
    "Institutions"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "66d29c285b85",
@@ -3125,7 +3242,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "40a5a2749a72",
@@ -3138,7 +3255,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "955f969e9dae",
@@ -3151,7 +3268,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "3632eace057e",
@@ -3164,7 +3281,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "d013e25bf406",
@@ -3177,7 +3294,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "de8bbdd0e39a",
@@ -3190,7 +3307,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "8384c224e801",
@@ -3203,7 +3320,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "801b944f5621",
@@ -3216,7 +3333,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "9c8bdd95a7d5",
@@ -3229,85 +3346,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3
- },
- {
-  "id": "4ba7cadb265a",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "mSecure password manager hack prompts password reset warnings",
-  "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-  "date": "2026-11-04",
-  "resume": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "63cdf286f06a",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-  "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-  "date": "2026-11-04",
-  "resume": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "1aedc3ffafe5",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "US charges two Canadians accused of hacking US universities",
-  "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-  "date": "2026-11-04",
-  "resume": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "ffe69d986f99",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Crédit Mutuel Arkéa : 133 millions de dollars détournés ?",
-  "url": "https://www.zataz.com/credit-mutuel-arkea-133-millions-de-dollars-detournes/",
-  "date": "2026-11-04",
-  "resume": "Fortuneo au cœur de la fraude Arkéa ? 133 millions de dollars détournés, des virements suspects et un blanchiment crypto.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "232bc399c6f4",
-  "source": "ZATAZ",
-  "rubrique": 1,
-  "titre": "TikTok, une passerelle vers les casinos illégaux ?",
-  "url": "https://www.zataz.com/tiktok-une-passerelle-vers-les-casinos-illegaux/",
-  "date": "2026-11-04",
-  "resume": "Sur TikTok, des jeux vidéo peuvent mener à des casinos illégaux. Analyse des redirections, risques et sanctions.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
- },
- {
-  "id": "de7887560061",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Vercel rolls out new protection against stolen session cookie attacks",
-  "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-  "date": "2026-11-04",
-  "resume": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "310fe7a6e4c3",
@@ -4371,7 +4410,7 @@
    "Vulnérabilité",
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "ba55b05e53ea",
@@ -4387,7 +4426,7 @@
    "IA",
    "Cloud"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "4a3beb5aa5ff",
@@ -4402,7 +4441,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "e8eb82345a00",
@@ -4417,7 +4456,7 @@
   "tags": [
    "IA"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "845cf24b8961",
@@ -4432,7 +4471,7 @@
   "tags": [
    "Vulnérabilité"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "a291b7051796",
@@ -4447,7 +4486,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "f53dd469089e",
@@ -5656,50 +5695,5 @@
    "Rançongiciel"
   ],
   "score": 4
- },
- {
-  "id": "b77403a9e73a",
-  "source": "CISA KEV",
-  "rubrique": 2,
-  "titre": "CVE-2015-5477 – ISC BIND :  ISC BIND Data Processing Errors Vulnerability",
-  "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477",
-  "date": "2026-10-08",
-  "resume": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
-  "criticite": "Critique",
-  "poids": 2,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 7
- },
- {
-  "id": "f2ac269646f7",
-  "source": "CISA KEV",
-  "rubrique": 2,
-  "titre": "CVE-2016-3081 – Apache Struts : Apache Struts Command Injection Vulnerability",
-  "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081",
-  "date": "2026-10-08",
-  "resume": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
-  "criticite": "Critique",
-  "poids": 2,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 7
- },
- {
-  "id": "4d11b5836627",
-  "source": "CISA KEV",
-  "rubrique": 2,
-  "titre": "CVE-2023-22894 – Strapi Strapi : Strapi Cleartext Storage of Sensitive Information Vulnerability",
-  "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
-  "date": "2026-10-08",
-  "resume": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version. This vulnerability can be chained with CVE-2023-226",
-  "criticite": "Critique",
-  "poids": 2,
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "score": 7
  }
 ]
