@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rubrique CTF : agrégation multi-sources, vérification, dédoublonnage -> data/ctf-veille.json
+"""Rubrique CTF : agrégation multi-sources, vérification, dédoublonnage -> data/ctf-veille.json (résultat brut) et data/ctf.json (ce que lit le journal)
 
 Le journal n'est pas un miroir de CTFtime : il croise plusieurs sources et vérifie ce qu'il publie.
 
@@ -437,7 +437,69 @@ def main():
     res.update({"maj": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "sources": stats, "erreurs": erreurs[:15]})
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(res, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    publier(res, now)
     return 0
+
+
+def publier(res, now):
+    """Fusionne le résultat dans data/ctf.json (ce que lit le journal) : les éléments saisis à la main
+    sont conservés, les éléments automatiques sont remplacés. Le site est ainsi rempli par la dernière
+    mise à jour, sans passer par l'éditeur ni dépendre du cache d'un navigateur."""
+    try:
+        cfg = json.loads(CFG.read_text(encoding="utf-8"))
+        if not isinstance(cfg, dict):
+            cfg = {}
+    except Exception:
+        cfg = {}
+    for k in ("calendrier", "classement", "writeups"):
+        if not isinstance(cfg.get(k), list):
+            cfg[k] = []
+    if not isinstance(cfg.get("cats"), list) or not cfg["cats"]:
+        cfg["cats"] = ["Web", "Crypto", "Forensic", "Reverse", "Pwn"]
+    limite = (now - timedelta(days=7)).strftime("%Y-%m-%d")
+    cal = [x for x in cfg["calendrier"] if not (x.get("auto") and (x.get("date") or "") < limite)]
+    for e in res.get("calendrier", []):
+        eid = "ct" + str(e.get("ct"))
+        o = {k: e.get(k, "") for k in ("nom", "date", "duree", "format", "niveau", "url", "mode")}
+        o.update({"poids": e.get("poids", 0), "src": e.get("src", []), "verif": e.get("verif", ""), "ecart": 1 if e.get("ecart") else 0})
+        f = next((x for x in cal if x.get("id") == eid or (e.get("url") and x.get("url") == e["url"]) or (x.get("nom") == e["nom"] and x.get("date") == e["date"])), None)
+        if f:
+            if f.get("auto"):
+                f.update(o)
+                f["auto"] = 1
+            else:
+                f.update({"src": o["src"], "verif": o["verif"], "ecart": o["ecart"]})
+            continue
+        o["id"], o["auto"] = eid, 1
+        cal.append(o)
+    cfg["calendrier"] = sorted(cal, key=lambda x: x.get("date") or "")
+    if res.get("classement") and cfg.get("classAuto") is not False:
+        cfg["classement"] = [dict({"equipe": r["equipe"], "points": r["points"], "pays": r.get("pays", ""), "auto": 1},
+                                  **({"evo": r["evo"]} if r.get("evo") is not None else {}), **({"neuf": 1} if r.get("neuf") else {}))
+                             for r in res["classement"]]
+        if res.get("classTitre"):
+            cfg["classTitre"] = res["classTitre"]
+    wu = cfg["writeups"]
+    for w in res.get("writeups", []):
+        if any(x.get("id") == w.get("id") or (w.get("url") and x.get("url") == w["url"]) for x in wu):
+            continue
+        wu.append({"id": w["id"], "cat": w.get("cat"), "titre": w.get("titre"), "niveau": w.get("niveau", ""), "url": w.get("url", ""),
+                   "d": w.get("d", ""), "s": w.get("s", ""), "n": w.get("n", 1), "v": 1 if w.get("v") else 0, "auto": 1})
+        if w.get("cat") and w["cat"] not in cfg["cats"]:
+            cfg["cats"].append(w["cat"])
+    wu = [x for x in wu if not (x.get("auto") and "ctftime.org" in (x.get("url") or ""))]
+    wu.sort(key=lambda x: str(x.get("d") or ""), reverse=True)
+    n, garde = {}, []
+    for x in wu:
+        if x.get("auto"):
+            n[x.get("cat")] = n.get(x.get("cat"), 0) + 1
+            if n[x.get("cat")] > 10:
+                continue
+        garde.append(x)
+    cfg["writeups"] = garde
+    cfg["maj"] = now.strftime("%Y-%m-%d")
+    CFG.write_text(json.dumps(cfg, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"data/ctf.json mis à jour : {len(cfg['calendrier'])} compétitions, {len(cfg['classement'])} équipes, {len(cfg['writeups'])} writeups")
 
 
 if __name__ == "__main__":
