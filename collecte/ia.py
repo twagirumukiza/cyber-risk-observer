@@ -35,8 +35,12 @@ FOURNISSEURS = {
                 "cle": "MISTRAL_API_KEY", "gratuit": True, "modele": "mistral-small-latest", "actif": True},
     "openrouter": {"nom": "OpenRouter", "type": "openai", "url": "https://openrouter.ai/api/v1/chat/completions",
                    "cle": "OPENROUTER_API_KEY", "gratuit": True, "modele": "", "actif": True},
+    # OPTION, désactivée par défaut (à cocher dans l'onglet IA). 100 % gratuit, sans compte ni clé (service public de Pollinations). Qualité et disponibilité variables,
+    # envois anonymes mais non confidentiels : à garder en dernier recours. Vérifier avec le bouton « Tester ».
+    "pollinations": {"nom": "Pollinations (gratuit, sans clé)", "type": "openai", "url": "https://text.pollinations.ai/openai",
+                     "cle": "", "sanscle": True, "gratuit": True, "modele": "openai", "actif": False},
 }
-ORDRE = ["anthropic", "openai", "gemini", "groq", "mistral", "openrouter"]
+ORDRE = ["anthropic", "openai", "gemini", "groq", "mistral", "openrouter", "pollinations"]
 RUBRIQUES = {"0": "Actualités", "1": "Géopolitique", "2": "Cyber & numérique", "3": "Économie", "4": "Société", "7": "Notions cyber"}
 USAGE = {}     # "fournisseur · modèle" -> {"n": appels réussis, "e": erreurs}
 
@@ -80,6 +84,11 @@ def secret(nom):
         return ""
 
 
+def a_cle(p):
+    """Utilisable côté clé : fournisseur sans clé (service gratuit anonyme) ou secret présent."""
+    return bool(p.get("sanscle")) or bool(secret(p.get("cle")))
+
+
 def disponibles(cfg, rub=None):
     """Fournisseurs utilisables (actifs, clé présente, adresse https), dans l'ordre de repli."""
     ordre = list(cfg["ordre"])
@@ -90,7 +99,7 @@ def disponibles(cfg, rub=None):
     out = []
     for k in ordre:
         p = cfg["fournisseurs"][k]
-        if p.get("actif") is False or not str(p.get("url", "")).startswith("https://") or not secret(p.get("cle")):
+        if p.get("actif") is False or not str(p.get("url", "")).startswith("https://") or not a_cle(p):
             continue
         out.append(k)
     return out
@@ -112,9 +121,9 @@ def completer(p, modele, systeme, consigne):
     cle = secret(p["cle"])
     if p.get("type") == "anthropic":
         rep = _post(p["url"], {"x-api-key": cle, "anthropic-version": "2023-06-01"},
-                    {"model": modele, "max_tokens": 2200, "system": systeme, "messages": [{"role": "user", "content": consigne}]})
+                    {"model": modele, "max_tokens": 4000, "system": systeme, "messages": [{"role": "user", "content": consigne}]})
         return "".join(b.get("text", "") for b in rep.get("content", []) if b.get("type") == "text")
-    rep = _post(p["url"], {"Authorization": "Bearer " + cle},
+    rep = _post(p["url"], {"Authorization": "Bearer " + cle} if cle else {},
                 {"model": modele, "messages": [{"role": "system", "content": systeme}, {"role": "user", "content": consigne}]})
     return (rep.get("choices") or [{}])[0].get("message", {}).get("content") or ""
 
@@ -160,12 +169,12 @@ def tester():
     cfg = config()
     res = {"maj": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "cles": {}, "tests": {}, "modeles": {}}
     for k, p in cfg["fournisseurs"].items():
-        res["cles"][k] = bool(secret(p.get("cle")))
+        res["cles"][k] = a_cle(p)
         if not res["cles"][k] or not str(p.get("url", "")).startswith("https://"):
             continue
         t0 = time.time()
         try:
-            ml = modeles(p)
+            ml = [] if p.get("sanscle") else modeles(p)
             res["modeles"][k] = ml
         except Exception as e:
             ml = []
@@ -192,7 +201,7 @@ def maj_cles():
         e = json.loads(ETAT.read_text(encoding="utf-8"))
     except Exception:
         e = {}
-    e["cles"] = {k: bool(secret(p.get("cle"))) for k, p in cfg["fournisseurs"].items()}
+    e["cles"] = {k: a_cle(p) for k, p in cfg["fournisseurs"].items()}
     e.setdefault("maj", datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
     ETAT.parent.mkdir(exist_ok=True)
     ETAT.write_text(json.dumps(e, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
