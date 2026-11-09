@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T20:55:33.973Z",
+ "maj": "2026-11-09T20:55:47.190Z",
  "items": [
   {
    "id": "rmw9qm9riw1me",
@@ -57,7 +57,7 @@
      "id": "rmw9qpvdzhew4",
      "type": "texte",
      "titre": "3. L'intelligence artificielle ouvre un nouveau front éducatif",
-     "texte": "",
+     "texte": "L'arrivée des intelligences artificielles génératives transforme profondément les pratiques numériques des jeunes. Ces outils permettent de produire des textes, des images, des voix et des vidéos de plus en plus convaincants.<p>Mais ils introduisent également de nouvelles problématiques : deepfakes, usurpation vocale, désinformation automatisée, manipulation de contenus et exposition de données personnelles dans des services conversationnels.</p><p>Un adolescent peut aujourd'hui recevoir une vidéo dans laquelle une personne semble tenir des propos qu'elle n'a jamais prononcés, ou être confronté à un message vocal imitant la voix d'un proche.</p><p>La question n'est donc plus uniquement de savoir utiliser l'intelligence artificielle, mais de comprendre comment elle peut être détournée.</p><p>L'éducation à la cybersécurité doit intégrer cette dimension. Les élèves doivent apprendre à questionner l'origine d'un contenu, à vérifier les sources, à identifier les limites des systèmes d'IA et à ne pas considérer une réponse générée comme nécessairement fiable.</p>",
      "imgs": []
     }
    ],
