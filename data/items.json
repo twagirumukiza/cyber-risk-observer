@@ -1956,12 +1956,17 @@
   "imgY": 50,
   "imgZ": 1,
   "liensUtiles": "",
-  "intro": "",
+  "intro": "L'agence américaine de cybersécurité CISA (Cybersecurity and Infrastructure Security Agency) a ajouté deux nouvelles vulnérabilités affectant PHP à son catalogue KEV (Known Exploited Vulnerabilities).",
   "stIntro": "",
   "rang": null,
   "une": 0,
   "uneR": 0,
-  "ordre": [],
+  "ordre": [
+   "info",
+   "ana",
+   "act",
+   "con"
+  ],
   "imageCarte": "",
   "cX": 50,
   "cY": 50,
@@ -1989,7 +1994,7 @@
    "Surveiller les connexions inhabituelles, les processus suspects et les modifications de fichiers.",
    "Vérifier les dépendances applicatives et les composants PHP exposés à Internet."
   ],
-  "actionsHtml": "",
+  "actionsHtml": "<ul><li>Identifier tous les serveurs utilisant PHP.</li><li>Vérifier les versions installées et appliquer les correctifs disponibles.</li><li>Mettre à jour PHP vers les versions corrigées : 8.5.12, 8.4.27, 8.3.36 ou 8.2.35, selon la branche utilisée.</li><li>Rechercher d'éventuelles traces d'exploitation antérieure.</li><li>Surveiller les connexions inhabituelles, les processus suspects et les modifications de fichiers.</li><li>Vérifier les dépendances applicatives et les composants PHP exposés à Internet.</li></ul>",
   "source": "",
   "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog?utm_source=chatgpt.com",
   "date": "2026-11-02",
