@@ -1,0 +1,13 @@
+{
+ "maj": "2026-11-09T04:22:23Z",
+ "cles": {
+  "anthropic": false,
+  "openai": false,
+  "gemini": false,
+  "groq": false,
+  "mistral": false,
+  "openrouter": false
+ },
+ "tests": {},
+ "modeles": {}
+}
