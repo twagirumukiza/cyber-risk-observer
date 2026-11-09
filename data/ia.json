@@ -53,6 +53,16 @@
    "gratuit": true,
    "modele": "",
    "actif": true
+  },
+  "pollinations": {
+   "nom": "Pollinations (gratuit, sans clé)",
+   "type": "openai",
+   "url": "https://text.pollinations.ai/openai",
+   "cle": "",
+   "sanscle": true,
+   "gratuit": true,
+   "modele": "openai",
+   "actif": false
   }
  },
  "ordre": [
@@ -61,7 +71,8 @@
   "gemini",
   "groq",
   "mistral",
-  "openrouter"
+  "openrouter",
+  "pollinations"
  ],
  "rubriques": {
   "0": {
