@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T14:08:24.479Z",
+ "maj": "2026-11-09T14:13:11.632Z",
  "items": [
   {
    "id": "rmw9c3xvcgw4h",
@@ -53,7 +53,7 @@
     "Organiser une session de sensibilisation aux attaques par phishing et aux risques de fuites de données.",
     "Surveiller régulièrement les bases de données publiques pour vérifier la présence de leurs identifiants."
    ],
-   "actionsHtml": "<ul><li>Effectuer un inventaire complet des comptes d’utilisateur, vérifier les mots de passe réutilisés, et forcer tout changement de mot de passe suspect.</li><li>Installer l’authentification multifacteur sur tous les accès sensibles et publics.</li><li>Évaluer la posture DDoS à l’aide de tests de charge et mettre en place un dispositif de protection (WAF, CDN, scrubbing).</li><li>Mesurer les risques de sécurité industrielle en menant un audit des interfaces de supervision (SIMATIC, ATRO, ANDRITZ) pour valider leur configuration.</li><li>Mettre à jour les procédures de gestion des incidents conformément à NIS2, incluant la documentation des hypothèses et la déclaration d’incident si une intrusion réelle est détectée.</li><li>Organiser une session de sensibilisation aux attaques par phishing et aux risques de fuites de données.</li><li>Surveiller régulièrement les bases de données publiques pour vérifier la présence de leurs identifiants.</li></ul>",
+   "actionsHtml": "<ul><li>Effectuer un inventaire complet des comptes d’utilisateur, vérifier les mots de passe réutilisés, et forcer tout changement de mot de passe suspect.</li><li>Installer l’authentification multifacteur sur tous les accès sensibles et publics.</li><li>Évaluer la posture DDoS à l’aide de tests de charge et mettre en place un dispositif de protection (WAF, CDN, scrubbing).</li><li>Mesurer les risques de sécurité industrielle en menant un audit des interfaces de supervision (SIMATIC, ATRO, ANDRITZ) pour valider leur configuration.</li><li>Mettre à jour les procédures de gestion des incidents conformément à <span class=\"tip\" data-tip=\"&lt;p&gt;Directive européenne renforçant les exigences de cybersécurité et de gestion des risques pour les entités concernées.&lt;/p&gt;\" data-lex=\"rmw588q9rzsea\">NIS2</span>, incluant la documentation des hypothèses et la déclaration d’incident si une intrusion réelle est détectée.</li><li>Organiser une session de sensibilisation aux attaques par <span class=\"tip\" data-tip=\"&lt;p&gt;Technique de manipulation visant à tromper une personne pour obtenir des identifiants, des données ou provoquer une action frauduleuse.&lt;/p&gt;\" data-lex=\"rmw588q9rcm3h\">phishing</span> et aux risques de fuites de données.</li><li>Surveiller régulièrement les bases de données publiques pour vérifier la présence de leurs identifiants.</li></ul>",
    "source": "ZATAZ",
    "url": "https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/",
    "date": "2026-11-09",
