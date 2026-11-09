@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T19:09:37.916Z",
+ "maj": "2026-11-09T19:21:48.592Z",
  "items": [
   {
    "id": "rmw9if36bi7g5",
@@ -114,7 +114,7 @@
     "Collaborer avec les autorités régionales et européennes pour un partage d’indicateurs de menace."
    ],
    "actionsHtml": "<ul><li>Vérifier l’authenticité des alertes via les canaux officiels de l’Aviation civile.</li><li>Mettre à jour les plans de gestion des incidents pour inclure les faux signaux.</li><li>Former les équipes de sécurité sur les scénarios de menaces induites par l’IA.</li><li>Renforcer la sécurité des flux de données partagés avec les aéroports.</li><li>Collaborer avec les autorités régionales et européennes pour un partage d’indicateurs de menace.</li></ul>",
-   "source": "Le Monde Économie",
+   "source": "",
    "url": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
    "date": "2026-11-06",
    "criticite": "",
