@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T17:03:04.463Z",
+ "maj": "2026-11-09T17:03:49.587Z",
  "items": [
   {
    "id": "rmw9if36bi7g5",
@@ -19,7 +19,12 @@
    "rang": null,
    "une": 0,
    "uneR": 0,
-   "ordre": [],
+   "ordre": [
+    "info",
+    "ana",
+    "act",
+    "con"
+   ],
    "imageCarte": "",
    "cX": 50,
    "cY": 50,
@@ -39,7 +44,14 @@
    "auteurRole": "",
    "auteurLiens": "",
    "auteurPhoto": "",
-   "actions": [],
+   "actions": [
+    "Effectuer un audit rapide de la conformité NIS2 sur les systèmes frigorifiques.",
+    "Mettre à jour et patcher les firmware des unités de réfrigération susceptible de rester vulnérables.",
+    "Implémenter un monitoring continu des logs d’accès et anomalie sur les systèmes de froid.",
+    "Former le personnel aux procédures de sécurité et aux signes d’intrusion dans les environnements frigorifiques.",
+    "Élaborer un plan d’intervention d’urgence détaillé en cas d’attaque ciblant les systèmes de réfrigération.",
+    "Documenter les mesures prises pour alimenter le registre des incidents (conformité NIS2)."
+   ],
    "actionsHtml": "<ul><li>Effectuer un audit rapide de la conformité NIS2 sur les systèmes frigorifiques.</li><li>Mettre à jour et patcher les firmware des unités de réfrigération susceptible de rester vulnérables.</li><li>Implémenter un monitoring continu des logs d’accès et anomalie sur les systèmes de froid.</li><li>Former le personnel aux procédures de sécurité et aux signes d’intrusion dans les environnements frigorifiques.</li><li>Élaborer un plan d’intervention d’urgence détaillé en cas d’attaque ciblant les systèmes de réfrigération.</li><li>Documenter les mesures prises pour alimenter le registre des incidents (conformité NIS2).</li></ul>",
    "source": "L'Usine Digitale",
    "url": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-de-supermarches-pirates-face-a-la-multiplication-des-attaques-leurope-sonne-lalerte.AUI23MIM3RFKLM74OKGAU4REPU.html",
@@ -49,7 +61,7 @@
    "credit": "",
    "alt": "",
    "related": null,
-   "statut": "a_valider"
+   "statut": "brouillon"
   },
   {
    "id": "rmw9idcozkjx4",
