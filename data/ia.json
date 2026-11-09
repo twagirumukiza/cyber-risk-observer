@@ -7,7 +7,7 @@
    "cle": "ANTHROPIC_API_KEY",
    "gratuit": false,
    "modele": "claude-sonnet-5-5",
-   "actif": true
+   "actif": false
   },
   "openai": {
    "nom": "OpenAI",
@@ -16,7 +16,7 @@
    "cle": "OPENAI_API_KEY",
    "gratuit": false,
    "modele": "gpt-4.1-mini",
-   "actif": true
+   "actif": false
   },
   "gemini": {
    "nom": "Google Gemini",
@@ -25,7 +25,7 @@
    "cle": "GEMINI_API_KEY",
    "gratuit": true,
    "modele": "gemini-2.5-flash",
-   "actif": true
+   "actif": false
   },
   "groq": {
    "nom": "Groq",
@@ -34,7 +34,7 @@
    "cle": "GROQ_API_KEY",
    "gratuit": true,
    "modele": "openai/gpt-oss-120b",
-   "actif": true
+   "actif": false
   },
   "mistral": {
    "nom": "Mistral",
@@ -43,7 +43,7 @@
    "cle": "MISTRAL_API_KEY",
    "gratuit": true,
    "modele": "mistral-small-latest",
-   "actif": true
+   "actif": false
   },
   "openrouter": {
    "nom": "OpenRouter",
@@ -52,7 +52,7 @@
    "cle": "OPENROUTER_API_KEY",
    "gratuit": true,
    "modele": "",
-   "actif": true
+   "actif": false
   },
   "pollinations": {
    "nom": "Pollinations (gratuit, sans clé)",
