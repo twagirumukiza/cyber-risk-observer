@@ -1,5 +1,57 @@
 [
  {
+  "id": "72dc008bf0b5",
+  "source": "ZATAZ",
+  "rubrique": 0,
+  "titre": "NoName vise Free, La Poste Mobile et Danfoss",
+  "url": "https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/",
+  "date": "2026-11-09",
+  "resume": "NoName vise Free, La Poste Mobile et Danfoss. ZATAZ distingue données volées, DDoS et revendications industrielles.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données",
+   "Déni de service"
+  ],
+  "tags": [
+   "Fuite de données",
+   "Déni de service"
+  ],
+  "score": 8
+ },
+ {
+  "id": "7ad68b589b78",
+  "source": "ZATAZ",
+  "rubrique": 0,
+  "titre": "Un pirate revendique le vol de millions de données d’automobilites français",
+  "url": "https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/",
+  "date": "2026-11-09",
+  "resume": "Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "5fe720035f19",
+  "source": "Mandurah Mail",
+  "rubrique": 2,
+  "titre": "Warning for Qantas passengers as global airline booking giant suffers data breach",
+  "url": "https://www.mandurahmail.com.au/story/9386008/qantas-investigates-impact-of-amadeus-data-breach/",
+  "date": "2026-11-08",
+  "resume": "Amadeus, a booking software company used by airlines around the world including Qantas, Korean Air, Asiana, Japan Airlines, ANA and Cathay Pacific, has been involved in a data breach. The organisation ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
   "id": "a7de4cf79bd4",
   "source": "ZATAZ",
   "rubrique": 0,
@@ -14,6 +66,22 @@
   ],
   "tags": [
    "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "984b6e74b734",
+  "source": "Mint",
+  "rubrique": 5,
+  "titre": "Indian companies seek on-site security engineers as AI-led cyber threats mount",
+  "url": "https://www.livemint.com/ai/indian-companies-seek-on-site-security-engineers-as-ai-led-cyber-threats-mount-11793951525980.html",
+  "date": "2026-11-08",
+  "resume": "New Delhi: As cyberattacks become increasingly sophisticated and enterprises step up their adoption of artificial intelligence (AI), Indian companies are strengthening their digital defences by ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA"
   ],
   "score": 6
  },
@@ -52,6 +120,36 @@
   "score": 5
  },
  {
+  "id": "0a175a74e4d7",
+  "source": "ZATAZ",
+  "rubrique": 0,
+  "titre": "Un géant de l’informatique visé par une revendication de vol de données",
+  "url": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
+  "date": "2026-11-08",
+  "resume": "Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "Sauvegarde"
+  ],
+  "score": 5
+ },
+ {
+  "id": "b460fe1d81cc",
+  "source": "ZATAZ",
+  "rubrique": 0,
+  "titre": "Alain Afflelou : des données clients et bancaires exposées ?",
+  "url": "https://www.zataz.com/alain-afflelou-des-donnees-clients-et-bancaires-exposees/",
+  "date": "2026-11-08",
+  "resume": "Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
   "id": "ca1a9396bb65",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -65,7 +163,7 @@
    "Vulnérabilité / zero-day",
    "Identité & accès"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -83,7 +181,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": []
  },
  {
@@ -99,7 +197,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": []
  },
  {
@@ -115,7 +213,7 @@
   "tags": [
    "Logiciel malveillant"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Logiciel malveillant"
   ]
@@ -133,7 +231,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Cyberattaque"
   ]
@@ -151,7 +249,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": []
  },
  {
@@ -167,7 +265,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Cyberattaque"
   ]
@@ -185,7 +283,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -201,7 +299,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -215,7 +313,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -229,7 +327,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -243,7 +341,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -257,7 +355,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -271,7 +369,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -285,7 +383,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -301,7 +399,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": [
    "Cyberattaque"
   ]
@@ -319,7 +417,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1102,7 +1200,7 @@
    "IA",
    "Hameçonnage"
   ],
-  "score": 15,
+  "score": 14,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Fuite de données",
@@ -1128,7 +1226,7 @@
    "Fuite de données",
    "IA"
   ],
-  "score": 14
+  "score": 13
  },
  {
   "id": "806a92e4d68b",
@@ -1150,7 +1248,7 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "790327c5c921",
@@ -1167,7 +1265,7 @@
    "Vulnérabilité",
    "Identité & accès"
   ],
-  "score": 11,
+  "score": 10,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1188,7 +1286,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 11,
+  "score": 10,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Logiciel malveillant",
@@ -1210,7 +1308,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -1231,7 +1329,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -1251,7 +1349,7 @@
    "Vulnérabilité / zero-day",
    "Fuite de données"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Fuite de données"
@@ -1272,7 +1370,7 @@
    "Cyberattaque",
    "Hameçonnage"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Hameçonnage / fraude",
    "Cyberattaque"
@@ -1292,7 +1390,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1311,7 +1409,7 @@
    "Logiciel malveillant",
    "IA"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Logiciel malveillant"
   ]
@@ -1330,7 +1428,7 @@
    "Vulnérabilité / zero-day",
    "IA"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1349,7 +1447,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1368,7 +1466,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1387,7 +1485,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1406,7 +1504,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1425,7 +1523,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1444,7 +1542,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1463,7 +1561,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1481,7 +1579,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Fuite de données"
   ]
@@ -1500,7 +1598,7 @@
    "Logiciel malveillant",
    "Cyberattaque"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Logiciel malveillant",
    "Cyberattaque"
@@ -1523,7 +1621,26 @@
    "Cyberattaque",
    "IA"
   ],
-  "score": 7
+  "score": 6
+ },
+ {
+  "id": "a698ab5d4c98",
+  "source": "MarketWatch on MSN",
+  "rubrique": 3,
+  "titre": "Why CrowdStrike and cybersecurity stocks got crunched in Thursday’s rout",
+  "url": "https://www.msn.com/en-us/technology/tech-companies/why-crowdstrike-and-cybersecurity-stocks-got-crunched-in-thursday-s-rout/ar-AA2gQNHz",
+  "date": "2026-11-05",
+  "resume": "Highflying cybersecurity names take a beating from broader market concerns as well as ‘Black October’ infrastructure hacks and news about AI disruptors.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque",
+   "IA"
+  ],
+  "score": 6
  },
  {
   "id": "408ff287345d",
@@ -1539,7 +1656,7 @@
    "Vulnérabilité / zero-day",
    "IA"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1557,7 +1674,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1575,7 +1692,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -1591,7 +1708,7 @@
   "tags": [
    "Identité & accès"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -1607,7 +1724,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": [
    "Cyberattaque"
   ]
@@ -1628,7 +1745,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "cc51aa6ea930",
@@ -1646,7 +1763,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "83bc9e8caa40",
@@ -1664,7 +1781,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "3de8e79650b1",
@@ -1682,7 +1799,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "09b518162789",
@@ -1695,7 +1812,7 @@
   "criticite": "",
   "poids": 2,
   "tags": [],
-  "score": 4,
+  "score": 3,
   "menaces": []
  },
  {
@@ -1709,7 +1826,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3,
+  "score": 2,
   "menaces": []
  },
  {
@@ -1723,7 +1840,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3,
+  "score": 2,
   "menaces": []
  },
  {
@@ -1737,7 +1854,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3,
+  "score": 2,
   "menaces": []
  },
  {
@@ -1751,7 +1868,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3,
+  "score": 2,
   "menaces": []
  },
  {
@@ -1765,7 +1882,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3,
+  "score": 2,
   "menaces": []
  },
  {
@@ -1779,7 +1896,7 @@
   "criticite": "",
   "poids": 1,
   "tags": [],
-  "score": 3,
+  "score": 2,
   "menaces": []
  },
  {
@@ -1794,7 +1911,7 @@
   "poids": 1,
   "menaces": [],
   "tags": [],
-  "score": 3
+  "score": 2
  },
  {
   "id": "0fd87eaf33b4",
@@ -2013,6 +2130,26 @@
   "rubrique": 0,
   "titre": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
   "url": "https://www.msn.com/fr-fr/actualite/other/cybers%C3%A9curit%C3%A9-le-cert-fr-alerte-sur-plusieurs-failles-dans-les-produits-elastic/ar-AA2gMuUk",
+  "date": "2026-11-04",
+  "resume": "Le Centre gouvernemental de veille, d’alerte et de réponse aux attaques informatiques (CERT-FR) a publié, le 4 novembre 2026, un avis de sécurité consacré à plusieurs vulnérabilités dans les produits ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité",
+   "Institutions"
+  ],
+  "score": 8
+ },
+ {
+  "id": "fadaade1b462",
+  "source": "Armees.com via MSN",
+  "rubrique": 0,
+  "titre": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
+  "url": "https://www.msn.com/fr-fr/technologie/cybers%C3%A9curit%C3%A9/cybers%C3%A9curit%C3%A9-le-cert-fr-alerte-sur-plusieurs-failles-dans-les-produits-elastic/ar-AA2gMuUk",
   "date": "2026-11-04",
   "resume": "Le Centre gouvernemental de veille, d’alerte et de réponse aux attaques informatiques (CERT-FR) a publié, le 4 novembre 2026, un avis de sécurité consacré à plusieurs vulnérabilités dans les produits ...",
   "criticite": "",
@@ -3203,6 +3340,24 @@
   "score": 4
  },
  {
+  "id": "7606f8a953bc",
+  "source": "Le Parisien",
+  "rubrique": 0,
+  "titre": "Plus de dix pays européens concernés par une nouvelle cyberattaque visant des réfrigérateurs",
+  "url": "https://www.leparisien.fr/high-tech/plus-de-dix-pays-europeens-concernes-par-une-nouvelle-cyberattaque-visant-des-refrigerateurs-03-11-2026-CTSUV4UIYFBQBFPNRGYKHUVYB4.php",
+  "date": "2026-11-03",
+  "resume": "Après une attaque similaire en France, un dizaine de pays européens sont ciblés par des cyberattaques présumées ayant visé les réfrigérateur ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 4
+ },
+ {
   "id": "0b096c97b536",
   "source": "CTFtime",
   "rubrique": 6,
@@ -4089,7 +4244,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
@@ -4108,7 +4263,7 @@
   "tags": [
    "IA"
   ],
-  "score": 4,
+  "score": 3,
   "menaces": []
  },
  {
@@ -5221,6 +5376,24 @@
   ]
  },
  {
+  "id": "99b72a931a39",
+  "source": "Insurance Business America",
+  "rubrique": 2,
+  "titre": "Third-party cyber risk exposed by ZenTech ransomware breach",
+  "url": "https://www.insurancebusinessmag.com/nz/news/cyber/thirdparty-cyber-risk-exposed-by-zentech-ransomware-breach-595116.aspx",
+  "date": "2026-10-27",
+  "resume": "A ransomware attack on a private Dunedin company has compromised sensitive government data held without a formal contract, delayed coronial investigations, and put third-party cyber risk firmly on the ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel"
+  ],
+  "tags": [
+   "Rançongiciel"
+  ],
+  "score": 6
+ },
+ {
   "id": "24fc0002264b",
   "source": "France 24",
   "rubrique": 4,
@@ -5528,6 +5701,24 @@
   "url": "https://www.insurancebusinessmag.com/us/news/benefits/healthcare-data-breaches-hit-record-pace-as-vendor-risk-surges-594767.aspx",
   "date": "2026-10-23",
   "resume": "More than one billion healthcare records have been breached since 2009, with business associates now the dominant exposure point ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 5
+ },
+ {
+  "id": "92f0b344612d",
+  "source": "TechRadar on MSN",
+  "rubrique": 2,
+  "titre": "Capcom data breach confirmed — around 11.7 million accounts thought to have been affected",
+  "url": "https://www.msn.com/en-us/gaming/general/capcom-data-breach-confirmed-around-11-7-million-accounts-thought-to-have-been-affected/ar-AA2fVdRN",
+  "date": "2026-10-23",
+  "resume": "Threat actors broke into one of Capcom's services and even tried to change user passwords.",
   "criticite": "",
   "poids": 1,
   "menaces": [
@@ -5873,6 +6064,24 @@
   "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
   "date": "2026-10-21",
   "resume": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 3
+ },
+ {
+  "id": "22bb6eabad72",
+  "source": "20 Minutes Switzerland via MSN",
+  "rubrique": 0,
+  "titre": "Grave faille de sécurité: des milliers de sites mis hors ligne",
+  "url": "https://www.msn.com/fr-ch/actualite/other/grave-faille-de-s%C3%A9curit%C3%A9-des-milliers-de-sites-mis-hors-ligne/ar-AA2fLCwE",
+  "date": "2026-10-21",
+  "resume": "Le PHP, un langage de programmation créé au début des années 1990, a des failles qui mettent en danger «70% du web mondial».",
   "criticite": "",
   "poids": 1,
   "menaces": [
