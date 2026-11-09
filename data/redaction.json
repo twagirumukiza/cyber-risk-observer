@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T20:56:08.319Z",
+ "maj": "2026-11-09T20:56:22.924Z",
  "items": [
   {
    "id": "rmw9qm9riw1me",
@@ -27,6 +27,7 @@
     "p:rmw9qndxxh9xz",
     "p:rmw9qpvdzhew4",
     "p:rmw9qqhbsamfi",
+    "p:rmw9qr31niy6k",
     "con"
    ],
    "imageCarte": "",
@@ -66,6 +67,13 @@
      "type": "texte",
      "titre": "4. L'école, les familles et les entreprises face à une responsabilité partagée",
      "texte": "Former aux risques numériques ne relève pas exclusivement de la responsabilité de l'Éducation nationale.<p>Les familles jouent un rôle essentiel dans l'accompagnement des usages quotidiens. Les enseignants doivent disposer de ressources pédagogiques adaptées et d'une formation suffisante pour aborder ces sujets. Les institutions spécialisées en cybersécurité peuvent contribuer à diffuser les bonnes pratiques et à fournir des supports actualisés.</p><p>Les entreprises et les professionnels du secteur peuvent également participer à cet effort collectif, notamment à travers des interventions, des ateliers et des actions de transmission des compétences.</p><p>Cette coopération permettrait de rapprocher les réalités technologiques des pratiques éducatives, tout en évitant de faire peser toute la responsabilité sur les adolescents eux-mêmes.</p><p>Il ne s'agit pas de restreindre systématiquement les usages, mais de donner aux jeunes les moyens de les comprendre et de les maîtriser.</p>",
+     "imgs": []
+    },
+    {
+     "id": "rmw9qr31niy6k",
+     "type": "texte",
+     "titre": "5. Former aujourd'hui pour réduire les vulnérabilités de demain",
+     "texte": "",
      "imgs": []
     }
    ],
