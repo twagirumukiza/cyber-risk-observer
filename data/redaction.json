@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T20:56:34.296Z",
+ "maj": "2026-11-09T20:56:48.911Z",
  "items": [
   {
    "id": "rmw9qm9riw1me",
@@ -28,6 +28,7 @@
     "p:rmw9qpvdzhew4",
     "p:rmw9qqhbsamfi",
     "p:rmw9qr31niy6k",
+    "p:rmw9qrlox0t4b",
     "con"
    ],
    "imageCarte": "",
@@ -74,6 +75,13 @@
      "type": "texte",
      "titre": "5. Former aujourd'hui pour réduire les vulnérabilités de demain",
      "texte": "Dans les organisations, la sensibilisation des collaborateurs constitue un élément important de la stratégie de cybersécurité. Pourtant, ces collaborateurs ont souvent développé leurs habitudes numériques bien avant leur entrée dans le monde professionnel.<p>Pourquoi attendre l'université ou le premier emploi pour enseigner les fondamentaux de la sécurité numérique ?</p><p>La prévention précoce permettrait de construire progressivement une culture commune de la cybersécurité. Les réflexes acquis au collège pourraient ensuite être consolidés au lycée, dans l'enseignement supérieur et dans la vie professionnelle.</p><p>Cette démarche s'inscrit dans une logique de résilience collective : une population mieux informée est davantage en mesure de reconnaître les menaces, de limiter leur propagation et de signaler les incidents.</p><p>La technologie seule ne peut répondre à l'ensemble des risques numériques. Les comportements humains, la compréhension des menaces et la capacité à prendre les bonnes décisions restent des composantes essentielles de la sécurité.</p>",
+     "imgs": []
+    },
+    {
+     "id": "rmw9qrlox0t4b",
+     "type": "texte",
+     "titre": "Conclusion : la cybersécurité doit devenir une compétence citoyenne",
+     "texte": "Former aux risques numériques dès le collège n'est pas une option technique supplémentaire dans les programmes scolaires. C'est une question d'éducation, de protection et de citoyenneté.<p>À l'heure où les frontières entre vie physique et vie numérique deviennent de plus en plus perméables, apprendre à protéger son identité, ses données et son environnement numérique devrait faire partie du socle de compétences de chaque jeune.</p><p>La première ligne de défense du monde numérique ne se construit pas uniquement dans les centres opérationnels de sécurité (SOC), les pare-feu ou les systèmes de détection. Elle commence aussi dans les salles de classe, par l'éducation, la compréhension et l'acquisition des bons réflexes.</p><p>Former les jeunes aujourd'hui, c'est préparer les citoyens et les professionnels capables de faire face aux menaces de demain.</p>",
      "imgs": []
     }
    ],
