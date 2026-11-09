@@ -7,7 +7,7 @@
    "cle": "ANTHROPIC_API_KEY",
    "gratuit": false,
    "modele": "claude-sonnet-5-5",
-   "actif": false
+   "actif": true
   },
   "openai": {
    "nom": "OpenAI",
@@ -16,7 +16,7 @@
    "cle": "OPENAI_API_KEY",
    "gratuit": false,
    "modele": "gpt-4.1-mini",
-   "actif": false
+   "actif": true
   },
   "gemini": {
    "nom": "Google Gemini",
@@ -25,7 +25,7 @@
    "cle": "GEMINI_API_KEY",
    "gratuit": true,
    "modele": "gemini-2.5-flash",
-   "actif": false
+   "actif": true
   },
   "groq": {
    "nom": "Groq",
@@ -34,7 +34,7 @@
    "cle": "GROQ_API_KEY",
    "gratuit": true,
    "modele": "openai/gpt-oss-120b",
-   "actif": false
+   "actif": true
   },
   "mistral": {
    "nom": "Mistral",
@@ -43,7 +43,7 @@
    "cle": "MISTRAL_API_KEY",
    "gratuit": true,
    "modele": "mistral-small-latest",
-   "actif": false
+   "actif": true
   },
   "openrouter": {
    "nom": "OpenRouter",
@@ -52,7 +52,7 @@
    "cle": "OPENROUTER_API_KEY",
    "gratuit": true,
    "modele": "",
-   "actif": false
+   "actif": true
   },
   "pollinations": {
    "nom": "Pollinations (gratuit, sans clé)",
@@ -62,7 +62,7 @@
    "sanscle": true,
    "gratuit": true,
    "modele": "openai",
-   "actif": true
+   "actif": false
   }
  },
  "ordre": [
@@ -71,38 +71,38 @@
   "gemini",
   "groq",
   "mistral",
-  "pollinations",
-  "openrouter"
+  "openrouter",
+  "pollinations"
  ],
  "rubriques": {
   "0": {
    "nombre": 7,
-   "fournisseur": "pollinations",
+   "fournisseur": "auto",
    "modele": ""
   },
   "1": {
    "nombre": 7,
-   "fournisseur": "pollinations",
+   "fournisseur": "auto",
    "modele": ""
   },
   "2": {
    "nombre": 7,
-   "fournisseur": "pollinations",
+   "fournisseur": "auto",
    "modele": ""
   },
   "3": {
    "nombre": 7,
-   "fournisseur": "pollinations",
+   "fournisseur": "auto",
    "modele": ""
   },
   "4": {
    "nombre": 7,
-   "fournisseur": "pollinations",
+   "fournisseur": "auto",
    "modele": ""
   },
   "7": {
    "nombre": 7,
-   "fournisseur": "pollinations",
+   "fournisseur": "auto",
    "modele": ""
   }
  },
