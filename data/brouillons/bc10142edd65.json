@@ -1,0 +1,20 @@
+{
+ "article": {
+  "titre": "NCSC signale l'escalade des cyberattaques à IA d'ici 2028",
+  "kicker": "Alerte cyber",
+  "intro": "<p>Le National Cyber Security Centre britannique a publié un rapport le 3 novembre 2026 prévoyant une intensification des attaques à l’aide d’intelligence artificielle. Les entreprises françaises doivent en prendre conscience avant le 2028.</p>",
+  "resume": "Le 3 novembre 2026, le NCSC a publié une analyse nationale sur la cybermenace. Il prévoit une hausse des attaques computerisées, dont les rançongiciels mais également d’autres vecteurs, que l’on peut inférer dans le texte comme des failles exploitées. Le rapport met en évidence une accélération due à l’usage d’intelligence artificielle dans les campagnes malveillantes, rendant les attaques plus rapides et plus fréquentes d’ici 2028. Les entreprises concernées sont invitées à revoir leurs défenses compte tenu de cette évolution. Même si le rapport n’indique pas de chiffres précis, la fenêtre de prévision indique un besoin urgent d’adaptation des mesures de défense et de gouvernance.",
+  "analyse": "Dans le cadre du cadre réglementaire européen, notamment le NIS2 et l’AI Act, la prévision d’attaques à l’IA signale une exigence accrue en matière de résilience cybernétique. La compréhension d’un tel phénomène oblige les organisations à intégrer la gouvernance de l’IA dans leur programme de conformité. Les points clés à retenir concernent la surveillance continue, l’évaluation des risques, et la coordination inter-agences. Un manque d’expérience dans certaines PME verra l’exigence croissante à la différence de micro‑entreprises et les systèmes hérités.",
+  "action": "<ul><li>Mettre à jour le périmètre de la cartographie des actifs afin d’inclure les dépendances IA.</li><li>Exécuter des évaluations de risque spécifiques aux systèmes « intelligents ».</li><li>Déployer des solutions de détection basées sur l'IA, tout en appliquant des contrôles de confiance.</li><li>Former le personnel aux comportements d’aoûtimisation d’attaques assistées par IA.</li><li>Alimenter la stratégie de gestion de crise cyber avec des scénarios incluant l’IA malveillante.</li><li>Assurer la conformité avec NIS2 et l’AI Act en vérifiant l’évaluation et la notification de incidents.</li><li>Valider et tester régulièrement les correctifs de vulnérabilité, notamment ceux ciblés par IA.</li></ul>",
+  "conclusion": "La montée des cyberthreats alimentées par l’intelligence artificielle impose aux organisations françaises de revoir leurs défenses et leur gouvernance. En se préparant dès maintenant, elles peuvent maîtriser les risques et rester conformes aux exigences européennes, notamment NIS2 et l’AI Act.",
+  "fiabilite": "partiel",
+  "note": "Vérifier les détails complets du rapport NCSC du 3 novembre 2026 et confirmer l’ampleur exacte des menaces mentionnées.",
+  "section": 3,
+  "source": "Economie Matin via MSN",
+  "url": "https://www.msn.com/fr-ch/actualite/other/cybers%C3%A9curit%C3%A9-le-ncsc-alerte-sur-la-hausse-des-cyberattaques-et-le-risque-pour-les-entreprises/ar-AA2gISeK",
+  "date": "2026-11-03",
+  "fournisseur": "Pollinations (gratuit, sans clé)",
+  "modele": "openai"
+ },
+ "maj": "2026-11-09T16:58:15Z"
+}
