@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T20:53:00.741Z",
+ "maj": "2026-11-09T20:53:28.318Z",
  "items": [
   {
    "id": "rmw9qm9riw1me",
@@ -23,6 +23,7 @@
     "info",
     "ana",
     "act",
+    "p:rmw9qn18a8iae",
     "con"
    ],
    "imageCarte": "",
@@ -35,7 +36,15 @@
     "act": [],
     "con": []
    },
-   "parties": [],
+   "parties": [
+    {
+     "id": "rmw9qn18a8iae",
+     "type": "texte",
+     "titre": "1. Le numérique entre dans la vie des adolescents avant la compréhension de ses risques",
+     "texte": "Réseaux sociaux, messageries instantanées, jeux en ligne, plateformes vidéo et outils d'intelligence artificielle : les collégiens évoluent dans un environnement numérique particulièrement riche, mais également exposé à de nombreuses menaces.<p>Derrière des usages qui semblent ordinaires se cachent pourtant des risques bien réels : hameçonnage (phishing), usurpation d'identité, cyberharcèlement, diffusion non consentie de contenus, manipulation de l'information, escroqueries en ligne ou encore collecte abusive de données personnelles.</p><p>Le paradoxe est évident : les adolescents savent généralement utiliser les outils numériques, mais cette familiarité ne signifie pas qu'ils en maîtrisent les mécanismes, les limites et les risques.</p><p>Savoir publier une photographie, créer un compte ou utiliser une intelligence artificielle ne signifie pas comprendre ce qu'il advient des données personnelles, reconnaître une tentative de manipulation ou mesurer les conséquences d'une empreinte numérique durable.</p>",
+     "imgs": []
+    }
+   ],
    "stInfo": "",
    "stAna": "",
    "stAct": "",
