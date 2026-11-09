@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-08T11:31:23Z",
+ "maj": "2026-11-09T13:22:41Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -310,6 +310,12 @@
     "d": "2026-07-24",
     "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
     "r": 1
+   },
+   {
+    "t": "Suspected Chinese APT41 Hackers Use BlackX Bootkit to Bypass Windows Secure Boot",
+    "s": "GBHackers News",
+    "d": "2026-10-23",
+    "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jT2FVOEZZc1RkcU5fX2U0MVZ5QTRwM2EweE5WX3BZUnZRVWYyaWN4Ml9PTEp0akZLWVNNM0RXOFV6T0FTanpia2MyUWhUY3BDQmNHaWRtQ3RfMWw1WU840gFkQVVfeXFMTnY4elVEX3QtaU8yT1pwZXJweDJELWE4cms1WS03anUtRjh4WFB0VTZFS1BuOVgtOUFPSUxMUlVxZEhFUm00NGRCZXpzMUszMEpMM1BlOHp0VUxrZEM0LTZneW9wUQ?oc=5"
    }
   ],
   "apt37": [
@@ -350,7 +356,7 @@
    {
     "t": "Exposed: Volt Typhoon's Framework for Silent Espionage",
     "s": "BankInfoSecurity",
-    "d": "2026-11-07",
+    "d": "2026-11-09",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUExTbVgtY1lkckxwSWZjTTB2c2dMRzZOdEhMUlQ0SWlVeUZscFJzWkxnMGs3cjBjUXZEX0QyZTR1VkJXSWE5VWJ4cDMwalJfRUFJRE5EUzRPV3ZpeUtydVBPdVBnUE94T1JhUWJnbGN2b201STFQMnFvNWYzSlhtRTI0V21ZbTQySWFudzdRRDhvT2tlWXdkNw?oc=5"
    },
    {
@@ -360,16 +366,16 @@
     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZkg0eFRTVFJUeDllalZHUVRNSTZlRHRwa3ZfYUJ5TTJ6amg5dTNacTFoVTlFQkQxTXVna0p0bFNSQklsYWJCMTdrWG9nX1d1ckNOWVNVeEVRaXNxR1huYVZwRUhOZzExejdNbVhnaWlnRm12XzZoZG5kb2ZyeWdOa25RMXZ6TzQ1TDJiRzMyVE1td0hKVExPdHUxVkR5eVhJT0NicGY3czNYeWtmcmplak9yeHpOT0MtNEZlNi1Jc0JuenY1LUtMblNUSW91ZXFHNktua3lDS0VaS2tUZFJJZlA3SkZBU1lVd1ZOQVJlYzRQQlJ5amlBeGd3?oc=5"
    },
    {
-    "t": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
-    "s": "SecurityWeek",
+    "t": "A deep dive into China’s Volt Typhoon suggests it is preparing for an assault on infrastructure",
+    "s": "CSO Online",
     "d": "2026-10-29",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1l3a1RvZGc4bzlObG9oOXAxV25wbWZBaC1HVjlMeG1TNHZOYVo0ZUk5VGIzSUJUSkxySU9LYkFydnZnMU1PWnFvdFg2VFdraTNFb3ZYY3lpYk5UMmU0ZjBRd0RQT1JyOEdQNzBZNTZqekNoU05EMG0xR2NrVWRkMXJzT3BfeVFqY2VaTjJtSHhGcGpJZVVGSUVmdFdhVzA4YjR4aDVGZDc0eXc?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHgyMHpPejl1YW9fbWVGbGt6Q05uODI0WjNDTnd2WWhKZGpQa25qV3J0bzdWVTBmdmYwZXVOTENsd0c5OTFVRDNsUnN6TER6MlZXcWQwUE9XVWliTnMyYmlEUkhVT1JxLXgxYVNWcHc5a1Y2dENDbmh5QWR4bE02clJ5dGM2d1hZM2JldGV3alU1aUU0UGhvaFZ4VTI2RDVsZ3Z1ME5oN2F6Umh5R1NQZUtjTEszWTBNdF9hemV5NHpqLXVIdWswbkR1MkF3WEo0WkZsejZCU3A?oc=5"
    },
    {
-    "t": "Cisco SD-WAN Catalyst Controller attacks linked to Volt Typhoon’s Silent Train network",
-    "s": "SC Media",
+    "t": "Volt Typhoon targeted enterprise control planes via ever-changing \"Silent Train\" relay network",
+    "s": "Help Net Security",
     "d": "2026-10-29",
-    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1dlQWYxaTJLQ05qcU9yVlMtV2FwQnYxazdzYThicGhtZFRMMTNFRXJYcTN1VnhyLTlFcU1aY3BsT3VQcUNfa3ozc3RwaDhhUWNIWW5UQlhGVHhTT01ITzg2RHFGQUdzbEZ5UzhxVjRIUmRCSjY0bm8zd0V0R0EzalNoX1FxeDUzQWxjUG9zYUZoNVg0NmVweVhRTjFXMTZfZHluMHFqSzlPNjVMeWwyQWlITG4?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFFWR0dIdEZRc0JkUkRvXzBEakw4UnNBV2lIZ295VnA3dWo0S3JXZ2F2SE1hQWxqOXZTNXhSOFUwTGxuNkp2MWExOHItX2Nnb1o0Tm1jdjg3WUpabEo3ZGIzLS00ZW1lT0FvUjJBS0FuZmlzYmpVY3psMGc0NjlYcXZtTFlWTjlobllZ?oc=5"
    }
   ],
   "fin7": [
@@ -599,6 +605,12 @@
    }
   ],
   "noname057-16": [
+   {
+    "t": "NoName057(16) doxxes 18 EU officials on Tor site",
+    "s": "Cybernews",
+    "d": "2026-11-09",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jZDVGYmNaeXRtLWNIcl9OMlVkNm9vMGh0S0ZjSGlyOWhBREhfZEMzeWFlRWRkLTk4TmJSZFdTQmp5X1BSMEtGNm4yRm5GOHNYTlVWZldsMTd3bmNLZnduWEdBQzVzSkJtaUpoUTBzRQ?oc=5"
+   },
    {
     "t": "NoName057(16) hackers target their investigators, bounty on data of 18 people",
     "s": "Pasquale Pillitteri",
