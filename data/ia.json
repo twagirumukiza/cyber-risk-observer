@@ -1,0 +1,103 @@
+{
+ "fournisseurs": {
+  "anthropic": {
+   "nom": "Claude (Anthropic)",
+   "type": "anthropic",
+   "url": "https://api.anthropic.com/v1/messages",
+   "cle": "ANTHROPIC_API_KEY",
+   "gratuit": false,
+   "modele": "claude-sonnet-5-5",
+   "actif": true
+  },
+  "openai": {
+   "nom": "OpenAI",
+   "type": "openai",
+   "url": "https://api.openai.com/v1/chat/completions",
+   "cle": "OPENAI_API_KEY",
+   "gratuit": false,
+   "modele": "gpt-4.1-mini",
+   "actif": true
+  },
+  "gemini": {
+   "nom": "Google Gemini",
+   "type": "openai",
+   "url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+   "cle": "GEMINI_API_KEY",
+   "gratuit": true,
+   "modele": "gemini-2.5-flash",
+   "actif": true
+  },
+  "groq": {
+   "nom": "Groq",
+   "type": "openai",
+   "url": "https://api.groq.com/openai/v1/chat/completions",
+   "cle": "GROQ_API_KEY",
+   "gratuit": true,
+   "modele": "openai/gpt-oss-120b",
+   "actif": true
+  },
+  "mistral": {
+   "nom": "Mistral",
+   "type": "openai",
+   "url": "https://api.mistral.ai/v1/chat/completions",
+   "cle": "MISTRAL_API_KEY",
+   "gratuit": true,
+   "modele": "mistral-small-latest",
+   "actif": true
+  },
+  "openrouter": {
+   "nom": "OpenRouter",
+   "type": "openai",
+   "url": "https://openrouter.ai/api/v1/chat/completions",
+   "cle": "OPENROUTER_API_KEY",
+   "gratuit": true,
+   "modele": "",
+   "actif": true
+  }
+ },
+ "ordre": [
+  "anthropic",
+  "openai",
+  "gemini",
+  "groq",
+  "mistral",
+  "openrouter"
+ ],
+ "rubriques": {
+  "0": {
+   "nombre": 7,
+   "fournisseur": "auto",
+   "modele": ""
+  },
+  "1": {
+   "nombre": 7,
+   "fournisseur": "auto",
+   "modele": ""
+  },
+  "2": {
+   "nombre": 7,
+   "fournisseur": "auto",
+   "modele": ""
+  },
+  "3": {
+   "nombre": 7,
+   "fournisseur": "auto",
+   "modele": ""
+  },
+  "4": {
+   "nombre": 7,
+   "fournisseur": "auto",
+   "modele": ""
+  },
+  "7": {
+   "nombre": 7,
+   "fournisseur": "auto",
+   "modele": ""
+  }
+ },
+ "plafond": 48,
+ "consignes": {
+  "articles": "Tu es rédacteur pour « Cyber Risk Observer », un journal français de veille sur la menace cyber, la gouvernance, les risques et la conformité (GRC). Ton : factuel, sobre, précis, sans sensationnalisme ni jargon inutile.\n\nRègles impératives :\n- Tu t'appuies UNIQUEMENT sur les informations fournies. N'invente aucun chiffre, nom, date, attribution, victime ni citation. Si une information manque, ne la complète pas.\n- Tu reformules entièrement avec tes propres mots (aucune phrase recopiée ; citation éventuelle de 15 mots maximum entre guillemets). Tu cites la source par son nom.\n- Tu écris en français.\n- Format HTML minimal : <p>, <ul><li>, <strong>. Pas de titres, pas de liens.\n- Si le contexte fourni est trop pauvre pour un article fiable, mets \"fiabilite\" à \"partiel\" et reste court.\n\nRéponds par UN SEUL objet JSON, sans texte autour, avec les clés :\n\"titre\" (titre original, 110 caractères max, qui n'est pas celui de la source),\n\"kicker\" (étiquette courte, 3 mots max, ex. « Rançongiciel »),\n\"intro\" (chapô : 1 à 2 phrases, 280 caractères max, qui donnent l'essentiel),\n\"resume\" (« L'information » : 2 à 3 paragraphes, les faits),\n\"analyse\" (1 paragraphe prudent sur la portée pour une organisation ; chaîne vide si rien de solide à en dire),\n\"conclusion\" (1 paragraphe : ce qu'il faut retenir),\n\"fiabilite\" (\"ok\" ou \"partiel\"),\n\"note\" (une phrase pour le relecteur : ce qu'il faut vérifier ; chaîne vide si rien).",
+  "notions": "Tu es rédacteur pour « Cyber Risk Observer », un journal français de veille sur la menace cyber, la gouvernance, les risques et la conformité (GRC). Ton : factuel, sobre, précis, sans sensationnalisme ni jargon inutile.\n\nRègles impératives :\n- Il s'agit d'une notion de fond (pas d'actualité) : explique-la avec exactitude, à partir de connaissances établies et consensuelles. N'invente aucun chiffre, nom, date, attribution, victime ni citation. Si une information manque, ne la complète pas.\n- Tu reformules entièrement avec tes propres mots (aucune phrase recopiée ; citation éventuelle de 15 mots maximum entre guillemets). Pas de source à citer.\n- Tu écris en français.\n- Format HTML minimal : <p>, <ul><li>, <strong>. Pas de titres, pas de liens.\n- Si le contexte fourni est trop pauvre pour un article fiable, mets \"fiabilite\" à \"partiel\" et reste court.\n\nRéponds par UN SEUL objet JSON, sans texte autour, avec les clés :\n\"titre\" (titre original, 110 caractères max, qui n'est pas celui de la source),\n\"kicker\" (étiquette courte, 3 mots max, ex. « Rançongiciel »),\n\"intro\" (chapô : 1 à 2 phrases, 280 caractères max, qui donnent l'essentiel),\n\"resume\" (« L'information » : 2 à 3 paragraphes, les faits),\n\"analyse\" (1 paragraphe prudent sur la portée pour une organisation ; chaîne vide si rien de solide à en dire),\n\"conclusion\" (1 paragraphe : ce qu'il faut retenir),\n\"fiabilite\" (\"ok\" ou \"partiel\"),\n\"note\" (une phrase pour le relecteur : ce qu'il faut vérifier ; chaîne vide si rien)."
+ }
+}
