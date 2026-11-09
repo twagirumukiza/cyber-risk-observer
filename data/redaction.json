@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T20:55:26.555Z",
+ "maj": "2026-11-09T20:55:33.973Z",
  "items": [
   {
    "id": "rmw9qm9riw1me",
@@ -25,6 +25,7 @@
     "act",
     "p:rmw9qn18a8iae",
     "p:rmw9qndxxh9xz",
+    "p:rmw9qpvdzhew4",
     "con"
    ],
    "imageCarte": "",
@@ -50,6 +51,13 @@
      "type": "texte",
      "titre": "2. Passer de la sensibilisation ponctuelle à une véritable culture cyber",
      "texte": "Les interventions de sensibilisation sont utiles, mais elles ne peuvent constituer à elles seules une réponse durable. La cybersécurité doit progressivement s'inscrire dans le parcours éducatif, au même titre que les autres compétences nécessaires à la vie citoyenne.<p>L'objectif n'est pas de transformer les collégiens en spécialistes techniques, mais de leur transmettre des réflexes fondamentaux :</p><ul><li><b>Protéger son identité numérique :</b> comprendre les données personnelles, les paramètres de confidentialité et les conséquences de leur exposition.</li><li><b>Reconnaître les manipulations :</b> identifier les faux liens, les messages frauduleux, les faux profils et les techniques d'ingénierie sociale.</li><li><b>Sécuriser ses accès :</b> comprendre l'importance des mots de passe robustes, de leur unicité et de l'authentification multifacteur.</li><li><b>Développer son esprit critique :</b> vérifier une information, identifier les contenus manipulés et prendre du recul face aux productions générées par l'intelligence artificielle.</li><li><b>Adopter des comportements responsables :</b> comprendre les conséquences du cyberharcèlement, du partage de contenus privés et de la diffusion d'informations concernant autrui.</li></ul><p>Cette approche doit privilégier la pédagogie active : mises en situation, analyse de messages frauduleux fictifs, exercices de vérification de l'information et scénarios de protection des données.</p><p>L'élève ne doit pas seulement entendre qu'il existe des risques. Il doit apprendre à les reconnaître et savoir comment réagir.</p>",
+     "imgs": []
+    },
+    {
+     "id": "rmw9qpvdzhew4",
+     "type": "texte",
+     "titre": "3. L'intelligence artificielle ouvre un nouveau front éducatif",
+     "texte": "",
      "imgs": []
     }
    ],
