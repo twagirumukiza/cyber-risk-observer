@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T19:33:48.677Z",
+ "maj": "2026-11-09T19:34:28.138Z",
  "items": [
   {
    "id": "rmw9i966s3u3f",
@@ -54,7 +54,7 @@
     "Valider et tester régulièrement les correctifs de vulnérabilité, notamment ceux ciblés par IA."
    ],
    "actionsHtml": "<ul><li>Mettre à jour le périmètre de la cartographie des actifs afin d’inclure les dépendances IA.</li><li>Exécuter des évaluations de risque spécifiques aux systèmes « intelligents ».</li><li>Déployer des solutions de détection basées sur l'IA, tout en appliquant des contrôles de confiance.</li><li>Former le personnel aux comportements d’aoûtimisation d’attaques assistées par IA.</li><li>Alimenter la stratégie de gestion de crise cyber avec des scénarios incluant l’IA malveillante.</li><li>Assurer la conformité avec NIS2 et l’AI Act en vérifiant l’évaluation et la notification de incidents.</li><li>Valider et tester régulièrement les correctifs de vulnérabilité, notamment ceux ciblés par IA.</li></ul>",
-   "source": "",
+   "source": "National Cyber Security Centre",
    "url": "https://www.msn.com/fr-ch/actualite/other/cybers%C3%A9curit%C3%A9-le-ncsc-alerte-sur-la-hausse-des-cyberattaques-et-le-risque-pour-les-entreprises/ar-AA2gISeK",
    "date": "2026-11-03",
    "criticite": "",
