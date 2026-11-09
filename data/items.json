@@ -1956,7 +1956,7 @@
   "imgY": 50,
   "imgZ": 1,
   "liensUtiles": "",
-  "intro": "L'agence américaine de cybersécurité CISA (Cybersecurity and Infrastructure Security Agency) a ajouté deux nouvelles vulnérabilités affectant PHP à son catalogue KEV (Known Exploited Vulnerabilities).",
+  "intro": "<p>L'agence américaine de cybersécurité CISA (Cybersecurity and Infrastructure Security Agency) a ajouté deux nouvelles vulnérabilités affectant PHP à son catalogue KEV (Known Exploited Vulnerabilities).</p>",
   "stIntro": "",
   "rang": null,
   "une": 0,
