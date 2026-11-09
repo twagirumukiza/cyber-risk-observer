@@ -286,21 +286,6 @@
    "verif": ""
   },
   {
-   "ct": 3493,
-   "nom": "OTERIA Cyber Cup #4",
-   "date": "2026-12-05",
-   "duree": "8 h",
-   "format": "Jeopardy · sur site (France, Gennevilliers)",
-   "niveau": "",
-   "url": "https://www.oteria-cyber-cup.fr/",
-   "mode": "onsite",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
    "ct": 3367,
    "nom": "niteCTF 2026",
    "date": "2026-12-11",
@@ -984,11 +969,11 @@
    "v": 1
   }
  ],
- "maj": "2026-11-08T11:19:36Z",
+ "maj": "2026-11-09T12:55:35Z",
  "sources": {
-  "Compétitions — CTFtime": 26,
+  "Compétitions — CTFtime": 25,
   "CTFtime — writeups": 0,
-  "0xdf hacks stuff": 19,
+  "0xdf hacks stuff": 18,
   "CryptoHack": 1,
   "PortSwigger Research": 9,
   "Intigriti": 20,
@@ -996,7 +981,7 @@
   "Didier Stevens": 10,
   "Check Point Research": 15,
   "Google Project Zero": 4,
-  "Reddit r/securityCTF": 22,
+  "Reddit r/securityCTF": 21,
   "Web — Web": 0,
   "Web — Crypto": 0,
   "Web — Forensic": 0,
