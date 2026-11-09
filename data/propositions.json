@@ -1,0 +1,1092 @@
+{
+ "maj": "2026-11-09T04:23:16Z",
+ "ia": false,
+ "usage": {},
+ "manque": {
+  "Société": 2
+ },
+ "erreurs": [],
+ "vus": [],
+ "items": [
+  {
+   "pid": "p4191804fea",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 12,
+   "article": {
+    "titre": "Cyberattaques et arnaques au Mali : une plateforme web pour permettre aux usagers de donner l'alerte",
+    "kicker": "Rançongiciel",
+    "intro": "<p>Au Mali, la montée des cyberattaques inquiète les autorités. Piratage, vols de données et rançongiciels ciblent de plus en plus administrations, ...</p>",
+    "resume": "<p>Brève à développer. Source : Agence Ecofin.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "Agence Ecofin",
+    "url": "https://www.agenceecofin.com/actualites-numerique/0611-143176-cyberattaques-et-arnaques-au-mali-une-plateforme-web-pour-permettre-aux-usagers-de-donner-lalerte",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Cyberattaques et arnaques au Mali : une plateforme web pour permettre aux usagers de donner l'alerte",
+    "url": "https://www.agenceecofin.com/actualites-numerique/0611-143176-cyberattaques-et-arnaques-au-mali-une-plateforme-web-pour-permettre-aux-usagers-de-donner-lalerte",
+    "source": "Agence Ecofin"
+   }
+  },
+  {
+   "pid": "p504f2d45e8",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 8,
+   "article": {
+    "titre": "NoName vise Free, La Poste Mobile et Danfoss",
+    "kicker": "Fuite de données",
+    "intro": "<p>NoName vise Free, La Poste Mobile et Danfoss. ZATAZ distingue données volées, DDoS et revendications industrielles.</p>",
+    "resume": "<p>Brève à développer. Source : ZATAZ.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "ZATAZ",
+    "url": "https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "NoName vise Free, La Poste Mobile et Danfoss",
+    "url": "https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/",
+    "source": "ZATAZ"
+   }
+  },
+  {
+   "pid": "p0758db8436",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 8,
+   "article": {
+    "titre": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Le Centre gouvernemental de veille, d’alerte et de réponse aux attaques informatiques (CERT-FR) a publié, le 4 novembre 2026, un avis de sécurité consacré à plusieurs vulnérabilités dans les produits ...</p>",
+    "resume": "<p>Brève à développer. Source : Armees.com via MSN.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "Armees.com via MSN",
+    "url": "https://www.msn.com/fr-fr/actualite/other/cybers%C3%A9curit%C3%A9-le-cert-fr-alerte-sur-plusieurs-failles-dans-les-produits-elastic/ar-AA2gMuUk",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
+    "url": "https://www.msn.com/fr-fr/actualite/other/cybers%C3%A9curit%C3%A9-le-cert-fr-alerte-sur-plusieurs-failles-dans-les-produits-elastic/ar-AA2gMuUk",
+    "source": "Armees.com via MSN"
+   }
+  },
+  {
+   "pid": "p7cc5c03f48",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 8,
+   "article": {
+    "titre": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Le Centre gouvernemental de veille, d’alerte et de réponse aux attaques informatiques (CERT-FR) a publié, le 4 novembre 2026, un avis de sécurité consacré à plusieurs vulnérabilités dans les produits ...</p>",
+    "resume": "<p>Brève à développer. Source : Armees.com via MSN.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "Armees.com via MSN",
+    "url": "https://www.msn.com/fr-fr/technologie/cybers%C3%A9curit%C3%A9/cybers%C3%A9curit%C3%A9-le-cert-fr-alerte-sur-plusieurs-failles-dans-les-produits-elastic/ar-AA2gMuUk",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
+    "url": "https://www.msn.com/fr-fr/technologie/cybers%C3%A9curit%C3%A9/cybers%C3%A9curit%C3%A9-le-cert-fr-alerte-sur-plusieurs-failles-dans-les-produits-elastic/ar-AA2gMuUk",
+    "source": "Armees.com via MSN"
+   }
+  },
+  {
+   "pid": "p64d9be9f1d",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 6,
+   "article": {
+    "titre": "DataSuckers : trois suspects arrêtés après une fuite",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Trois suspects liés à DataSuckers arrêtés après le piratage de Dodo Pizza et le vol de millions de données.</p>",
+    "resume": "<p>Brève à développer. Source : ZATAZ.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "ZATAZ",
+    "url": "https://www.zataz.com/datasuckers-trois-suspects-arretes-apres-une-fuite/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "DataSuckers : trois suspects arrêtés après une fuite",
+    "url": "https://www.zataz.com/datasuckers-trois-suspects-arretes-apres-une-fuite/",
+    "source": "ZATAZ"
+   }
+  },
+  {
+   "pid": "p4bac797199",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 5,
+   "article": {
+    "titre": "Un géant de l’informatique visé par une revendication de vol de données",
+    "kicker": "",
+    "intro": "<p>Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.</p>",
+    "resume": "<p>Brève à développer. Source : ZATAZ.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "ZATAZ",
+    "url": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Un géant de l’informatique visé par une revendication de vol de données",
+    "url": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
+    "source": "ZATAZ"
+   }
+  },
+  {
+   "pid": "p96e96b9dc2",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 5,
+   "article": {
+    "titre": "\"La plus grosse attaque informatique sur un acteur bancaire en France\": comment les banques peuvent-elles éviter une cyberattaque comme au…",
+    "kicker": "Cyberattaque",
+    "intro": "<p>La banque française a été victime d'une cyberattaque dont le préjudice s'élève à plus de 100 millions d'euros. L'événement a mis en lumière les risques encourus par le secteur bancaire en France.</p>",
+    "resume": "<p>Brève à développer. Source : BFMTV.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "BFMTV",
+    "url": "https://www.bfmtv.com/crypto/la-plus-grosse-attaque-informatique-sur-un-acteur-bancaire-en-france-comment-les-banques-peuvent-elles-eviter-une-cyberattaque-comme-au-credit-mutuel-arkea_AD-202611060591.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "\"La plus grosse attaque informatique sur un acteur bancaire en France\": comment les banques peuvent-elles éviter une cyberattaque comme au Crédit Mutuel Arkéa?",
+    "url": "https://www.bfmtv.com/crypto/la-plus-grosse-attaque-informatique-sur-un-acteur-bancaire-en-france-comment-les-banques-peuvent-elles-eviter-une-cyberattaque-comme-au-credit-mutuel-arkea_AD-202611060591.html",
+    "source": "BFMTV"
+   }
+  },
+  {
+   "pid": "pa70401bf10",
+   "rubrique": 1,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 11,
+   "article": {
+    "titre": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called…</p>",
+    "resume": "<p>Brève à développer. Source : The Hacker News.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 1,
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+    "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+    "source": "The Hacker News"
+   }
+  },
+  {
+   "pid": "p14840445ce",
+   "rubrique": 1,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 11,
+   "article": {
+    "titre": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028",
+    "kicker": "Rançongiciel",
+    "intro": "<p>The UK’s National Cyber Security Centre says AI-powered malware is highly likely to be used in a ransomware attack on critical infrastructure by 2028.</p>",
+    "resume": "<p>Brève à développer. Source : Cointelegraph.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 1,
+    "source": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028",
+    "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028",
+    "source": "Cointelegraph"
+   }
+  },
+  {
+   "pid": "pd0c2054e49",
+   "rubrique": 1,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 10,
+   "article": {
+    "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus…</p>",
+    "resume": "<p>Brève à développer. Source : The Hacker News.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 1,
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+    "source": "The Hacker News"
+   }
+  },
+  {
+   "pid": "p099d2ffa09",
+   "rubrique": 1,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 9,
+   "article": {
+    "titre": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]</p>",
+    "resume": "<p>Brève à développer. Source : BleepingComputer.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 1,
+    "source": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+    "source": "BleepingComputer"
+   }
+  },
+  {
+   "pid": "p40a38117a3",
+   "rubrique": 1,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 9,
+   "article": {
+    "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+    "kicker": "Rançongiciel",
+    "intro": "<p>A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]</p>",
+    "resume": "<p>Brève à développer. Source : BleepingComputer.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 1,
+    "source": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+    "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+    "source": "BleepingComputer"
+   }
+  },
+  {
+   "pid": "p941158a1c2",
+   "rubrique": 1,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 8,
+   "article": {
+    "titre": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear…</p>",
+    "resume": "<p>Brève à développer. Source : The Hacker News.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 1,
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+    "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+    "source": "The Hacker News"
+   }
+  },
+  {
+   "pid": "p8a5b5e478a",
+   "rubrique": 1,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 8,
+   "article": {
+    "titre": "Under Cyber Attack: Should Nations & Companies Fight Back. If So, How?",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Should Nations and Companies Fight Back, and If So, How? Amid surging cyber threats to critical infrastructure and supply chains, nations debate whether companies should fight back effectively.</p>",
+    "resume": "<p>Brève à développer. Source : Cyber Security Intelligence.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 1,
+    "source": "Cyber Security Intelligence",
+    "url": "https://www.cybersecurityintelligence.com/blog/under-cyber-attack-should-nations-and-companies-fight-back-if-so-how-9877.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Under Cyber Attack: Should Nations & Companies Fight Back. If So, How?",
+    "url": "https://www.cybersecurityintelligence.com/blog/under-cyber-attack-should-nations-and-companies-fight-back-if-so-how-9877.html",
+    "source": "Cyber Security Intelligence"
+   }
+  },
+  {
+   "pid": "p906056916d",
+   "rubrique": 2,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 14,
+   "article": {
+    "titre": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an…</p>",
+    "resume": "<p>Brève à développer. Source : The Hacker News.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 2,
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+    "source": "The Hacker News"
+   }
+  },
+  {
+   "pid": "pfd99e3a8aa",
+   "rubrique": 2,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 13,
+   "article": {
+    "titre": "CVE-2026-19868 – SonicWall SonicOS SSLVPN : SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass…</p>",
+    "resume": "<p>Brève à développer. Source : CISA KEV.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 2,
+    "source": "CISA KEV",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
+    "date": "2026-11-09",
+    "criticite": "Critique"
+   },
+   "src": {
+    "titre": "CVE-2026-19868 – SonicWall SonicOS SSLVPN : SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
+    "source": "CISA KEV"
+   }
+  },
+  {
+   "pid": "pcb23dfdbef",
+   "rubrique": 2,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 13,
+   "article": {
+    "titre": "News about data breaches: What's happening behind the scenes? How ransomware works and 3 things to do if you think your data has been…",
+    "kicker": "Rançongiciel",
+    "intro": "<p>This article contains affiliate links.Hello, I am Mikan no Tensai.This is the 10th installment of the \"IT Revealed\" series. It is a project that reveals what is happening behind common IT terms, much ...</p>",
+    "resume": "<p>Brève à développer. Source : note.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 2,
+    "source": "note",
+    "url": "https://note.com/mikan_genius/n/nc559f16dc071?hl=en",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "News about data breaches: What's happening behind the scenes? How ransomware works and 3 things to do if you think your data has been leaked [IT Revealed Part 10]",
+    "url": "https://note.com/mikan_genius/n/nc559f16dc071?hl=en",
+    "source": "note"
+   }
+  },
+  {
+   "pid": "pfb98cd6c20",
+   "rubrique": 2,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 13,
+   "article": {
+    "titre": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    "kicker": "Fuite de données",
+    "intro": "<p>Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the…</p>",
+    "resume": "<p>Brève à développer. Source : The Hacker News.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 2,
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "source": "The Hacker News"
+   }
+  },
+  {
+   "pid": "p3068626ff8",
+   "rubrique": 2,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 11,
+   "article": {
+    "titre": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Zyxel has patched CVE-2026-107441, an exploited zero-day in GS1900 series switches leading to OS command execution.</p>",
+    "resume": "<p>Brève à développer. Source : SecurityWeek.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 2,
+    "source": "SecurityWeek",
+    "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+    "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+    "source": "SecurityWeek"
+   }
+  },
+  {
+   "pid": "p6ec6b9e33d",
+   "rubrique": 2,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 11,
+   "article": {
+    "titre": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]</p>",
+    "resume": "<p>Brève à développer. Source : BleepingComputer.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 2,
+    "source": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+    "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+    "source": "BleepingComputer"
+   }
+  },
+  {
+   "pid": "p1e1e4c271c",
+   "rubrique": 2,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 11,
+   "article": {
+    "titre": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    "kicker": "Rançongiciel",
+    "intro": "<p>Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December…</p>",
+    "resume": "<p>Brève à développer. Source : The Hacker News.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 2,
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+    "source": "The Hacker News"
+   }
+  },
+  {
+   "pid": "p9bc1bace3f",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 13,
+   "article": {
+    "titre": "Cybersécurité : le NCSC alerte sur la hausse des cyberattaques et le risque pour les entreprises",
+    "kicker": "Rançongiciel",
+    "intro": "<p>Dans un rapport publié le 3 novembre 2026, le NCSC britannique prévoit des cyberattaques assistées par intelligence artificielle plus rapides et plus nombreuses d’ici 2028. Entre rançongiciels, faille ...</p>",
+    "resume": "<p>Brève à développer. Source : Economie Matin via MSN.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "Economie Matin via MSN",
+    "url": "https://www.msn.com/fr-ch/actualite/other/cybers%C3%A9curit%C3%A9-le-ncsc-alerte-sur-la-hausse-des-cyberattaques-et-le-risque-pour-les-entreprises/ar-AA2gISeK",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Cybersécurité : le NCSC alerte sur la hausse des cyberattaques et le risque pour les entreprises",
+    "url": "https://www.msn.com/fr-ch/actualite/other/cybers%C3%A9curit%C3%A9-le-ncsc-alerte-sur-la-hausse-des-cyberattaques-et-le-risque-pour-les-entreprises/ar-AA2gISeK",
+    "source": "Economie Matin via MSN"
+   }
+  },
+  {
+   "pid": "p50f7d2aee5",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 7,
+   "article": {
+    "titre": "Avec la cyberattaque au Crédit mutuel Arkéa, les banques européennes prennent conscience de l’ampleur de leur vulnérabilité",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Les pirates informatiques sont parvenus à dérober une partie des fonds propres de Fortuneo, la banque en ligne d’Arkéa. Une attaque inédite dans la finance européenne.</p>",
+    "resume": "<p>Brève à développer. Source : Le Monde Économie.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "Le Monde Économie",
+    "url": "https://www.lemonde.fr/economie/article/2026/11/04/avec-la-cyberattaque-au-credit-mutuel-arkea-les-banques-europeennes-prennent-conscience-de-l-ampleur-de-leur-vulnerabilite_6806367_3234.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Avec la cyberattaque au Crédit mutuel Arkéa, les banques européennes prennent conscience de l’ampleur de leur vulnérabilité",
+    "url": "https://www.lemonde.fr/economie/article/2026/11/04/avec-la-cyberattaque-au-credit-mutuel-arkea-les-banques-europeennes-prennent-conscience-de-l-ampleur-de-leur-vulnerabilite_6806367_3234.html",
+    "source": "Le Monde Économie"
+   }
+  },
+  {
+   "pid": "pf6c04bcb3d",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 7,
+   "article": {
+    "titre": "Cyberattaque contre les réfrigérateurs : « C’est à la portée d’un individu isolé »",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Une cyberattaque virtuelle, aux conséquences bien réelles dans les rayons. Le piratage informatique du système de gestion des réfrigérateurs de supermarché pose la question de la vulnérabilité d’une ...</p>",
+    "resume": "<p>Brève à développer. Source : Le Parisien.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "Le Parisien",
+    "url": "https://www.leparisien.fr/economie/cyberattaque-contre-les-refrigerateurs-cest-a-la-portee-dun-individu-isole-13-10-2026-2Y6GVFVRCVGGNMGFIIJYVG237U.php",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Cyberattaque contre les réfrigérateurs : « C’est à la portée d’un individu isolé »",
+    "url": "https://www.leparisien.fr/economie/cyberattaque-contre-les-refrigerateurs-cest-a-la-portee-dun-individu-isole-13-10-2026-2Y6GVFVRCVGGNMGFIIJYVG237U.php",
+    "source": "Le Parisien"
+   }
+  },
+  {
+   "pid": "pe10e6d1576",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 6,
+   "article": {
+    "titre": "Why CrowdStrike and cybersecurity stocks got crunched in Thursday’s rout",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Highflying cybersecurity names take a beating from broader market concerns as well as ‘Black October’ infrastructure hacks and news about AI disruptors.</p>",
+    "resume": "<p>Brève à développer. Source : MarketWatch on MSN.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "MarketWatch on MSN",
+    "url": "https://www.msn.com/en-us/news/other/why-crowdstrike-and-cybersecurity-stocks-got-crunched-in-thursday-s-rout/ar-AA2gQNHz",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Why CrowdStrike and cybersecurity stocks got crunched in Thursday’s rout",
+    "url": "https://www.msn.com/en-us/news/other/why-crowdstrike-and-cybersecurity-stocks-got-crunched-in-thursday-s-rout/ar-AA2gQNHz",
+    "source": "MarketWatch on MSN"
+   }
+  },
+  {
+   "pid": "p48597f8a83",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 6,
+   "article": {
+    "titre": "Why CrowdStrike and cybersecurity stocks got crunched in Thursday’s rout",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Highflying cybersecurity names take a beating from broader market concerns as well as ‘Black October’ infrastructure hacks and news about AI disruptors.</p>",
+    "resume": "<p>Brève à développer. Source : MarketWatch on MSN.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "MarketWatch on MSN",
+    "url": "https://www.msn.com/en-us/technology/tech-companies/why-crowdstrike-and-cybersecurity-stocks-got-crunched-in-thursday-s-rout/ar-AA2gQNHz",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Why CrowdStrike and cybersecurity stocks got crunched in Thursday’s rout",
+    "url": "https://www.msn.com/en-us/technology/tech-companies/why-crowdstrike-and-cybersecurity-stocks-got-crunched-in-thursday-s-rout/ar-AA2gQNHz",
+    "source": "MarketWatch on MSN"
+   }
+  },
+  {
+   "pid": "pf0542a331c",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 4,
+   "article": {
+    "titre": "Une nouvelle vague d’alertes à la bombe vise des vols commerciaux en Europe ainsi que des médias",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>Au moins vingt vols, principalement exploités par des compagnies à bas coût, avaient déjà été visés jeudi, après plusieurs fausses alertes en début de semaine.</p>",
+    "resume": "<p>Brève à développer. Source : Le Monde Économie.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "Le Monde Économie",
+    "url": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Une nouvelle vague d’alertes à la bombe vise des vols commerciaux en Europe ainsi que des médias",
+    "url": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
+    "source": "Le Monde Économie"
+   }
+  },
+  {
+   "pid": "pbb4617c609",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 4,
+   "article": {
+    "titre": "Frigos de supermarchés piratés : face à la multiplication des attaques, l’Europe sonne l’alerte",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Les cyberattaques contre les frigos prennent une dimension européenne. Après les compromissions signalées en France en octobre dernier, des incidents ont touché les installations frigorifiques de comm ...</p>",
+    "resume": "<p>Brève à développer. Source : L'Usine Digitale.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "L'Usine Digitale",
+    "url": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-de-supermarches-pirates-face-a-la-multiplication-des-attaques-leurope-sonne-lalerte.AUI23MIM3RFKLM74OKGAU4REPU.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Frigos de supermarchés piratés : face à la multiplication des attaques, l’Europe sonne l’alerte",
+    "url": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-de-supermarches-pirates-face-a-la-multiplication-des-attaques-leurope-sonne-lalerte.AUI23MIM3RFKLM74OKGAU4REPU.html",
+    "source": "L'Usine Digitale"
+   }
+  },
+  {
+   "pid": "p5ae5a624b2",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 7,
+   "article": {
+    "titre": "Vos données personnelles ont fuité ? Surtout, ne payez pas ces sites pour les effacer",
+    "kicker": "Fuite de données",
+    "intro": "<p>BrixHub, SnusBase, Reacher, LeakCheck ou encore DeHashed : de nouveaux moteurs de recherche permettent de retrouver des données personnelles issues de piratages informatiques. Que Choisir alerte sur ...</p>",
+    "resume": "<p>Brève à développer. Source : Univers Freebox.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 4,
+    "source": "Univers Freebox",
+    "url": "https://www.universfreebox.com/article/598449/vos-donnees-personnelles-ont-fuite-surtout-ne-payez-pas-ces-sites-pour-les-effacer",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Vos données personnelles ont fuité ? Surtout, ne payez pas ces sites pour les effacer",
+    "url": "https://www.universfreebox.com/article/598449/vos-donnees-personnelles-ont-fuite-surtout-ne-payez-pas-ces-sites-pour-les-effacer",
+    "source": "Univers Freebox"
+   }
+  },
+  {
+   "pid": "pe937bad49a",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 5,
+   "article": {
+    "titre": "« Le grand danger serait une vision de la recherche mathématique cantonnée à sa partie la plus vulnérable à l’IA »",
+    "kicker": "Vulnérabilité / zero-day",
+    "intro": "<p>En réduisant le domaine aux seuls problèmes que l’intelligence artificielle sait résoudre, c’est le travail des chercheurs, à la croisée des disciplines, qui est menacé, alertent les mathématiciens Stéphane Jaffard et Yves Meyer, dans une tribune au « Monde ».</p>",
+    "resume": "<p>Brève à développer. Source : Le Monde Pixels.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 4,
+    "source": "Le Monde Pixels",
+    "url": "https://www.lemonde.fr/sciences/article/2026/11/05/le-grand-danger-serait-une-vision-de-la-recherche-mathematique-cantonnee-a-sa-partie-la-plus-vulnerable-a-l-ia_6806850_1650684.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "« Le grand danger serait une vision de la recherche mathématique cantonnée à sa partie la plus vulnérable à l’IA »",
+    "url": "https://www.lemonde.fr/sciences/article/2026/11/05/le-grand-danger-serait-une-vision-de-la-recherche-mathematique-cantonnee-a-sa-partie-la-plus-vulnerable-a-l-ia_6806850_1650684.html",
+    "source": "Le Monde Pixels"
+   }
+  },
+  {
+   "pid": "pfadeef4710",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 4,
+   "article": {
+    "titre": "[Point de vue] Données volées : changer de nom, de prénom ou d’identifiant pour se protéger ?",
+    "kicker": "Fuite de données",
+    "intro": "<p>Les fuites de données de 2024 à 2026 ont exposé l’identité civile de dizaines de millions de personnes, qui ne peuvent ni la « renouveler » ni refuser de la confier. La victime peut-elle se protéger e ...</p>",
+    "resume": "<p>Brève à développer. Source : Village de la Justice.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 4,
+    "source": "Village de la Justice",
+    "url": "https://www.village-justice.com/articles/donnees-volees-changer-nom-prenom-identifiant-pour-proteger,59870.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "[Point de vue] Données volées : changer de nom, de prénom ou d’identifiant pour se protéger ?",
+    "url": "https://www.village-justice.com/articles/donnees-volees-changer-nom-prenom-identifiant-pour-proteger,59870.html",
+    "source": "Village de la Justice"
+   }
+  },
+  {
+   "pid": "p1d5d3c0c9e",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 3,
+   "article": {
+    "titre": "Des milliards de données en fuite : comment BrixHub & co mettent les femmes en danger",
+    "kicker": "Fuite de données",
+    "intro": "<p>Des plateformes telles que BrixHub agrègent et rendent accessibles en quelques clics des milliards de données personnelles volées sur des sites aussi bien privés que publics. Des associations ...</p>",
+    "resume": "<p>Brève à développer. Source : France 24.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 4,
+    "source": "France 24",
+    "url": "https://www.france24.com/fr/europe/20261027-milliards-donn%C3%A9es-fuite-comment-brixhub-co-mettent-femmes-danger",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Des milliards de données en fuite : comment BrixHub & co mettent les femmes en danger",
+    "url": "https://www.france24.com/fr/europe/20261027-milliards-donn%C3%A9es-fuite-comment-brixhub-co-mettent-femmes-danger",
+    "source": "France 24"
+   }
+  },
+  {
+   "pid": "p02697b8459",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 2,
+   "article": {
+    "titre": "Midterms : l’agence US chargée de la cybersécurité n’en a plus rien à carrer des élections",
+    "kicker": "",
+    "intro": "<p>L’administration Trump a licencié un tiers des employés de l’agence fédérale chargée de la cybersécurité, et systématiquement démantelé ...</p>",
+    "resume": "<p>Brève à développer. Source : Next.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 4,
+    "source": "Next",
+    "url": "https://next.ink/265398/midterms-lagence-us-chargee-de-la-cybersecurite-nen-a-plus-rien-a-carrer-des-elections/",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Midterms : l’agence US chargée de la cybersécurité n’en a plus rien à carrer des élections",
+    "url": "https://next.ink/265398/midterms-lagence-us-chargee-de-la-cybersecurite-nen-a-plus-rien-a-carrer-des-elections/",
+    "source": "Next"
+   }
+  },
+  {
+   "pid": "p0c79319f97",
+   "rubrique": 7,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 0,
+   "article": {
+    "titre": "Le phishing",
+    "kicker": "",
+    "intro": "<p>Le phishing</p>",
+    "resume": "<p>Brève à développer. Source : la source.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 7,
+    "source": "",
+    "url": "",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Le phishing",
+    "url": "notion:Le phishing",
+    "source": ""
+   }
+  },
+  {
+   "pid": "p54297cb546",
+   "rubrique": 7,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 0,
+   "article": {
+    "titre": "Le rançongiciel (ransomware)",
+    "kicker": "",
+    "intro": "<p>Le rançongiciel (ransomware)</p>",
+    "resume": "<p>Brève à développer. Source : la source.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 7,
+    "source": "",
+    "url": "",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Le rançongiciel (ransomware)",
+    "url": "notion:Le rançongiciel (ransomware)",
+    "source": ""
+   }
+  },
+  {
+   "pid": "p8976f45a52",
+   "rubrique": 7,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 0,
+   "article": {
+    "titre": "L'authentification multifacteur (MFA)",
+    "kicker": "",
+    "intro": "<p>L'authentification multifacteur (MFA)</p>",
+    "resume": "<p>Brève à développer. Source : la source.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 7,
+    "source": "",
+    "url": "",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "L'authentification multifacteur (MFA)",
+    "url": "notion:L'authentification multifacteur (MFA)",
+    "source": ""
+   }
+  },
+  {
+   "pid": "p648d834170",
+   "rubrique": 7,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 0,
+   "article": {
+    "titre": "Le Zero Trust",
+    "kicker": "",
+    "intro": "<p>Le Zero Trust</p>",
+    "resume": "<p>Brève à développer. Source : la source.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 7,
+    "source": "",
+    "url": "",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Le Zero Trust",
+    "url": "notion:Le Zero Trust",
+    "source": ""
+   }
+  },
+  {
+   "pid": "p9339ad2bf9",
+   "rubrique": 7,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 0,
+   "article": {
+    "titre": "Le SIEM",
+    "kicker": "",
+    "intro": "<p>Le SIEM</p>",
+    "resume": "<p>Brève à développer. Source : la source.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 7,
+    "source": "",
+    "url": "",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Le SIEM",
+    "url": "notion:Le SIEM",
+    "source": ""
+   }
+  },
+  {
+   "pid": "p4e499912cc",
+   "rubrique": 7,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 0,
+   "article": {
+    "titre": "Le SOC",
+    "kicker": "",
+    "intro": "<p>Le SOC</p>",
+    "resume": "<p>Brève à développer. Source : la source.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 7,
+    "source": "",
+    "url": "",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Le SOC",
+    "url": "notion:Le SOC",
+    "source": ""
+   }
+  },
+  {
+   "pid": "p27d340fc3b",
+   "rubrique": 7,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 0,
+   "article": {
+    "titre": "Le EDR et le XDR",
+    "kicker": "",
+    "intro": "<p>Le EDR et le XDR</p>",
+    "resume": "<p>Brève à développer. Source : la source.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 7,
+    "source": "",
+    "url": "",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Le EDR et le XDR",
+    "url": "notion:Le EDR et le XDR",
+    "source": ""
+   }
+  }
+ ]
+}
