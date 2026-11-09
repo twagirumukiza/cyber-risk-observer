@@ -62,7 +62,7 @@
    "sanscle": true,
    "gratuit": true,
    "modele": "openai",
-   "actif": false
+   "actif": true
   }
  },
  "ordre": [
