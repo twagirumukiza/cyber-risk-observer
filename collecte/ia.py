@@ -128,7 +128,7 @@ def completer(p, modele, systeme, consigne):
     return (rep.get("choices") or [{}])[0].get("message", {}).get("content") or ""
 
 
-def appeler(systeme, consigne, cfg, rub=None):
+def appeler(systeme, consigne, cfg, rub=None, valider=None):
     """Essaie les fournisseurs dans l'ordre ; passe au suivant en cas d'erreur (quota, panne…). -> (texte, id, modèle)"""
     erreurs = []
     rr = cfg["rubriques"].get(str(rub)) or {}
@@ -143,6 +143,8 @@ def appeler(systeme, consigne, cfg, rub=None):
             t = completer(p, modele, systeme, consigne)
             if not t.strip():
                 raise ValueError("réponse vide")
+            if valider:
+                valider(t)             # ex. JSON exploitable ; sinon on passe au fournisseur suivant
             USAGE.setdefault(cle_usage, {"n": 0, "e": 0})["n"] += 1
             return t, k, modele
         except Exception as e:
@@ -152,8 +154,14 @@ def appeler(systeme, consigne, cfg, rub=None):
 
 
 def extraire_json(t):
+    t = re.sub(r"```(?:json)?", "", str(t))
     a, b = t.find("{"), t.rfind("}")
-    return json.loads(t[a:b + 1])
+    if a < 0 or b <= a:
+        raise ValueError("réponse sans JSON : « " + re.sub(r"\s+", " ", t.strip())[:100] + " »")
+    try:
+        return json.loads(t[a:b + 1])
+    except ValueError as e:
+        raise ValueError("JSON invalide (" + str(e)[:60] + ")")
 
 
 def modeles(p):

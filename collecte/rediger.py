@@ -94,7 +94,7 @@ def main():
     consigne = (f"Source : {src['source']}\nTitre de la source : {src['titre']}\nDate : {src['date']}\nExtrait du flux : {src['resume']}\n\n"
                 f"Texte de la page (peut être incomplet ou absent) :\n{page or '(indisponible)'}\n\nProduis l'objet JSON demandé.")
     try:
-        texte, f, m = ia.appeler(cfg["consignes"].get("detail") or SYSTEME, consigne, cfg, rub)
+        texte, f, m = ia.appeler(cfg["consignes"].get("detail") or SYSTEME, consigne, cfg, rub, valider=ia.extraire_json)
         rep = ia.extraire_json(texte)
         intro, resume = P.court(rep.get("intro"), 340), P.nettoyer_html(rep.get("resume"), 9000)
         if not intro or not resume:

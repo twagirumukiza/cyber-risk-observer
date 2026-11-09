@@ -86,7 +86,7 @@ def texte_page(url):
 
 def appeler_ia(systeme, consigne, rub=None):
     """-> (objet JSON, identifiant du fournisseur, modèle). Repli automatique sur le fournisseur suivant."""
-    t, f, m = ia.appeler(systeme, consigne, CFG, rub)
+    t, f, m = ia.appeler(systeme, consigne, CFG, rub, valider=ia.extraire_json)
     return ia.extraire_json(t), f, m
 
 
