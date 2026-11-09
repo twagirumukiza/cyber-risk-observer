@@ -1,9 +1,9 @@
 {
- "maj": "2026-11-09T04:23:16Z",
+ "maj": "2026-11-09T13:21:27Z",
  "ia": false,
  "usage": {},
  "manque": {
-  "Société": 2
+  "Société": 1
  },
  "erreurs": [],
  "vus": [],
@@ -1086,6 +1086,33 @@
     "titre": "Le EDR et le XDR",
     "url": "notion:Le EDR et le XDR",
     "source": ""
+   }
+  },
+  {
+   "pid": "p4cedcd76c3",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-09",
+   "score": 5,
+   "article": {
+    "titre": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées.</p>",
+    "resume": "<p>Brève à développer. Source : Le Monde Pixels.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 4,
+    "source": "Le Monde Pixels",
+    "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+    "date": "2026-11-09",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+    "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+    "source": "Le Monde Pixels"
    }
   }
  ]
