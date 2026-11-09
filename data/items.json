@@ -902,7 +902,7 @@
   "intro": "",
   "stIntro": "",
   "rang": null,
-  "une": 1,
+  "une": 0,
   "uneR": 1,
   "ordre": [
    "info",
@@ -2331,7 +2331,7 @@
   "intro": "Les câbles sous-marins constituent l'une des infrastructures les plus stratégiques, mais aussi les moins visibles, de notre monde connecté. Ils transportent l'essentiel des communications internationales et permettent le fonctionnement quotidien d'Internet, des services financiers, du cloud et des échanges numériques entre continents.<p>Derrière cette infrastructure physique se joue désormais un enjeu géopolitique majeur : <b>le contrôle, la protection et la sécurisation des routes mondiales de données.</b></p>",
   "stIntro": "",
   "rang": null,
-  "une": 2,
+  "une": 0,
   "uneR": 0,
   "ordre": [],
   "imageCarte": "",
@@ -3730,7 +3730,7 @@
   "intro": "<p>Le 9 octobre 2026, la primaire de la gauche socialiste et démocratique connaît d’importantes difficultés techniques dès l’ouverture de sa plateforme de vote électronique. Près de 140 000 électeurs sont appelés à départager cinq candidats : Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel.</p><p>Dès les premières heures, les organisateurs dénoncent une cyberattaque reposant sur un afflux massif de connexions automatisées, générées par des bots. Ces connexions auraient saturé les capacités de la plateforme et empêché une partie des électeurs d’accéder normalement au scrutin.</p><p>Face à la situation, les organisateurs décident de prolonger le vote jusqu’au dimanche 11 octobre à 18 heures. Ils affirment parallèlement que l’intégrité des suffrages enregistrés n’a pas été compromise.</p><p>Mais l’affaire prend une autre dimension le 3 novembre. <b>Les Dernières Nouvelles d’Alsace</b>, reprenant des informations du <b>Canard enchaîné</b>, rapportent que les difficultés pourraient finalement résulter d’un mauvais dimensionnement de la plateforme et d’une sous-estimation du nombre de votants attendus.</p><p>Les organisateurs contestent cette interprétation dans un communiqué publié le même jour. Ils maintiennent que la plateforme a subi des tentatives massives de connexions malveillantes automatisées et affirment que des contrôles d’intégrité ont été effectués sous la supervision d’un expert indépendant. À ce stade, les informations publiques ne permettent pas de trancher définitivement entre les différentes explications.</p><p>Pourtant, une question supplémentaire mérite d’être posée, et elle est peut-être plus importante encore que la qualification technique de l’incident :</p><p><b>Les perturbations informatiques ont-elles pu favoriser ou désavantager un candidat ? Et si oui, dans quelle mesure ont-elles pu influencer le résultat final ?</b></p><p>Cette interrogation conduit à dépasser le seul cadre de la cybersécurité pour aborder celui de la gouvernance, de la gestion des risques et de la sincérité du scrutin.</p>",
   "stIntro": "",
   "rang": null,
-  "une": 3,
+  "une": 0,
   "uneR": 0,
   "ordre": [
    "info",
