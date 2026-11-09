@@ -1,5 +1,103 @@
 [
  {
+  "id": "19df3c9cef04",
+  "source": "ZATAZ",
+  "rubrique": 1,
+  "titre": "Cybersécurité : la CNIL sanctionne dix collectivités",
+  "url": "https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/",
+  "date": "2026-11-09",
+  "resume": "La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "NIS2",
+   "RGPD",
+   "Institutions"
+  ],
+  "score": 16
+ },
+ {
+  "id": "a4fa5d886e28",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-102895 – GPUStack GPUStack : GPUStack Improper Authentication Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
+  "date": "2026-11-09",
+  "resume": "GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and cloud-provider secrets, and code execution through POST /v2/inference-backends/from-yaml.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité",
+   "Cloud"
+  ],
+  "score": 13
+ },
+ {
+  "id": "52a8685b69f8",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-123158 – OpenBSD OpenSSH : OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
+  "date": "2026-11-09",
+  "resume": "OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "0955fa7f8eb5",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-116779 – SignalWire FreeSwitch : SignalWire FreeSwitch Code Injection Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
+  "date": "2026-11-09",
+  "resume": "SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "2464fd9dd158",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-123218 – IBM Aspera Faspex : IBM Aspera Faspex Incorrect Authorization Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
+  "date": "2026-11-09",
+  "resume": "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
   "id": "3d5dfb277e1d",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -18,6 +116,230 @@
    "Identité & accès"
   ],
   "score": 10
+ },
+ {
+  "id": "c64dae346cf2",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits Synology (09 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1482/",
+  "date": "2026-11-09",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "f194c4e78c51",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Sonicwall SonicOS (09 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1483/",
+  "date": "2026-11-09",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Sonicwall SonicOS. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Sonicwall indique que la...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "2e950755e947",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Xen (09 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1485/",
+  "date": "2026-11-09",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "7bdf0c6dc5dc",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+  "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+  "date": "2026-11-09",
+  "resume": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant",
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Logiciel malveillant",
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "score": 10
+ },
+ {
+  "id": "2c42fb617031",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+  "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+  "date": "2026-11-09",
+  "resume": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "score": 10
+ },
+ {
+  "id": "8d206c962ee8",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+  "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+  "date": "2026-11-09",
+  "resume": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Cloud"
+  ],
+  "score": 10
+ },
+ {
+  "id": "d7669d6db99e",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+  "date": "2026-11-09",
+  "resume": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "07350cea0565",
+  "source": "Rezo Nòdwès",
+  "rubrique": 3,
+  "titre": "C’est quoi un rançongiciel, et pourquoi une bonne sauvegarde est la meilleure défense",
+  "url": "https://rezonodwes.com/2026/11/cest-quoi-un-rancongiciel-et-pourquoi-une-bonne-sauvegarde-est-la-meilleure-defense/",
+  "date": "2026-11-09",
+  "resume": "Les nouvelles rapportent régulièrement des attaques contre des hôpitaux, des municipalités ou des entreprises, dont les systèmes se retrouvent soudainement paralysés, avec un message exigeant de l'arg ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Sauvegarde"
+  ],
+  "score": 10
+ },
+ {
+  "id": "8f6133c5e5ae",
+  "source": "CISA avis",
+  "rubrique": 2,
+  "titre": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+  "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+  "date": "2026-11-09",
+  "resume": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability&nbsp; CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability&nbsp; CVE-2026-123218 IBM Aspe",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 9
+ },
+ {
+  "id": "bd73ebc7b854",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+  "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+  "date": "2026-11-09",
+  "resume": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed. Qubole, a data lake platform owned by Idera,",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "Cloud"
+  ],
+  "score": 9
+ },
+ {
+  "id": "82ab336fed5a",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+  "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+  "date": "2026-11-09",
+  "resume": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "GRC",
+   "IA"
+  ],
+  "score": 9
  },
  {
   "id": "72dc008bf0b5",
@@ -59,6 +381,155 @@
   "score": 8
  },
  {
+  "id": "8ac3db3ae81b",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Vulnérabilité dans Moodle (09 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1481/",
+  "date": "2026-11-09",
+  "resume": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "9e688036a28d",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Apache HTTP Server (09 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1484/",
+  "date": "2026-11-09",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "1cb711d954ed",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits VMware (09 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1486/",
+  "date": "2026-11-09",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "7cd796fba406",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+  "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+  "date": "2026-11-09",
+  "resume": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Logiciel malveillant",
+   "Cyberattaque"
+  ],
+  "score": 8
+ },
+ {
+  "id": "094609239735",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Binance denies data breach after alleged ShinyHunters claims",
+  "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+  "date": "2026-11-09",
+  "resume": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
+  "id": "47fb58a628fd",
+  "source": "BleepingComputer",
+  "rubrique": 1,
+  "titre": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+  "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+  "date": "2026-11-09",
+  "resume": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "score": 8
+ },
+ {
+  "id": "d60298ca4969",
+  "source": "Solutions Numériques",
+  "rubrique": 0,
+  "titre": "NIS2 : la loi Résilience revient à l’Assemblée, deux ans après l’échéance européenne",
+  "url": "https://www.solutions-numeriques.com/nis2-la-loi-resilience-revient-a-lassemblee-deux-ans-apres-lecheance-europeenne/",
+  "date": "2026-11-09",
+  "resume": "Après des mois d’attente, les députés reprennent ce 9 novembre l’examen du projet de loi Résilience, destiné notamment à transposer la directive européenne NIS2. Quelque 15 000 organisations pourraien ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "NIS2"
+  ],
+  "score": 8
+ },
+ {
+  "id": "39500a3408d0",
+  "source": "Washington State Office of the Attorney General",
+  "rubrique": 2,
+  "titre": "AG’s annual Data Breach Report recommends stronger protections for Washingtonians’ personal information",
+  "url": "https://www.atg.wa.gov/news/news-releases/ag-s-annual-data-breach-report-recommends-stronger-protections-washingtonians",
+  "date": "2026-11-09",
+  "resume": "“Every day, Washingtonians entrust their personal information to private companies and public institutions. Their data should be secured and not shared without their consent,” said Attorney General ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
   "id": "0ee796a1cf6a",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -71,6 +542,63 @@
   "menaces": [],
   "tags": [
    "DORA"
+  ],
+  "score": 7
+ },
+ {
+  "id": "073e03d22dae",
+  "source": "BleepingComputer",
+  "rubrique": 1,
+  "titre": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+  "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+  "date": "2026-11-09",
+  "resume": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant",
+   "Cloud"
+  ],
+  "score": 7
+ },
+ {
+  "id": "20da8c0f1105",
+  "source": "frenchbreaches",
+  "rubrique": 2,
+  "titre": "Le géant français de l'affichage publicitaire Next One paralysé par une cyberattaque",
+  "url": "https://frenchbreaches.com/blog/le-geant-francais-de-laffichage-publicitaire-next-one-paralyse-par-une-cyberattaque",
+  "date": "2026-11-09",
+  "resume": "Le spécialiste français de l'affichage publicitaire Next One paralysé par une cyberattaque. Même ses sauvegardes ont été touchées !",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque",
+   "Sauvegarde"
+  ],
+  "score": 7
+ },
+ {
+  "id": "a037fef67890",
+  "source": "Clubic via MSN",
+  "rubrique": 1,
+  "titre": "Un hébergeur russe doit reconstruire son cloud de zéro après une attaque par wiper, mais c'est quoi au juste ?",
+  "url": "https://www.msn.com/fr-fr/actualite/other/un-h%C3%A9bergeur-russe-doit-reconstruire-son-cloud-de-z%C3%A9ro-apr%C3%A8s-une-attaque-par-wiper-mais-cest-quoi-au-juste/ar-AA2h5nig",
+  "date": "2026-11-09",
+  "resume": "En une nuit, un pirate a effacé toutes les données du cloud de Beget, l’un des plus gros hébergeurs russes, avec un logiciel conçu pour détruire et non pour réclamer une rançon, et une partie des sauv ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant",
+   "Cloud"
   ],
   "score": 7
  },
@@ -111,6 +639,168 @@
   "score": 6
  },
  {
+  "id": "c5154d08fadf",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+  "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+  "date": "2026-11-09",
+  "resume": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "a02fb0af2916",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+  "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+  "date": "2026-11-09",
+  "resume": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week. Web3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 6
+ },
+ {
+  "id": "e89c57c6d564",
+  "source": "BleepingComputer",
+  "rubrique": 1,
+  "titre": "France blames Iranian hackers for supermarket attacks that sparked fires",
+  "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+  "date": "2026-11-09",
+  "resume": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "83c125a28e2a",
+  "source": "ZATAZ",
+  "rubrique": 1,
+  "titre": "Cyberattaque des frigos : la piste iranienne se précise",
+  "url": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
+  "date": "2026-11-09",
+  "resume": "Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "07aa0c8de75e",
+  "source": "ZATAZ",
+  "rubrique": 1,
+  "titre": "Nvidia : l’espionnage par la séduction et le social engineering",
+  "url": "https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/",
+  "date": "2026-11-09",
+  "resume": "Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Espionnage / acteur étatique"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique"
+  ],
+  "score": 6
+ },
+ {
+  "id": "7aad29683caf",
+  "source": "L'Express",
+  "rubrique": 3,
+  "titre": "Cyberattaque contre des frigos de supermarchés : la France pointe du doigt l'Iran",
+  "url": "https://www.lexpress.fr/monde/proche-moyen-orient/cyberattaque-contre-des-frigos-de-supermarches-la-france-pointe-du-doigt-liran-KFV2UIYCJ5GJDEX4VNBHINE4UU/",
+  "date": "2026-11-09",
+  "resume": "Le parquet de Paris a ouvert lundi une information judiciaire après la cyberattaque ayant visé quelque 700 supermarchés français en octobre. Trois responsables d'une unité liée aux Gardiens de la révo",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "3b862f31938c",
+  "source": "Actu.fr",
+  "rubrique": 0,
+  "titre": "Cyberattaque à Chambourcy : la mairie obligée de travailler à l’ancienne",
+  "url": "https://actu.fr/ile-de-france/chambourcy_78133/cyberattaque-a-chambourcy-la-mairie-obligee-de-travailler-a-lancienne_65035197.html",
+  "date": "2026-11-09",
+  "resume": "La mairie de Chambourcy (Yvelines) a été victime d’une cyberattaque. En attendant d’évaluer l’ampleur des données compromises, la Ville appelle ses administrés à la vigilance.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "b414977d939d",
+  "source": "Hoodline",
+  "rubrique": 2,
+  "titre": "Vanderbilt Cyberattack Hits Campus Systems as Hackers Claim Stolen Student Data",
+  "url": "https://hoodline.com/2026/11/vanderbilt-cyberattack-hits-campus-systems-as-hackers-claim-stolen-student-data/",
+  "date": "2026-11-09",
+  "resume": "Vanderbilt is fighting an active cyberattack - and a hacker group is claiming it stole over a million Social Security numbers.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "a82c8af31436",
+  "source": "Markets Insider",
+  "rubrique": 5,
+  "titre": "Acronis Debuts First TRU Cyber Pulse Report, Mapping Modern Cyber Threats in 2026 and Beyond",
+  "url": "https://markets.businessinsider.com/news/stocks/acronis-debuts-first-tru-cyber-pulse-report-mapping-modern-cyber-threats-in-2026-and-beyond-1036736867",
+  "date": "2026-11-09",
+  "resume": "The inaugural TRU Cyber Pulse report synthesizes findings from investigations into significant cyber incidents, malware campaigns, and threat actors to provide a comprehensive overview of the 2026 ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant"
+  ],
+  "score": 6
+ },
+ {
   "id": "3e31a53a7042",
   "source": "Le Monde Pixels",
   "rubrique": 4,
@@ -118,6 +808,78 @@
   "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
   "date": "2026-11-09",
   "resume": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
+  "id": "da0950b6db31",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Guerre en Ukraine : 400 000 morts russes, le bilan que Vladimir Poutine voulait cacher",
+  "url": "https://www.lemonde.fr/international/article/2026/11/09/le-bilan-que-vladimir-poutine-voulait-cacher-400-000-morts-russes-dans-la-guerre-en-ukraine_6808679_3210.html",
+  "date": "2026-11-09",
+  "resume": "Des hackeurs biélorusses et ukrainiens ont réussi à infiltrer les ordinateurs de Rosstat, l’agence russe des statistiques. Leurs chiffres, publiés par Bloomberg, prennent en compte les certificats de décès liés à l’« opération militaire spéciale ». Un bilan qui sous-estime l’ampleur réelle des pertes.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
+  "id": "716dbe4fde4a",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Au Mali, l’emprise croissante des orpailleurs chinois : « Ils arrosent tout le monde, du chef de village au sommet des ministères »",
+  "url": "https://www.lemonde.fr/afrique/article/2026/11/09/au-mali-l-emprise-croissante-des-orpailleurs-chinois-ils-arrosent-tout-le-monde-du-chef-de-village-au-sommet-des-ministeres_6808676_3212.html",
+  "date": "2026-11-09",
+  "resume": "Des centaines de ressortissants chinois exploitent des mines d’or maliennes de manière semi-industrielle et souvent illégale. Face à ce phénomène, les autorités tentent de lutter contre un système parallèle bien rodé.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 5
+ },
+ {
+  "id": "1b5763a835e9",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/09/apres-les-concerts-de-celine-dion-le-syndicat-des-entrepreneurs-du-spectacle-vivant-attaque-les-vendeurs-de-faux-billets-et-critique-l-etat_6808682_3234.html",
+  "date": "2026-11-09",
+  "resume": "La principale organisation du secteur, Ekhoscènes, multiplie les actions judiciaires contre « les escrocs » qui ont arnaqué des milliers de fans. Elle s’insurge également contre l’Etat, qui cherche à récupérer quelques millions d’euros de taxes.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Hameçonnage / fraude"
+  ],
+  "tags": [
+   "Hameçonnage / fraude"
+  ],
+  "score": 5
+ },
+ {
+  "id": "69bf56b5b041",
+  "source": "Le Monde Pixels",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : la justice ouvre une enquête contre un groupe iranien, Jean-Noël Barrot souhaite « des sanctions à l’échelle européenne »",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/09/cyberattaque-des-refrigerateurs-de-supermarche-la-justice-ouvre-une-enquete-contre-un-groupe-iranien-jean-noel-barrot-souhaite-des-sanctions-a-l-echelle-europeenne_6808673_4408996.html",
+  "date": "2026-11-09",
+  "resume": "Plus de 700 magasins avaient été ciblés en octobre. Les pirates avaient visé les systèmes de dégivrage, afin de faire monter la température des appareils.",
   "criticite": "",
   "poids": 0,
   "menaces": [
@@ -155,6 +917,86 @@
   "menaces": [],
   "tags": [],
   "score": 4
+ },
+ {
+  "id": "b9b072a1ed15",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "York University breach exposed personal information dating to 2007",
+  "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+  "date": "2026-11-09",
+  "resume": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "7ef80ee6e03a",
+  "source": "BleepingComputer",
+  "rubrique": 1,
+  "titre": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+  "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+  "date": "2026-11-09",
+  "resume": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "53877e7ba1bf",
+  "source": "BleepingComputer",
+  "rubrique": 1,
+  "titre": "Ukraine dismantles crypto scam network that stole €4.3 million",
+  "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+  "date": "2026-11-09",
+  "resume": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "e707fa4e0542",
+  "source": "Global Security Mag",
+  "rubrique": 5,
+  "titre": "Cybersécurité : Avec son premier rapport TRU Cyber Pulse 2026, Acronis cartographie les menaces actuelles et futures",
+  "url": "https://www.globalsecuritymag.fr/cybersecurite-avec-son-premier-rapport-tru-cyber-pulse-2026-acronis.html",
+  "date": "2026-11-08",
+  "resume": "Acronis analyse les grandes tendances de la cybercriminalité, les attaques s'appuyant sur l'IA et l'évolution des méthodes des ransomwares à partir des recherches menées au cours de l'année écoulée.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "IA"
+  ],
+  "score": 11
+ },
+ {
+  "id": "1de613bc3c69",
+  "source": "GovInfoSecurity",
+  "rubrique": 2,
+  "titre": "N-able Takes Platform Offline After 33 Zero-Days Drop",
+  "url": "https://www.govinfosecurity.com/n-able-takes-platform-offline-after-33-zero-days-drop-a-33337",
+  "date": "2026-11-08",
+  "resume": "A major security situation is unfolding for N-able after a researcher dropped 33 zero-day vulnerabilities at once for its N-central remote management and monitoring ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
  },
  {
   "id": "5fe720035f19",
@@ -271,6 +1113,20 @@
   "menaces": [],
   "tags": [],
   "score": 4
+ },
+ {
+  "id": "10b39fdf84b3",
+  "source": "adi.dj",
+  "rubrique": 7,
+  "titre": "Menaces numériques : l'ANC restitue à l'Assemblée les enseignements de sa campagne",
+  "url": "https://www.adi.dj/article/139083",
+  "date": "2026-11-08",
+  "resume": "DJIBOUTI, 9 novembre 2026 (#ADI) – L'Assemblée nationale a abrité lundi matin un atelier consacré à la restitution des recommandations issues de la campagne de sensibilisation à la cybersécurité, cond ...",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [],
+  "tags": [],
+  "score": 3
  },
  {
   "id": "ca1a9396bb65",
@@ -1182,6 +2038,24 @@
   "score": 5
  },
  {
+  "id": "263229d2e66d",
+  "source": "RSE Magazine via MSN",
+  "rubrique": 0,
+  "titre": "États-Unis : alerte fédérale sur les cyberattaques de réfrigération",
+  "url": "https://www.msn.com/fr-fr/actualite/other/%C3%A9tats-unis-alerte-f%C3%A9d%C3%A9rale-sur-les-cyberattaques-de-r%C3%A9frig%C3%A9ration/ar-AA2gSUqn",
+  "date": "2026-11-06",
+  "resume": "Cinq agences fédérales américaines ont émis une alerte conjointe le 5 novembre 2026 sur les cyberattaques visant les systèmes de réfrigération industrielle. Des incidents en Europe et aux États-Unis r ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
   "id": "8ef0a1c8dd80",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -1937,104 +2811,6 @@
   "tags": [],
   "score": 3,
   "menaces": []
- },
- {
-  "id": "96a1ace9f58c",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-  "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-  "date": "2026-11-05",
-  "resume": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 2,
-  "menaces": []
- },
- {
-  "id": "da77af0f435f",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-  "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-  "date": "2026-11-05",
-  "resume": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 2,
-  "menaces": []
- },
- {
-  "id": "49bf8b366c47",
-  "source": "Krebs on Security",
-  "rubrique": 1,
-  "titre": "Want to Rent an Internet Address at the White House?",
-  "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-  "date": "2026-11-05",
-  "resume": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 2,
-  "menaces": []
- },
- {
-  "id": "59043a855535",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-  "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-  "date": "2026-11-05",
-  "resume": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 2,
-  "menaces": []
- },
- {
-  "id": "3fe484f436f5",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-  "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-  "date": "2026-11-05",
-  "resume": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 2,
-  "menaces": []
- },
- {
-  "id": "58f4053a1bb9",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-  "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-  "date": "2026-11-05",
-  "resume": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 2,
-  "menaces": []
- },
- {
-  "id": "d6b078f40796",
-  "source": "ARN",
-  "rubrique": 5,
-  "titre": "Report: Organisational silos are becoming the biggest barrier to cyber resilience",
-  "url": "https://www.arnnet.com.au/article/4245389/report-organisational-silos-are-becoming-the-biggest-barrier-to-cyber-resilience.html",
-  "date": "2026-11-05",
-  "resume": "Australian organisations are pouring money into cybersecurity but many are failing to see improved outcomes, with new research revealing that internal organisational friction, rather than technology ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
  },
  {
   "id": "0fd87eaf33b4",
@@ -2842,46 +3618,22 @@
   "score": 4
  },
  {
-  "id": "d013e25bf406",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-  "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+  "id": "4befc082fb45",
+  "source": "France Info",
+  "rubrique": 4,
+  "titre": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026",
+  "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
   "date": "2026-11-04",
-  "resume": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an advisory&nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
+  "resume": "Ces fausses informations sont venues en majorité du camp républicain mais parfois aussi du camp démocrate, ainsi que de puissances étrangères.",
   "criticite": "",
   "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "ffe69d986f99",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Crédit Mutuel Arkéa : 133 millions de dollars détournés ?",
-  "url": "https://www.zataz.com/credit-mutuel-arkea-133-millions-de-dollars-detournes/",
-  "date": "2026-11-04",
-  "resume": "Fortuneo au cœur de la fraude Arkéa ? 133 millions de dollars détournés, des virements suspects et un blanchiment crypto.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "232bc399c6f4",
-  "source": "ZATAZ",
-  "rubrique": 1,
-  "titre": "TikTok, une passerelle vers les casinos illégaux ?",
-  "url": "https://www.zataz.com/tiktok-une-passerelle-vers-les-casinos-illegaux/",
-  "date": "2026-11-04",
-  "resume": "Sur TikTok, des jeux vidéo peuvent mener à des casinos illégaux. Analyse des redirections, risques et sanctions.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
+  "menaces": [
+   "Hameçonnage / fraude"
+  ],
+  "tags": [
+   "Hameçonnage / fraude"
+  ],
+  "score": 4
  },
  {
   "id": "310fe7a6e4c3",
@@ -3507,62 +4259,6 @@
   "tags": [],
   "score": 3,
   "menaces": []
- },
- {
-  "id": "9ca07b46843b",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-  "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-  "date": "2026-11-03",
-  "resume": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "36d509a3e525",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-  "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-  "date": "2026-11-03",
-  "resume": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,&nbsp",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "705d14ce1750",
-  "source": "Malay Mail",
-  "rubrique": 1,
-  "titre": "Malaysia needs a cyber warfare legal framework for true cyber resilience — Yusmadi Yusoff",
-  "url": "https://www.malaymail.com/news/what-you-think/2026/11/03/malaysia-needs-a-cyber-warfare-legal-framework-for-true-cyber-resilience-yusmadi-yusoff/241813",
-  "date": "2026-11-03",
-  "resume": "Malaysia has a law to protect its critical systems. It has no law to answer when another state attacks them. Today's warning from the Prime Minister shows ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
- },
- {
-  "id": "617025cca017",
-  "source": "Next",
-  "rubrique": 4,
-  "titre": "Midterms : l’agence US chargée de la cybersécurité n’en a plus rien à carrer des élections",
-  "url": "https://next.ink/265398/midterms-lagence-us-chargee-de-la-cybersecurite-nen-a-plus-rien-a-carrer-des-elections/",
-  "date": "2026-11-03",
-  "resume": "L’administration Trump a licencié un tiers des employés de l’agence fédérale chargée de la cybersécurité, et systématiquement démantelé ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
  },
  {
   "id": "da9c64b229d1",
@@ -4339,20 +5035,6 @@
   "menaces": []
  },
  {
-  "id": "8b2a804e8a4d",
-  "source": "Business Wire",
-  "rubrique": 5,
-  "titre": "T-Mobile Opens Up on Its Cybersecurity Transformation in New Report",
-  "url": "https://www.businesswire.com/news/home/20261102608714/en/T-Mobile-Opens-Up-on-Its-Cybersecurity-Transformation-in-New-Report",
-  "date": "2026-11-02",
-  "resume": "T-Mobile published Advancing Cybersecurity at T-Mobile, a report on how the company rebuilt its security program and what that work has delivered. T-Mobile is showing its work, including what’s ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 2
- },
- {
   "id": "af6ffe74845e",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -5026,6 +5708,27 @@
   ]
  },
  {
+  "id": "1d478ff841c7",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans WordPress (29 octobre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/",
+  "date": "2026-10-29",
+  "resume": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 7
+ },
+ {
   "id": "dc24dfcaf203",
   "source": "CERT-FR avis",
   "rubrique": 2,
@@ -5628,36 +6331,6 @@
   ]
  },
  {
-  "id": "344b91eb81b3",
-  "source": "Yahoo Finance",
-  "rubrique": 3,
-  "titre": "Katalyst Acquires Bluetowne, Expanding Cybersecurity, Cloud, and Infrastructure Capabilities",
-  "url": "https://finance.yahoo.com/technology/articles/katalyst-acquires-bluetowne-expanding-cybersecurity-130000671.html",
-  "date": "2026-10-26",
-  "resume": "Katalyst, a managed services provider backed by e4n Group, today announced the acquisition of Bluetowne, a Mount Pleasant, South Carolina-based provider of cybersecurity, cloud, data center, ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "Cloud"
-  ],
-  "score": 2
- },
- {
-  "id": "9c1833092da5",
-  "source": "Econostrum via MSN",
-  "rubrique": 3,
-  "titre": "Fuites de données personnelles : 47 organisations belges déjà touchées, les experts tirent la sonnette d’alarme",
-  "url": "https://www.msn.com/fr-be/actualite/other/fuites-de-donn%C3%A9es-personnelles-47-organisations-belges-d%C3%A9j%C3%A0-touch%C3%A9es-les-experts-tirent-la-sonnette-d-alarme/ar-AA2g4Pta",
-  "date": "2026-10-26",
-  "resume": "Les fuites de données personnelles se multiplient en Belgique depuis le début de l’année 2026. Selon une enquête du journal L’Echo, menée avec la société Fox&Fish Cyberdefense, au moins 47 entreprises ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 1
- },
- {
   "id": "b39cd3cbbfb1",
   "source": "The Tech Edvocate",
   "rubrique": 1,
@@ -5693,34 +6366,6 @@
    "Cyberattaque"
   ],
   "score": 3
- },
- {
-  "id": "10b0251915e8",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Chimeraz revendique des fuites visant trois partis français, dont celui du groupe présidentiel",
-  "url": "https://www.zataz.com/chimeraz-revendique-des-fuites-visant-trois-partis-francais/",
-  "date": "2026-10-24",
-  "resume": "Chimeraz revendique des données annoncées comme volées aux partis politiques de Renaissance, LFI et du PCF.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 1
- },
- {
-  "id": "1065140518e1",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "DeepSeek banni des agences fédérales US",
-  "url": "https://www.zataz.com/deepseek-banni-des-agences-federales-civiles-americaines/",
-  "date": "2026-10-24",
-  "resume": "DeepSeek banni des agences fédérales civiles américaines : portée, calendrier et risques pour les données.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 1
  },
  {
   "id": "580394e0c04d",
@@ -6147,18 +6792,40 @@
   "score": 4
  },
  {
-  "id": "68eaa2dc4713",
+  "id": "f24c5287a98c",
   "source": "CISA avis",
   "rubrique": 2,
-  "titre": "Siemens Software Center",
-  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
+  "titre": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
+  "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
   "date": "2026-10-22",
-  "resume": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application. Siemens has released a new version for Siemens Software Center and recomme",
+  "resume": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new version for RUGGEDCOM CROSSBOW Station Access Controller (SAC) and recommends to update to the latest version. The foll",
   "criticite": "",
   "poids": 2,
-  "menaces": [],
-  "tags": [],
-  "score": 2
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 4
+ },
+ {
+  "id": "518f4b814e25",
+  "source": "epochtimes",
+  "rubrique": 3,
+  "titre": "Cyberattaques : faut‑il mettre en place un « contrôle technique cyber » pour les entreprises ?",
+  "url": "https://www.epochtimes.fr/cyberattaques-mettre-en-place-controle-technique-cyber-entreprises-3376354.html",
+  "date": "2026-10-22",
+  "resume": "Une cyberattaque a visé, mi-octobre, des frigos de supermarchés qui ont dû jeter tous leurs produits surgelés, mettant en lumière le fait que les risques des cyberattaques affectent aussi le monde ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 3
  },
  {
   "id": "544d81cf5323",
@@ -6194,42 +6861,6 @@
   ],
   "tags": [
    "Vulnérabilité / zero-day"
-  ],
-  "score": 3
- },
- {
-  "id": "22bb6eabad72",
-  "source": "20 Minutes Switzerland via MSN",
-  "rubrique": 0,
-  "titre": "Grave faille de sécurité: des milliers de sites mis hors ligne",
-  "url": "https://www.msn.com/fr-ch/actualite/other/grave-faille-de-s%C3%A9curit%C3%A9-des-milliers-de-sites-mis-hors-ligne/ar-AA2fLCwE",
-  "date": "2026-10-21",
-  "resume": "Le PHP, un langage de programmation créé au début des années 1990, a des failles qui mettent en danger «70% du web mondial».",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 3
- },
- {
-  "id": "2c42c3710ecd",
-  "source": "Ouest-France",
-  "rubrique": 3,
-  "titre": "La cyberattaque des frigos de supermarchés en France liée à des « défauts de sécurisation élémentaire »",
-  "url": "https://www.ouest-france.fr/societe/cyberattaque/la-cyberattaque-des-frigos-de-supermarches-en-france-liee-a-des-defauts-de-securisation-elementaire-e7ac7418-cd41-11f1-bb5f-3dc5c0feacca",
-  "date": "2026-10-21",
-  "resume": "[Courrier de l'Ouest] Après plusieurs attaques informatiques, certains supermarchés ont été contraints de jeter leurs produits congelés. La cyberattaque a été rendue possible à cause de « défauts de s ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
   ],
   "score": 3
  },
@@ -6425,24 +7056,6 @@
   ]
  },
  {
-  "id": "0426a2ebb3c5",
-  "source": "Agroalimentaire",
-  "rubrique": 3,
-  "titre": "Cyberattaque contre les frigos : de la France à la Belgique, les magasins de la grande distribution en Europe face à des menaces d’un nouveau genre [Enquête]",
-  "url": "https://www.lsa-conso.fr/distributeurs-alimentaires/carrefour/cyberattaque-contre-les-frigos-les-magasins-de-la-grande-distribution-face-a-des-menaces-dun-nouveau-genre-enquete.AMN23H5IXVDZPJ734H7A3IXOVU.html",
-  "date": "2026-10-16",
-  "resume": "Régulateurs de températures piratés, millions de produits perdus… Le piratage de réfrigérateurs, survenu le 12 octobre dernier dans des supermarchés français, a touché début novembre d’autres pays ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
- },
- {
   "id": "032dae075ea2",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -6499,20 +7112,6 @@
    "Assurance"
   ],
   "score": 4
- },
- {
-  "id": "5bbe95d55e56",
-  "source": "Crunchbase News",
-  "rubrique": 3,
-  "titre": "Cybersecurity Investors Put $6.8B To Work In The Third Quarter, Mostly In Larger Rounds",
-  "url": "https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/",
-  "date": "2026-10-15",
-  "resume": "For the third quarter of 2026, global cybersecurity- and privacy-focused startups pulled in a total of $6.8 billion, per Crunchbase data. That’s up about 50% from the prior quarter and tied for the ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 1
  },
  {
   "id": "f04894a7601f",
@@ -6689,58 +7288,6 @@
   "score": 4
  },
  {
-  "id": "bebe113a183c",
-  "source": "Le Parisien",
-  "rubrique": 3,
-  "titre": "Cyberattaque contre les réfrigérateurs des supermarchés : vers un retour à la normale dans les rayons ce week-end ?",
-  "url": "https://www.leparisien.fr/economie/cyberattaque-contre-les-refrigerateurs-des-supermarches-vers-un-retour-a-la-normale-dans-les-rayons-ce-week-end-14-10-2026-42RW4IK2P5AAFBTXPCHPL7ETQA.php",
-  "date": "2026-10-14",
-  "resume": "Après l’attaque, la reconstruction et l’analyse. Alors que près de 700 magasins sur 10 000, selon les chiffres donnés mardi par le gouvernement à l’Assemblée nationale, ont été ciblés, dans la nuit de ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
- },
- {
-  "id": "3eb2ba7dd853",
-  "source": "Yahoo",
-  "rubrique": 1,
-  "titre": "Cyber attacks on the rise; lawmakers want guidance for solutions",
-  "url": "https://www.yahoo.com/news/politics/articles/cyber-attacks-rise-lawmakers-want-210000175.html",
-  "date": "2026-10-14",
-  "resume": "State lawmakers sought input Wednesday from multiple panels of experts to learn about the evolving landscape of cybersecurity threats as cyber threats and crime have surged ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
- },
- {
-  "id": "e71a48fbb96c",
-  "source": "24/7 Wall St",
-  "rubrique": 3,
-  "titre": "Palo Alto Falls 4% as Report of OpenAI Cybersecurity Deal Hits Sector; CrowdStrike Drops 3%, Fortinet Slips",
-  "url": "https://247wallst.com/investing/2026/10/14/palo-alto-falls-4-as-report-of-openai-cybersecurity-deal-hits-sector-crowdstrike-drops-3-fortinet-slips/",
-  "date": "2026-10-14",
-  "resume": "An OpenAI cybersecurity acquisition report sent PANW down 5% and CRWD down 3%, threatening their platform consolidation strategy. CIBR fell 1.4% versus QQQ's 1% drop as OpenAI could pivot from an AI ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 3
- },
- {
   "id": "132cb4fa6db0",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -6819,42 +7366,6 @@
   "score": 5
  },
  {
-  "id": "83d130e7ba9f",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "Microsoft Patches More Than 1,400 Security Flaws",
-  "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-  "date": "2026-10-13",
-  "resume": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 3
- },
- {
-  "id": "95b5c34beca6",
-  "source": "Le Parisien",
-  "rubrique": 1,
-  "titre": "Désinformation : des frappes de l’Ukraine contre le « Google russe » ont-elles vraiment permis de faire chuter l’activité de comptes complotistes ?",
-  "url": "https://www.leparisien.fr/high-tech/desinformation-des-frappes-de-lukraine-contre-le-google-russe-ont-elles-vraiment-permis-de-faire-chuter-lactivite-de-comptes-complotistes-13-10-2026-D6MZ7IOCNREXLPBTKXWPIPTHM4.php",
-  "date": "2026-10-13",
-  "resume": "Volodymyr Zelensky affirme que ses frappes contre des centres de données russes la semaine dernière ont réduit la présence de bots sur les réseaux sociaux. Une thèse largement diffusée mais qui mérite ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Désinformation / influence"
-  ],
-  "tags": [
-   "Désinformation / influence"
-  ],
-  "score": 3
- },
- {
   "id": "22c3a84151d5",
   "source": "CERT-FR alertes",
   "rubrique": 7,
@@ -6891,42 +7402,6 @@
    "IA"
   ],
   "score": 5
- },
- {
-  "id": "e4aef140f97a",
-  "source": "Le télégramme",
-  "rubrique": 3,
-  "titre": "« C’est inacceptable » : Intermarché, Système U, Leclerc… Des frigos de plusieurs enseignes touchés par une cyberattaque inédite, des stocks jetés [Vidéo]",
-  "url": "https://www.letelegramme.fr/france/cest-inacceptable-intermarche-systeme-u-des-frigos-de-plusieurs-enseignes-touchees-par-une-cyberattaque-inedite-7136535.php",
-  "date": "2026-10-12",
-  "resume": "Depuis la nuit de dimanche à lundi, une cyberattaque touche les installations frigorifiques de plusieurs magasins des enseignes de Système U, comme l’a affirmé son P.-D.G Dominique Schelcher. Les ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
- },
- {
-  "id": "6a59e8f30afa",
-  "source": "Revenu",
-  "rubrique": 1,
-  "titre": "Cyberattaque : au moins 150 magasins touchés, des frigos à 50 °C et 270 000 € de pertes",
-  "url": "https://www.lerevenu.com/reussir-bourse/coeur-operations/cyberattaque-des-frigos-regles-a-50-c-150-intermar/",
-  "date": "2026-10-12",
-  "resume": "Des rayons réfrigérés transformés en sources de chaleur et des tonnes de denrées potentiellement impropres à la consommation : une cyberattaque inhabituelle perturbe la grande distribution française.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
  },
  {
   "id": "7f5dd566b2dd",
