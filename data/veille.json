@@ -1,5 +1,25 @@
 [
  {
+  "id": "3d5dfb277e1d",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+  "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+  "date": "2026-11-09",
+  "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité",
+   "Identité & accès"
+  ],
+  "score": 10
+ },
+ {
   "id": "72dc008bf0b5",
   "source": "ZATAZ",
   "rubrique": 0,
@@ -20,6 +40,95 @@
   "score": 8
  },
  {
+  "id": "e8082cc54dfb",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+  "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+  "date": "2026-11-09",
+  "resume": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login. The researchers are highly confident that the attacker is a single person",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque",
+   "IA"
+  ],
+  "score": 8
+ },
+ {
+  "id": "0ee796a1cf6a",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Deux opposants à la dictature au Nicaragua demandent une pression internationale contre le régime d’Ortega-Murillo",
+  "url": "https://www.lemonde.fr/international/article/2026/11/09/deux-opposants-a-la-dictature-au-nicaragua-demandent-une-pression-internationale-contre-le-regime-d-ortega-murillo_6808635_3210.html",
+  "date": "2026-11-09",
+  "resume": "Dans un entretien au « Monde », Dora Maria Tellez, ancienne guérillera sandiniste et historienne, emprisonnée vingt mois, puis libérée en 2023, réclame une plus grande implication de l’UE contre Managua. Le journaliste Carlos Fernando Chamorro, qui a fui le Nicaragua en 2021, dénonce un Etat policier liberticide.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [],
+  "tags": [
+   "DORA"
+  ],
+  "score": 7
+ },
+ {
+  "id": "62af4291e17c",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+  "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+  "date": "2026-11-09",
+  "resume": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 6
+ },
+ {
+  "id": "df6a1e5a88d8",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+  "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+  "date": "2026-11-09",
+  "resume": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 6
+ },
+ {
+  "id": "3e31a53a7042",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+  "date": "2026-11-09",
+  "resume": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
   "id": "7ad68b589b78",
   "source": "ZATAZ",
   "rubrique": 0,
@@ -27,6 +136,20 @@
   "url": "https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/",
   "date": "2026-11-09",
   "resume": "Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "a2c922a06d73",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+  "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+  "date": "2026-11-09",
+  "resume": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
   "criticite": "",
   "poids": 1,
   "menaces": [],
@@ -6089,6 +6212,24 @@
   ],
   "tags": [
    "Vulnérabilité / zero-day"
+  ],
+  "score": 3
+ },
+ {
+  "id": "2c42c3710ecd",
+  "source": "Ouest-France",
+  "rubrique": 3,
+  "titre": "La cyberattaque des frigos de supermarchés en France liée à des « défauts de sécurisation élémentaire »",
+  "url": "https://www.ouest-france.fr/societe/cyberattaque/la-cyberattaque-des-frigos-de-supermarches-en-france-liee-a-des-defauts-de-securisation-elementaire-e7ac7418-cd41-11f1-bb5f-3dc5c0feacca",
+  "date": "2026-10-21",
+  "resume": "[Courrier de l'Ouest] Après plusieurs attaques informatiques, certains supermarchés ont été contraints de jeter leurs produits congelés. La cyberattaque a été rendue possible à cause de « défauts de s ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
   ],
   "score": 3
  },
