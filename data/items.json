@@ -3581,6 +3581,7 @@
   "ordre": [
    "info",
    "ana",
+   "p:rmw9kcgwnq17l",
    "act",
    "con"
   ],
@@ -3594,7 +3595,15 @@
    "act": [],
    "con": []
   },
-  "parties": [],
+  "parties": [
+   {
+    "id": "rmw9kcgwnq17l",
+    "type": "texte",
+    "titre": "Comprendre le déroulement d'une attaque contre un modèle de langage (LLM)",
+    "texte": "<br><p>Le schéma&nbsp; (en tête)&nbsp; illustrele déroulement possible d'une attaque visant un modèle de langage de grande taille (Large Language Model LLM). Il met en évidence les différents points d'entrée susceptibles d'être exploités par un acteur malveillant, ainsi que les conséquences potentielles d'une compromission du système.</p><p>L'attaque commence par l'intervention d'un attaquant qui cherche à introduire une instruction malveillante dans l'environnement du modèle. Cette injection peut notamment prendre la forme d'un prompt spécialement conçu, d'un document piégé ou d'un contenu transmis par un plugin ou une application connectée. L'objectif est de détourner le comportement attendu du modèle ou d'exploiter les composants techniques qui l'entourent.</p><p>Le modèle LLM repose sur plusieurs composants internes : la couche d'embedding, qui transforme les données en représentations numériques, les blocs Transformer, qui assurent le traitement du contexte et des relations entre les éléments, et la couche de sortie, qui produit la réponse. Ces composants s'inscrivent dans un pipeline comprenant également la collecte des données, l'entraînement, l'architecture, le déploiement et l'inférence. Chacune de ces étapes présente des risques spécifiques, depuis l'empoisonnement des données d'entraînement jusqu'à l'exploitation de vulnérabilités dans les interfaces de production.</p><p>Dans le scénario représenté, l'instruction malveillante atteint un point d'injection (<b>Malicious Code Injection Point</b>), puis déclenche un processus d'exploitation à travers une charge malveillante (<b>Attack Payload</b>). Une vérification d'authentification intervient ensuite. Si les mécanismes de contrôle détectent une anomalie et bloquent l'opération, l'attaque échoue. En revanche, si les contrôles sont insuffisants, contournés ou mal configurés, l'attaquant peut parvenir à provoquer l'exécution d'actions non autorisées.</p><p><b>Les conséquences peuvent être particulièrement graves </b>: exécution de code malveillant, manipulation des réponses du modèle, accès à des informations sensibles et exfiltration de données. Dans les scénarios les plus avancés, l'attaquant peut également établir une communication avec un serveur de commande et de contrôle (Command and Control&nbsp; C2), permettant de maintenir un accès distant, de transmettre des instructions supplémentaires ou de poursuivre la compromission de l'environnement.</p><p><b>Enjeux de sécurité</b></p><p>Ce schéma rappelle une distinction fondamentale : la sécurité d'un LLM ne se limite pas à la protection du modèle lui-même. Elle concerne l'ensemble de son écosystème technique.</p><p>La protection doit donc être envisagée sur toute la chaîne de valeur de l'IA :</p><ul><li>-<b> En amont </b>: contrôler la provenance et l'intégrité des données d'entraînement.</li><li>- <b>Au niveau du modèle </b>: tester sa robustesse face aux injections de prompts et aux manipulations adversariales.</li><li>- <b>Au niveau de l'infrastructure</b> : sécuriser les API, les plugins, les environnements d'exécution et les accès.</li><li>-<b> En aval </b>: limiter les permissions, contrôler les actions réalisées par les agents IA et surveiller les échanges de données.</li><li>- <b>En continu </b>: journaliser les événements, détecter les comportements anormaux et auditer régulièrement les dispositifs de sécurité.</li></ul><p>Un modèle d'IA peut être techniquement performant tout en présentant des vulnérabilités importantes dans son environnement d'exécution. La sécurité doit donc être intégrée dès la conception (<b>Security by Design</b>) et maintenue tout au long du cycle de vie du système d'intelligence artificielle.</p>",
+    "imgs": []
+   }
+  ],
   "stInfo": "",
   "stAna": "",
   "stAct": "",
