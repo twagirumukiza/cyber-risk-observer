@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T05:08:46Z",
+ "maj": "2026-11-09T05:09:05Z",
  "cles": {
   "anthropic": false,
   "openai": false,
@@ -12,7 +12,7 @@
  "tests": {
   "pollinations": {
    "ok": true,
-   "ms": 7980,
+   "ms": 544,
    "modele": "openai",
    "extrait": "Un SOC (Security Operations Center) est un centre de surveillance 24h/24 et 7j/7 chargé d’identifier, d’analyser et de réagir aux incidents de cybersécurité pour protéger les actifs d’une organisation"
   }
