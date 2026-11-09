@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T15:32:11.777Z",
+ "maj": "2026-11-09T15:33:44.331Z",
  "items": [
   {
    "id": "exemple-3",
@@ -1111,61 +1111,6 @@
    "statut": "a_valider"
   },
   {
-   "id": "exemple-6",
-   "section": 2,
-   "kicker": "Alerte critique",
-   "titre": "Faille exploitée dans un pare-feu : le correctif à appliquer sans attendre",
-   "resume": "Inventaire, correctif, revue des journaux : les trois actions prioritaires.",
-   "analyse": "<p>Les équipements exposés à Internet sont la première cible des campagnes de ransomware.</p>",
-   "conclusion": "",
-   "imgPos": "tete",
-   "imgX": 50,
-   "imgY": 50,
-   "imgZ": 1,
-   "liensUtiles": "",
-   "intro": "",
-   "stIntro": "",
-   "rang": null,
-   "une": 0,
-   "uneR": 0,
-   "ordre": [],
-   "imageCarte": "",
-   "cX": 50,
-   "cY": 50,
-   "cZ": 1,
-   "medias": {
-    "info": [],
-    "ana": [],
-    "act": [],
-    "con": []
-   },
-   "parties": [],
-   "stInfo": "",
-   "stAna": "",
-   "stAct": "",
-   "stCon": "",
-   "auteur": "",
-   "auteurRole": "",
-   "auteurLiens": "",
-   "auteurPhoto": "",
-   "actions": [
-    "Recenser les équipements concernés",
-    "Appliquer le correctif ou la mesure de contournement",
-    "Examiner les journaux des 30 derniers jours",
-    "Informer la direction et documenter l’action"
-   ],
-   "actionsHtml": "",
-   "source": "",
-   "url": "",
-   "date": "2026-11-09",
-   "criticite": "",
-   "image": "",
-   "credit": "",
-   "alt": "",
-   "related": null,
-   "statut": "a_valider"
-  },
-  {
    "id": "rmw8tbzyg8j8e",
    "section": 2,
    "kicker": "Cyberattaque LLM",
@@ -1380,6 +1325,7 @@
   }
  ],
  "gone": [
-  "rmvzidm6vgwet"
+  "rmvzidm6vgwet",
+  "exemple-6"
  ]
 }
