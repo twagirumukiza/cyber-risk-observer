@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T13:22:41Z",
+ "maj": "2026-11-10T12:59:13Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -273,12 +273,6 @@
   ],
   "lazarus-group": [
    {
-    "t": "Lazarus Group Uses Fake Meetings to Hijack Crypto Firms",
-    "s": "CoinMarketCap",
-    "d": "2026-11-04",
-    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVdiOWZKSVVHQUFtTi04Szd0eV9GQXFUM204N0ZjTU1GQnNfZHZrZy1mYkdHU1V5eWNaYS1uTm9UelgtNTI1RWFLeXQ3RTZTYkI1U0hpRGpwUFlvRUZ5MjY4NDdiTFYyYWc2UjFXMmJWcElmejFRQmg0WUs5SFVGd3VBYkUxdXNMVnpRV25KN0RhMlM4VFlYUUd1N2pXQQ?oc=5"
-   },
-   {
     "t": "Lazarus Group: A criminal syndicate with a flag",
     "s": "Barracuda Blog",
     "d": "2026-11-02",
@@ -301,6 +295,12 @@
     "s": "Yahoo Finance",
     "d": "2026-10-30",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXBpUzBFM3ZpejdVaFd4VmFmOFhrZ2k5UW1OU08xdUtPa1lzMzljNEtYdDZlOGZiQ09EcWxrLVdGazBPWDBNOTJwMWhDR3lYRHJJdWw3MF8yZGNtUUhIeFpJM3RaWE1jTGttWWdERFU0M1pPRGpNUE40cGdsQmwyUW8yYkJxS1NUQmxkSWJKQjQyVFJUbHBIWHFPLWllTGZr?oc=5"
+   },
+   {
+    "t": "North Korea's Lazarus Group May Be Behind the Largest Hack of Cryptocurrency Exchange Binance, With Losses Exceeding $6 Billion",
+    "s": "SFG Media",
+    "d": "2026-10-30",
+    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4eTJEeTJsN0pTSHk2OHNYcUlwaF9yQkQtQ1FHcWtrdHkwOXlMTXJBa3dqektidTN1NGFJRzc2T25fMURQWGE3QlFPTDNCdHBHb3FqeUFBSzNQN2d5YlhwYW1LSy1VNTE4Sll1Zg?oc=5"
    }
   ],
   "apt41": [
@@ -356,7 +356,7 @@
    {
     "t": "Exposed: Volt Typhoon's Framework for Silent Espionage",
     "s": "BankInfoSecurity",
-    "d": "2026-11-09",
+    "d": "2026-11-07",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUExTbVgtY1lkckxwSWZjTTB2c2dMRzZOdEhMUlQ0SWlVeUZscFJzWkxnMGs3cjBjUXZEX0QyZTR1VkJXSWE5VWJ4cDMwalJfRUFJRE5EUzRPV3ZpeUtydVBPdVBnUE94T1JhUWJnbGN2b201STFQMnFvNWYzSlhtRTI0V21ZbTQySWFudzdRRDhvT2tlWXdkNw?oc=5"
    },
    {
@@ -389,6 +389,12 @@
   ],
   "conti": [
    {
+    "t": "Qu’est-ce que le ransomware Conti ? Définition et fonctionnement",
+    "s": "Illumio",
+    "d": "2026-11-09",
+    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HLXhrTHpMelA5QVJrUU1RaHg4bk1BSnFzaUZjckhTT2lzVEZkV04xS2Iyb1d1bHdDc3NNY25xZHFUaXFSZFNBRVlFS2stZXFMaTE5VHB3d1RXNkZieFp2WmRBUkgyNFFaNFdha21B?oc=5"
+   },
+   {
     "t": "Bourse : ça publie fort en Europe avec Novo, BMW, Conti et Ahold",
     "s": "Zonebourse",
     "d": "2026-11-04",
@@ -411,15 +417,15 @@
     "s": "Escudo Digital",
     "d": "2026-09-16",
     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGhmNzlVQTRHT0dJN1dzWXE2TWlRUWo2dDdHTWtZNEZBeUF3US0zY2FidUtLOWdRVEYxZnd5Y2d4NzR0RFUyX05RSGRRU0xrbEJnZnMycXJEam94TW5zV2pIb1doamlKUGFLX2xmSkxBUElFQnQ4LXhSYWFqTUZFMzFUYmRSOUdRTHhtdHJHZlp5ZGNLelEyRkduOVZtajRCUHJpSFFyUDcwQUVlRVE?oc=5"
-   },
-   {
-    "t": "Ukrainian Conti Ransomware Member Gets Four Years in US Prison",
-    "s": "Hackread",
-    "d": "2026-09-15",
-    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZWE0VUpHSEw2b3FMaFBydG10NlRodnppZFFVcGZCclFUR1B6YThZZk9wVlgtYXktMmpjRU1vel9XamQyb0FhcXNhZVNsMm50RHpBckFhTno4dDdQcUlzUEF4NDZRMlFsT3gtYVBuVjd4M3JXZG1GdGNZNkxtZw?oc=5"
    }
   ],
   "lockbit": [
+   {
+    "t": "LockBit (5.0)",
+    "s": "Halcyon Anti-Ransomware Platform",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nMzlzeXNYR1BfbGFsZWVMSl9meU9rOHFaYm9GbFMza1c0eElURVpxNVdUbDJ4NGtDX0UxRkNyZTBNMXpXTVppcWo4S3FoMnRJa3ozNGdR?oc=5"
+   },
    {
     "t": "Bhopal Cyber Alert As MPCERT Issues High-Level Security Advisory To MP Government Departments After LockBit",
     "s": "Free Press Journal",
@@ -443,12 +449,6 @@
     "s": "SOCRadar",
     "d": "2026-09-22",
     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRm1Pc01Ud2NqNFVoX2ttU195LUZzRVV2RVd1WUZkR215a1p3Vi1qTmgxNmFQRTNPRTNCTmVsZmJXOWdyUHJVWjZOR3BpNFY3Um5DMWZxeXhOWWFqZW5JVVRQS01rdTdzMnplOXBzVFpMMTdQd05hbFdJZ3k0Z1hVQXN0RVhsRlRXX0lDS0l0UE83d1FPZnc?oc=5"
-   },
-   {
-    "t": "A CISO's Lessons in Ransomware Response and Recovery After a Real-World LockBit Attack",
-    "s": "Infosecurity Magazine",
-    "d": "2026-09-14",
-    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUR2czJEM2FMNmRuXzRjMDVOME1nS1dDTzktSzAwVlN6SUdzWGtGeDZrZzRZRjlsTG9nblgtUnpqSlFVbzRJemx4cnBVRXl2b3FPemZjMkNMR192WE9oQ0Q0SjA0RVBrNVNOcWkycTIxdzJxbUl5bXRScjJiOElkWGdB?oc=5"
    }
   ],
   "cl0p": [
@@ -532,10 +532,10 @@
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTRPS3pBdTByN2VYaE5oRDZ1TE9LYlBMeVpCSy1SNXVKcm1YNmpqeUVxbmtERk5oOEJZX3N6ZHAyVnFQbVV6aFJFcGZuOWNvbzFkVXhjSUhvWnlxRTNuRlM1SDFZMXpMc1dDb2d1UUEzSV80WFVPLWJ1eHl6OWNOSjJTZFA0aFIxR2tFVTFKak9lUU9xaUxhXzNOYnhtcFFzQ0NuNVJwNk0?oc=5"
    },
    {
-    "t": "Bahamas Issues Cybersecurity Alert Over Akira Ransomware Threat",
-    "s": "Magnetic Media",
-    "d": "2026-10-22",
-    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0FsZ2ozMEtTWEZ3c0xxaEhKRFhSck9uQ096c0p0c0hyMUN5SlJ2WEtTQTQ5dE5ULVZrbXRxMGRYa1I5RGpHY0ZsR2VWcEprZHpJVVduTFVEcHhvdlh0ZldlYUpHN2s0cmUtVzBNWUVCSmVOYnp1TkpYVzY0SGxrdjlmVE16WXpnLTJRVXI2aW1hMGpNdHdkLTNxSHAwbTZrNHfSAaoBQVVfeXFMTm1WX1JrS2NuVVNHZ3hMRVJQNDJaNGVIcDVuS3RfMkpZN2I5M0ZTZ1gwajZ6ZDBLRTJVSGk4Q3hRWkc2bUhDTXhacXY0c0RJa2xFbUU2NTN5OFlHUmhXbngzY3pIVEs0RlZRSmNLZWw0cjR1ODdWUmlfY25FX0NrOUQ4MXVydGJKcFFOOXBuMU1DZFExRldLNUwtcFNFZ0lvSnZnV0tEaHNIcHc?oc=5"
+    "t": "Akira Ransomware Targets Dutch Coffee Machine Manufacturer Bravilor Bonamat",
+    "s": "DeXpose",
+    "d": "2026-10-23",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnp5UTlleXc5QVJkMTVzZWZ2azBnaFVla0IzV2xDVmRWZ2lmOEY5LS1sR3NHTFlOUzR1RjZoSWZmZDJUcFYzekJaWUFKV2hLUy1HcHB0UjIzWDFueTB4SnVTZjJxc3gyNFVQZ1J2NDVqaElzX182VVhjcHdaZDFTMG1lRUdHSVR6d2xpXzJVaXd4aUxZZDBKM3NYdHlvSDgx?oc=5"
    }
   ],
   "scattered-spider": [
@@ -572,12 +572,6 @@
     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNFVUeTRTQ0xpOXEwTy1kYTU3UmJzZ2RTZ3NzX2F1OF84UXJ2dk9XVUphMmF4UVBobWV3bkRCcVhOcWxjMlZRcENNNzlTSy1yakVMaXVXT1ppdWEwYWttUW9SWmhoQ0YzOC1ORWRnSVNyN1ZzUF9EQk5HVHJhLWtzN1hZY1JNai05UHVYS3l6amdQLWVEUS00TVFkMmsxd1BCdlRRRURzWUhSMzJSRE53?oc=5"
    },
    {
-    "t": "From the Gunpowder Plot to Anonymous: How Guy Fawkes Became a Symbol of the Struggle Against Authority",
-    "s": "UA.NEWS",
-    "d": "2026-11-05",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dSQndoM1cyY2FySGthbUU2eTFFX0duODkyTFp2WW9fUjlZNmJDYmZkYm5qY1k1MmY5eFFLcndTeUUxRFc0WmgwNlhWWEZnVGhWeHZEamQzSlFUdlY2VFhzRjRnbVQ5MVVZdVVwQTJoRV8zX0s4MzVLU0owOUhiUDUtMkUzME84SXZNLUh6S3h2SFF1NzRTNGdISGZHOTEweXlfRTN4OA?oc=5"
-   },
-   {
     "t": "DRPS says its anonymous tips system not hit in cyberattack",
     "s": "Durham Post",
     "d": "2026-10-23",
@@ -594,6 +588,12 @@
     "s": "Security Affairs",
     "d": "2026-10-20",
     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGVaR0NUYkJRSVluS3BVVzd1Rk1CNWJPcUp1YXFtUUhhczdBaGRxazhqUkRzWWwtcHRpZTl6YlJsZTNfM21hTUZjeE8zODRpNVVkRmh4RlQxRjdRT0F5SjJPak5XbFlFU2xJZnNZamE0Y2RBcXA2RTJnTFUyX05JREN5V0RrMkE4ZnRWOTVXUF9MYkcyc2lSWnh5TjdCd2NhWXpicVFQd1d2dm1PcEhGQk5RSUljdVdkVG5kcdIBwgFBVV95cUxNS3M0ZEdHRDBnd1RiWjNNUVpHU09OUUExRmIxZmJ4RFM2TzZEcWFWOEcwRHhodGxZRC1XUThIUWdoTm8yM3lHN3hSeHgzdEhISUFFdElTamZBQWNUZFlqbWcydk9kQ0JuQ1poMG5zVTZPaHY2STVOX3hoSksyS08tZU95bUFET1BKMGltMFo3VGlWTGRhbzZYSVZJdk5mNFdVaVNlVTlaT3N4UVdEMWR2LVRhM1o4WS1nbEg3aXZkWlJwQQ?oc=5"
+   },
+   {
+    "t": "Anonymous says it hacked Russian judicial databases in occupied Crimea",
+    "s": "Odessa Journal",
+    "d": "2026-09-30",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVnEwel9IV2JLZWc2blBQb1lzMlpfemplRm1NMjVOalJ3WFA5cURwaU52ZTdOT1BmQ1JUUGVmNlRWb0h4X2dkX2MwWXV3bmZ5bmV0R09uU21FSm1WVTd1SHhiU3Uyekd0N3N3WklhakhHb3F1cFMtRnlYZVdwWDNaTlUwdktOZDhySm9qVW9FTHJwRWcxVG9PZ2hTR0FKZw?oc=5"
    }
   ],
   "lulzsec": [
@@ -605,6 +605,12 @@
    }
   ],
   "noname057-16": [
+   {
+    "t": "Dark Storm Team Builds Hacktivist Alliances With Team1914 and NoName057(16) to Expand Cyberattacks",
+    "s": "Cyber Press",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UY0ZybDNfVTl5UHpwRGh5OG91c0hFbURSZUFxSlNuTWhXSGwxMlpiZnFHMnk3R3VMMFg1VDRlN1QzT0M3SU82VndlLWg4bk1zbDVORnp3ZlAyOERKZVlzQTVR0gFiQVVfeXFMT1RjRnJsM19VOXlQenBEaHk4b3VzSEVtRFJlQXFKU25NaFdIbDEyWmJmcUcyeTdHdUwwWDVUNGU3VDNPQzdJTzZWd2UtaDhuTXNsNU5GendmUDI4REplWXNBNVE?oc=5"
+   },
    {
     "t": "NoName057(16) doxxes 18 EU officials on Tor site",
     "s": "Cybernews",
@@ -634,7 +640,7 @@
     "UNC6240",
     "Bling Libra"
    ],
-   "n": 2
+   "n": 3
   }
  ],
  "erreurs": []
