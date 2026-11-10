@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10T00:44:11.202Z",
+ "maj": "2026-11-10T00:44:46.767Z",
  "items": [
   {
    "id": "bc10142edd65",
@@ -23,7 +23,7 @@
    "uneD": "",
    "uneRJ": 0,
    "uneRD": "",
-   "encours": "",
+   "encours": "bc10142edd65",
    "ordre": [],
    "imageCarte": "",
    "cX": 50,
