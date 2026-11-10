@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-10T00:32:10.013Z",
+ "maj": "2026-11-10T00:44:11.202Z",
  "items": [
   {
    "id": "bc10142edd65",
    "section": 3,
    "kicker": "",
    "titre": "Cybersécurité : le NCSC alerte sur la hausse des cyberattaques et le risque pour les entreprises",
-   "resume": "<p>Rédaction par l’IA en cours… Ce brouillon se complétera tout seul (1 à 4 minutes) : vous pouvez créer d’autres brouillons ou fermer la page.</p>",
+   "resume": "<p>La rédaction par l’IA a échoué : délai dépassé (regardez Actions &gt; « Brouillon détaillé » dans GitHub). Vous pouvez la relancer depuis la Veille ou écrire l’article à la main.</p>",
    "analyse": "",
    "conclusion": "",
    "imgPos": "tete",
@@ -23,7 +23,7 @@
    "uneD": "",
    "uneRJ": 0,
    "uneRD": "",
-   "encours": "bc10142edd65",
+   "encours": "",
    "ordre": [],
    "imageCarte": "",
    "cX": 50,
