@@ -15,6 +15,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import controle
 import ia
 import propositions as P
 
@@ -94,7 +95,7 @@ def main():
     consigne = (f"Source : {src['source']}\nTitre de la source : {src['titre']}\nDate : {src['date']}\nExtrait du flux : {src['resume']}\n\n"
                 f"Texte de la page (peut être incomplet ou absent) :\n{page or '(indisponible)'}\n\nProduis l'objet JSON demandé.")
     try:
-        texte, f, m = ia.appeler(cfg["consignes"].get("detail") or SYSTEME, consigne, cfg, rub, valider=ia.extraire_json)
+        texte, f, m = ia.appeler(cfg["consignes"].get("detail") or SYSTEME, consigne, cfg, rub, valider=P.valider_ctrl(page + " " + src["resume"], src["source"], titre))
         rep = ia.extraire_json(texte)
         intro, resume = P.court(rep.get("intro"), 340), P.nettoyer_html(rep.get("resume"), 9000)
         if not intro or not resume:
@@ -108,6 +109,10 @@ def main():
                "note": P.court(rep.get("note"), 300) or ("Texte de la page indisponible ou court : vérifier les faits à la source." if len(page) < 300 else ""),
                "section": rub, "source": src["source"], "url": url, "date": src["date"] or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
                "fournisseur": cfg["fournisseurs"][f]["nom"], "modele": m}
+        c = controle.verifier(art, page + " " + src["resume"], src["source"], titre, False, True)
+        art["controle"] = c
+        if c["alertes"]:
+            art["note"] = P.court((art.get("note") or "") + " " + controle.resume(c), 600)
         ecrire(id_, {"article": art})
     except Exception as e:
         ecrire(id_, {"erreur": str(e)[:300]})

@@ -481,7 +481,7 @@ def article_body(x, base, url, related):
              f"<a href='mailto:?subject={qt}&amp;body={qu}'>E-mail</a></span></div>")
 
     k = sec_of(x)
-    crumb = f"<div class='crumb'><a href='{base}'>Accueil</a> › <a href='{base}rubriques/{RS[k]}/'>{esc(S[k][0])}</a></div>"
+    crumb = f"<div class='crumb'><a href='{base}rubriques/{RS[k]}/'>{esc(S[k][0])}</a></div>"
     by = f"<div class='by'><span>Par {aname or 'la rédaction'}</span><span>{esc(fd(x.get('date')))}</span></div>"
     return (f"<div class='art'>{crumb}<span class='k'>{kicker}</span><h1>{titre}</h1>{chapo}{by}"
             f"{top}{intr}{ordh}{lu}{au}{share}{src}{relh}"
@@ -653,7 +653,7 @@ def main():
         cards = "".join(
             f"<li><span class='k'>{esc(y.get('kicker') or '')}</span><h2><a href='{aurl(y)}'>{esc(y['titre'])}</a></h2>"
             f"<p>{esc((lite(y.get('intro'), 220) or lite(y.get('resume'), 220)))}</p><time>{esc(fd(y.get('date')))}</time></li>" for y in lst)
-        body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › {esc(S[k][0])}</div><h1>{esc(S[k][0])}</h1>"
+        body = (f"<div class='art'><h1>{esc(S[k][0])}</h1>"
                 f"<p style='color:var(--muted)'>{esc(S[k][1])}</p>" + (f"<ul class='list-st'>{cards}</ul>" if cards else "<p>Aucun article pour l’instant.</p>") + "</div>")
         url = f"{base}rubriques/{RS[k]}/"
         out = ROOT / "rubriques" / RS[k]
@@ -668,7 +668,7 @@ def main():
         cards = "".join(
             f"<li><span class='k'>{esc(S[sec_of(y)][0])}</span><h2><a href='{aurl(y)}'>{esc(y['titre'])}</a></h2>"
             f"<p>{esc((lite(y.get('intro'), 220) or lite(y.get('resume'), 220)))}</p><time>{esc(fd(y.get('date')))}</time></li>" for y in archived)
-        body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › Archives</div><h1>Archives</h1>"
+        body = (f"<div class='art'><h1>Archives</h1>"
                 f"<p style='color:var(--muted)'>Articles plus anciens, retirés de la page d’accueil.</p><ul class='list-st'>{cards}</ul></div>")
         url = f"{base}archives/"
         out = ROOT / "archives"
@@ -683,7 +683,7 @@ def main():
         dl = "".join(f"<dt id='{esc(re.sub(r'[^\w.-]', '-', str(x.get('id') or '')))}'>{esc(x['titre'])}"
                      + (f" <small style='font-weight:400;color:var(--muted)'>— {esc(x.get('kicker'))}</small>" if x.get("kicker") else "")
                      + f"</dt><dd>{rich(x.get('resume'))}</dd>" for x in lex)
-        body = (f"<div class='art lexq'><div class='crumb'><a href='{base}'>Accueil</a> › Lexique</div><h1>Lexique</h1>"
+        body = (f"<div class='art lexq'><h1>Lexique</h1>"
                 f"<p style='color:var(--muted)'>{esc(S[8][1])}</p><dl class='lxd'>{dl}</dl></div>")
         url = f"{base}lexique/"
         out = ROOT / "lexique"
@@ -727,7 +727,7 @@ def main():
             ttp = tab(["Mode opératoire", "Objectif principal", "Groupes représentatifs cités"], ad.get("ttp"))
             vei = tab(["Domaine de veille", "Groupes à suivre"], ad.get("veille"))
             notice = (f"<div class='to-notice'><strong>Précaution méthodologique.</strong> {esc(ad.get('notice'))}</div>" if ad.get("notice") else "")
-            body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › Threat Actors Observatory</div>"
+            body = (f"<div class='art'>"
                     f"<h1>Threat Actors Observatory</h1>"
                     f"<p style='color:var(--muted)'>Registre de veille des groupes de hackers, cybercriminels et hacktivistes : {len(acts)} acteurs, leurs motivations, leurs modes opératoires et les secteurs exposés.</p>"
                     f"{notice}{''.join(parts)}"
@@ -760,7 +760,7 @@ def main():
                     u = str(u or "")
                     return f"<a href='{esc(u)}' rel='noopener' style='text-decoration:underline'>{esc(t)}</a>" if u.startswith(("http://", "https://")) and "ctftime.org" not in u else esc(t)
                 hh = lambda t: f"<h2 style='font:700 1.35rem var(--head);margin-top:26px'>{esc(t)}</h2>"
-                body = (f"<div class='art'><div class='crumb'><a href='{base}'>Accueil</a> › CTF</div><h1>CTF</h1>"
+                body = (f"<div class='art'><h1>CTF</h1>"
                         f"<p style='color:var(--muted)'>{esc(cd.get('intro') or 'Actualité des Capture The Flag : compétitions, classements et corrigés commentés.')}</p>")
                 if cal:
                     body += hh("Calendrier") + "<ul>" + "".join(f"<li><b>{esc(c.get('date'))}</b> — {lien(c['nom'], c.get('url'))} <span style='color:var(--muted)'>{esc(' · '.join(x for x in (c.get('duree'), c.get('format'), c.get('niveau')) if x))}</span></li>" for c in cal) + "</ul>"

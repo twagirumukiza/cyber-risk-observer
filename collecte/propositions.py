@@ -20,6 +20,7 @@ import re
 import sys
 import urllib.request
 import ia
+import controle
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -84,9 +85,19 @@ def texte_page(url):
     return re.sub(r"\s+", " ", t).strip()[:6000]
 
 
-def appeler_ia(systeme, consigne, rub=None):
+def valider_ctrl(contexte, nom="", titre="", notion=False):
+    """Refuse (et passe au fournisseur suivant) une réponse qui viole nettement les consignes."""
+    def v(t):
+        rep = ia.extraire_json(t)
+        c = controle.verifier({k: rep.get(k) for k in ("titre", "kicker", "intro", "resume", "analyse", "conclusion")}, contexte, nom, titre, notion)
+        if not c["ok"]:
+            raise ValueError("contrôle de conformité : " + [a for a in c["alertes"] if a["n"] == "bloquant"][0]["t"])
+    return v
+
+
+def appeler_ia(systeme, consigne, rub=None, valider=None):
     """-> (objet JSON, identifiant du fournisseur, modèle). Repli automatique sur le fournisseur suivant."""
-    t, f, m = ia.appeler(systeme, consigne, CFG, rub, valider=ia.extraire_json)
+    t, f, m = ia.appeler(systeme, consigne, CFG, rub, valider=valider or ia.extraire_json)
     return ia.extraire_json(t), f, m
 
 
@@ -127,21 +138,30 @@ def breve(src):
 def proposer(rub, src, notion=None):
     pid = "p" + hashlib.sha1(((src.get("url") or "") + src["titre"] + str(rub)).encode()).hexdigest()[:10]
     if CLE:
-        if notion:
-            consigne = f"Notion à expliquer : {src['titre']}\nAngle : {notion.get('angle', '')}\nPublic : décideurs et responsables non techniques d'organisations françaises.\nProduis l'objet JSON demandé."
-            rep, f, m = appeler_ia(CFG["consignes"]["notions"] or SYSTEME_NOTION, consigne, rub)
-        else:
-            page = texte_page(src["url"]) if src.get("url") else ""
-            contexte = page or src.get("resume") or ""
-            consigne = (f"Source : {src.get('source', '')}\nTitre de la source : {src['titre']}\nDate : {src.get('date', '')}\n"
-                        f"Extrait du flux : {src.get('resume', '')}\n\nTexte de la page (peut être incomplet ou absent) :\n{page or '(indisponible)'}\n\nProduis l'objet JSON demandé.")
-            rep, f, m = appeler_ia(CFG["consignes"]["articles"] or SYSTEME, consigne, rub)
-            if not page and rep.get("fiabilite") == "ok" and len(contexte) < 200:
-                rep["fiabilite"] = "partiel"
-        art = article_depuis_ia(rep, rub, src)
-        art["ia"] = 1
-        art["fournisseur"] = CFG["fournisseurs"][f]["nom"]
-        art["modele"] = m
+        try:
+            if notion:
+                consigne = f"Notion à expliquer : {src['titre']}\nAngle : {notion.get('angle', '')}\nPublic : décideurs et responsables non techniques d'organisations françaises.\nProduis l'objet JSON demandé."
+                contexte = ""
+                rep, f, m = appeler_ia(CFG["consignes"]["notions"] or SYSTEME_NOTION, consigne, rub, valider_ctrl("", notion=True))
+            else:
+                page = texte_page(src["url"]) if src.get("url") else ""
+                contexte = (page or "") + " " + (src.get("resume") or "")
+                consigne = (f"Source : {src.get('source', '')}\nTitre de la source : {src['titre']}\nDate : {src.get('date', '')}\n"
+                            f"Extrait du flux : {src.get('resume', '')}\n\nTexte de la page (peut être incomplet ou absent) :\n{page or '(indisponible)'}\n\nProduis l'objet JSON demandé.")
+                rep, f, m = appeler_ia(CFG["consignes"]["articles"] or SYSTEME, consigne, rub, valider_ctrl(contexte, src.get("source", ""), src["titre"]))
+                if not page and rep.get("fiabilite") == "ok" and len(contexte) < 200:
+                    rep["fiabilite"] = "partiel"
+            art = article_depuis_ia(rep, rub, src)
+            art["ia"] = 1
+            art["fournisseur"] = CFG["fournisseurs"][f]["nom"]
+            art["modele"] = m
+            c = controle.verifier(art, contexte, "" if notion else src.get("source", ""), "" if notion else src["titre"], bool(notion))
+            art["controle"] = c
+            if c["alertes"]:
+                art["note"] = court((art.get("note") or "") + " " + controle.resume(c), 600)
+        except Exception as e:
+            art = breve(src)
+            art["note"] = court(f"Rédaction par l'IA refusée ou impossible ({e}) : brève à développer ou à écarter.", 400)
     else:
         art = breve(src)
     art.update({"section": rub, "source": "" if notion else (src.get("source") or ""), "url": "" if notion else (src.get("url") or ""),
