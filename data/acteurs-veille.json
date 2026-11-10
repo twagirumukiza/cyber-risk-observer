@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10T12:59:13Z",
+ "maj": "2026-11-10T19:14:04Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -225,16 +225,16 @@
     "r": 1
    },
    {
+    "t": "Attaque APT29 contre iPhone et Android via des sites infectés, DarkSword en toile de fond",
+    "s": "Pasquale Pillitteri",
+    "d": "2026-11-08",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNE1Ya3dSQUhLSFlZLXVHMVpMSmFiWkd6M0hhTC1jUWVtZjF1Zms5VnVBcW9tY1F3MVFrMUM0VnAyVWFjSWdBTEViaDRKT1BJclVmTVp2NFpEdUdaWnMzMTJpZVJnRXVmaTJVY2lodnZXN0ZZa29tUkIzMG1fbTJHQl8tZkpmYk05ZTJ6YW1JX0xBUHVpMjVsRnV1dWt1dw?oc=5"
+   },
+   {
     "t": "Cyberattaque APT29 contre Android et iPhone : ce que révèle Sekoia et comment protéger les téléphones",
     "s": "dpo partage",
     "d": "2026-11-06",
     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFuQnhneE1SUzlaSUVMZ0NaZk41enBBdzBNNDRveUVLYWlrZzJlanNpMHlCWVdxOF9mTGN4dGRTT1pPYjc5NnU2Si0wMlNXSTJNN3VWTGJxUUczQXZkcXQ0ZUF2d0VLdWpaT0hSczJnb0dmUnMxM3BfNTlLTDRmd0N6bURpTHRIRHNzVldPRnZoUnlpLW4yUTEyNE9aMHVSb3cwUEdFM3lnWVpqMXJyclJ4SzR3b3hDeElXUl9Pc2Y4Mnk4MEE?oc=5"
-   },
-   {
-    "t": "APT29's Watering Holes Target Thousands of Mobile Users",
-    "s": "Dark Reading",
-    "d": "2026-11-05",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdl9HT2RhcVh2NnpCSkhfcC15SU9qTmpGQmZlVTBDRkJRUXp0TGJTOS1FT3RjWmN5dzhIMmtuUXJVWjRiVHdjRmw5WHZzMFp1aFNsSnBmSGZNVW55MTlnQTNfOVVtejh4R19uUEZBaFdOZnBNTnJKQmp6RVA3RnJrMjBGelZ5czdYVi16Tw?oc=5"
    }
   ],
   "sandworm": [
@@ -356,7 +356,7 @@
    {
     "t": "Exposed: Volt Typhoon's Framework for Silent Espionage",
     "s": "BankInfoSecurity",
-    "d": "2026-11-07",
+    "d": "2026-11-10",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUExTbVgtY1lkckxwSWZjTTB2c2dMRzZOdEhMUlQ0SWlVeUZscFJzWkxnMGs3cjBjUXZEX0QyZTR1VkJXSWE5VWJ4cDMwalJfRUFJRE5EUzRPV3ZpeUtydVBPdVBnUE94T1JhUWJnbGN2b201STFQMnFvNWYzSlhtRTI0V21ZbTQySWFudzdRRDhvT2tlWXdkNw?oc=5"
    },
    {
@@ -421,6 +421,12 @@
   ],
   "lockbit": [
    {
+    "t": "STARMARK Ransomware Attack by Lockbit",
+    "s": "SOCRadar",
+    "d": "2026-11-08",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelpCUnVhN2JZYldoclIwSEw2bEkzcWdlMzdNVnlweWxUVEh1S29TbGNqZHJvMXFWYXUzU1c4MHg5azJnMkRlWDlqZVctSy14amo5WmVfZEJQY0JtSEpnQXkydFl1Q3hNOW1XTXB6bTlrNVJlNVl0anVneElFR2FIUWJDMUg0WGo2Wlo1dE1BNkFnUQ?oc=5"
+   },
+   {
     "t": "LockBit (5.0)",
     "s": "Halcyon Anti-Ransomware Platform",
     "d": "2026-11-05",
@@ -443,12 +449,6 @@
     "s": "Vant Bèf Info",
     "d": "2026-10-06",
     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3Vwc20ybjBDWGNpRDFZSFJ3cU5jU1ZIeG9KRHNQTHkyTGlBV3JJc2p2YzZ4Q2dEZzR2NWdWVU5rSndwdEo5MFVLVXpzWUYwS3ZOLXNKYVdma3lVWGRkMjVnTDVYZUFYNlFBbkNQTHNvYUJNRTd0bTU1bXJnRnp2LTEyMUF6UkI3TThad3VDeUFUZndKRUZwX0Z3RnBQX1gyd0ZHc19LNEdnRE9UNzNZdw?oc=5"
-   },
-   {
-    "t": "Taspen Life Ransomware Attack by Lockbit",
-    "s": "SOCRadar",
-    "d": "2026-09-22",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRm1Pc01Ud2NqNFVoX2ttU195LUZzRVV2RVd1WUZkR215a1p3Vi1qTmgxNmFQRTNPRTNCTmVsZmJXOWdyUHJVWjZOR3BpNFY3Um5DMWZxeXhOWWFqZW5JVVRQS01rdTdzMnplOXBzVFpMMTdQd05hbFdJZ3k0Z1hVQXN0RVhsRlRXX0lDS0l0UE83d1FPZnc?oc=5"
    }
   ],
   "cl0p": [
@@ -606,12 +606,6 @@
   ],
   "noname057-16": [
    {
-    "t": "Dark Storm Team Builds Hacktivist Alliances With Team1914 and NoName057(16) to Expand Cyberattacks",
-    "s": "Cyber Press",
-    "d": "2026-11-10",
-    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UY0ZybDNfVTl5UHpwRGh5OG91c0hFbURSZUFxSlNuTWhXSGwxMlpiZnFHMnk3R3VMMFg1VDRlN1QzT0M3SU82VndlLWg4bk1zbDVORnp3ZlAyOERKZVlzQTVR0gFiQVVfeXFMT1RjRnJsM19VOXlQenBEaHk4b3VzSEVtRFJlQXFKU25NaFdIbDEyWmJmcUcyeTdHdUwwWDVUNGU3VDNPQzdJTzZWd2UtaDhuTXNsNU5GendmUDI4REplWXNBNVE?oc=5"
-   },
-   {
     "t": "NoName057(16) doxxes 18 EU officials on Tor site",
     "s": "Cybernews",
     "d": "2026-11-09",
@@ -641,6 +635,20 @@
     "Bling Libra"
    ],
    "n": 3
+  },
+  {
+   "nom": "Turla",
+   "id": "G0010",
+   "url": "https://attack.mitre.org/groups/G0010/",
+   "alias": [
+    "IRON HUNTER",
+    "Group 88",
+    "Waterbug",
+    "WhiteBear",
+    "Snake",
+    "Krypton"
+   ],
+   "n": 2
   }
  ],
  "erreurs": []
