@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05",
+ "maj": "2026-11-10",
  "notice": "Les dates indiquent une première activité connue ou une première identification publique, pas nécessairement la création du groupe. Les affiliations étatiques sont des attributions rapportées par les autorités ou les chercheurs : elles ne constituent pas systématiquement des faits judiciairement établis. Les champs « à vérifier » doivent être actualisés avant toute publication ou analyse de risque.",
  "acteurs": [
   {
@@ -39,11 +39,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0007 — https://attack.mitre.org/groups/G0007/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "21 octobre 2026 — « APT28 Hackers Open Secret SSH Tunnel Into NATO Country's Naval Shipbuilder Network » (CyberSecurityNews)"
     }
    ],
    "mots": "APT28 Fancy Bear espionnage politique militaire spear phishing identifiants gouvernements OTAN défense diplomatie"
@@ -85,11 +93,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0016 — https://attack.mitre.org/groups/G0016/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "IRON RITUAL, IRON HEMLOCK, NobleBaron, Dark Halo, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "8 novembre 2026 — « Attaque APT29 contre iPhone et Android via des sites infectés, DarkSword en toile de fond » (Pasquale Pillitteri)"
     }
    ],
    "mots": "APT29 Cozy Bear SolarWinds chaîne approvisionnement phishing jetons authentification administration diplomatie recherche"
@@ -132,11 +148,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0034 — https://attack.mitre.org/groups/G0034/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "ELECTRUM, Telebots, IRON VIKING, BlackEnergy (Group), Quedagh, Voodoo Bear, IRIDIUM, Seashell Blizzard, FROZENBARENTS, APT44"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "22 octobre 2026 — « MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration » (WeLiveSecurity)"
     }
    ],
    "mots": "Sandworm sabotage réseau électrique Ukraine 2015 2016 NotPetya wiper ICS énergie infrastructures critiques"
@@ -179,11 +203,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0032 — https://attack.mitre.org/groups/G0032/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "2 novembre 2026 — « Lazarus Group: A criminal syndicate with a flag » (Barracuda Blog)"
     }
    ],
    "mots": "Lazarus Group Sony Pictures Bangladesh Bank WannaCry Ronin cryptomonnaies finance espionnage sabotage"
@@ -226,11 +258,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0096 — https://attack.mitre.org/groups/G0096/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Wicked Panda, Brass Typhoon, BARIUM"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "23 octobre 2026 — « Suspected Chinese APT41 Hackers Use BlackX Bootkit to Bypass Windows Secure Boot » (GBHackers News)"
     }
    ],
    "mots": "APT41 Wicked Panda espionnage cybercriminalité santé finance télécommunications jeux vidéo éducation technologies"
@@ -263,6 +303,18 @@
     {
      "l": "Identifiant MITRE / statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0067 — https://attack.mitre.org/groups/G0067/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "InkySquid, ScarCruft, Reaper, Group123, TEMP.Reaper, Ricochet Chollima"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "APT37 Corée du Nord"
@@ -295,6 +347,18 @@
     {
      "l": "Identifiant MITRE / statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0064 — https://attack.mitre.org/groups/G0064/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "HOLMIUM, Elfin, Peach Sandstorm"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "APT33 Iran"
@@ -327,6 +391,18 @@
     {
      "l": "Identifiant MITRE / statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0087 — https://attack.mitre.org/groups/G0087/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "ITG07, Chafer, Remix Kitten"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "APT39 Iran ministère renseignement MOIS"
@@ -373,6 +449,18 @@
     {
      "l": "Dernière activité",
      "v": "À actualiser"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G1017 — https://attack.mitre.org/groups/G1017/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "BRONZE SILHOUETTE, Vanguard Panda, DEV-0391, UNC3236, Voltzite, Insidious Taurus, DazedToad"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "10 novembre 2026 — « Exposed: Volt Typhoon's Framework for Silent Espionage » (BankInfoSecurity)"
     }
    ],
    "mots": "Volt Typhoon Chine Living off the Land énergie télécommunications transport eau"
@@ -405,6 +493,14 @@
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0008 — https://attack.mitre.org/groups/G0008/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Anunak"
     }
    ],
    "mots": "Carbanak cybercrime russophone présumé"
@@ -437,6 +533,18 @@
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0046 — https://attack.mitre.org/groups/G0046/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "GOLD NIAGARA, ITG14, Carbon Spider, ELBRUS, Sangria Tempest"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "FIN7 cybercriminalité russophone présumée"
@@ -483,6 +591,10 @@
     {
      "l": "Identifiant MITRE",
      "v": "À compléter"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "9 novembre 2026 — « Qu’est-ce que le ransomware Conti ? Définition et fonctionnement » (Illumio)"
     }
    ],
    "mots": "Conti ransomware rançongiciel extorsion santé Irlande HSE phishing vol identifiants"
@@ -534,6 +646,10 @@
     {
      "l": "Identifiant MITRE",
      "v": "À compléter"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "8 novembre 2026 — « STARMARK Ransomware Attack by Lockbit » (SOCRadar)"
     }
    ],
    "mots": "LockBit ransomware as a service RaaS double extorsion VPN PME santé collectivités"
@@ -577,6 +693,10 @@
      "l": "Particularité",
      "v": "L'extorsion peut être réalisée sans chiffrement des systèmes.",
      "w": 1
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "30 septembre 2026 — « Cl0p vs ShinyHunters : les cybercriminels se font la guerre » (ITforBusiness.fr)"
     }
    ],
    "mots": "Cl0p ransomware MOVEit Transfer 2023 exfiltration données extorsion"
@@ -623,6 +743,10 @@
     {
      "l": "Identifiant MITRE",
      "v": "À compléter"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "9 octobre 2026 — « Ransomware Negotiator Angelo Martino Gets 70 Months for Helping BlackCat » (eSecurity Planet)"
     }
    ],
    "mots": "BlackCat ALPHV ransomware MGM Resorts 2023 ingénierie sociale"
@@ -655,6 +779,18 @@
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G1024 — https://attack.mitre.org/groups/G1024/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "GOLD SAHARA, PUNK SPIDER, Howling Scorpius"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "27 octobre 2026 — « Ransomwares & piratages : 13 cyberattaques d’ampleur du 27 octobre 2026 (dont Akira) » (DCOD Cybersécurité)"
     }
    ],
    "mots": "Akira ransomware origine non établie"
@@ -698,6 +834,18 @@
      "l": "Particularité",
      "v": "Forte exploitation du facteur humain plutôt que dépendance exclusive aux malwares.",
      "w": 1
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G1015 — https://attack.mitre.org/groups/G1015/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Roasted 0ktapus, Octo Tempest, Storm-0875, UNC3944"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "5 novembre 2026 — « Black Hat Europe 2026 Keynotes to Address AI Security Blind Spots and the Network Behind Scattered Spider and Lapsus$ » (Business Wire)"
     }
    ],
    "mots": "Scattered Spider ingénierie sociale SIM swapping MFA assistance informatique télécommunications cloud"
@@ -736,6 +884,10 @@
     {
      "l": "Cibles",
      "v": "Gouvernements, organisations politiques, entreprises et institutions contestées."
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "5 novembre 2026 — « Hacker group Anonymous announced to destroy Facebook Nov. 5 » (EITB)"
     }
    ],
    "mots": "Anonymous hacktivisme DDoS divulgation données défiguration sites mouvement décentralisé"
@@ -760,6 +912,10 @@
     {
      "l": "Statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "2 novembre 2026 — « Sabu's LulzSec And \"The Omegs\" Leader - 2015-07-22 - Finding Mr. Robot's Many Easter Eggs » (Forbes)"
     }
    ],
    "mots": "LulzSec hacktivisme international"
@@ -846,6 +1002,10 @@
      "l": "Particularité",
      "v": "Mobilisation de sympathisants et participants autour d'objectifs communs.",
      "w": 1
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "9 novembre 2026 — « NoName057(16) doxxes 18 EU officials on Tor site » (Cybernews)"
     }
    ],
    "mots": "NoName057(16) Russie pro-russe DDoSia banques transports administrations européennes"
