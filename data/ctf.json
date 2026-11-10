@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09",
+ "maj": "2026-11-10",
  "intro": "Compétitions, classements et corrigés de Capture The Flag : une veille indépendante qui croise plusieurs sources et vérifie ce qu’elle publie.",
  "debuter": "Choisissez une catégorie, une plateforme d’entraînement et documentez chaque résolution : c’est la meilleure façon de progresser.",
  "classTitre": "Classement mondial 2026",
@@ -104,13 +104,13 @@
    "duree": "1 j",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 24.23",
-   "url": "https://h4ckc0n.in/",
+   "url": "https://h4ckc0n.ctfd.io/",
    "mode": "online",
    "poids": 24.23,
    "src": [
     "CTFtime"
    ],
-   "verif": "ko",
+   "verif": "ok",
    "ecart": 0,
    "id": "ct3464",
    "auto": 1
@@ -513,6 +513,42 @@
  ],
  "writeups": [
   {
+   "id": "w984e4d06",
+   "cat": "Autre",
+   "titre": "[CTF] New \"Intermediate\" vulnerable VM aka \"Aegis\" at hackmyvm.eu",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xshjx0/ctf_new_intermediate_vulnerable_vm_aka_aegis_at/",
+   "d": "2026-11-10",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "w5727f446",
+   "cat": "Reverse",
+   "titre": "9th November – Threat Intelligence Report",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/",
+   "d": "2026-11-09",
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "w522f6669",
+   "cat": "Autre",
+   "titre": "Bad CTF advice",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xrtost/bad_ctf_advice/",
+   "d": "2026-11-09",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
    "id": "wbcbbb268",
    "cat": "Forensic",
    "titre": "Comprehensive Freemium CTF Ready Guide",
@@ -861,18 +897,6 @@
    "auto": 1
   },
   {
-   "id": "wb4069083",
-   "cat": "Autre",
-   "titre": "[CTF] New \"Beginner\" vulnerable VM aka \"Madlabs\" at hackmyvm.eu",
-   "niveau": "",
-   "url": "https://www.reddit.com/r/securityCTF/comments/1xkggx7/ctf_new_beginner_vulnerable_vm_aka_madlabs_at/",
-   "d": "2026-10-31",
-   "s": "Reddit r/securityCTF",
-   "n": 1,
-   "v": 0,
-   "auto": 1
-  },
-  {
    "id": "wdbf485e3",
    "cat": "Web",
    "titre": "Intigriti Bug Bytes #241 - October 2026 🚀",
@@ -902,18 +926,6 @@
    "titre": "Everyone in the competition failed to solve this CTF challenge. Can you crack it?",
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xjp31y/everyone_in_the_competition_failed_to_solve_this/",
-   "d": "2026-10-30",
-   "s": "Reddit r/securityCTF",
-   "n": 1,
-   "v": 0,
-   "auto": 1
-  },
-  {
-   "id": "wb4246573",
-   "cat": "Autre",
-   "titre": "Constantly needing to consult write-ups",
-   "niveau": "",
-   "url": "https://www.reddit.com/r/securityCTF/comments/1xjghvn/constantly_needing_to_consult_writeups/",
    "d": "2026-10-30",
    "s": "Reddit r/securityCTF",
    "n": 1,
@@ -999,18 +1011,6 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/",
    "d": "2026-10-20",
-   "s": "Check Point Research",
-   "n": 1,
-   "v": 1,
-   "auto": 1
-  },
-  {
-   "id": "w63bc80e5",
-   "cat": "Reverse",
-   "titre": "19th October – Threat Intelligence Report",
-   "niveau": "",
-   "url": "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/",
-   "d": "2026-10-19",
    "s": "Check Point Research",
    "n": 1,
    "v": 1,
