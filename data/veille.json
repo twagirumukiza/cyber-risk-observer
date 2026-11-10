@@ -1,5 +1,43 @@
 [
  {
+  "id": "073680801d68",
+  "source": "Le Monde Économie",
+  "rubrique": 5,
+  "titre": "Une commission préconise de mieux encadrer les assistants IA, de ChatGPT à Gemini ou Grok",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/10/une-commission-preconise-de-mieux-encadrer-les-assistants-ia-de-chatgpt-a-gemini-ou-grok_6808789_3234.html",
+  "date": "2026-11-10",
+  "resume": "Mandaté par le gouvernement, le Conseil de l’IA et du numérique rend, mardi 10 novembre, son rapport sur l’exploitation des « vulnérabilités » des utilisateurs par les services d’intelligence artificielle.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité",
+   "IA"
+  ],
+  "score": 9
+ },
+ {
+  "id": "e93ceeba7ed0",
+  "source": "Le Monde International",
+  "rubrique": 3,
+  "titre": "L’Australie va renforcer sa régulation de l’IA après un piratage de plateformes gouvernementales par un modèle d’OpenAI",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/10/l-australie-va-renforcer-sa-regulation-de-l-ia-apres-un-piratage-de-plateformes-gouvernementales-par-un-modele-d-openai_6808770_4408996.html",
+  "date": "2026-11-10",
+  "resume": "Une nouvelle autorité de régulation va être créée dans le but de mieux encadrer le secteur. Cela survient après qu’un agent autonome d’OpenAI a infiltré un site Internet du gouvernement australien en juin.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
   "id": "19df3c9cef04",
   "source": "ZATAZ",
   "rubrique": 1,
@@ -37,6 +75,26 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité",
    "Cloud"
+  ],
+  "score": 13
+ },
+ {
+  "id": "f79a56389805",
+  "source": "Neowin",
+  "rubrique": 2,
+  "titre": "Vanderbilt University suffers potential ransomware attack, data breach",
+  "url": "https://www.neowin.net/news/vanderbilt-university-suffers-potential-ransomware-attack-data-breach/",
+  "date": "2026-11-09",
+  "resume": "Vanderbilt University is asking students and faculty to shut down their devices after a cyberattack was detected. A ransomware gang claims responsibility for the incident.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Fuite de données"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Fuite de données"
   ],
   "score": 13
  },
@@ -342,6 +400,24 @@
   "score": 9
  },
  {
+  "id": "48d9ef3d98d6",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+  "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+  "date": "2026-11-09",
+  "resume": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel"
+  ],
+  "tags": [
+   "Rançongiciel"
+  ],
+  "score": 9
+ },
+ {
   "id": "72dc008bf0b5",
   "source": "ZATAZ",
   "rubrique": 0,
@@ -519,6 +595,42 @@
   "url": "https://www.atg.wa.gov/news/news-releases/ag-s-annual-data-breach-report-recommends-stronger-protections-washingtonians",
   "date": "2026-11-09",
   "resume": "“Every day, Washingtonians entrust their personal information to private companies and public institutions. Their data should be secured and not shared without their consent,” said Attorney General ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
+  "id": "fb65eccd7583",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "SEGA newsletter data breach exposes 2.2 million email addresses",
+  "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+  "date": "2026-11-09",
+  "resume": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
+  "id": "fbef9877a5bf",
+  "source": "KHQ",
+  "rubrique": 2,
+  "titre": "197 data breaches reported in Washington from July 2025-2026",
+  "url": "https://www.khq.com/news/197-data-breaches-reported-in-washington-from-july-2025-2026/article_22d48361-aa84-4a54-a081-d51c28cce353.html",
+  "date": "2026-11-09",
+  "resume": "Washington businesses, government agencies and institutions reported a total of 197 data breaches from July 2025 to July 2026.",
   "criticite": "",
   "poids": 1,
   "menaces": [
@@ -801,6 +913,204 @@
   "score": 6
  },
  {
+  "id": "94822e5a83e8",
+  "source": "France 24",
+  "rubrique": 1,
+  "titre": "Cyberattaques contre des frigos de supermarchés : la France accuse l'Iran",
+  "url": "https://www.france24.com/fr/europe/20261109-cyberattaques-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-france-pointe-doigt-iran",
+  "date": "2026-11-09",
+  "resume": "Des juges d'instruction ont été chargés lundi d'enquêter sur les cyberattaques ayant visé des réfrigérateurs de supermarchés en octobre, les investigations s'orientant vers l'Iran, a annoncé la procur ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "59b842a294fe",
+  "source": "Le Figaro",
+  "rubrique": 3,
+  "titre": "Cyberattaque contre des frigos de supermarchés : les services français identifient la main de l’Iran",
+  "url": "https://www.lefigaro.fr/international/cyberattaques-contre-des-frigos-de-supermarches-les-services-francais-identifient-la-main-de-l-iran-20261109",
+  "date": "2026-11-09",
+  "resume": "INFO LE FIGARO - Les services de renseignement pointent la responsabilité du régime des mollahs derrière les piratages qui ont déréglé les températures de réfrigérateurs de centaines de supermarchés e ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "6f59863fe58c",
+  "source": "Presse-citron",
+  "rubrique": 3,
+  "titre": "“Sabotage sur le territoire national” : la France révèle l’auteur de la cyberattaque qui a touché 700 supermarchés en octobre",
+  "url": "https://www.presse-citron.net/sabotage-france-auteur-cyberattaque-supermarches/",
+  "date": "2026-11-09",
+  "resume": "La France accuse l’Iran d’avoir mené la cyberattaque qui a ciblé les installations frigorifiques de 700 supermarchés en octobre, et qui a causé des pertes de denrées alimentaires, ainsi que des débuts ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "c539081f8e4d",
+  "source": "l'Opinion",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des frigos en France : l’Iran à la manœuvre",
+  "url": "https://www.lopinion.fr/economie/cyberattaque-contre-des-frigos-en-europe-liran-a-la-man%C5%93uvre",
+  "date": "2026-11-09",
+  "resume": "D’après le parquet de Paris, un groupe de hackers affiliés aux Gardiens de la révolution iraniens serait à l’origine de la cyberattaque inédite qui avait visé près de 700 supermarchés ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "a0411948e915",
+  "source": "La Presse",
+  "rubrique": 1,
+  "titre": "France L’Iran accusé d’être responsable de la cyberattaque contre les réfrigérateurs",
+  "url": "https://www.lapresse.ca/international/europe/2026-11-09/france/l-iran-accuse-d-etre-responsable-de-la-cyberattaque-contre-les-refrigerateurs.php",
+  "date": "2026-11-09",
+  "resume": "Les Gardiens de la révolution de la République islamique d’Iran sont derrière la cyberattaque contre les réfrigérateurs de supermarchés au mois d’octobre en France, a dénoncé lundi le chef de la diplo ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "7ffe5f71d766",
+  "source": "La Voix du Nord",
+  "rubrique": 1,
+  "titre": "La France accuse l’Iran d’être à l’origine de la cyberattaque ayant touché de nombreux réfrigérateurs et congélateurs en France",
+  "url": "https://www.lavoixdunord.fr/1753476/article/2026-11-09/la-france-accuse-l-iran-d-etre-l-origine-de-la-cyberattaque-ayant-touche-de",
+  "date": "2026-11-09",
+  "resume": "Des juges d’instruction ont été chargés lundi d’enquêter sur les cyberattaques d’ampleur ayant visé des réfrigérateurs connectés de supermarchés en octobre, les investigations s’orientant vers les Gar ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "ba90a035ed52",
+  "source": "Paris Match via MSN",
+  "rubrique": 1,
+  "titre": "Cyberattaque des supermarchés : derrière les frigos sabotés en France, la piste des Gardiens de la Révolution iraniens",
+  "url": "https://www.msn.com/fr-fr/actualite/other/cyberattaque-des-supermarch%C3%A9s-derri%C3%A8re-les-frigos-sabot%C3%A9s-en-france-la-piste-des-gardiens-de-la-r%C3%A9volution-iraniens/ar-AA2h57gG",
+  "date": "2026-11-09",
+  "resume": "Après le sabotage à distance des réfrigérateurs d'environ 700 sites de la grande distribution, la justice française soupçonne une unité liée aux Gardiens de la Révolution iraniens. Les attaques d'octo ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "33bd898d83fa",
+  "source": "La Croix",
+  "rubrique": 1,
+  "titre": "Piratage des frigos : la France accuse l’Iran d’être à l’origine de la cyberattaque",
+  "url": "https://www.la-croix.com/international/piratage-des-frigos-la-france-accuse-l-iran-detre-a-lorigine-de-la-cyberattaque-20261109",
+  "date": "2026-11-09",
+  "resume": "La France accuse l’Iran d’être à l’origine des cyberattaques contre des réfrigérateurs connectés de supermarchés. Lundi 9 novembre, Jean-Noël Barrot a annoncé des sanctions européennes et la convocati ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "e61f32453444",
+  "source": "L'Obs via MSN",
+  "rubrique": 5,
+  "titre": "Cyberattaque contre des frigos : l’Iran mis en cause par la France, une enquête ouverte par le parquet",
+  "url": "https://www.msn.com/fr-fr/actualite/other/cyberattaque-contre-des-frigos-l-iran-mis-en-cause-par-la-france-une-enqu%C3%AAte-ouverte-par-le-parquet/ar-AA2h5iYe",
+  "date": "2026-11-09",
+  "resume": "Après l’attaque qui a visé des centaines de frigos dans des supermarchés en octobre, la France a ouvert une enquête contre une unité des Gardiens de la Révolution.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "be44a302855f",
+  "source": "RMC via MSN",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des frigos de supermarchés: la France accuse l'Iran et promet des sanctions",
+  "url": "https://www.msn.com/fr-fr/actualite/other/cyberattaque-contre-des-frigos-de-supermarch%C3%A9s-la-france-accuse-liran-et-promet-des-sanctions/ar-AA2h6JN0",
+  "date": "2026-11-09",
+  "resume": "La France a accusé lundi les Gardiens de la révolution iraniens d'être à l'origine des cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés en octobre, prometta ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "9f348a438cda",
+  "source": "France Info",
+  "rubrique": 1,
+  "titre": "La France accuse l’Iran de la cyberattaque contre des frigos de supermarchés",
+  "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-accuse-l-iran-de-la-cyberattaque-contre-des-frigos-de-supermarches_8275238.html",
+  "date": "2026-11-09",
+  "resume": "La France accuse les Gardiens de la Révolution iraniens d’être à l’origine de la cyberattaque de frigos, survenue en octobre dernier dans plus de 700 supermarchés. Une enquête a été ouverte.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
   "id": "3e31a53a7042",
   "source": "Le Monde Pixels",
   "rubrique": 4,
@@ -977,7 +1287,7 @@
    "Rançongiciel",
    "IA"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "1de613bc3c69",
@@ -996,7 +1306,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "5fe720035f19",
@@ -1014,7 +1324,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "a7de4cf79bd4",
@@ -1032,7 +1342,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "984b6e74b734",
@@ -1048,7 +1358,25 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
+ },
+ {
+  "id": "21f3c4563d3a",
+  "source": "cyberattaque.org",
+  "rubrique": 2,
+  "titre": "Observatoire indépendant des cyberattaques",
+  "url": "https://www.cyberattaque.org/",
+  "date": "2026-11-08",
+  "resume": "Lanceur d’alerte en temps réel sur les cyberattaques en cours, pour révéler les menaces d’aujourd’hui et anticiper celles de demain.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
  },
  {
   "id": "840fc9184c68",
@@ -1064,7 +1392,7 @@
   "tags": [
    "Cloud"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "c259409c11b2",
@@ -1082,7 +1410,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "0a175a74e4d7",
@@ -1098,7 +1426,7 @@
   "tags": [
    "Sauvegarde"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "b460fe1d81cc",
@@ -1110,20 +1438,6 @@
   "resume": "Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.",
   "criticite": "",
   "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "10b39fdf84b3",
-  "source": "adi.dj",
-  "rubrique": 7,
-  "titre": "Menaces numériques : l'ANC restitue à l'Assemblée les enseignements de sa campagne",
-  "url": "https://www.adi.dj/article/139083",
-  "date": "2026-11-08",
-  "resume": "DJIBOUTI, 9 novembre 2026 (#ADI) – L'Assemblée nationale a abrité lundi matin un atelier consacré à la restitution des recommandations issues de la campagne de sensibilisation à la cybersécurité, cond ...",
-  "criticite": "",
-  "poids": 0,
   "menaces": [],
   "tags": [],
   "score": 3
@@ -1416,7 +1730,7 @@
    "Vulnérabilité",
    "Identité & accès"
   ],
-  "score": 13,
+  "score": 12,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1441,7 +1755,7 @@
    "Hameçonnage / fraude",
    "Cyberattaque"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "0d44818266ae",
@@ -1458,7 +1772,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -1479,7 +1793,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -1500,7 +1814,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -1521,7 +1835,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
@@ -1542,7 +1856,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
@@ -1563,7 +1877,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 9,
+  "score": 8,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
@@ -1583,7 +1897,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1602,7 +1916,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1621,7 +1935,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1640,7 +1954,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1659,7 +1973,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1678,7 +1992,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1697,7 +2011,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1716,7 +2030,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1735,7 +2049,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1754,7 +2068,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1773,7 +2087,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1792,7 +2106,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1811,7 +2125,7 @@
    "Vulnérabilité / zero-day",
    "IA"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1830,7 +2144,7 @@
    "Vulnérabilité / zero-day",
    "IA"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1849,7 +2163,7 @@
    "Cyberattaque",
    "IA"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Cyberattaque"
   ]
@@ -1868,7 +2182,7 @@
    "Vulnérabilité / zero-day",
    "IA"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1887,7 +2201,7 @@
    "Logiciel malveillant",
    "Cyberattaque"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Logiciel malveillant",
    "Cyberattaque"
@@ -1909,7 +2223,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "97d7db0e7e4a",
@@ -1924,7 +2238,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": [
    "Cyberattaque"
   ]
@@ -1942,7 +2256,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": [
    "Cyberattaque"
   ]
@@ -1960,7 +2274,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -1978,7 +2292,7 @@
   "tags": [
    "Logiciel malveillant"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": [
    "Logiciel malveillant"
   ]
@@ -1999,7 +2313,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "04e33e6de3ef",
@@ -2017,7 +2331,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "25ddeae24f0b",
@@ -2035,7 +2349,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "263229d2e66d",
@@ -2053,7 +2367,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
+  "score": 4
  },
  {
   "id": "8ef0a1c8dd80",
@@ -2068,7 +2382,7 @@
   "tags": [
    "Espionnage / acteur étatique"
   ],
-  "score": 4,
+  "score": 3,
   "menaces": [
    "Espionnage / acteur étatique"
   ]
@@ -2086,7 +2400,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 4,
+  "score": 3,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -2104,80 +2418,10 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 4,
+  "score": 3,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
- },
- {
-  "id": "3a8f9a3bb5fd",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "MetaMask says recent attack didn't affect wallet infrastructure",
-  "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-  "date": "2026-11-06",
-  "resume": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "6625b8a777d1",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "The Flood is Coming And The Pipes Were Already Full",
-  "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-  "date": "2026-11-06",
-  "resume": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "af6d1b8b9d25",
-  "source": "BleepingComputer",
-  "rubrique": 1,
-  "titre": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-  "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-  "date": "2026-11-06",
-  "resume": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "3647bbef0072",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-  "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-  "date": "2026-11-06",
-  "resume": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "f8e9629a67be",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Chainalysis says breach exposed credentials for all customers",
-  "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-  "date": "2026-11-06",
-  "resume": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [],
-  "score": 3,
-  "menaces": []
  },
  {
   "id": "306be99284dc",
@@ -4279,7 +4523,7 @@
    "Logiciel malveillant",
    "IA"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "b5d7e7f89b62",
@@ -4299,7 +4543,7 @@
    "Rançongiciel",
    "Fuite de données"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "65afadf0cbc2",
@@ -4318,7 +4562,7 @@
    "Cyberattaque",
    "Hameçonnage"
   ],
-  "score": 10,
+  "score": 9,
   "menaces": [
    "Hameçonnage / fraude",
    "Logiciel malveillant",
@@ -4341,7 +4585,7 @@
    "Vulnérabilité",
    "IA"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4361,7 +4605,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4382,7 +4626,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4403,7 +4647,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4422,7 +4666,7 @@
   "tags": [
    "Rançongiciel"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Rançongiciel"
   ]
@@ -4441,7 +4685,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4460,7 +4704,7 @@
    "Cyberattaque",
    "CTF"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Cyberattaque"
   ]
@@ -4479,7 +4723,7 @@
    "Cyberattaque",
    "CTF"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Cyberattaque"
   ]
@@ -4498,7 +4742,7 @@
    "Logiciel malveillant",
    "IA"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Logiciel malveillant"
   ]
@@ -4517,7 +4761,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4536,7 +4780,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4555,7 +4799,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4574,7 +4818,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4593,7 +4837,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4612,7 +4856,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4631,7 +4875,7 @@
    "Cyberattaque",
    "IA"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Cyberattaque"
   ]
@@ -4649,7 +4893,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4665,7 +4909,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4681,7 +4925,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4697,7 +4941,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4713,7 +4957,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4729,7 +4973,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4745,7 +4989,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4761,7 +5005,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4777,7 +5021,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4793,7 +5037,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4809,7 +5053,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4825,7 +5069,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4841,7 +5085,7 @@
   "tags": [
    "IA"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4857,7 +5101,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4873,7 +5117,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 5,
+  "score": 4,
   "menaces": []
  },
  {
@@ -4889,7 +5133,7 @@
   "tags": [
    "IA"
   ],
-  "score": 4,
+  "score": 3,
   "menaces": []
  },
  {
@@ -4905,7 +5149,7 @@
   "tags": [
    "IA"
   ],
-  "score": 4,
+  "score": 3,
   "menaces": []
  },
  {
@@ -4924,7 +5168,7 @@
   "tags": [
    "Logiciel malveillant"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "623ad24a81a8",
@@ -4942,7 +5186,7 @@
   "tags": [
    "Logiciel malveillant"
   ],
-  "score": 4
+  "score": 3
  },
  {
   "id": "93586af00355",
@@ -4960,79 +5204,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 4
- },
- {
-  "id": "ae2e2ef00284",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "CSCTF 2026",
-  "url": "https://ctftime.org/event/3333",
-  "date": "2026-11-02",
-  "resume": "Name: CSCTF 2026 (an CSCTF event.) Date: Nov. 6, 2026, 1 p.m. &mdash; 08 Nov. 2026, 13:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://2026.chronos-security.ro/ Rating weight: 0.00 Event organizers: Mirachron",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "f19446d8b2a2",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "SpookyCTF 2026",
-  "url": "https://ctftime.org/event/3339",
-  "date": "2026-11-02",
-  "resume": "Name: SpookyCTF 2026 (an SpookyCTF event.) Date: Nov. 6, 2026, 5 p.m. &mdash; 07 Nov. 2026, 17:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://spooky.ctfd.io/ Rating weight: 0.00 Event organizers: NICC",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "8c2cd01c4a4a",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "Platypwn 2026",
-  "url": "https://ctftime.org/event/3082",
-  "date": "2026-11-02",
-  "resume": "Name: Platypwn 2026 (an Platypwn event.) Date: Nov. 13, 2026, 5 p.m. &mdash; 14 Nov. 2026, 11:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://platypwnies.de/events/platypwn/ Rating weight: 37.00 Event organizers: Platypwnies",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "b591c06b5e98",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "WolvCTF 2026",
-  "url": "https://ctftime.org/event/3049",
-  "date": "2026-11-02",
-  "resume": "Name: WolvCTF 2026 (an WolvCTF event.) Date: Nov. 13, 2026, 11 p.m. &mdash; 15 Nov. 2026, 23:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://wolvctf.io/ Rating weight: 0.00 Event organizers: w01verines",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 3,
-  "menaces": []
- },
- {
-  "id": "39749d757eb1",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-  "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-  "date": "2026-11-02",
-  "resume": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Cloud"
-  ],
-  "score": 3,
-  "menaces": []
+  "score": 3
  },
  {
   "id": "af6ffe74845e",
@@ -6238,22 +6410,6 @@
   "score": 3
  },
  {
-  "id": "48624b762766",
-  "source": "Small Business Trends on MSN",
-  "rubrique": 5,
-  "titre": "Microsoft’s 2026 report reveals AI’s impact on cybersecurity threats",
-  "url": "https://www.msn.com/en-us/technology/cybersecurity/microsoft-s-2026-report-reveals-ai-s-impact-on-cybersecurity-threats/ar-AA2gba4g",
-  "date": "2026-10-27",
-  "resume": "Discover how Microsoft's 2026 Report highlights the transformative role of AI in reshaping cybersecurity threats, revealing both challenges and innovative solutions for businesses and individuals ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 3
- },
- {
   "id": "5943b3ba0784",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -6348,24 +6504,6 @@
    "IA"
   ],
   "score": 5
- },
- {
-  "id": "e1dd062f9758",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Point Vision : des données de patients dérobées",
-  "url": "https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/",
-  "date": "2026-10-24",
-  "resume": "Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
  },
  {
   "id": "580394e0c04d",
@@ -6496,42 +6634,6 @@
    "Fuite de données"
   ],
   "score": 5
- },
- {
-  "id": "a3c3135e6fc7",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Technostress : une faille pour l’ingénierie sociale",
-  "url": "https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/",
-  "date": "2026-10-23",
-  "resume": "Technostress et ingénierie sociale : comment la surcharge numérique peut fragiliser la vigilance face aux manipulations.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 3
- },
- {
-  "id": "1724a21ac415",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Piratage de la FFTir : la Fédération confirme le vol",
-  "url": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
-  "date": "2026-10-23",
-  "resume": "FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
  },
  {
   "id": "5afddfa52052",
@@ -6810,24 +6912,6 @@
   "score": 4
  },
  {
-  "id": "518f4b814e25",
-  "source": "epochtimes",
-  "rubrique": 3,
-  "titre": "Cyberattaques : faut‑il mettre en place un « contrôle technique cyber » pour les entreprises ?",
-  "url": "https://www.epochtimes.fr/cyberattaques-mettre-en-place-controle-technique-cyber-entreprises-3376354.html",
-  "date": "2026-10-22",
-  "resume": "Une cyberattaque a visé, mi-octobre, des frigos de supermarchés qui ont dû jeter tous leurs produits surgelés, mettant en lumière le fait que les risques des cyberattaques affectent aussi le monde ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 3
- },
- {
   "id": "544d81cf5323",
   "source": "CERT-FR alertes",
   "rubrique": 2,
@@ -6845,24 +6929,6 @@
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
- },
- {
-  "id": "24755a352d3d",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "Widespread PHP Flaw May Cause Many Site Outages Today",
-  "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-  "date": "2026-10-21",
-  "resume": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 3
  },
  {
   "id": "fb153a3119f4",
@@ -7402,25 +7468,5 @@
    "IA"
   ],
   "score": 5
- },
- {
-  "id": "7f5dd566b2dd",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "FBI Arrests Executive at Ransomware Negotiation Firm",
-  "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-  "date": "2026-10-10",
-  "resume": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Rançongiciel",
-   "Cyberattaque"
-  ],
-  "score": 8,
-  "menaces": [
-   "Rançongiciel",
-   "Cyberattaque"
-  ]
  }
 ]
