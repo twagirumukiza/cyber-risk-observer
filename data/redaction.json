@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-10T10:28:52.367Z",
+ "maj": "2026-11-10T10:42:14.116Z",
  "items": [
   {
    "id": "19df3c9cef04",
    "section": 1,
    "kicker": "",
    "titre": "Cybersécurité : la CNIL sanctionne dix collectivités",
-   "resume": "<p>Rédaction par l’IA en cours… Ce brouillon se complétera tout seul (1 à 4 minutes) : vous pouvez créer d’autres brouillons ou fermer la page.</p>",
+   "resume": "<p>La rédaction par l’IA a échoué : délai dépassé (regardez Actions &gt; « Brouillon détaillé » dans GitHub). Vous pouvez la relancer depuis la Veille ou écrire l’article à la main.</p>",
    "analyse": "",
    "conclusion": "",
    "imgPos": "tete",
@@ -23,7 +23,7 @@
    "uneD": "",
    "uneRJ": 0,
    "uneRD": "",
-   "encours": "19df3c9cef04",
+   "encours": "",
    "ordre": [],
    "imageCarte": "",
    "cX": 50,
