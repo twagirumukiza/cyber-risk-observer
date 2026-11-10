@@ -466,8 +466,9 @@ def article_body(x, base, url, related):
 
     relh = ""
     if related:
-        relh = ("<h2 style='margin-top:26px;font:700 1.3rem var(--head)'>" + ("À lire aussi" if isinstance(x.get("related"), list) else "Dans la même rubrique")
-                + "</h2><ul>" + "".join(f"<li><a href='{u}'>{t}</a></li>" for u, t in related) + "</ul>")
+        ac = ["#2563a8", "#b45309", "#0f766e", "#6d28d9", "#be185d", "#9a5b13"][sec_of(x)] if 0 <= sec_of(x) < 6 else "#2563a8"
+        relh = (f"<section class='rel' style='--ac:{ac}'><h2>" + ("À lire aussi" if isinstance(x.get("related"), list) else "Dans la même rubrique")
+                + "</h2><ul>" + "".join(f"<li><a href='{u}'>{t}</a></li>" for u, t in related) + "</ul></section>")
 
     eu, et = html.escape(url, quote=True), esc(x.get("titre") or "")
     from urllib.parse import quote
@@ -498,6 +499,9 @@ def load_template():
 
 
 EXTRA_CSS = """
+.rel{margin-top:28px}.rel h2{font:700 1.3rem var(--head);margin:0 0 10px;border-left:6px solid var(--ac);padding-left:10px}.rel ul{list-style:none;margin:0;padding:0;border-radius:8px;overflow:hidden}
+.rel li{padding:11px 16px;border-left:6px solid var(--ac);background:color-mix(in srgb,var(--ac) 20%,var(--bg))}.rel li:nth-child(2){background:color-mix(in srgb,var(--ac) 14%,var(--bg))}.rel li:nth-child(n+3){background:color-mix(in srgb,var(--ac) 8%,var(--bg))}
+.rel li+li{border-top:1px solid color-mix(in srgb,var(--ac) 28%,var(--bg))}.rel a{color:var(--ink);font:600 1rem/1.35 var(--head);text-decoration:none}.rel li:hover{background:color-mix(in srgb,var(--ac) 30%,var(--bg))}.rel li:hover a{text-decoration:underline}
 .shl{display:flex;gap:14px;flex-wrap:wrap}.shl a{text-decoration:underline}
 .mast .tabs a{color:#fff;padding:10px 12px;font:600 .95rem var(--head);border-bottom:3px solid transparent;display:inline-block}
 .mast .tabs a[aria-current=page]{border-bottom-color:var(--yel)}.mast .tabs{display:flex;flex-wrap:wrap}
