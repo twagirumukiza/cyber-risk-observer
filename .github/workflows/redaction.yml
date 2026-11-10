@@ -56,7 +56,20 @@ jobs:
           SRC_RUBRIQUE: ${{ inputs.rubrique }}
           SRC_DATE: ${{ inputs.date }}
         run: python collecte/rediger.py
+      - name: Signaler l'échec à l'éditeur
+        if: failure()
+        env:
+          ID: ${{ inputs.id }}
+        run: |
+          python - <<'PY'
+          import json, os, re, datetime
+          i = re.sub(r"[^a-z0-9]", "", os.environ["ID"].lower())[:40]
+          os.makedirs("data/brouillons", exist_ok=True)
+          d = {"erreur": "Le script de rédaction a planté (voir Actions > « Brouillon détaillé » > journal rouge).", "maj": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")}
+          open(f"data/brouillons/{i}.json", "w").write(json.dumps(d, ensure_ascii=False))
+          PY
       - name: Enregistrer
+        if: always()
         run: |
           git config user.name "redaction-bot"
           git config user.email "redaction-bot@users.noreply.github.com"
