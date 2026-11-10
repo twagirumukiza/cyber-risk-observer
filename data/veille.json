@@ -1,5 +1,47 @@
 [
  {
+  "id": "5c78a96f27ab",
+  "source": "Newsweek",
+  "rubrique": 2,
+  "titre": "DaVita Health Care $15M Data Breach Settlement: Who Can Claim Payment",
+  "url": "https://www.newsweek.com/davita-health-care-15m-data-breach-settlement-who-can-claim-payment-12697347",
+  "date": "2026-11-10",
+  "resume": "The settlement stems from an April 2025 ransomware attack against DaVita that potentially allowed hackers to access information.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "score": 15
+ },
+ {
+  "id": "87cee7be5686",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-116606 – Barracuda Networks Barracuda Email Security Gateway (ESG) : Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
+  "date": "2026-11-10",
+  "resume": "Barracuda Networks Email Security Gateway (ESG) contains an authentication bypass using an alternate path or channel that could allow an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration. This vulnerability can be chained with CVE-2026-111560.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité",
+   "Sauvegarde"
+  ],
+  "score": 13
+ },
+ {
   "id": "89d6f6254d42",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -16,6 +58,101 @@
   "tags": [
    "Vulnérabilité / zero-day",
    "Fuite de données",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "fe16241dfb0c",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-124194 – Microsoft Office : Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
+  "date": "2026-11-10",
+  "resume": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "0c134491b82b",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-111793 – Openwave Messaging Limited Webtop Media Transcoder : Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
+  "date": "2026-11-10",
+  "resume": "Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "588033e85e3e",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-20320 – Cisco BroadWorks : Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
+  "date": "2026-11-10",
+  "resume": "Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "255a7e2e04ea",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-111560 – Barracuda Networks Multiple Products : Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
+  "date": "2026-11-10",
+  "resume": "Barracuda Networks Email Security Gateway (ESG), Load Balancer, Application Delivery Controller (ADC), Message Archiver (BMA), WAF Control Center (WCC), Web Application Firewall (WAF), and Web Security Gateway (WSG) contain an OS command injection vulnerability. This vulnerability could allow an authenticated administrator to inject OS commands that execute with root privileges when the crafted ti",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "9272d747390f",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-125350 – Google Chromium : Google Chromium Use-After-Free Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
+  "date": "2026-11-10",
+  "resume": "Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
   "score": 12
@@ -48,6 +185,88 @@
   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
   "date": "2026-11-10",
   "resume": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 11
+ },
+ {
+  "id": "16367edd00b6",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Railway breach leads to $740,000 in fraudulent AI charges",
+  "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+  "date": "2026-11-10",
+  "resume": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "IA",
+   "Cloud"
+  ],
+  "score": 11
+ },
+ {
+  "id": "50eb1dccf495",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+  "date": "2026-11-10",
+  "resume": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 11
+ },
+ {
+  "id": "008f66d06450",
+  "source": "SecurityWeek",
+  "rubrique": 2,
+  "titre": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+  "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+  "date": "2026-11-10",
+  "resume": "Microsoft’s October 2026 Patch Tuesday updates fix over 1,000 vulnerabilities, including an exploited Outlook zero-day, CVE-2026-124194.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 11
+ },
+ {
+  "id": "ee38906c3a6e",
+  "source": "Online Tech Tips",
+  "rubrique": 2,
+  "titre": "Google releases emergency Chrome patch for actively exploited zero-day vulnerability",
+  "url": "https://www.online-tech-tips.com/google-emergency-chrome-patch-zero-day-cve-2026-125350/",
+  "date": "2026-11-10",
+  "resume": "Google rushed out a Chrome fix for CVE-2026-125350, an actively exploited zero-day. Here's what changed, which version fixes it, and how to check yours.",
   "criticite": "",
   "poids": 1,
   "menaces": [
@@ -248,6 +467,27 @@
   "score": 10
  },
  {
+  "id": "9398616ade4d",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+  "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+  "date": "2026-11-10",
+  "resume": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turns authenticationToken=j:%7B%7D into {},\" Vates VMS said in an alert. \"REST authentication passes that object to the",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
   "id": "073680801d68",
   "source": "Le Monde Économie",
   "rubrique": 5,
@@ -332,6 +572,103 @@
   "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
   "date": "2026-11-10",
   "resume": "N-able has taken N-central offline after a researcher published more than 30 zero-day vulnerabilities on GitHub.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
+ },
+ {
+  "id": "193a689f6d04",
+  "source": "CISA avis",
+  "rubrique": 2,
+  "titre": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+  "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+  "date": "2026-11-10",
+  "resume": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp; CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability&nbsp; CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcod",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 9
+ },
+ {
+  "id": "09de80ae0aa4",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+  "date": "2026-11-10",
+  "resume": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "Cloud"
+  ],
+  "score": 9
+ },
+ {
+  "id": "9364f9baac68",
+  "source": "Krebs on Security",
+  "rubrique": 2,
+  "titre": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+  "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+  "date": "2026-11-10",
+  "resume": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
+ },
+ {
+  "id": "2a555df5f60a",
+  "source": "The Register",
+  "rubrique": 2,
+  "titre": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+  "url": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
+  "date": "2026-11-10",
+  "resume": "It’s another doozy of a Patch Tuesday, with Microsoft fixing 1,094 bugs in its products, including one that attackers exploited before Redmond released a patch. Jake Knott, head of threat intelligence ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
+ },
+ {
+  "id": "6eba82e6120d",
+  "source": "Softonic",
+  "rubrique": 2,
+  "titre": "Chrome updated for exploited zero-day: patch fixes 9 flaws",
+  "url": "https://en.softonic.com/articles/chrome-updated-for-exploited-zero-day-patch-fixes-9-flaws",
+  "date": "2026-11-10",
+  "resume": "Google pushed out a Chrome security update on November 9, 2026, moving the browser to versions 157.0.8103.50 and 157.0.8103.51. The release fixes nine ...",
   "criticite": "",
   "poids": 1,
   "menaces": [
@@ -592,6 +929,273 @@
   "score": 8
  },
  {
+  "id": "b86930e18372",
+  "source": "The Hacker News",
+  "rubrique": 1,
+  "titre": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+  "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+  "date": "2026-11-10",
+  "resume": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "b958c2272095",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+  "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+  "date": "2026-11-10",
+  "resume": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "IA"
+  ],
+  "score": 8
+ },
+ {
+  "id": "440712bd8e4f",
+  "source": "Euronews via MSN",
+  "rubrique": 5,
+  "titre": "Attaques sur frigos : le chef cybersécurité de l’UE alerte sur les appareils domestiques",
+  "url": "https://www.msn.com/fr-xl/actualite/other/attaques-sur-frigos-le-chef-cybers%C3%A9curit%C3%A9-de-l-ue-alerte-sur-les-appareils-domestiques/ar-AA2h8xvf",
+  "date": "2026-11-10",
+  "resume": "L'intelligence artificielle transforme le paysage de la cybersécurité, créant des opportunités pour une meilleure défense comme pour l'attaque, selon le dernier rapport de l'ENISA. View on euronews ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA",
+   "Institutions"
+  ],
+  "score": 8
+ },
+ {
+  "id": "2459e55e4ac7",
+  "source": "Euronews via MSN",
+  "rubrique": 5,
+  "titre": "ENISA alerte : après les frigos piratés, les appareils domestiques pourraient suivre",
+  "url": "https://www.msn.com/fr-be/actualite/other/enisa-alerte-apr%C3%A8s-les-frigos-pirat%C3%A9s-les-appareils-domestiques-pourraient-suivre/ar-AA2h9r7e",
+  "date": "2026-11-10",
+  "resume": "L'intelligence artificielle transforme le paysage de la cybersécurité, en créant des opportunités de meilleure défense comme d'attaque, selon le dernier rapport d'ENISA. View on euronews ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA",
+   "Institutions"
+  ],
+  "score": 8
+ },
+ {
+  "id": "ce5dbb7e24f6",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+  "date": "2026-11-10",
+  "resume": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Espionnage / acteur étatique"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique",
+   "IA"
+  ],
+  "score": 7
+ },
+ {
+  "id": "d6ca6bfa62de",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "CSAW CTF Final Round 2026",
+  "url": "https://ctftime.org/event/3410",
+  "date": "2026-11-10",
+  "resume": "Name: CSAW CTF Final Round 2026 (an CSAW CTF Final Round event.) Date: Nov. 12, 2026, 5 p.m. &mdash; 14 Nov. 2026, 05:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://ctf.csaw.io/ Rating weight: 1.00 Event organizers: NYUSEC",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "8ee50c123a62",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "TVX CTF 2026",
+  "url": "https://ctftime.org/event/3486",
+  "date": "2026-11-10",
+  "resume": "Name: TVX CTF 2026 (an TVX CTF event.) Date: Nov. 13, 2026, 10 a.m. &mdash; 13 Nov. 2026, 20:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://ctf-techvisions.com/ Rating weight: 0 Event organizers: Tech Visions",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "1fa14cb537c4",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "EyesOpenCTF 7th edition",
+  "url": "https://ctftime.org/event/3419",
+  "date": "2026-11-10",
+  "resume": "Name: EyesOpenCTF 7th edition (an EyesOpenCTF event.) Date: Nov. 20, 2026, 10 a.m. &mdash; 22 Nov. 2026, 10:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://eyesopensecurity.com/ctf-briefing.html Rating weight: 0.00 Event organizers: EyesOpen_Security",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "29c393b71fdc",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "GlacierCTF 2026",
+  "url": "https://ctftime.org/event/3337",
+  "date": "2026-11-10",
+  "resume": "Name: GlacierCTF 2026 (an Glacier CTF event.) Date: Nov. 20, 2026, 6 p.m. &mdash; 21 Nov. 2026, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://glacierctf.com/ Rating weight: 73.17 Event organizers: LosFuzzys",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "89c10f3cf70a",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Crate-CTF 2026",
+  "url": "https://ctftime.org/event/3336",
+  "date": "2026-11-10",
+  "resume": "Name: Crate-CTF 2026 (an Crate-CTF event.) Date: Nov. 21, 2026, 1 p.m. &mdash; 21 Nov. 2026, 21:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://foi.se/cratectf Rating weight: 37.00 Event organizers: Crate-CTF",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "11cb442fafd6",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "L3m0n CTF 2026 (Quals)",
+  "url": "https://ctftime.org/event/3485",
+  "date": "2026-11-10",
+  "resume": "Name: L3m0n CTF 2026 (Quals) (an L3m0n CTF event.) Date: Nov. 28, 2026, 4:30 a.m. &mdash; 28 Nov. 2026, 16:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://l3m0nctf.xyz/ Rating weight: 0.00 Event organizers: L3m0n CTF",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "dda435125983",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "BlackHat MEA CTF Final 2026",
+  "url": "https://ctftime.org/event/3386",
+  "date": "2026-11-10",
+  "resume": "Name: BlackHat MEA CTF Final 2026 (an Blackhat MEA CTF event.) Date: Dec. 1, 2026, 3:14 p.m. &mdash; 03 Dec. 2026, 15:14 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: Riyadh, Saudi Arabia Offical URL: https://blackhatmea.com/capture-the-flag Rating weight: 0.00 Event organizers: SAFCSP",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "30885e61afbc",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "bi0sCTF 2026",
+  "url": "https://ctftime.org/event/3480",
+  "date": "2026-11-10",
+  "resume": "Name: bi0sCTF 2026 (an bi0sCTF event.) Date: Dec. 5, 2026, 5 a.m. &mdash; 06 Dec. 2026, 17:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://ctf.bi0s.in/ Rating weight: 79.51 Event organizers: bi0s",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "2c05221f9c82",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "BSides Algiers 2026",
+  "url": "https://ctftime.org/event/3475",
+  "date": "2026-11-10",
+  "resume": "Name: BSides Algiers 2026 (an BSides Algiers event.) Date: Dec. 17, 2026, 7 p.m. &mdash; 19 Dec. 2026, 07:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://shellmates.club/ Rating weight: 22.90 Event organizers: sarrus",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "IA"
+  ],
+  "score": 7
+ },
+ {
+  "id": "89d5ca8e5ffe",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "ASIS CTF Finals 2026",
+  "url": "https://ctftime.org/event/3062",
+  "date": "2026-11-10",
+  "resume": "Name: ASIS CTF Finals 2026 (an ASIS CTF Finals event.) Date: Dec. 27, 2026, 2 p.m. &mdash; 28 Dec. 2026, 14:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://asisctf.com/ Rating weight: 99.38 Event organizers: ASIS",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "b567aa469d0a",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "GaianSpace Perihelion CTF 2027",
+  "url": "https://ctftime.org/event/3492",
+  "date": "2026-11-10",
+  "resume": "Name: GaianSpace Perihelion CTF 2027 (an GaianSpace CTF event.) Date: Jan. 2, 2027, 6 p.m. &mdash; 03 Jan. 2027, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://gaian.space/ctf Rating weight: 25.00 Event organizers: GaianSpace",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
   "id": "7646e96e2e7b",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -667,6 +1271,96 @@
   "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
   "date": "2026-11-10",
   "resume": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 6
+ },
+ {
+  "id": "3ac35ff64736",
+  "source": "The Hacker News",
+  "rubrique": 1,
+  "titre": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+  "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+  "date": "2026-11-10",
+  "resume": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check Point Research is tracking the clusters under the names SilentDelivery,",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant"
+  ],
+  "score": 6
+ },
+ {
+  "id": "230bcad0faf3",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+  "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+  "date": "2026-11-10",
+  "resume": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "33bc3cf0f92e",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+  "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+  "date": "2026-11-10",
+  "resume": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 6
+ },
+ {
+  "id": "2d6a537d6fba",
+  "source": "Le Parisien via MSN",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des frigos : la France convoque l’ambassadeur d’Iran, Téhéran rejette des « accusations infondées »",
+  "url": "https://www.msn.com/fr-fr/actualite/other/cyberattaque-contre-des-frigos-la-france-convoque-l-ambassadeur-d-iran-t%C3%A9h%C3%A9ran-rejette-des-accusations-infond%C3%A9es/ar-AA2h7mLb",
+  "date": "2026-11-10",
+  "resume": "La France va-t-elle riposter ? Alors que la justice française accuse la république islamique d’Iran d’avoir orchestré la cyberattaque contre plus de 700 sites de la grande distribution début octobre,",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "605ee75e7e51",
+  "source": "CyberScoop",
+  "rubrique": 2,
+  "titre": "Microsoft fixes over 1,000 vulnerabilities in November Patch Tuesday",
+  "url": "https://cyberscoop.com/microsoft-patch-tuesday-november-2026/",
+  "date": "2026-11-10",
+  "resume": "Microsoft's November security update addresses roughly 1,090 vulnerabilities across Windows, Office, Azure and the company's other product lines, the second consecutive monthly release to exceed the ...",
   "criticite": "",
   "poids": 1,
   "menaces": [
@@ -796,6 +1490,38 @@
   "score": 5
  },
  {
+  "id": "9134dd9ee739",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : un militaire américain, soupçonné d’espionnage au profit de la Russie, arrêté au Royaume-Uni",
+  "url": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-un-militaire-americain-soupconne-d-espionnage-au-profit-de-la-russie-arrete-au-royaume-uni_6808609_3210.html",
+  "date": "2026-11-10",
+  "resume": "Cet homme de 41 ans a été interpellé, mardi, par la police antiterroriste britannique. Par ailleurs, des négociations entre la Russie et l’Ukraine se tiennent mardi et mercredi aux Emirats arabes unis, dans le cadre d’une médiation américaine.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Espionnage / acteur étatique"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique"
+  ],
+  "score": 5
+ },
+ {
+  "id": "9e1a2733e73a",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "h4ckc0n 2026",
+  "url": "https://ctftime.org/event/3464",
+  "date": "2026-11-10",
+  "resume": "Name: h4ckc0n 2026 (an h4ckc0n event.) Date: Nov. 14, 2026, 3:30 p.m. &mdash; 15 Nov. 2026, 15:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://h4ckc0n.ctfd.io/ Rating weight: 24.23 Event organizers: d4rkc0de",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
+  "score": 5
+ },
+ {
   "id": "4271579ddeba",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -831,6 +1557,20 @@
   "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
   "date": "2026-11-10",
   "resume": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires. The unit",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "9814f0299437",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Microsoft releases Windows 10 KB5131096 extended security update",
+  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+  "date": "2026-11-10",
+  "resume": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
   "criticite": "",
   "poids": 1,
   "menaces": [],
@@ -1238,6 +1978,25 @@
   "score": 9
  },
  {
+  "id": "b61a76823105",
+  "source": "Redmondmag.com",
+  "rubrique": 2,
+  "titre": "Microsoft November Patch Tuesday Fixes More Than 1,000 Flaws, Including Exploited Outlook Zero-Day",
+  "url": "https://redmondmag.com/articles/2026/11/10/microsoft-november-patch-tuesday-fixes-more-than-1000-flaws.aspx",
+  "date": "2026-11-09",
+  "resume": "Microsoft's November Patch Tuesday release fixes more than 1,000 security vulnerabilities for the second consecutive month, including an actively exploited Outlook zero-day that could allow attackers ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
+ },
+ {
   "id": "72dc008bf0b5",
   "source": "ZATAZ",
   "rubrique": 0,
@@ -1458,6 +2217,25 @@
   ],
   "tags": [
    "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
+  "id": "cb7201964903",
+  "source": "Anadolu Agency",
+  "rubrique": 1,
+  "titre": "AI advances, geopolitical tensions fuel growing cyber threats across EU: Cybersecurity agency",
+  "url": "https://www.aa.com.tr/en/europe/ai-advances-geopolitical-tensions-fuel-growing-cyber-threats-across-eu-cybersecurity-agency/4119544",
+  "date": "2026-11-09",
+  "resume": "Agency assesses threat level as 'substantial,' warning organizations remain vulnerable to direct attacks and exploitation of security flaws | Anadolu ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "IA"
   ],
   "score": 8
  },
@@ -2251,22 +3029,6 @@
   "score": 4
  },
  {
-  "id": "0a175a74e4d7",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Un géant de l’informatique visé par une revendication de vol de données",
-  "url": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
-  "date": "2026-11-08",
-  "resume": "Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "Sauvegarde"
-  ],
-  "score": 4
- },
- {
   "id": "ca1a9396bb65",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -2401,140 +3163,6 @@
    "Vulnérabilité / zero-day"
   ],
   "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "824934ef2ea3",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "Seize da Flaq",
-  "url": "https://ctftime.org/event/3408",
-  "date": "2026-11-07",
-  "resume": "Name: Seize da Flaq (an Seize da Flaq event.) Date: Nov. 21, 2026, 6:30 a.m. &mdash; 22 Nov. 2026, 02:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: Mathura, Uttar Pradesh, India Offical URL: https://seizedaflaq.cyberonites.com/ Rating weight: 0 Event organizers: Seize da Flaq",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "030164d51c10",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "CyberSci Regional Qualifiers 2026-27",
-  "url": "https://ctftime.org/event/3436",
-  "date": "2026-11-07",
-  "resume": "Name: CyberSci Regional Qualifiers 2026-27 (an CyberSci event.) Date: Nov. 21, 2026, 3 p.m. &mdash; 21 Nov. 2026, 22:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: Onsite at 6 locations in Canada Offical URL: https://cybersecuritychallenge.ca/ Rating weight: 0 Event organizers: CyberSciOrganizers",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "44994f16eb69",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "LakeCTF Quals 26-27",
-  "url": "https://ctftime.org/event/3474",
-  "date": "2026-11-07",
-  "resume": "Name: LakeCTF Quals 26-27 (an LakeCTF event.) Date: Nov. 27, 2026, 6 p.m. &mdash; 28 Nov. 2026, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://lakectf.epfl.ch/ Rating weight: 45.76 Event organizers: polygl0ts",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "182255dd17e0",
-  "source": "CTFtime",
-  "rubrique": 1,
-  "titre": "CyberNSK2027-Qualifier",
-  "url": "https://ctftime.org/event/3489",
-  "date": "2026-11-07",
-  "resume": "Name: CyberNSK2027-Qualifier (an CyberNSK event.) Date: Nov. 28, 2026, 9 a.m. &mdash; 28 Nov. 2026, 21:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Location: Russia Offical URL: https://quals.sslctf.ru/ Rating weight: 0 Event organizers: siberiansecurityleague",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "f6b7dc22d5c3",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "x3CTF 2026",
-  "url": "https://ctftime.org/event/3450",
-  "date": "2026-11-07",
-  "resume": "Name: x3CTF 2026 (an x3ctf event.) Date: Dec. 4, 2026, 6 p.m. &mdash; 06 Dec. 2026, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://x3c.tf/ Rating weight: 0.00 Event organizers: x3CTF",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "5b72ff8e55a2",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "niteCTF 2026",
-  "url": "https://ctftime.org/event/3367",
-  "date": "2026-11-07",
-  "resume": "Name: niteCTF 2026 (an niteCTF event.) Date: Dec. 11, 2026, noon &mdash; 13 Dec. 2026, 12:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://nitectf.cryptonitemit.in/ Rating weight: 59.00 Event organizers: Cryptonite",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "b4aa9c9e9982",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "Undutmaning 2027",
-  "url": "https://ctftime.org/event/3481",
-  "date": "2026-11-07",
-  "resume": "Name: Undutmaning 2027 (an Undutmaning event.) Date: March 20, 2027, 11 a.m. &mdash; 20 March 2027, 19:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://undutmaning.se/ Rating weight: 44.75 Event organizers: Undutmaning",
-  "criticite": "",
-  "poids": 2,
-  "tags": [],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "ea56feb9a5d8",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Derrière le piratage de Binance, le savoir-faire redoutable des hackeurs nord-coréens",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/07/derriere-le-piratage-de-binance-le-savoir-faire-redoutable-des-hackeurs-nord-coreens_6808134_4408996.html",
-  "date": "2026-11-07",
-  "resume": "Depuis plus de dix ans, le régime de Pyongyang finance son programme balistique et nucléaire à coup de « cybercasses ». Les pirates nord-coréens ont fait de l’industrie des cryptomonnaies leur cible principale, avec succès.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4,
-  "menaces": [
-   "Cyberattaque"
-  ]
- },
- {
-  "id": "53721cd49823",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan",
-  "url": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
-  "date": "2026-11-07",
-  "resume": "A quelque 560 kilomètres de la station balnéaire d’Antalya, où se tiendra à partir de lundi la 31ᵉ Conférence des parties sur le climat, le village de Çogulhan est cerné par deux centrales thermiques au charbon. Les derniers habitants de ce territoire sinistré par quarante ans de pollution refusent les projets d’extension visant à prolonger l’exploitation.",
-  "criticite": "",
-  "poids": 0,
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 4,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -3050,150 +3678,6 @@
   "score": 6
  },
  {
-  "id": "97d7db0e7e4a",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-  "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-  "date": "2026-11-06",
-  "resume": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4,
-  "menaces": [
-   "Cyberattaque"
-  ]
- },
- {
-  "id": "6facdf5f94df",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-  "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-  "date": "2026-11-06",
-  "resume": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4,
-  "menaces": [
-   "Cyberattaque"
-  ]
- },
- {
-  "id": "9fe769e3c933",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-  "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-  "date": "2026-11-06",
-  "resume": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 4,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "a97be9095b72",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Fake security tools on GitHub push backdoors and infostealers",
-  "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-  "date": "2026-11-06",
-  "resume": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Logiciel malveillant"
-  ],
-  "score": 4,
-  "menaces": [
-   "Logiciel malveillant"
-  ]
- },
- {
-  "id": "b1808ab45b66",
-  "source": "BFMTV",
-  "rubrique": 0,
-  "titre": "\"La plus grosse attaque informatique sur un acteur bancaire en France\": comment les banques peuvent-elles éviter une cyberattaque comme au Crédit Mutuel Arkéa?",
-  "url": "https://www.bfmtv.com/crypto/la-plus-grosse-attaque-informatique-sur-un-acteur-bancaire-en-france-comment-les-banques-peuvent-elles-eviter-une-cyberattaque-comme-au-credit-mutuel-arkea_AD-202611060591.html",
-  "date": "2026-11-06",
-  "resume": "La banque française a été victime d'une cyberattaque dont le préjudice s'élève à plus de 100 millions d'euros. L'événement a mis en lumière les risques encourus par le secteur bancaire en France.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "04e33e6de3ef",
-  "source": "Le Télégramme",
-  "rubrique": 0,
-  "titre": "« Crédit Mutuel Arkéa a récupéré déjà une partie » des plus de 100 millions d’euros dérobés suite à la cyberattaque, assure un dirigeant",
-  "url": "https://www.letelegramme.fr/france/credit-mutuel-arkea-a-recupere-deja-une-partie-des-plus-de-100-millions-deuros-derobes-suite-a-la-cyberattaque-assure-un-dirigeant-7153923.php",
-  "date": "2026-11-06",
-  "resume": "Le président du Crédit Mutuel, qui chapeaute Crédit Mutuel Arkéa, a assuré ce vendredi, sur France 5, que le groupe avait déjà récupéré « une partie » des plus de 100 millions d’euros dérobés lors de ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "25ddeae24f0b",
-  "source": "La Presse de Tunisie via MSN",
-  "rubrique": 5,
-  "titre": "Cyberattaque contre le Crédit Mutuel Arkéa en France : plus de 100 millions d’euros détournés, une enquête a été ouverte",
-  "url": "https://www.msn.com/fr-xl/afrique-du-nord/tunisie-actualite/cyberattaque-contre-le-cr%C3%A9dit-mutuel-ark%C3%A9a-en-france-plus-de-100-millions-d-euros-d%C3%A9tourn%C3%A9s-une-enqu%C3%AAte-a-%C3%A9t%C3%A9-ouverte/ar-AA2gT1TJ",
-  "date": "2026-11-06",
-  "resume": "⏱ 1 min de lectureLe Crédit Mutuel Arkéa a été victime d’une cyberattaque au cours de laquelle des hackers auraient détourné plus de 100 millions d’euros. La banque se veut toutefois rassurante et aff ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "263229d2e66d",
-  "source": "RSE Magazine via MSN",
-  "rubrique": 0,
-  "titre": "États-Unis : alerte fédérale sur les cyberattaques de réfrigération",
-  "url": "https://www.msn.com/fr-fr/actualite/other/%C3%A9tats-unis-alerte-f%C3%A9d%C3%A9rale-sur-les-cyberattaques-de-r%C3%A9frig%C3%A9ration/ar-AA2gSUqn",
-  "date": "2026-11-06",
-  "resume": "Cinq agences fédérales américaines ont émis une alerte conjointe le 5 novembre 2026 sur les cyberattaques visant les systèmes de réfrigération industrielle. Des incidents en Europe et aux États-Unis r ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
   "id": "306be99284dc",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -3689,128 +4173,6 @@
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
- },
- {
-  "id": "7e637a2f9fd7",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-  "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-  "date": "2026-11-05",
-  "resume": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "IA"
-  ],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "dad53d7e3ed5",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Closing the Identity Gap at the Service Desk",
-  "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-  "date": "2026-11-05",
-  "resume": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Identité & accès"
-  ],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "0e040b8f64fe",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
-  "url": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
-  "date": "2026-11-05",
-  "resume": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4,
-  "menaces": [
-   "Cyberattaque"
-  ]
- },
- {
-  "id": "697d4c2dd07a",
-  "source": "France 24",
-  "rubrique": 5,
-  "titre": "France : cyberattaque du groupe Crédit Mutuel Arkéa, une enquête ouverte",
-  "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-cyberattaque-du-groupe-cr%C3%A9dit-mutuel-ark%C3%A9a-une-enqu%C3%AAte-ouverte",
-  "date": "2026-11-05",
-  "resume": "La banque Crédit Mutuel Arkéa a déclaré avoir été la cible d'une \"cyberattaque\" dont les pertes sont de l'ordre de plus de 100 millions d'euros, mercredi 4 novembre au soir dans un communiqué. Les att ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "cc51aa6ea930",
-  "source": "TF1 INFO",
-  "rubrique": 0,
-  "titre": "\"Cette cyberattaque est inédite\" : après le piratage d'une banque, notre argent est-il en sécurité ? La réponse de Nicolas Doze",
-  "url": "https://www.tf1info.fr/economie/video-cette-cyberattaque-est-inedite-apres-le-piratage-d-une-banque-notre-argent-est-il-en-securite-la-reponse-de-nicolas-doze-2474007.html",
-  "date": "2026-11-05",
-  "resume": "[VIDÉO] La banque Crédit Mutuel Arkéa a été victime d'une cyberattaque. Ce piratage massif alerte sur la sécurité de notre argent. Nicolas Doze, éditorialiste économie LCI, fait le point. - \"Cette cyb ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "83bc9e8caa40",
-  "source": "France 24 via MSN",
-  "rubrique": 5,
-  "titre": "France : la banque Crédit mutuel Arkéa victime d’une cyberattaque",
-  "url": "https://www.msn.com/fr-fr/actualite/other/france-la-banque-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque/vi-AA2gOsOI",
-  "date": "2026-11-05",
-  "resume": "Le Crédit mutuel Arkéa a subi une cyberattaque révélée le 4 novembre, qui aurait entraîné le détournement de plus de 100 millions d’euros. Selon les informations rapportées, les fonds auraient ensuite ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "3de8e79650b1",
-  "source": "L'Usine Digitale",
-  "rubrique": 3,
-  "titre": "Frigos de supermarchés piratés : face à la multiplication des attaques, l’Europe sonne l’alerte",
-  "url": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-de-supermarches-pirates-face-a-la-multiplication-des-attaques-leurope-sonne-lalerte.AUI23MIM3RFKLM74OKGAU4REPU.html",
-  "date": "2026-11-05",
-  "resume": "Les cyberattaques contre les frigos prennent une dimension européenne. Après les compromissions signalées en France en octobre dernier, des incidents ont touché les installations frigorifiques de comm ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
  },
  {
   "id": "0fd87eaf33b4",
@@ -4408,234 +4770,6 @@
   "score": 6
  },
  {
-  "id": "78de6ffe4e2d",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-  "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-  "date": "2026-11-04",
-  "resume": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "IA"
-  ],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "ecf2013fdfbb",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-  "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-  "date": "2026-11-04",
-  "resume": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "IA"
-  ],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "3632eace057e",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-  "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-  "date": "2026-11-04",
-  "resume": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Espionnage / acteur étatique"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique"
-  ],
-  "score": 4
- },
- {
-  "id": "de8bbdd0e39a",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-  "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-  "date": "2026-11-04",
-  "resume": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an&nbsp;advisory&nbsp;on November 3. All Xen versions from 4.6 onward are vulnerable,",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 4
- },
- {
-  "id": "40a5a2749a72",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-  "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-  "date": "2026-11-04",
-  "resume": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are \"suspected of embezzling funds from the",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "6cc2616e9e3b",
-  "source": "France 24",
-  "rubrique": 5,
-  "titre": "Crédit Mutuel Arkéa: cyberattaque pour près de 100 millions d'euros, enquête ouverte",
-  "url": "https://www.france24.com/fr/info-en-continu/20261104-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque-ayant-permis-des-op%C3%A9rations-frauduleuses",
-  "date": "2026-11-04",
-  "resume": "La banque Crédit Mutuel Arkéa a déclaré mercredi avoir été victime d'une attaque informatique ayant permis \"la réalisation d’opérations frauduleuses\", un incident \"aujourd'hui maîtrisé\", ajoute-t-elle ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "91824c08931c",
-  "source": "TF1 INFO",
-  "rubrique": 0,
-  "titre": "\"Totalement inédit en France\" : plus de 100 millions d'euros dérobés au Crédit Mutuel Arkéa dans une cyberattaque",
-  "url": "https://www.tf1info.fr/conso-argent/reportage-la-banque-credit-mutuel-arkea-victime-d-une-cyberattaque-quelque-chose-de-totalement-inedit-en-france-2473826.html",
-  "date": "2026-11-04",
-  "resume": "[VIDÉO] La banque Crédit Mutuel Arkéa a indiqué ce mercredi avoir été victime d'une \"cyberattaque\" ayant permis \"la réalisation d'opérations frauduleuses\". De l'argent a été volé, mais le groupe assur ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "98e593a496c6",
-  "source": "JustGeek",
-  "rubrique": 0,
-  "titre": "Cyberattaque Crédit Mutuel Arkéa : des millions d’euros détournés",
-  "url": "https://www.justgeek.fr/cyberattaque-credit-mutuel-arkea-160895/",
-  "date": "2026-11-04",
-  "resume": "Le Crédit Mutuel Arkéa victime d'une cyberattaque : des millions d'euros ont été détournés. Que s'est-il passé ? Les clients sont-ils concernés ?",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "189e5f5ca409",
-  "source": "La Nouvelle Tribune",
-  "rubrique": 0,
-  "titre": "France : une cyberattaque dérègle les chambres froides de plasma de l'Établissement français du sang",
-  "url": "https://lanouvelletribune.info/2026/11/france-une-cyberattaque-deregle-les-chambres-froides-de-plasma/",
-  "date": "2026-11-04",
-  "resume": "Les chambres froides de trois sites de l'Établissement français du sang (EFS) ont été dérégléss par une cyberattaque survenue dans la nuit du 1er au 2 novembre 2026, en France. L'organisme public l'a ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "0fe289d6c428",
-  "source": "Le Monde",
-  "rubrique": 5,
-  "titre": "Cyberattaque au Crédit mutuel Arkéa : une enquête ouverte après un détournement estimé à près de 100 millions d’euros",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/04/cyberattaque-au-credit-mutuel-arkea-une-enquete-ouverte-apres-un-detournement-estime-a-pres-de-100-millions-d-euros_6806141_4408997.html",
-  "date": "2026-11-04",
-  "resume": "Les hackers « ont utilisé le compte propre de Crédit mutuel Arkéa pour réaliser des transactions vers d’autres acteurs bancaires », ils ont ensuite « converti cet argent en cryptomonnaie via des plate ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
- },
- {
-  "id": "62499974d4c7",
-  "source": "PRWeb",
-  "rubrique": 3,
-  "titre": "ShorePoint Adds Automation and Engineering Depth to AI-Enabled Cybersecurity Capabilities with Acquisition of Coalfire Federal Contracts",
-  "url": "https://www.prweb.com/releases/shorepoint-adds-automation-and-engineering-depth-to-ai-enabled-cybersecurity-capabilities-with-acquisition-of-coalfire-federal-contracts-302928946.html",
-  "date": "2026-11-04",
-  "resume": "ShorePoint, LLC (\"ShorePoint\"), a leading provider of advanced cybersecurity services dedicated exclusively to strengthening ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 4
- },
- {
-  "id": "41efea86e038",
-  "source": "Village de la Justice",
-  "rubrique": 4,
-  "titre": "[Point de vue] Données volées : changer de nom, de prénom ou d’identifiant pour se protéger ?",
-  "url": "https://www.village-justice.com/articles/donnees-volees-changer-nom-prenom-identifiant-pour-proteger,59870.html",
-  "date": "2026-11-04",
-  "resume": "Les fuites de données de 2024 à 2026 ont exposé l’identité civile de dizaines de millions de personnes, qui ne peuvent ni la « renouveler » ni refuser de la confier. La victime peut-elle se protéger e ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Fuite de données"
-  ],
-  "tags": [
-   "Fuite de données"
-  ],
-  "score": 4
- },
- {
-  "id": "4befc082fb45",
-  "source": "France Info",
-  "rubrique": 4,
-  "titre": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026",
-  "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
-  "date": "2026-11-04",
-  "resume": "Ces fausses informations sont venues en majorité du camp républicain mais parfois aussi du camp démocrate, ainsi que de puissances étrangères.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Hameçonnage / fraude"
-  ],
-  "tags": [
-   "Hameçonnage / fraude"
-  ],
-  "score": 4
- },
- {
   "id": "310fe7a6e4c3",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -4664,6 +4798,29 @@
   "rubrique": 3,
   "titre": "Cybersécurité : le NCSC alerte sur la hausse des cyberattaques et le risque pour les entreprises",
   "url": "https://www.msn.com/fr-ch/actualite/other/cybers%C3%A9curit%C3%A9-le-ncsc-alerte-sur-la-hausse-des-cyberattaques-et-le-risque-pour-les-entreprises/ar-AA2gISeK",
+  "date": "2026-11-03",
+  "resume": "Dans un rapport publié le 3 novembre 2026, le NCSC britannique prévoit des cyberattaques assistées par intelligence artificielle plus rapides et plus nombreuses d’ici 2028. Entre rançongiciels, faille ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "IA"
+  ],
+  "score": 13
+ },
+ {
+  "id": "4fae9318a3a5",
+  "source": "Economie Matin via MSN",
+  "rubrique": 3,
+  "titre": "Cybersécurité : le NCSC alerte sur la hausse des cyberattaques et le risque pour les entreprises",
+  "url": "https://www.msn.com/fr-fr/actualite/other/cybers%C3%A9curit%C3%A9-le-ncsc-alerte-sur-la-hausse-des-cyberattaques-et-le-risque-pour-les-entreprises/ar-AA2gIlrr",
   "date": "2026-11-03",
   "resume": "Dans un rapport publié le 3 novembre 2026, le NCSC britannique prévoit des cyberattaques assistées par intelligence artificielle plus rapides et plus nombreuses d’ici 2028. Entre rançongiciels, faille ...",
   "criticite": "",
@@ -5127,110 +5284,6 @@
   ],
   "score": 5,
   "menaces": []
- },
- {
-  "id": "f6282e8c323a",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-  "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-  "date": "2026-11-03",
-  "resume": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "IA"
-  ],
-  "score": 4,
-  "menaces": []
- },
- {
-  "id": "63d055e30b47",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-  "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-  "date": "2026-11-03",
-  "resume": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. In a later disclosure, OPSSHIELD said about 2,950 customer servers ran the script,",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Logiciel malveillant"
-  ],
-  "tags": [
-   "Logiciel malveillant"
-  ],
-  "score": 4
- },
- {
-  "id": "20c9c9965d29",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-  "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-  "date": "2026-11-03",
-  "resume": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 4
- },
- {
-  "id": "3b6a51103bfa",
-  "source": "Krebs on Security",
-  "rubrique": 2,
-  "titre": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-  "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-  "date": "2026-11-03",
-  "resume": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised ",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Logiciel malveillant"
-  ],
-  "tags": [
-   "Logiciel malveillant"
-  ],
-  "score": 4
- },
- {
-  "id": "6bbd6d2fb07e",
-  "source": "La Libre",
-  "rubrique": 1,
-  "titre": "\"Une hausse sans précédent du nombre d'incidents cyber\" dans les mois à venir ? Un haut responsable de la cybersécurité alerte",
-  "url": "https://www.lalibre.be/economie/conjoncture/2026/11/03/une-hausse-sans-precedent-du-nombre-dincidents-cyber-dans-les-mois-a-venir-un-haut-responsable-de-la-cybersecurite-alerte-BDXFQGM7UNAHFHCZTIPWMRMMOM/",
-  "date": "2026-11-03",
-  "resume": "D'ici 2028, il est très probable que la Chine, la Russie et d'autres États utilisent régulièrement l'intelligence artificielle dans l'espace virtuel ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 4
- },
- {
-  "id": "7606f8a953bc",
-  "source": "Le Parisien",
-  "rubrique": 0,
-  "titre": "Plus de dix pays européens concernés par une nouvelle cyberattaque visant des réfrigérateurs",
-  "url": "https://www.leparisien.fr/high-tech/plus-de-dix-pays-europeens-concernes-par-une-nouvelle-cyberattaque-visant-des-refrigerateurs-03-11-2026-CTSUV4UIYFBQBFPNRGYKHUVYB4.php",
-  "date": "2026-11-03",
-  "resume": "Après une attaque similaire en France, un dizaine de pays européens sont ciblés par des cyberattaques présumées ayant visé les réfrigérateur ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 4
  },
  {
   "id": "da9c64b229d1",
