@@ -1,0 +1,70 @@
+name: Brouillon détaillé
+
+# Rédige un article détaillé, prêt à relire, à partir d'un sujet de la veille (data/brouillons/<id>.json).
+# Se lance depuis l'éditeur (onglet Veille > « Brouillon détaillé (IA) ») ou à la main. Rien n'est publié.
+# Fournisseurs d'IA : onglet « IA » de l'éditeur. Clés : secrets du dépôt uniquement.
+
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "Identifiant du sujet"
+        required: true
+      titre:
+        description: "Titre du sujet"
+        required: true
+      url:
+        description: "Adresse de la source (https)"
+        required: false
+      source:
+        description: "Nom de la source"
+        required: false
+      resume:
+        description: "Extrait"
+        required: false
+      rubrique:
+        description: "Rubrique (numéro)"
+        required: false
+        default: "0"
+      date:
+        description: "Date de la source"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: redaction-${{ inputs.id }}
+  cancel-in-progress: false
+
+jobs:
+  rediger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rédiger
+        env:
+          TOUS_SECRETS: ${{ toJSON(secrets) }}
+          ID: ${{ inputs.id }}
+          SRC_TITRE: ${{ inputs.titre }}
+          SRC_URL: ${{ inputs.url }}
+          SRC_SOURCE: ${{ inputs.source }}
+          SRC_RESUME: ${{ inputs.resume }}
+          SRC_RUBRIQUE: ${{ inputs.rubrique }}
+          SRC_DATE: ${{ inputs.date }}
+        run: python collecte/rediger.py
+      - name: Enregistrer
+        run: |
+          git config user.name "redaction-bot"
+          git config user.email "redaction-bot@users.noreply.github.com"
+          git add -A data/brouillons data/ia-etat.json
+          git diff --staged --quiet && exit 0
+          git commit -m "Brouillon détaillé"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push && exit 0
+            sleep $((RANDOM % 5 + 2))
+          done
+          exit 1

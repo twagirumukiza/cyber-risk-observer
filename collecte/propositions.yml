@@ -1,0 +1,41 @@
+name: Propositions d'articles
+
+# Prépare chaque nuit jusqu'à 7 brouillons d'articles par rubrique (data/propositions.json).
+# RIEN n'est publié : tout passe par l'éditeur (onglet « Aperçu » puis « Publier maintenant »).
+# Se lance :
+#  - chaque jour à 05 h 40 (heure de Paris en hiver), après la veille ;
+#  - à la main (Actions > « Propositions d'articles » > Run workflow) ;
+#  - depuis l'éditeur (onglet Aperçu > « Préparer de nouvelles propositions »).
+# Rédaction par l'IA : fournisseurs et modèles réglés dans l'éditeur (onglet IA, data/ia.json).
+# Les clés sont des secrets du dépôt (Settings > Secrets and variables > Actions), jamais dans le navigateur.
+
+on:
+  schedule:
+    - cron: "40 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: propositions
+  cancel-in-progress: false
+
+jobs:
+  propositions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Préparer les propositions
+        env:
+          TOUS_SECRETS: ${{ toJSON(secrets) }}
+        run: python collecte/propositions.py
+      - name: Enregistrer
+        run: |
+          git config user.name "propositions-bot"
+          git config user.email "propositions-bot@users.noreply.github.com"
+          git add data/propositions.json data/ia-etat.json
+          git diff --staged --quiet || (git commit -m "Propositions d'articles du jour" && git pull --rebase origin "$GITHUB_REF_NAME" && git push)

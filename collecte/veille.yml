@@ -1,0 +1,26 @@
+name: Veille cyber
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # toutes les 3 heures
+  workflow_dispatch:         # lancement manuel possible
+
+permissions:
+  contents: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collecter les flux
+        run: python collecte/collecte.py
+      - name: Enregistrer les nouveaux sujets
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data/veille.json
+          git diff --staged --quiet || (git commit -m "Veille : nouveaux sujets" && git pull --rebase origin "$GITHUB_REF_NAME" && git push)
