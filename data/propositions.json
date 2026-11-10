@@ -1,10 +1,13 @@
 {
- "maj": "2026-11-09T13:21:27Z",
- "ia": false,
- "usage": {},
- "manque": {
-  "Société": 1
+ "maj": "2026-11-10T12:58:05Z",
+ "ia": true,
+ "usage": {
+  "Pollinations (gratuit, sans clé) · openai": {
+   "n": 1,
+   "e": 0
+  }
  },
+ "manque": {},
  "erreurs": [],
  "vus": [],
  "items": [
@@ -1113,6 +1116,50 @@
     "titre": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
     "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
     "source": "Le Monde Pixels"
+   }
+  },
+  {
+   "pid": "pa047470dc2",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-10",
+   "score": 4,
+   "article": {
+    "titre": "Strates de désinformation alimentent les midterms 2026",
+    "kicker": "Misinformation politique",
+    "intro": "<p>La campagne des midterms de 2026 a été saturée de contenus factices, majoritairement liés à l’orientation politique républicaine, mais aussi à des intermédiaires étrangers.</p>",
+    "resume": "Les fausses informations qui ont circulé durant la campagne des élections législatives de 2026 provenaient lorsque la majorité de ces contenus venaient de la partie républicaine, bien que la partie démocrate ne soit pas en reste. En outre, des puissances étrangères ont également alimenté la diffusion de vidéos et de messages trompeurs.\n\nLes formes de désinformation adoptées incluent des deepfakes, de fausses nouvelles et des vidéos prétendument authentiques publiées sur la plateforme X. Ces éléments persistent dans les sphères politiques les plus actives.\n\nLa source France Info rapporte que ces diverses sources ont conjointement créé un environnement d’information hautement fragmenté, difficile à trier pour le grand public.",
+    "analyse": "Les organisations doivent anticiper les risques liés à la diffusion de fausses informations, particulièrement lorsqu’elles sont coordonnées par des acteurs politiques ou étrangers. La surveillance renforcée des réseaux sociaux, la vérification des sources et la sensibilité à la provenance des contenus sont essentielles pour limiter l’impact potentiel sur la réputation et la prise de décision.",
+    "conclusion": "En résumé, les élections de 2026 ont montré que la désinformation reste une arme stratégique employée par divers groupes, nécessitant une vigilance renforcée dans la gestion de l’information au sein des organisations.",
+    "fiabilite": "partiel",
+    "note": "Le texte ne précise pas l’étendue ou les acteurs exacts; consulter des sources supplémentaires pour confirmer l’impact et la portée. Contrôle automatique : 2 alertes : « L'information » ne compte que 0 paragraphe(s) (attendu : au moins 2). Article long écrit à partir d'un contexte très court : risque d'invention, vérifier chaque fait.",
+    "ia": 1,
+    "fournisseur": "Pollinations (gratuit, sans clé)",
+    "modele": "openai",
+    "controle": {
+     "ok": true,
+     "alertes": [
+      {
+       "n": "avert",
+       "t": "« L'information » ne compte que 0 paragraphe(s) (attendu : au moins 2)."
+      },
+      {
+       "n": "avert",
+       "t": "Article long écrit à partir d'un contexte très court : risque d'invention, vérifier chaque fait."
+      }
+     ],
+     "copie": 0
+    },
+    "section": 4,
+    "source": "France Info",
+    "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
+    "date": "2026-11-10",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026",
+    "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
+    "source": "France Info"
    }
   }
  ]
