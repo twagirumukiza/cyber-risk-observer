@@ -55,6 +55,11 @@ def slugify(t, n=70):
     return s or "article"
 
 
+def hh(x):
+    h = str(x.get("heure") or "")
+    return " à " + h.replace(":", "h") if re.match(r"^\d\d:\d\d$", h) and x.get("date") else ""
+
+
 def fd(d):
     m = re.match(r"^(\d{4})-(\d{2})-(\d{2})", str(d or ""))
     if not m:
@@ -175,7 +180,10 @@ class Clean(HTMLParser):
                 al = self._style(attrs, t)
                 mc2 = re.search(r"(?:^|;)\s*color\s*:\s*([^;]+)", dict(attrs).get("style") or "", re.I)
                 fc2 = hexc(mc2[1]) if mc2 else ""
-                sty = (f"text-align:{al};" if al else "") + (f"color:{fc2}" if fc2 and fc2 != "#010203" else "")
+                ml = re.search(r"(?:^|;)\s*line-height\s*:\s*([\d.]+)\s*(?:;|$)", dict(attrs).get("style") or "", re.I)
+                lhv = float(ml[1]) if (ml and t in ALT) else 0
+                lhs = f"line-height:{round(lhv, 2):g};" if 1 <= lhv <= 3 else ""
+                sty = (f"text-align:{al};" if al else "") + lhs + (f"color:{fc2}" if fc2 and fc2 != "#010203" else "")
                 extra = f' style="{sty.rstrip(";")}"' if sty else ""
                 if t in ("td", "th"):
                     for k in ("colspan", "rowspan"):
@@ -483,7 +491,7 @@ def article_body(x, base, url, related):
 
     k = sec_of(x)
     crumb = f"<div class='crumb'><a href='{base}rubriques/{RS[k]}/'>{esc(S[k][0])}</a></div>"
-    by = f"<div class='by'><span>Par {aname or 'la rédaction'}</span><span>{esc(fd(x.get('date')))}</span></div>"
+    by = f"<div class='by'><span>Par {aname or 'la rédaction'}</span><span>{esc(fd(x.get('date')))}{esc(hh(x))}</span></div>"
     return (f"<div class='art'>{crumb}<span class='k'>{kicker}</span><h1>{titre}</h1>{chapo}{by}"
             f"{top}{intr}{ordh}{lu}{au}{share}{src}{relh}"
             f"<p class='noprint' style='margin-top:22px'><a href='{base}#article-{esc(x.get('id'))}'>Ouvrir dans le journal interactif (recherche, infobulles, lexique) →</a></p></div>")
@@ -574,13 +582,14 @@ def main():
         items = []
     items = [x for x in items if isinstance(x, dict) and x.get("titre") and x.get("statut") in ("valide", "archive")]
     today = datetime.now(ZoneInfo("Europe/Paris")).strftime("%Y-%m-%d")
+    nowh = datetime.now(ZoneInfo("Europe/Paris")).strftime("%H:%M")
 
     # lexique
     lex = [x for x in items if sec_of(x) == 8 and x.get("statut") == "valide"]
     for x in lex:
         LEX[re.sub(r"[^\w.-]", "-", str(x.get("id") or ""))] = plain(x.get("resume"))[:700]
 
-    arts = [x for x in items if sec_of(x) != 8 and not (x["statut"] == "valide" and x.get("date") and str(x["date"]) > today)]
+    arts = [x for x in items if sec_of(x) != 8 and not (x["statut"] == "valide" and x.get("date") and (str(x["date"]) > today or (str(x["date"]) == today and re.match(r"^\d\d:\d\d$", str(x.get("heure") or "")) and str(x["heure"]) > nowh)))]
     arts.sort(key=lambda x: str(x.get("date") or ""), reverse=True)
 
     # adresses stables (data/slugs.json)
