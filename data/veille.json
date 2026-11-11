@@ -1,5 +1,191 @@
 [
  {
+  "id": "14caa111eec6",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+  "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+  "date": "2026-11-11",
+  "resume": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données",
+   "IA"
+  ],
+  "score": 10
+ },
+ {
+  "id": "474586429e7c",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+  "date": "2026-11-11",
+  "resume": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "693679885746",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "N-able releases security hotfixes for zero-day vulnerabilities",
+  "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+  "date": "2026-11-11",
+  "resume": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
+ },
+ {
+  "id": "e23f07d99f92",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+  "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+  "date": "2026-11-11",
+  "resume": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker must be able to change the model's weights. The team tested the method on",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant",
+   "IA"
+  ],
+  "score": 8
+ },
+ {
+  "id": "cd6455aacef5",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+  "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+  "date": "2026-11-11",
+  "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are below - CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "454ed8a245ff",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html",
+  "date": "2026-11-11",
+  "resume": "Abelardo de la Espriella a promis « la tombe ou la prison » aux criminels qui se financent par le trafic de drogue, l’extorsion et l’exploitation minière illégale. Le dirigeant d’extrême droite a pour habitude de rendre compte d’opérations meurtrières dans des vidéos où il apparaît aux côtés de corps sans vie.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Rançongiciel",
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 7
+ },
+ {
+  "id": "0e71f2f0672c",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "Les vulnérabilités cachées des intelligences artificielles",
+  "url": "https://www.lemonde.fr/sciences/article/2026/11/11/les-vulnerabilites-cachees-des-intelligences-artificielles_6808954_1650684.html",
+  "date": "2026-11-11",
+  "resume": "L’alignement, l’affinage et la distillation des grands modèles de langage peuvent modifier leur comportement de manière inattendue. Dans leur carte blanche au « Monde », Jean Ponce et Isabelle Ryl, professeurs d’informatique, s’intéressent aux failles invisibles de ces modèles.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 7
+ },
+ {
+  "id": "de18400249b3",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+  "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+  "date": "2026-11-11",
+  "resume": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think through how such agents should be defended. When a browser agent acts inside a user’s authenticated",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "44096b209ce3",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+  "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+  "date": "2026-11-11",
+  "resume": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint Server. The patches also include 165 non-Microsoft-issued CVE identifiers.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 6
+ },
+ {
+  "id": "890bd5d68a0a",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+  "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+  "date": "2026-11-11",
+  "resume": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company builds and runs apps for its customers and stores their secrets, such as API keys and database",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
   "id": "cf40b0eec9a2",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -116,11 +302,51 @@
   "score": 5
  },
  {
+  "id": "0eb12487f2d7",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Le premier ministre du Kosovo, Albin Kurti, veut « une accession à l’UE fondée sur le mérite, et non pas par une porte dérobée »",
+  "url": "https://www.lemonde.fr/international/article/2026/11/11/le-premier-ministre-du-kosovo-albin-kurti-veut-une-accession-a-l-ue-fondee-sur-le-merite-et-non-pas-par-une-porte-derobee_6808952_3210.html",
+  "date": "2026-11-11",
+  "resume": "Rencontré à Paris lors de son passage dans la capitale pour voir Emmanuel Macron, le dirigeant kosovar défend une intégration européenne reposant sur les réformes entreprises. Il appelle aussi la France à soutenir les projets d’infrastructures et d’énergie du pays, pour améliorer sa résilience dans un contexte géopolitique incertain.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant"
+  ],
+  "score": 5
+ },
+ {
   "id": "5c78a96f27ab",
   "source": "Newsweek",
   "rubrique": 2,
   "titre": "DaVita Health Care $15M Data Breach Settlement: Who Can Claim Payment",
   "url": "https://www.newsweek.com/davita-health-care-15m-data-breach-settlement-who-can-claim-payment-12697347",
+  "date": "2026-11-10",
+  "resume": "The settlement stems from an April 2025 ransomware attack against DaVita that potentially allowed hackers to access information.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "score": 15
+ },
+ {
+  "id": "7e074483ebb9",
+  "source": "Newsweek on MSN",
+  "rubrique": 2,
+  "titre": "DaVita Health Care $15m data breach settlement: Who can claim payment",
+  "url": "https://www.msn.com/en-us/money/financial-regulation/davita-health-care-15m-data-breach-settlement-who-can-claim-payment/ar-AA2hauM1",
   "date": "2026-11-10",
   "resume": "The settlement stems from an April 2025 ransomware attack against DaVita that potentially allowed hackers to access information.",
   "criticite": "",
@@ -1522,6 +1748,78 @@
   "score": 6
  },
  {
+  "id": "c57e96b6d44e",
+  "source": "France 24",
+  "rubrique": 1,
+  "titre": "La France fourbit sa riposte contre l'Iran après la cyberattaque contre des frigos",
+  "url": "https://www.france24.com/fr/info-en-continu/20261110-la-france-fourbit-sa-riposte-contre-l-iran-apr%C3%A8s-la-cyberattaque-contre-des-frigos",
+  "date": "2026-11-10",
+  "resume": "Sanctions et représailles discrètes : la France, qui a accusé lundi l'Iran d'être à l'origine des cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés en octobr ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "704e2dc026e0",
+  "source": "France 24",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des frigos : la France accuse l’Iran",
+  "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-cyberattaque-contre-des-frigos-la-france-accuse-l-iran",
+  "date": "2026-11-10",
+  "resume": "La France a accusé lundi les Gardiens de la Révolution iraniens d'être à l'origine des cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés en octobre, prometta ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "327e1b2d5002",
+  "source": "Ouest-France",
+  "rubrique": 1,
+  "titre": "Frigos piratés en France : que sait-on du groupe de hackers Shaid Kaveh, soupçonné d’être derrière la cyberattaque﻿ ?",
+  "url": "https://www.ouest-france.fr/societe/cyberattaque/frigos-pirates-en-france-que-sait-on-du-groupe-de-hackers-shaid-kaveh-soupconne-detre-derriere-la-cyberattaque-3b3d38b0-dce2-11f1-86b6-0a2fbb1d8ed9",
+  "date": "2026-11-10",
+  "resume": "Le parquet de Paris a indiqué, ce lundi 9 novembre, avoir ouvert une enquête visant le groupe de hackers iraniens Shahid Kaveh, qu’il soupçonne d’avoir orchestré la cyberattaque ayant visé des centain ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "b3544a5cec38",
+  "source": "La Provence",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des frigos : l’Iran rejette \"les accusations infondées\" de la France",
+  "url": "https://www.laprovence.com/article/faits-divers-justice/39140629445120/cyberattaque-contre-des-frigos-l-iran-rejette-les-accusations-infondees-de-la-france",
+  "date": "2026-11-10",
+  "resume": "Dans un communiqué publié ce mardi 10 novembre 2026, le ministère iranien des Affaires étrangères \"rejette catégoriquement les accusations infondées et unilatérales du gouvernement français à l’encont ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
   "id": "e93ceeba7ed0",
   "source": "Le Monde International",
   "rubrique": 3,
@@ -1670,62 +1968,6 @@
   "menaces": [],
   "tags": [],
   "score": 5
- },
- {
-  "id": "4271579ddeba",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-  "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-  "date": "2026-11-10",
-  "resume": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher who goes by forcequit released the escape, called worse_query, on Sunday, a",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "3badf33b9e63",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Beyond the Alert: The Case for Rich Network Data",
-  "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-  "date": "2026-11-10",
-  "resume": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in. After the alert The alert tells you something happened. However, gaining",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "e56a3763b149",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-  "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-  "date": "2026-11-10",
-  "resume": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires. The unit",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "9814f0299437",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Microsoft releases Windows 10 KB5131096 extended security update",
-  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-  "date": "2026-11-10",
-  "resume": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
  },
  {
   "id": "19df3c9cef04",
@@ -2895,58 +3137,40 @@
   "score": 5
  },
  {
-  "id": "3e31a53a7042",
-  "source": "Le Monde Pixels",
-  "rubrique": 4,
-  "titre": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+  "id": "c41945f77f0c",
+  "source": "Le Figaro",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des frigos de supermarchés : la France va convoquer l’ambassadeur d’Iran et demander des sanctions européennes",
+  "url": "https://www.lefigaro.fr/international/cyberattaque-contre-des-frigos-de-supermarches-la-france-va-convoquer-l-ambassadeur-d-iran-et-demander-des-sanctions-europeennes-20261110",
   "date": "2026-11-09",
-  "resume": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées.",
+  "resume": "La France «ne s’interdit rien» dans sa riposte contre Téhéran, a prévenu mardi le chef de la diplomatie Jean-Noël Barrot.",
   "criticite": "",
-  "poids": 0,
+  "poids": 1,
   "menaces": [
    "Cyberattaque"
   ],
   "tags": [
    "Cyberattaque"
   ],
-  "score": 4
+  "score": 5
  },
  {
-  "id": "da0950b6db31",
-  "source": "Le Monde International",
+  "id": "f783276fc986",
+  "source": "Sud Ouest",
   "rubrique": 1,
-  "titre": "Guerre en Ukraine : 400 000 morts russes, le bilan que Vladimir Poutine voulait cacher",
-  "url": "https://www.lemonde.fr/international/article/2026/11/09/le-bilan-que-vladimir-poutine-voulait-cacher-400-000-morts-russes-dans-la-guerre-en-ukraine_6808679_3210.html",
+  "titre": "Cyberattaque contre des supermarchés : la France « ne s’interdit rien » dans la riposte contre l’Iran, avertit le chef de la diplomatie",
+  "url": "https://www.sudouest.fr/economie/cybersecurite/cyberattaque-contre-des-supermarches-la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-avertit-le-chef-de-la-diplomatie-31465229.php",
   "date": "2026-11-09",
-  "resume": "Des hackeurs biélorusses et ukrainiens ont réussi à infiltrer les ordinateurs de Rosstat, l’agence russe des statistiques. Leurs chiffres, publiés par Bloomberg, prennent en compte les certificats de décès liés à l’« opération militaire spéciale ». Un bilan qui sous-estime l’ampleur réelle des pertes.",
+  "resume": "La France a officiellement attribué lundi à une unité relevant du corps des gardiens de la révolution iraniens la responsabilité de la cyberattaque ayant ciblé des contrôleurs de réfrigération de supe ...",
   "criticite": "",
-  "poids": 0,
+  "poids": 1,
   "menaces": [
    "Cyberattaque"
   ],
   "tags": [
    "Cyberattaque"
   ],
-  "score": 4
- },
- {
-  "id": "716dbe4fde4a",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Au Mali, l’emprise croissante des orpailleurs chinois : « Ils arrosent tout le monde, du chef de village au sommet des ministères »",
-  "url": "https://www.lemonde.fr/afrique/article/2026/11/09/au-mali-l-emprise-croissante-des-orpailleurs-chinois-ils-arrosent-tout-le-monde-du-chef-de-village-au-sommet-des-ministeres_6808676_3212.html",
-  "date": "2026-11-09",
-  "resume": "Des centaines de ressortissants chinois exploitent des mines d’or maliennes de manière semi-industrielle et souvent illégale. Face à ce phénomène, les autorités tentent de lutter contre un système parallèle bien rodé.",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 4
+  "score": 5
  },
  {
   "id": "e707fa4e0542",
@@ -6107,44 +6331,6 @@
   ]
  },
  {
-  "id": "5100bc6323f0",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-  "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-  "date": "2026-10-30",
-  "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "f167e37bde6d",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-  "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-  "date": "2026-10-30",
-  "resume": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
   "id": "e91f33b06ca8",
   "source": "The Hacker News",
   "rubrique": 1,
@@ -6363,24 +6549,6 @@
   "score": 6
  },
  {
-  "id": "41219c820bc6",
-  "source": "Arkansas Democrat-Gazette",
-  "rubrique": 2,
-  "titre": "Former employees sue J.B. Hunt in claimed data breach",
-  "url": "https://www.arkansasonline.com/news/2026/oct/29/former-employees-sue-jb-hunt-in-claimed-data/",
-  "date": "2026-10-29",
-  "resume": "Three former J.B. Hunt employees sued the company in federal court this week claiming a data breach put the personal information of thousands of workers at risk.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Fuite de données"
-  ],
-  "tags": [
-   "Fuite de données"
-  ],
-  "score": 5
- },
- {
   "id": "ce69bcf7884b",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -6534,26 +6702,6 @@
    "Zero-day"
   ],
   "score": 6
- },
- {
-  "id": "b6b74f79da08",
-  "source": "The Strategist",
-  "rubrique": 1,
-  "titre": "It’s time to treat state-sponsored cyber intrusions as attacks",
-  "url": "https://www.aspistrategist.org.au/its-time-to-treat-state-sponsored-cyber-intrusions-as-attacks/",
-  "date": "2026-10-28",
-  "resume": "Democracies made a big cybersecurity mistake in the 1990s when they insisted that cyber intrusions were not acts of war. That insistence meant managing a constant barrage of attacks rather than ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "score": 5
  },
  {
   "id": "44a5cf1a9a6f",
@@ -6788,25 +6936,6 @@
   ]
  },
  {
-  "id": "b39cd3cbbfb1",
-  "source": "The Tech Edvocate",
-  "rubrique": 1,
-  "titre": "The Chilling Truth: AI Cyber Attacks Are Here, And We’re Not Ready",
-  "url": "https://www.thetechedvocate.org/the-chilling-truth-ai-cyber-attacks-are-here-and-were-not-ready/",
-  "date": "2026-10-24",
-  "resume": "Spread the loveImagine a world where the digital guardians we rely on are outsmarted by an invisible enemy, an enemy that learns, adapts, and strikes with unprecedented precision. It’s not the plot of ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque",
-   "IA"
-  ],
-  "score": 5
- },
- {
   "id": "580394e0c04d",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -6881,60 +7010,6 @@
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
- },
- {
-  "id": "8e256e0c2b19",
-  "source": "TechRadar on MSN",
-  "rubrique": 2,
-  "titre": "Capcom data breach confirmed — around 11.7 million accounts thought to have been affected",
-  "url": "https://www.msn.com/en-us/news/other/capcom-data-breach-confirmed-around-117-million-accounts-thought-to-have-been-affected/ar-AA2fVU8r",
-  "date": "2026-10-23",
-  "resume": "Threat actors broke into one of Capcom's services and even tried to change user passwords.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Fuite de données"
-  ],
-  "tags": [
-   "Fuite de données"
-  ],
-  "score": 5
- },
- {
-  "id": "d268f168a8d7",
-  "source": "Insurance Business America",
-  "rubrique": 2,
-  "titre": "Healthcare data breaches hit record pace as vendor risk surges",
-  "url": "https://www.insurancebusinessmag.com/us/news/benefits/healthcare-data-breaches-hit-record-pace-as-vendor-risk-surges-594767.aspx",
-  "date": "2026-10-23",
-  "resume": "More than one billion healthcare records have been breached since 2009, with business associates now the dominant exposure point ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Fuite de données"
-  ],
-  "tags": [
-   "Fuite de données"
-  ],
-  "score": 5
- },
- {
-  "id": "92f0b344612d",
-  "source": "TechRadar on MSN",
-  "rubrique": 2,
-  "titre": "Capcom data breach confirmed — around 11.7 million accounts thought to have been affected",
-  "url": "https://www.msn.com/en-us/gaming/general/capcom-data-breach-confirmed-around-11-7-million-accounts-thought-to-have-been-affected/ar-AA2fVdRN",
-  "date": "2026-10-23",
-  "resume": "Threat actors broke into one of Capcom's services and even tried to change user passwords.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Fuite de données"
-  ],
-  "tags": [
-   "Fuite de données"
-  ],
-  "score": 5
  },
  {
   "id": "5afddfa52052",
@@ -7242,25 +7317,6 @@
   ]
  },
  {
-  "id": "edde2ad25f2f",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
-  "date": "2026-10-19",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
   "id": "7d3104b45e33",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -7552,25 +7608,6 @@
   "score": 7
  },
  {
-  "id": "f84d62678f18",
-  "source": "FinanzNachrichten.de",
-  "rubrique": 1,
-  "titre": "SANS Institute: Nation-State Cyber Threats, Critical Infrastructure Attacks and AI Risks to Dominate SANS CyberThreat 2026",
-  "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69820966-sans-institute-nation-state-cyber-threats-critical-infrastructure-attacks-and-ai-risks-to-dominate-sans-cyberthreat-2026-004.htm",
-  "date": "2026-10-13",
-  "resume": "Europe's leading conference for the cyber threat community returns with technical research, real-world threat intelligence and practitioner-led sessions from across the offensive and defensive cyberse ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Espionnage / acteur étatique"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique",
-   "IA"
-  ],
-  "score": 5
- },
- {
   "id": "22c3a84151d5",
   "source": "CERT-FR alertes",
   "rubrique": 7,
@@ -7588,24 +7625,5 @@
   "menaces": [
    "Cyberattaque"
   ]
- },
- {
-  "id": "784691a25a02",
-  "source": "Business Wire",
-  "rubrique": 1,
-  "titre": "Nation-State Cyber Threats, Critical Infrastructure Attacks and AI Risks to Dominate SANS CyberThreat 2026",
-  "url": "https://www.businesswire.com/news/home/20261013714362/en/Nation-State-Cyber-Threats-Critical-Infrastructure-Attacks-and-AI-Risks-to-Dominate-SANS-CyberThreat-2026",
-  "date": "2026-10-12",
-  "resume": "LONDON--(BUSINESS WIRE)--From Russian espionage operations and attacks targeting critical infrastructure to emerging risks posed by AI systems, some of cybersecurity's most pressing challenges will ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Espionnage / acteur étatique"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique",
-   "IA"
-  ],
-  "score": 5
  }
 ]
