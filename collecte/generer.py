@@ -397,7 +397,8 @@ def article_body(x, base, url, related):
     fg = ""
     if image:
         cap = f"<small class='cap'>Photo : {esc(x.get('credit'))}</small>" if x.get("credit") else ""
-        fg = (f"<figure class='fg fg-{pos}'><div class=\"th\"><img src=\"{base}{image}\" alt=\"{esc(x.get('alt') or x.get('titre') or '')}\" "
+        tz = x.get("imgTaille") if x.get("imgTaille") in ("p", "m", "g", "f") else ""
+        fg = (f"<figure class='fg fg-{pos}{(' fs-' + tz) if tz else ''}'><div class=\"th\"><img src=\"{base}{image}\" alt=\"{esc(x.get('alt') or x.get('titre') or '')}\" "
               f"style=\"{ims(x)}\" fetchpriority=\"high\"></div>{cap}</figure>")
     infb = f"<div class='lv'><h2>{h1}</h2>{inf}</div>" if inf else ""
     top = fg if pos == "tete" else ""
