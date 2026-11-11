@@ -426,6 +426,28 @@
  "classTitre": "Classement mondial 2026",
  "writeups": [
   {
+   "id": "wadf7d09e",
+   "cat": "Web",
+   "titre": "The pinnacle of crowdsourced security. What a live hacking event with Intigriti can do for businesses",
+   "niveau": "",
+   "url": "https://www.intigriti.com/blog/business-insights/what-a-live-hacking-event-with-intigriti-can-do",
+   "d": "2026-11-10",
+   "s": "Intigriti",
+   "n": 1,
+   "v": 1
+  },
+  {
+   "id": "w7432332c",
+   "cat": "Reverse",
+   "titre": "Not All That Glitters Is Gold: Tracking CopperDragon’s Sparrow Framework Around the Globe",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/",
+   "d": "2026-11-10",
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
+  },
+  {
    "id": "w984e4d06",
    "cat": "Autre",
    "titre": "[CTF] New \"Intermediate\" vulnerable VM aka \"Aegis\" at hackmyvm.eu",
@@ -800,17 +822,6 @@
    "v": 1
   },
   {
-   "id": "w8b65b353",
-   "cat": "Web",
-   "titre": "Everyone in the competition failed to solve this CTF challenge. Can you crack it?",
-   "niveau": "",
-   "url": "https://www.reddit.com/r/securityCTF/comments/1xjp31y/everyone_in_the_competition_failed_to_solve_this/",
-   "d": "2026-10-30",
-   "s": "Reddit r/securityCTF",
-   "n": 1,
-   "v": 0
-  },
-  {
    "id": "w9e873023",
    "cat": "Reverse",
    "titre": "Cohere’s Qwen Story: Looks More Like Model Jaggedness",
@@ -872,17 +883,6 @@
    "niveau": "",
    "url": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
    "d": "2026-10-23",
-   "s": "Check Point Research",
-   "n": 1,
-   "v": 1
-  },
-  {
-   "id": "w6d304f20",
-   "cat": "Reverse",
-   "titre": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
-   "niveau": "",
-   "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/",
-   "d": "2026-10-20",
    "s": "Check Point Research",
    "n": 1,
    "v": 1
@@ -954,11 +954,11 @@
    "v": 1
   }
  ],
- "maj": "2026-11-10T12:41:59Z",
+ "maj": "2026-11-11T11:54:51Z",
  "sources": {
   "Compétitions — CTFtime": 24,
   "CTFtime — writeups": 0,
-  "0xdf hacks stuff": 18,
+  "0xdf hacks stuff": 17,
   "CryptoHack": 1,
   "PortSwigger Research": 9,
   "Intigriti": 20,
