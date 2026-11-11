@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10T10:42:14.116Z",
+ "maj": "2026-11-11T00:02:24.837Z",
  "items": [
   {
    "id": "19df3c9cef04",
@@ -23,7 +23,7 @@
    "uneD": "",
    "uneRJ": 0,
    "uneRD": "",
-   "encours": "",
+   "encours": "19df3c9cef04",
    "ordre": [],
    "imageCarte": "",
    "cX": 50,
