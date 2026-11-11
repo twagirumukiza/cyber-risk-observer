@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11",
+ "maj": "2026-11-10",
  "notice": "Ce registre est une sélection éditoriale d’incidents analysés en détail, pas un recensement exhaustif : il ne permet aucune conclusion statistique sur le nombre ou l’évolution des cyberattaques dans le monde. Un incident n’est pas un groupe : plusieurs attaques peuvent être liées à un même acteur, et une attaque peut rester sans auteur identifié. Les faits confirmés, les déclarations des victimes, les revendications et les hypothèses des chercheurs sont distingués par le niveau de confiance et le statut des faits. Les champs vides ne sont pas inventés.",
  "attaques": [
   {
@@ -139,38 +139,6 @@
    "titre": "Cyberattaques contre des ministères estoniens",
    "date": "2020",
    "notice": ""
-  },
-  {
-   "id": "italie-campagne-de-menaces-a-la-bombe-par-courriel-visant-de",
-   "titre": "Italie — campagne de menaces à la bombe par courriel visant des établissements scolaires",
-   "date": "2026-11-11",
-   "fin": "2026-11-11",
-   "pays": "Italie",
-   "victime": "Environ 6 300 établissements scolaires auraient reçu les menaces. La Première ministre Giorgia Meloni aurait également été visée. Secteur(s) Éducation ; administrations publiques ; médias (menaces similaires signalées en Irlande et en Bulgarie)",
-   "auteur": "Messages signés du pseudonyme « Mikhail Andropov », associé à un groupe autoproclamé nommé « Vilayat of Misoginistan ». Le lien réel entre le pseudonyme, le et les faits n’est pas établi dans la source.",
-   "origine": "Non identifié. Aucune responsabilité étatique n’est formellement établie.",
-   "confiance": "inconnue",
-   "attsrc": "Signature des messages rapportée dans l’article fourni ; aucune attribution officielle documentée.",
-   "statut": "confirmé",
-   "nature": "Influence / désinformation",
-   "vecteur": "Courriers électroniques adressés à des établissements scolaires. L’article évoque l’utilisation possible d’adresses électroniques publiques.",
-   "vulns": "(CVE) Aucune CVE identifiée ou mentionnée.",
-   "outils": "Diffusion de messages menaçants par courrier électronique ; exploitation de la peur et des procédures institutionnelles d’alerte, de vérification et d’évacuation. Infrastructures d’envoi non documentées. Techniques MITRE ATT&CK; Non documentées dans la source. Aucune technique ATT&CK; ne peut être attribuée avec fiabilité sur cette seule base.",
-   "systemes": "Messageries utilisées pour recevoir les alertes ; fonctionnement opérationnel des établissements scolaires et mobilisation des services de sécurité. Aucun système informatique compromis n’est rapporté. Redaction Observer — Fiche incident Page 1",
-   "chrono": "2026-11-11 — campagne de courriels menaçants signalée en Italie ; environ 6 300\nétablissements auraient reçu les messages.\\n2026-11-11 — plus de 300\nétablissements auraient été évacués selon les premiers bilans.\\n2026-11-11 — les\npremières vérifications n’auraient révélé aucune présence d’explosifs ; services de\nsécurité et Agence nationale de cybersécurité mobilisés.\\nDate non précisée —\nmenaces similaires rapportées contre des médias en Irlande et en Bulgarie.",
-   "impact": "physiques et organisationnelles sans compromission informatique avérée.",
-   "services": "Évacuations de plus de 300 établissements selon les premiers bilans ; interruption temporaire présumée des activités dans les établissements évacués. Durée exacte non précisée.",
-   "donnees": "Aucun vol, aucune exfiltration ni destruction de données signalés.",
-   "pertes": "Non précisées.",
-   "dommages": "ou Aucun explosif découvert lors des premières vérifications rapportées. Aucun dommage physique ni blessé mentionné dans la source.",
-   "duree": "de la Environ 6 300 établissements auraient reçu les menaces et plus de 300 auraient été perturbation évacués. Durée des évacuations et durée totale de la campagne non précisées.",
-   "remed": "Mesures recommandées par l’article : renforcer l’authentification des messageries avec SPF, DKIM et DMARC ; conserver les courriels originaux et leurs en-têtes ; mettre en place des procédures de signalement et de coordination avec les autorités ; intégrer ce",
-   "autorites": "Mobilisation des services de sécurité italiens et de l’Agence nationale de cybersécurité pour examiner les événements.",
-   "suites": "judiciaires ou L’enquête devrait examiner les infrastructures d’envoi, les en-têtes des courriels, les diplomatiques domaines utilisés et les similitudes techniques entre les campagnes. Suites judiciaires ou diplomatiques non précisées.",
-   "lecons": "en cybersécurité La menace peut exploiter les procédures de sécurité et la réaction humaine plutôt qu’une faille technique. La conservation des preuves numériques, la coordination avec les autorités, la gestion de crise et la continuité d’activité sont essentielles.",
-   "enjeux": "Sociaux : climat de peur et perturbation de la scolarité. Économiques et organisationnels : mobilisation de ressources publiques et interruption d’activités. Politiques et institutionnels : pression sur les autorités et risque d’érosion de la confiance. Dimension internationale possible, mais coordination non établie.",
-   "sources": "« Italie : des milliers d’écoles ciblées par des alertes à la bombe, une nouvelle forme de\ndéstabilisation numérique » | URL non communiquée (PDF fourni par l’utilisateur). La\nsource ne fournit pas de liens vers les communiqués ou sources primaires.",
-   "verifie": "2026-11-12"
   }
  ]
 }
