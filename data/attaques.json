@@ -1,6 +1,6 @@
 {
  "maj": "2026-11-10",
- "notice": "Un incident n’est pas un groupe : plusieurs attaques peuvent être liées à un même acteur, et une attaque peut rester sans auteur identifié. Les faits confirmés, les déclarations des victimes, les revendications et les hypothèses des chercheurs sont distingués par le niveau de confiance et le statut des faits. Les champs vides ne sont pas inventés.",
+ "notice": "Ce registre est une sélection éditoriale d’incidents analysés en détail, pas un recensement exhaustif : il ne permet aucune conclusion statistique sur le nombre ou l’évolution des cyberattaques dans le monde. Un incident n’est pas un groupe : plusieurs attaques peuvent être liées à un même acteur, et une attaque peut rester sans auteur identifié. Les faits confirmés, les déclarations des victimes, les revendications et les hypothèses des chercheurs sont distingués par le niveau de confiance et le statut des faits. Les champs vides ne sont pas inventés.",
  "attaques": [
   {
    "fin": "2026-10-12",
