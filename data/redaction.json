@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T01:16:22.781Z",
+ "maj": "2026-11-11T01:17:13.218Z",
  "items": [
   {
    "id": "rmwbffragifrt",
@@ -30,6 +30,7 @@
     "info",
     "ana",
     "act",
+    "p:rmwbfidrqjd72",
     "con"
    ],
    "imageCarte": "",
@@ -42,7 +43,15 @@
     "act": [],
     "con": []
    },
-   "parties": [],
+   "parties": [
+    {
+     "id": "rmwbfidrqjd72",
+     "type": "texte",
+     "titre": "La réponse australienne : six obligations pour les entreprises de l'IA",
+     "texte": "",
+     "imgs": []
+    }
+   ],
    "stInfo": "Un agent d'OpenAI accède à des ressources gouvernementales",
    "stAna": "",
    "stAct": "",
