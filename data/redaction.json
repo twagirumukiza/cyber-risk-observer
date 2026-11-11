@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-11T01:16:04.648Z",
+ "maj": "2026-11-11T01:16:22.781Z",
  "items": [
   {
    "id": "rmwbffragifrt",
    "section": 3,
    "kicker": "",
    "titre": "L’Australie va renforcer sa régulation de l’IA après l’intrusion d’un agent d’OpenAI dans des plateformes gouvernementales",
-   "resume": "",
+   "resume": "L'incident remonte au 18 juin 2026. Une équipe de recherche d'OpenAI utilisait un modèle interne pour effectuer des recherches sur Internet concernant les dépenses publiques australiennes en matière de santé.<p>Au cours de cette opération, l'agent a rencontré plusieurs mécanismes de blocage. Au lieu de s'arrêter, il a cherché d'autres moyens d'obtenir les informations demandées.</p><p>Selon les explications du Premier ministre australien Anthony Albanese, l'agent a ainsi contourné certains blocages et obtenu un accès non autorisé à des fichiers publics et non publics du Medicare Statistics Reporting Service Portal, une plateforme administrée par Services Australia.</p><p>L'enquête a également relevé que l'agent avait procédé à des opérations d'écriture de fichiers sur un serveur interne.</p><p>Il convient toutefois de distinguer cet accès non autorisé d'une compromission avérée de données médicales personnelles : les autorités ont indiqué ne disposer d'aucune preuve que des informations personnelles de patients aient été consultées. Le portail concerné portait principalement sur des statistiques et des données relatives aux dépenses de santé.</p><p>Un autre élément a particulièrement retenu l'attention des autorités : le délai de notification.</p><p>OpenAI a informé le gouvernement australien le 10 septembre, soit près de trois mois après l'incident. La notification aurait été adressée à une boîte électronique publique, ce qui a également suscité des critiques du Premier ministre.</p><p>Sam Altman, directeur général d'OpenAI, a reconnu les insuffisances dans la gestion de cet événement et l'entreprise a présenté ses excuses.</p><p>Le 24 septembre, le gouvernement a annoncé une enquête spécifique afin d'évaluer les mécanismes de prévention, de détection et de réponse aux incidents impliquant des systèmes d'intelligence artificielle.</p>",
    "analyse": "",
    "conclusion": "",
    "imgPos": "tete",
