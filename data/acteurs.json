@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10",
+ "maj": "2026-11-11",
  "notice": "Les dates indiquent une première activité connue ou une première identification publique, pas nécessairement la création du groupe. Les affiliations étatiques sont des attributions rapportées par les autorités ou les chercheurs : elles ne constituent pas systématiquement des faits judiciairement établis. Les champs « à vérifier » doivent être actualisés avant toute publication ou analyse de risque.",
  "acteurs": [
   {
@@ -39,11 +39,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0007 — https://attack.mitre.org/groups/G0007/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "21 octobre 2026 — « APT28 Hackers Open Secret SSH Tunnel Into NATO Country's Naval Shipbuilder Network » (CyberSecurityNews)"
     }
    ],
    "mots": "APT28 Fancy Bear espionnage politique militaire spear phishing identifiants gouvernements OTAN défense diplomatie"
@@ -85,11 +93,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0016 — https://attack.mitre.org/groups/G0016/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "IRON RITUAL, IRON HEMLOCK, NobleBaron, Dark Halo, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "8 novembre 2026 — « Attaque APT29 contre iPhone et Android via des sites infectés, DarkSword en toile de fond » (Pasquale Pillitteri)"
     }
    ],
    "mots": "APT29 Cozy Bear SolarWinds chaîne approvisionnement phishing jetons authentification administration diplomatie recherche"
@@ -132,11 +148,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0034 — https://attack.mitre.org/groups/G0034/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "ELECTRUM, Telebots, IRON VIKING, BlackEnergy (Group), Quedagh, Voodoo Bear, IRIDIUM, Seashell Blizzard, FROZENBARENTS, APT44"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "22 octobre 2026 — « MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration » (WeLiveSecurity)"
     }
    ],
    "mots": "Sandworm sabotage réseau électrique Ukraine 2015 2016 NotPetya wiper ICS énergie infrastructures critiques"
@@ -179,11 +203,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0032 — https://attack.mitre.org/groups/G0032/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "2 novembre 2026 — « Lazarus Group: A criminal syndicate with a flag » (Barracuda Blog)"
     }
    ],
    "mots": "Lazarus Group Sony Pictures Bangladesh Bank WannaCry Ronin cryptomonnaies finance espionnage sabotage"
@@ -226,11 +258,19 @@
     },
     {
      "l": "Identifiant MITRE ATT&CK",
-     "v": "À compléter depuis MITRE ATT&CK"
+     "v": "G0096 — https://attack.mitre.org/groups/G0096/"
     },
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier lors de la mise à jour"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Wicked Panda, Brass Typhoon, BARIUM"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "23 octobre 2026 — « Suspected Chinese APT41 Hackers Use BlackX Bootkit to Bypass Windows Secure Boot » (GBHackers News)"
     }
    ],
    "mots": "APT41 Wicked Panda espionnage cybercriminalité santé finance télécommunications jeux vidéo éducation technologies"
@@ -263,6 +303,18 @@
     {
      "l": "Identifiant MITRE / statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0067 — https://attack.mitre.org/groups/G0067/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "InkySquid, ScarCruft, Reaper, Group123, TEMP.Reaper, Ricochet Chollima"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "APT37 Corée du Nord"
@@ -295,6 +347,18 @@
     {
      "l": "Identifiant MITRE / statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0064 — https://attack.mitre.org/groups/G0064/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "HOLMIUM, Elfin, Peach Sandstorm"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "APT33 Iran"
@@ -327,6 +391,18 @@
     {
      "l": "Identifiant MITRE / statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0087 — https://attack.mitre.org/groups/G0087/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "ITG07, Chafer, Remix Kitten"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "APT39 Iran ministère renseignement MOIS"
@@ -373,6 +449,18 @@
     {
      "l": "Dernière activité",
      "v": "À actualiser"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G1017 — https://attack.mitre.org/groups/G1017/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "BRONZE SILHOUETTE, Vanguard Panda, DEV-0391, UNC3236, Voltzite, Insidious Taurus, DazedToad"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "7 novembre 2026 — « Exposed: Volt Typhoon's Framework for Silent Espionage » (BankInfoSecurity)"
     }
    ],
    "mots": "Volt Typhoon Chine Living off the Land énergie télécommunications transport eau"
@@ -405,6 +493,14 @@
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0008 — https://attack.mitre.org/groups/G0008/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Anunak"
     }
    ],
    "mots": "Carbanak cybercrime russophone présumé"
@@ -437,6 +533,18 @@
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G0046 — https://attack.mitre.org/groups/G0046/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "GOLD NIAGARA, ITG14, Carbon Spider, ELBRUS, Sangria Tempest"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "24 juillet 2026 — « Updated Cyber Threat Actor Naming System » (Mandiant / Google)"
     }
    ],
    "mots": "FIN7 cybercriminalité russophone présumée"
@@ -483,6 +591,10 @@
     {
      "l": "Identifiant MITRE",
      "v": "À compléter"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "9 novembre 2026 — « Qu’est-ce que le ransomware Conti ? Définition et fonctionnement » (Illumio)"
     }
    ],
    "mots": "Conti ransomware rançongiciel extorsion santé Irlande HSE phishing vol identifiants"
@@ -534,6 +646,10 @@
     {
      "l": "Identifiant MITRE",
      "v": "À compléter"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "8 novembre 2026 — « STARMARK Ransomware Attack by Lockbit » (SOCRadar)"
     }
    ],
    "mots": "LockBit ransomware as a service RaaS double extorsion VPN PME santé collectivités"
@@ -577,6 +693,10 @@
      "l": "Particularité",
      "v": "L'extorsion peut être réalisée sans chiffrement des systèmes.",
      "w": 1
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "30 septembre 2026 — « Cl0p vs ShinyHunters : les cybercriminels se font la guerre » (ITforBusiness.fr)"
     }
    ],
    "mots": "Cl0p ransomware MOVEit Transfer 2023 exfiltration données extorsion"
@@ -623,6 +743,10 @@
     {
      "l": "Identifiant MITRE",
      "v": "À compléter"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "9 octobre 2026 — « Ransomware Negotiator Angelo Martino Gets 70 Months for Helping BlackCat » (eSecurity Planet)"
     }
    ],
    "mots": "BlackCat ALPHV ransomware MGM Resorts 2023 ingénierie sociale"
@@ -655,6 +779,18 @@
     {
      "l": "Statut / dernière activité",
      "v": "À vérifier"
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G1024 — https://attack.mitre.org/groups/G1024/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "GOLD SAHARA, PUNK SPIDER, Howling Scorpius"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "27 octobre 2026 — « Ransomwares & piratages : 13 cyberattaques d’ampleur du 27 octobre 2026 (dont Akira) » (DCOD Cybersécurité)"
     }
    ],
    "mots": "Akira ransomware origine non établie"
@@ -698,6 +834,18 @@
      "l": "Particularité",
      "v": "Forte exploitation du facteur humain plutôt que dépendance exclusive aux malwares.",
      "w": 1
+    },
+    {
+     "l": "Identifiant MITRE ATT&CK",
+     "v": "G1015 — https://attack.mitre.org/groups/G1015/"
+    },
+    {
+     "l": "Alias connus (MITRE ATT&CK)",
+     "v": "Roasted 0ktapus, Octo Tempest, Storm-0875, UNC3944"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "5 novembre 2026 — « Black Hat Europe 2026 Keynotes to Address AI Security Blind Spots and the Network Behind Scattered Spider and Lapsus$ » (Business Wire)"
     }
    ],
    "mots": "Scattered Spider ingénierie sociale SIM swapping MFA assistance informatique télécommunications cloud"
@@ -736,6 +884,10 @@
     {
      "l": "Cibles",
      "v": "Gouvernements, organisations politiques, entreprises et institutions contestées."
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "5 novembre 2026 — « Hacker group Anonymous announced to destroy Facebook Nov. 5 » (EITB)"
     }
    ],
    "mots": "Anonymous hacktivisme DDoS divulgation données défiguration sites mouvement décentralisé"
@@ -760,6 +912,10 @@
     {
      "l": "Statut",
      "v": "À vérifier"
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "2 novembre 2026 — « Sabu's LulzSec And \"The Omegs\" Leader - 2015-07-22 - Finding Mr. Robot's Many Easter Eggs » (Forbes)"
     }
    ],
    "mots": "LulzSec hacktivisme international"
@@ -846,6 +1002,10 @@
      "l": "Particularité",
      "v": "Mobilisation de sympathisants et participants autour d'objectifs communs.",
      "w": 1
+    },
+    {
+     "l": "Dernière mention publique",
+     "v": "10 novembre 2026 — « Dark Storm Team Builds Hacktivist Alliances With Team1914 and NoName057(16) to Expand Cyberattacks » (Cyber Press)"
     }
    ],
    "mots": "NoName057(16) Russie pro-russe DDoSia banques transports administrations européennes"
@@ -891,661 +1051,39 @@
   {
    "id": "cyber-army-of-russia-reborn",
    "nom": "Cyber Army of Russia Reborn",
-   "alias": "CARR, People’s Cyber Army of Russia",
+   "alias": "",
    "ini": "CA",
    "cat": "hacktivist",
    "origine": "Russie",
-   "debut": "Apparition publique : 2022",
-   "affil": "Russie — liens rapportés avec le GRU, notamment l’unité 74455",
+   "debut": "Première activité connue : 2022–2023",
+   "affil": "Russie ; affiliation étatique non établie définitivement",
    "tags": [
     "Hacktivisme",
-    "Lié à l’État (rapporté)"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Collectif hacktiviste pro-russe"
-    },
-    {
-     "l": "Spécialités",
-     "v": "DDoS, perturbation de services et ciblage d’infrastructures"
-    },
-    {
-     "l": "Cibles",
-     "v": "Ukraine, pays de l’OTAN et États soutenant l’Ukraine"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Mobilisation de participants sur des canaux en ligne.\n• Campagnes DDoS coordonnées.\n• Revendication publique des attaques.\n• Ciblage de services publics et d’infrastructures numériques.\n• Amplification médiatique des opérations.",
-     "w": 1
-    },
-    {
-     "l": "Opérations documentées",
-     "v": "• Depuis 2022 : campagnes contre des organisations ukrainiennes et occidentales.\n• 2024 : sanctions américaines contre des responsables associés à CARR et à la Z-Pentest Alliance.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Liens étatiques documentés par les autorités américaines et britanniques"
-    },
-    {
-     "l": "Intérêt",
-     "v": "Documenter la relation entre hacktivisme, opérations de déstabilisation et renseignement militaire russe.",
-     "w": 1
-    }
-   ],
-   "mots": "CARR Cyber Army of Russia Reborn People's Cyber Army GRU 74455 DDoS"
-  },
-  {
-   "id": "shahid-kaveh",
-   "nom": "Shahid Kaveh",
-   "alias": "CyberAveng3rs, Soldiers of Solomon, Mr. Soul, Cyber Isnaad Front",
-   "ini": "SK",
-   "cat": "state",
-   "origine": "Iran",
-   "debut": "Première activité publique connue : 2023",
-   "affil": "Iran — Corps des gardiens de la révolution islamique (CGRI) — Centre électronique et cyber (CGRI-CEC) (attribution)",
-   "tags": [
-    "APT / État",
-    "Sabotage industriel"
+    "Attribution prudente"
    ],
    "champs": [
     {
      "l": "Motivation",
-     "v": "Sabotage, déstabilisation et opérations stratégiques"
+     "v": "À documenter"
     },
     {
-     "l": "Origine / affiliation attribuée",
-     "v": "Iran — Corps des gardiens de la révolution islamique (CGRI)"
+     "l": "Affiliation",
+     "v": "Russie ; affiliation étatique non établie de manière définitive dans la source"
     },
     {
-     "l": "Unité de rattachement",
-     "v": "Centre électronique et cyber (CGRI-CEC)"
+     "l": "Modes opératoires / cibles",
+     "v": "À compléter"
     },
     {
-     "l": "Dirigeants identifiés",
-     "v": "Mahdi Lashgarian et Reza Salarvand"
+     "l": "Statut",
+     "v": "À vérifier"
     },
     {
-     "l": "Nature",
-     "v": "Unité cyber-offensive étatique"
-    },
-    {
-     "l": "Zone d’activité",
-     "v": "Israël, États-Unis, France et autres pays européens"
-    },
-    {
-     "l": "Nuisances et dommages connus",
-     "v": "• Sabotage d’équipements industriels.\n• Perturbation de systèmes de réfrigération.\n• Modification non autorisée de paramètres de fonctionnement.\n• Perturbation d’installations énergétiques.\n• Pertes de marchandises et dommages matériels.\n• Risques d’incendie et atteintes à la sécurité physique.\n• Déstabilisation d’infrastructures critiques."
-    },
-    {
-     "l": "Spécialités",
-     "v": "• Cyberattaques contre les systèmes OT.\n• Ciblage des automates industriels PLC.\n• Reconnaissance de réseaux industriels.\n• Compromission d’équipements Schneider Electric, Siemens et Rockwell.\n• Exploitation de systèmes industriels accessibles depuis Internet.\n• Sabotage de systèmes de contrôle et de régulation."
-    },
-    {
-     "l": "Modus operandi",
-     "v": "• Identification d’équipements industriels exposés sur Internet.\n• Reconnaissance des systèmes de contrôle accessibles.\n• Utilisation d’outils de recherche et de scan, notamment FOFA.\n• Exploration des équipements industriels via des protocoles tels que Modbus.\n• Accès aux interfaces de contrôle.\n• Modification des paramètres de fonctionnement.\n• Perturbation ou sabotage des installations physiques.\n• Revendication ou médiatisation des opérations via des avatars numériques."
-    },
-    {
-     "l": "Cibles privilégiées",
-     "v": "• Installations frigorifiques commerciales.\n• Grandes surfaces et chaînes de distribution.\n• Installations agroalimentaires.\n• Petites installations hydroélectriques.\n• Systèmes de production et de distribution d’eau.\n• Automates industriels et équipements de supervision."
-    },
-    {
-     "l": "Attaques et opérations documentées",
-     "v": "• Novembre 2023 — Campagne revendiquée contre des systèmes industriels Unitronics en Israël et aux États-Unis.\n• Juin 2024 — Scripts de reconnaissance et de contrôle d’équipements industriels documentés par l’ANSSI.\n• Avril 2026 — Reconnaissance massive de systèmes Schneider Electric, notamment en France, via Modbus.\n• Mars-avril 2026 — Campagne de sabotage contre des équipements industriels israéliens et américains.\n• 11-12 octobre 2026 — Sabotage de contrôleurs frigorifiques d’environ 700 sites français.",
-     "w": 1
-    },
-    {
-     "l": "Événement majeur en France",
-     "v": "Le 11 et 12 octobre 2026, environ 700 sites de la grande distribution ont été ciblés. Les paramètres de dégivrage ont été modifiés, entraînant des pertes alimentaires et au moins 15 départs de feu. Des équipements de petites installations hydroélectriques ont également été ciblés. L’ANSSI attribue officiellement cette opération à Shahid Kaveh.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de menace",
-     "v": "Critique — capacité documentée de sabotage industriel avec des conséquences physiques, économiques et opérationnelles."
-    },
-    {
-     "l": "Précision méthodologique",
-     "v": "Les alias sont des identités numériques utilisées pour revendiquer ou relayer certaines opérations. Ils ne doivent pas être comptabilisés comme autant de groupes indépendants.",
-     "w": 1
-    },
-    {
-     "l": "Organisation de rattachement",
-     "v": "CGRI-CEC"
-    },
-    {
-     "l": "Sources",
-     "v": "Source principale – rapport du 9 novembre 2026\nCERTFR-2026-CTI-009 – Rapport complet (PDF)\nCampagnes de déstabilisation et sabotage contre les intérêts français\nMinistère de l’Europe et des Affaires étrangères\nDéclaration officielle d’attribution à l’Iran",
-     "w": 1
+     "l": "Dernière mention publique",
+     "v": "10 novembre 2026 — « Senate Democrats oppose a Republican-majority FCC nominee and plan probes of Chairman Brendan Carr » (MLQ.ai)"
     }
    ],
-   "mots": "Shahid Kaveh CyberAveng3rs, Soldiers of Solomon, Mr. Soul, Cyber Isnaad Front Iran APT / État Sabotage industriel Sabotage, déstabilisation et opérations stratégiques Iran — Corps des gardiens de la révolution islamique (CGRI) Centre électronique et cyber (CGRI-CEC) Mahdi Lashgarian et Reza Salarvand Unité cyber-offensive étatique Israël, États-Unis, France et autres pays européens"
-  },
-  {
-   "id": "shahid-shoostari",
-   "nom": "Shahid Shoostari",
-   "alias": "Emennet Pasargad, Iliyanet",
-   "ini": "SS",
-   "cat": "state",
-   "origine": "Iran",
-   "debut": "Première activité connue contre les intérêts français : 2020",
-   "affil": "Iran — Corps des gardiens de la révolution islamique (CGRI) — Centre électronique et cyber (CGRI-CEC) (attribution)",
-   "tags": [
-    "APT / État",
-    "Déstabilisation et influence"
-   ],
-   "champs": [
-    {
-     "l": "Motivation",
-     "v": "Représailles, intimidation et déstabilisation"
-    },
-    {
-     "l": "Origine / affiliation attribuée",
-     "v": "Iran — Corps des gardiens de la révolution islamique (CGRI)"
-    },
-    {
-     "l": "Unité de rattachement",
-     "v": "Centre électronique et cyber (CGRI-CEC)"
-    },
-    {
-     "l": "Nature",
-     "v": "Unité cyber-offensive étatique"
-    },
-    {
-     "l": "Zone d’activité",
-     "v": "France et intérêts français"
-    },
-    {
-     "l": "Première révélation publique du plan contre Charlie Hebdo",
-     "v": "2021"
-    },
-    {
-     "l": "Nuisances et dommages connus",
-     "v": "• Défiguration de sites Internet.\n• Exfiltration de bases de données.\n• Compromission de systèmes de gestion d’affichage vidéo.\n• Tentatives de manipulation de contenus diffusés publiquement.\n• Atteinte à l’image et à la réputation des organisations ciblées.\n• Opérations d’intimidation et de déstabilisation.\n• Instrumentalisation des plateformes numériques à des fins de propagande."
-    },
-    {
-     "l": "Spécialités",
-     "v": "• Intrusion dans des systèmes informatiques.\n• Défiguration de sites web.\n• Exfiltration de données.\n• Compromission de plateformes de gestion de contenus.\n• Manipulation de dispositifs d’affichage numérique.\n• Opérations de déstabilisation informationnelle.\n• Revendication et amplification médiatique des opérations."
-    },
-    {
-     "l": "Modus operandi",
-     "v": "• Identification d’organisations et de plateformes numériques à cibler.\n• Reconnaissance des systèmes informatiques de la victime.\n• Compromission des infrastructures numériques.\n• Accès non autorisé aux données ou aux systèmes de gestion.\n• Exfiltration de données ou modification de contenus.\n• Tentative de diffusion de messages à caractère politique ou propagandiste.\n• Amplification des opérations par des comptes et canaux de communication en ligne.\nCes étapes synthétisent les opérations documentées ; elles ne constituent pas une séquence technique universelle attribuée à chaque attaque."
-    },
-    {
-     "l": "Cibles privilégiées",
-     "v": "• Médias et organes de presse.\n• Entreprises françaises de services numériques.\n• Plateformes de gestion d’affichage vidéo.\n• Organisations associées à des événements internationaux.\n• Sites web et bases de données.\n• Organisations considérées comme hostiles aux intérêts du régime iranien."
-    },
-    {
-     "l": "Attaques et opérations documentées",
-     "v": "• 2020 — Préparation d’un plan de cyberattaque contre Charlie Hebdo.\n• 2021 — Révélation publique du plan par Lab Dookhtegan.\n• 4 janvier 2023 — Défiguration de la boutique en ligne de Charlie Hebdo et exfiltration de sa base de données.\n• 20 juillet 2024 — Compromission d’une entreprise française de gestion de bornes d’affichage vidéo dans le contexte des JO de Paris.\n• Juillet 2024 — Tentative de diffusion de photomontages visant la participation des athlètes israéliens aux Jeux olympiques.",
-     "w": 1
-    },
-    {
-     "l": "Faits marquants — JO de Paris 2024",
-     "v": "L’unité a compromis une entreprise française chargée de gérer des bornes d’affichage vidéo. L’objectif était de détourner les écrans afin de diffuser des photomontages dénonçant la participation des athlètes israéliens aux Jeux. La compromission a été découverte avant que les images ne soient effectivement affichées. Il s’agit donc d’une tentative de manipulation, et non d’une diffusion réussie sur les bornes.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de menace",
-     "v": "Élevé — capacité documentée d’intrusion, d’exfiltration de données et de compromission de systèmes de communication, avec des objectifs de déstabilisation."
-    },
-    {
-     "l": "Précision méthodologique",
-     "v": "Attention : 2020 correspond au début des opérations documentées contre les intérêts français, pas à la date de création du groupe.",
-     "w": 1
-    },
-    {
-     "l": "Organisation de rattachement",
-     "v": "CGRI-CEC"
-    },
-    {
-     "l": "Sources",
-     "v": "Source principale – rapport du 9 novembre 2026\nCERTFR-2026-CTI-009 – Rapport complet (PDF)\nCampagnes de déstabilisation et sabotage contre les intérêts français\nMinistère de l’Europe et des Affaires étrangères\nDéclaration officielle d’attribution à l’Iran",
-     "w": 1
-    }
-   ],
-   "mots": "Shahid Shoostari Emennet Pasargad, Iliyanet Iran APT / État Déstabilisation et influence Représailles, intimidation et déstabilisation Iran — Corps des gardiens de la révolution islamique (CGRI) Centre électronique et cyber (CGRI-CEC) Unité cyber-offensive étatique France et intérêts français 2021"
-  },
-  {
-   "id": "gru-unit-29155",
-   "nom": "GRU Unit 29155",
-   "alias": "Military Unit 29155, 161st Specialist Training Centre",
-   "ini": "29",
-   "cat": "state",
-   "origine": "Russie",
-   "debut": "Activité connue avant 2020",
-   "affil": "Russie — GRU, Direction générale du renseignement militaire (attribution)",
-   "tags": [
-    "APT / État",
-    "Sabotage",
-    "Espionnage"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Unité de renseignement et d’opérations spéciales"
-    },
-    {
-     "l": "Spécialités",
-     "v": "Espionnage, sabotage, destruction de données"
-    },
-    {
-     "l": "Cibles",
-     "v": "Gouvernements, infrastructures critiques, défense"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Intrusion dans les réseaux gouvernementaux.\n• Vol de documents et d’informations sensibles.\n• Déploiement de logiciels destructeurs.\n• Opérations de perturbation et de sabotage.\n• Utilisation de relais et d’infrastructures intermédiaires.",
-     "w": 1
-    },
-    {
-     "l": "Opérations documentées",
-     "v": "• 2020 : cyberattaques contre des ministères estoniens.\n• 2022 : opération WhisperGate contre l’Ukraine, attribuée à cette unité par plusieurs gouvernements occidentaux.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Élevé pour les attributions officielles"
-    },
-    {
-     "l": "Précision méthodologique",
-     "v": "Unité distincte d’APT28 et d’APT29 : ne pas confondre.",
-     "w": 1
-    }
-   ],
-   "mots": "GRU Unit 29155 Military Unit 29155, 161st Specialist Training Centre Russie APT / État Sabotage Espionnage"
-  },
-  {
-   "id": "apt31",
-   "nom": "APT31",
-   "alias": "Zirconium, Judgment Panda, Violet Typhoon",
-   "ini": "31",
-   "cat": "state",
-   "origine": "Chine",
-   "debut": "Première activité publique connue : années 2010",
-   "affil": "Chine — Ministère de la Sécurité d’État (MSS) (attribution)",
-   "tags": [
-    "APT / État",
-    "Espionnage"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Groupe de cyberespionnage"
-    },
-    {
-     "l": "Spécialités",
-     "v": "Phishing ciblé, espionnage, vol d’informations"
-    },
-    {
-     "l": "Cibles",
-     "v": "Diplomatie, gouvernements, entreprises et personnalités politiques"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Campagnes de spear phishing.\n• Compromission de messageries électroniques.\n• Exploitation de vulnérabilités.\n• Vol de documents et de correspondances.\n• Maintien d’un accès discret aux réseaux compromis.",
-     "w": 1
-    },
-    {
-     "l": "Opération documentée",
-     "v": "En mai 2025, le gouvernement tchèque a officiellement attribué à APT31 une campagne visant le réseau non classifié du ministère tchèque des Affaires étrangères, commencée au moins en 2022.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Élevé pour l’attribution officielle tchèque"
-    }
-   ],
-   "mots": "APT31 Zirconium, Judgment Panda, Violet Typhoon Chine APT / État Espionnage"
-  },
-  {
-   "id": "cyber-corps-ukraine",
-   "nom": "Cyber Corps",
-   "alias": "Кіберкорпус",
-   "ini": "CC",
-   "cat": "state",
-   "origine": "Ukraine",
-   "debut": "Apparition publique : juillet 2024",
-   "affil": "Ukraine — liens avec le renseignement militaire (GUR), à qualifier",
-   "tags": [
-    "Collectif cyber offensif",
-    "Affiliation à qualifier"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Collectif cyber offensif"
-    },
-    {
-     "l": "Spécialités",
-     "v": "DDoS, intrusion, collecte de données"
-    },
-    {
-     "l": "Cibles",
-     "v": "Infrastructures numériques russes, banques et entreprises"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Identification de services numériques russes.\n• Campagnes de déni de service.\n• Intrusion dans des systèmes d’information.\n• Collecte et publication de documents.\n• Coordination ou chevauchement avec certaines opérations revendiquées par le GUR.",
-     "w": 1
-    },
-    {
-     "l": "Opérations documentées",
-     "v": "• 2024 : revendication d’une intrusion dans les systèmes du ministère russe de la Défense.\n• 2024 : campagnes contre des banques et opérateurs russes.\n• Août 2026 : opération contre l’infrastructure numérique de Wildberries, reconnue publiquement par le GUR.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Lien avec le GUR renforcé par des reconnaissances publiques en 2026"
-    }
-   ],
-   "mots": "Cyber Corps Кіберкорпус Ukraine Collectif cyber offensif Affiliation à qualifier"
-  },
-  {
-   "id": "it-army-of-ukraine",
-   "nom": "IT Army of Ukraine",
-   "alias": "IT Army",
-   "ini": "IA",
-   "cat": "hacktivist",
-   "origine": "Ukraine",
-   "debut": "Création : février 2022",
-   "affil": "Ukraine — initiative publique soutenue par les autorités",
-   "tags": [
-    "Hacktivisme",
-    "Collectif de volontaires"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Collectif de volontaires"
-    },
-    {
-     "l": "Spécialités",
-     "v": "DDoS, perturbation de services numériques"
-    },
-    {
-     "l": "Cibles",
-     "v": "Banques, administrations et entreprises russes"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Mobilisation de volontaires.\n• Diffusion de listes de cibles.\n• Coordination de campagnes DDoS.\n• Actions collectives contre des services numériques russes.\n• Communication publique des opérations.",
-     "w": 1
-    },
-    {
-     "l": "Opérations documentées",
-     "v": "Depuis 2022 : campagnes contre des services bancaires, administrations et opérateurs russes.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Élevé pour son existence et son origine ; affiliation opérationnelle précise variable"
-    },
-    {
-     "l": "Précaution",
-     "v": "Ne pas confondre ce collectif avec une unité militaire spécialisée dans l’espionnage : son organisation et son degré de contrôle étatique sont différents.",
-     "w": 1
-    }
-   ],
-   "mots": "IT Army of Ukraine IT Army Ukraine Hacktivisme Collectif de volontaires"
-  },
-  {
-   "id": "z-pentest-alliance",
-   "nom": "Z-Pentest Alliance",
-   "alias": "Z-Pentest",
-   "ini": "ZP",
-   "cat": "hacktivist",
-   "origine": "Russie",
-   "debut": "Apparition publique : 2022",
-   "affil": "Russie — liens rapportés avec le GRU et son centre des technologies spéciales",
-   "tags": [
-    "Hacktivisme",
-    "Lié à l’État (rapporté)"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Collectif hacktiviste pro-russe"
-    },
-    {
-     "l": "Spécialités",
-     "v": "DDoS, ciblage d’infrastructures critiques et opérations de perturbation"
-    },
-    {
-     "l": "Cibles",
-     "v": "Ukraine, OTAN et pays soutenant l’Ukraine"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Identification de services accessibles publiquement.\n• Campagnes DDoS.\n• Revendications sur les réseaux sociaux.\n• Ciblage de services gouvernementaux et d’infrastructures.\n• Utilisation d’une communication à dimension géopolitique.",
-     "w": 1
-    },
-    {
-     "l": "Opérations documentées",
-     "v": "• Campagnes contre des organisations ukrainiennes.\n• Opérations contre des infrastructures de pays occidentaux.\n• Actions coordonnées avec d’autres collectifs pro-russes.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Liens étatiques rapportés et sanctions officielles"
-    },
-    {
-     "l": "Précaution",
-     "v": "CARR et Z-Pentest sont deux identités à distinguer, mais des chevauchements organisationnels et humains ont été rapportés.",
-     "w": 1
-    }
-   ],
-   "mots": "Z-Pentest Alliance Z-Pentest Russie Hacktivisme Lié à l’État (rapporté)"
-  },
-  {
-   "id": "nsa-tao",
-   "nom": "NSA / Tailored Access Operations (TAO)",
-   "alias": "TAO",
-   "ini": "TA",
-   "cat": "state",
-   "origine": "États-Unis",
-   "debut": "Création : avant 2000",
-   "affil": "États-Unis — National Security Agency (NSA)",
-   "tags": [
-    "État",
-    "Renseignement"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Unité opérationnelle de renseignement"
-    },
-    {
-     "l": "Spécialités",
-     "v": "Cyberespionnage, collecte de renseignements, accès à des réseaux étrangers"
-    },
-    {
-     "l": "Cibles",
-     "v": "Réseaux et systèmes d’intérêt stratégique"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Développement de capacités d’accès aux systèmes.\n• Exploitation de vulnérabilités.\n• Collecte de renseignements numériques.\n• Opérations d’infiltration et de surveillance.\n• Exploitation de dispositifs réseau et informatiques.",
-     "w": 1
-    },
-    {
-     "l": "Opérations documentées",
-     "v": "Les révélations de documents de renseignement publiés à partir de 2013 ont permis de documenter certaines capacités de cette unité. Il faut éviter de lui attribuer automatiquement toutes les opérations américaines de cyberespionnage.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Existence officielle confirmée ; opérations particulières à attribuer avec prudence"
-    }
-   ],
-   "mots": "NSA / Tailored Access Operations (TAO) TAO États-Unis État Renseignement"
-  },
-  {
-   "id": "unite-8200",
-   "nom": "Unité 8200",
-   "alias": "Unit 8200",
-   "ini": "82",
-   "cat": "state",
-   "origine": "Israël",
-   "debut": "Origines : 1948, dans l’histoire des organismes israéliens de renseignement électromagnétique",
-   "affil": "Israël — Direction du renseignement militaire de Tsahal",
-   "tags": [
-    "État",
-    "Renseignement militaire"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Unité militaire de renseignement"
-    },
-    {
-     "l": "Spécialités",
-     "v": "SIGINT, cyber-renseignement, collecte et analyse de données"
-    },
-    {
-     "l": "Cibles",
-     "v": "Réseaux, communications et systèmes présentant un intérêt stratégique"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Interception et analyse de communications.\n• Collecte de renseignements techniques.\n• Analyse de grandes quantités de données.\n• Développement de capacités technologiques.\n• Appui aux opérations de renseignement militaire.",
-     "w": 1
-    },
-    {
-     "l": "Opérations associées",
-     "v": "L’unité a été publiquement associée à différentes opérations cyber israéliennes, notamment dans les analyses relatives à Stuxnet. Il faut toutefois distinguer les associations rapportées des attributions officiellement confirmées.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Existence et mission générale confirmées"
-    }
-   ],
-   "mots": "Unité 8200 Unit 8200 Israël État Renseignement militaire"
-  },
-  {
-   "id": "national-cyber-force",
-   "nom": "National Cyber Force (NCF)",
-   "alias": "NCF",
-   "ini": "NC",
-   "cat": "state",
-   "origine": "Royaume-Uni",
-   "debut": "Création : 2020",
-   "affil": "Royaume-Uni — défense britannique et services de renseignement",
-   "tags": [
-    "État",
-    "Cyberdéfense"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Organisation gouvernementale opérationnelle"
-    },
-    {
-     "l": "Spécialités",
-     "v": "Opérations cyber offensives, effets numériques et sécurité nationale"
-    },
-    {
-     "l": "Cibles",
-     "v": "Adversaires et menaces visant les intérêts britanniques"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Opérations dans le cyberespace.\n• Perturbation de capacités adverses.\n• Actions numériques à finalité stratégique.\n• Coopération entre renseignement et défense.",
-     "w": 1
-    },
-    {
-     "l": "Organisation",
-     "v": "La NCF réunit notamment des personnels du GCHQ, du ministère de la Défense, du SIS et du Dstl.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Existence officielle confirmée"
-    }
-   ],
-   "mots": "National Cyber Force (NCF) NCF Royaume-Uni État Cyberdéfense"
-  },
-  {
-   "id": "defence-cyber-command-nl",
-   "nom": "Defence Cyber Command (Pays-Bas)",
-   "alias": "DCC, NLD Cyber Command",
-   "ini": "DC",
-   "cat": "state",
-   "origine": "Pays-Bas",
-   "debut": "",
-   "affil": "Pays-Bas — ministère néerlandais de la Défense",
-   "tags": [
-    "État",
-    "Commandement militaire"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Commandement cyber militaire"
-    },
-    {
-     "l": "Spécialités",
-     "v": "Défense, renseignement et opérations cyber offensives"
-    },
-    {
-     "l": "Cibles",
-     "v": "Menaces numériques et objectifs militaires adverses"
-    },
-    {
-     "l": "Modes opératoires",
-     "v": "• Protection des systèmes militaires.\n• Collecte de renseignement cyber.\n• Préparation d’opérations dans le cyberespace.\n• Opérations offensives exclusivement contre des objectifs militaires, selon la doctrine publiée par le ministère.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Existence officielle confirmée"
-    }
-   ],
-   "mots": "Defence Cyber Command (Pays-Bas) DCC, NLD Cyber Command Pays-Bas État Commandement militaire"
-  },
-  {
-   "id": "comcyber",
-   "nom": "Commandement de la cyberdéfense (COMCYBER)",
-   "alias": "COMCYBER",
-   "ini": "CY",
-   "cat": "state",
-   "origine": "France",
-   "debut": "Création : 2017",
-   "affil": "France — ministère des Armées",
-   "tags": [
-    "État",
-    "Commandement militaire"
-   ],
-   "champs": [
-    {
-     "l": "Nature",
-     "v": "Commandement militaire"
-    },
-    {
-     "l": "Spécialités",
-     "v": "Lutte informatique défensive, offensive et d’influence"
-    },
-    {
-     "l": "Cibles",
-     "v": "Menaces et adversaires dans le cyberespace"
-    },
-    {
-     "l": "Missions",
-     "v": "• Lutte informatique défensive.\n• Lutte informatique offensive.\n• Lutte informatique d’influence.\n• Formation et coordination des capacités cyber militaires.",
-     "w": 1
-    },
-    {
-     "l": "Niveau de confiance",
-     "v": "Existence officielle confirmée"
-    },
-    {
-     "l": "Précaution",
-     "v": "COMCYBER est une structure de commandement, pas un groupe de hackers à inscrire comme APT.",
-     "w": 1
-    }
-   ],
-   "mots": "Commandement de la cyberdéfense (COMCYBER) COMCYBER France État Commandement militaire"
+   "mots": "Cyber Army of Russia Reborn affiliation étatique non établie"
   }
  ],
  "ttp": [
@@ -1628,18 +1166,6 @@
   [
    "OT / ICS / industrie",
    "Sandworm, Volt Typhoon, CyberAv3ngers"
-  ],
-  [
-   "Iran — sabotage OT et déstabilisation (CGRI-CEC)",
-   "Shahid Kaveh, Shahid Shoostari"
-  ],
-  [
-   "Unités étatiques et commandements cyber (Russie, Chine, Occident)",
-   "GRU Unit 29155, APT31, NSA TAO, Unité 8200, NCF, COMCYBER"
-  ],
-  [
-   "Hacktivisme lié à des États (Russie / Ukraine)",
-   "CARR, Z-Pentest Alliance, IT Army of Ukraine, Cyber Corps"
   ]
  ],
  "cats": [
