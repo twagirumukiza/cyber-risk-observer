@@ -1,0 +1,30 @@
+{
+ "article": {
+  "titre": "La France reprend sa transposition de NIS2 en Assemblée",
+  "kicker": "Débat réglementaire",
+  "intro": "<p>Le projet de loi « Résilience » reprend l’Assemblée nationale le 9 novembre, après un retard de plus de deux ans. Ainsi, la France doit finaliser la mise en place de la directive européenne NIS2, laquelle dépasse 15 000 organisations.</p>",
+  "resume": "<p>Le 9 novembre, l’Assemblée nationale entame un nouveau tour de débats sur le projet de loi résilience, destiné à transposer la directive NIS2 et la directive REC, tout en intégrant les exigences spécifiques du règlement DORA pour le secteur financier. Le texte, adopté par le Sénat en mars 2025, est déjà activé dans une commission spéciale en septembre 2025, mais le parcours parlementaire n’est pas terminé.</p><p>Les organisations ciblées, estimées à environ 15 000, devront consolider leur gestion des risques, sécuriser la chaîne d’approvisionnement, assurer la continuité d’activité et déclarer les incidents majeurs. L’obligation d’alerte à 24 heures et de notification détaillée à 72 heures est déjà définie au niveau européen, mais la France doit préciser les modalités d’application et le calendrier de mise en conformité.</p><p>Le Parlement a souligné son retard : la France devait transposer NIS2 avant le 17 octobre 2024, délai qu’elle n’a pas atteint. Face à l’infraction signée par la Commission européenne en novembre 2024, la France se trouve sous pression pour accélérer son chantier.</p><p>En attendant l’adoption finale, l’ANSSI a publié le Référentiel Cyber France (ReCyF) depuis le 17 mars 2026, permettant aux entreprises de s’orienter en amont vers les exigences nationales.</p><p>La gouvernance du projet reste controversée, notamment sur l’article 16 bis qui interdisait d’imposer des dispositifs de chiffrement affaiblissant les communications. Le gouvernement souhaite le supprimer afin de préserver les capacités d’enquête, tandis que d’autres parlementaires veulent garder une interdiction explicite contre les portes dérobées, craignant un abus potentiel.</p>",
+  "analyse": "<p>La transposition de NIS2 constitue une étape majeure pour aligner la France avec les nouveaux standards européens de résilience cybersystémique. Le projet vise à renforcer la conformité de près de 15 000 entreprises, couvrant l’ensemble des secteurs critiques. Son adoption retardée expose la France à une procédure d’infraction de la Commission, soulignant l’urgence d’une action ciblée.</p><p>L’obligation d’alerte et de notification pousse les acteurs vers une gouvernance proactive, intégrant la gestion des risques, le suivi des fournisseurs et la capacité de résilience aux incidents. Le différenciateur entre entités essentielles et importantes introduit une hiérarchie de contrôles adaptée au niveau de criticité.</p><p>Le débat sur la cryptographie met en évidence les tensions entre la sécurisation des communications et la nécessité pour les autorités de disposer de moyens d’enquête légaux. L’absorbation de cet article influencera directement l'écosystème des solutions de chiffrement et la conformité réglementaire des prestataires.</p><p>Le cadre réglementaire, en construction, devra concilier exigences techniques, obligations d’information et capacités de contrôle interne afin de rendre opérationnel le dispositif de cybersécurité à l’échelle nationale.</p>",
+  "action": "<ul><li>Évaluer les responsabilités internes et documenter les politiques de gestion des risques conformément aux recommandations de ReCyF.</li><li>Mettre en place un processus de notification des incidents à 24/72 heures, incluant un plan de communication d’urgence.</li><li>Déployer des évaluations régulières de la supply chain, avec une cartographie claire des fournisseurs critiques.</li><li>Intégrer la continuité d’activité dans le plan de résilience organisationnelle, incluant scénarios d’attaque et tests d’intervention.</li><li>Négocier les outils de chiffrement sans ouverture de portes dérobées, en respectant l’article 16 bis tel qu’il est finalement adopté.</li><li>Planifier les ressources et le calendrier de mise en conformité sur deux à trois ans, en prévoyant des indicateurs de progression.</li><li>Participer aux sessions de formation et ateliers ANSSI pour rester informé des exigences actualisées.</li></ul>",
+  "conclusion": "<p>La France se trouve à un tournant critique dans la mise en œuvre de NIS2, où la rapidité et la précision de la transposition détermineront la capacité nationale à faire face aux menaces actuelles et émergentes. Les organisations doivent anticiper les exigences à venir et consolider leurs pratiques de gouvernance dès aujourd’hui.</p>",
+  "fiabilite": "partiel",
+  "note": "Vérifier la cohérence du nombre d’organisations concernées et la ponctualité des dates mentionnées. Contrôle automatique : 1 alerte : La source (« Solutions Numériques ») n'est pas citée dans le texte.",
+  "section": 0,
+  "source": "Solutions Numériques",
+  "url": "https://www.solutions-numeriques.com/nis2-la-loi-resilience-revient-a-lassemblee-deux-ans-apres-lecheance-europeenne/",
+  "date": "2026-11-09",
+  "fournisseur": "Pollinations (gratuit, sans clé)",
+  "modele": "openai",
+  "controle": {
+   "ok": true,
+   "alertes": [
+    {
+     "n": "avert",
+     "t": "La source (« Solutions Numériques ») n'est pas citée dans le texte."
+    }
+   ],
+   "copie": 0
+  }
+ },
+ "maj": "2026-11-11T02:47:41Z"
+}
