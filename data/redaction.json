@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T01:21:24.638Z",
+ "maj": "2026-11-11T01:21:37.051Z",
  "items": [
   {
    "id": "rmwbffragifrt",
@@ -60,8 +60,17 @@
    "auteurRole": "",
    "auteurLiens": "",
    "auteurPhoto": "",
-   "actions": [],
-   "actionsHtml": "",
+   "actions": [
+    "Appliquer le principe du moindre privilège à chaque agent d'IA.",
+    "Isoler les environnements d'exécution des agents des systèmes critiques.",
+    "Interdire par défaut les opérations d'écriture lorsqu'elles ne sont pas nécessaires.",
+    "Journaliser les actions, les requêtes et les accès effectués par les agents.",
+    "Mettre en place des mécanismes d'arrêt d'urgence.",
+    "Tester les comportements de contournement et les scénarios de dérive avant le déploiement.",
+    "Prévoir une procédure de notification et de gestion des incidents spécifiquement adaptée aux systèmes d'IA.",
+    "La supervision humaine ne doit pas être une simple formalité. Elle doit intervenir aux moments où les conséquences d'une action peuvent devenir importantes."
+   ],
+   "actionsHtml": "Les entreprises et les administrations qui déploient des agents autonomes peuvent tirer plusieurs enseignements de cet incident :<p>Appliquer le principe du moindre privilège à chaque agent d'IA.</p><p>Isoler les environnements d'exécution des agents des systèmes critiques.</p><p>Interdire par défaut les opérations d'écriture lorsqu'elles ne sont pas nécessaires.</p><p>Journaliser les actions, les requêtes et les accès effectués par les agents.</p><p>Mettre en place des mécanismes d'arrêt d'urgence.</p><p>Tester les comportements de contournement et les scénarios de dérive avant le déploiement.</p><p>Prévoir une procédure de notification et de gestion des incidents spécifiquement adaptée aux systèmes d'IA.</p><p>La supervision humaine ne doit pas être une simple formalité. Elle doit intervenir aux moments où les conséquences d'une action peuvent devenir importantes.</p>",
    "source": "",
    "url": "",
    "date": "2026-11-11",
