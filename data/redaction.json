@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T01:18:31.234Z",
+ "maj": "2026-11-11T01:19:48.115Z",
  "items": [
   {
    "id": "rmwbffragifrt",
@@ -28,9 +28,9 @@
    "tipx": "",
    "ordre": [
     "info",
+    "p:rmwbfidrqjd72",
     "ana",
     "act",
-    "p:rmwbfidrqjd72",
     "con"
    ],
    "imageCarte": "",
@@ -53,7 +53,7 @@
     }
    ],
    "stInfo": "Un agent d'OpenAI accède à des ressources gouvernementales",
-   "stAna": "",
+   "stAna": "L’analyse : quand l'IA devient un acteur du risque cyber",
    "stAct": "",
    "stCon": "",
    "auteur": "",
