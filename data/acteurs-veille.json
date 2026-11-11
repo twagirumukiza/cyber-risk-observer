@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10T19:14:04Z",
+ "maj": "2026-11-11T00:37:26Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -165,6 +165,15 @@
     "Octo Tempest",
     "Storm-0875",
     "UNC3944"
+   ]
+  },
+  "apt31": {
+   "id": "G0128",
+   "nom": "ZIRCONIUM",
+   "url": "https://attack.mitre.org/groups/G0128/",
+   "alias": [
+    "APT31",
+    "Violet Typhoon"
    ]
   }
  },
@@ -356,7 +365,7 @@
    {
     "t": "Exposed: Volt Typhoon's Framework for Silent Espionage",
     "s": "BankInfoSecurity",
-    "d": "2026-11-10",
+    "d": "2026-11-07",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUExTbVgtY1lkckxwSWZjTTB2c2dMRzZOdEhMUlQ0SWlVeUZscFJzWkxnMGs3cjBjUXZEX0QyZTR1VkJXSWE5VWJ4cDMwalJfRUFJRE5EUzRPV3ZpeUtydVBPdVBnUE94T1JhUWJnbGN2b201STFQMnFvNWYzSlhtRTI0V21ZbTQySWFudzdRRDhvT2tlWXdkNw?oc=5"
    },
    {
@@ -472,7 +481,7 @@
    },
    {
     "t": "Après Cl0p, les ShinyHunters s’attaquent au… FBI",
-    "s": "LeMagIT",
+    "s": "Le Mag IT",
     "d": "2026-09-23",
     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWcydkFCLUJrNVJERHZNTXpjaWI1RmFsRWNmYTc5TElDR1FXSXdTNkFGbW1uT0I5MkFpSXAzbGVIU0NIZDdJRHBnYkVyc0dFbzMyREZfRWN1LXQtRTdfQmlFc3BuQXIxeWxXR2gxempKT1RXZWg4RXFOZTFHTUstMm1LV29SWUd1Y2lma1Q4cldvQzA?oc=5"
    },
@@ -606,6 +615,12 @@
   ],
   "noname057-16": [
    {
+    "t": "Dark Storm Team Builds Hacktivist Alliances With Team1914 and NoName057(16) to Expand Cyberattacks",
+    "s": "Cyber Press",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1SHJsSDBCSUNyeEU5N3RKZDBHMXdGUHQ2RElSX094M0Y2dUZfckszRlBWb05Mb0lfY3l4Zzh2S0VKYUhuNHlRYWdCYjlzSXFFTVFfVjFCVEFocXktS0NXMmpZNEZTSEt2VnfSAWpBVV95cUxQNUhybEgwQklDcnhFOTd0SmQwRzF3RlB0NkRJUl9PeDNGNnVGX3JLM0ZQVm9OTG9JX2N5eGc4dktFSmFIbjR5UWFnQmI5c0lxRU1RX1YxQlRBaHF5LUtDVzJqWTRGU0hLdlZ3?oc=5"
+   },
+   {
     "t": "NoName057(16) doxxes 18 EU officials on Tor site",
     "s": "Cybernews",
     "d": "2026-11-09",
@@ -622,6 +637,262 @@
     "s": "Pasquale Pillitteri",
     "d": "2026-11-07",
     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUxQTENuTmFQU0kwRl9XcFlQTEpWakJTQ05LeWVuLXF3Yk5ycXAwZXQ2ZzdBcU5IUnh3RzdBdDZmLVFmNzlFTGMwYkg5Q3FYa0R3ZkpONjlEaXVMLTF3OTdPN25NTWZMbUttVXdWdEZ0N0ZycTVBaUYzcHR0d1E2ODl0WEU5Sk9WM3NZekRCb1RISFNLXzVtT0RIQmk?oc=5"
+   }
+  ],
+  "cyber-army-of-russia-reborn": [
+   {
+    "t": "Senate Democrats oppose a Republican-majority FCC nominee and plan probes of Chairman Brendan Carr",
+    "s": "MLQ.ai",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDIwRklINDhyMzdUSWt4dTI4cmZRcDdIOFdSSnZSV0J4a1Q4TnVsWi1fTTFQRGZyZVVKMURSS29vYktSUUZlWXpvcVZBck5aMWxqcDZOcVZ3dkwxMWZfLVhQX3N0OU1wdl9kSlZ4UmwwMmFYX2RIYjlPbE1MM2R4YmN4MlBSSU1XQzFKUk1RMy1Oai1HQ25maXpDcElzLVNQQzJ0MUV1Ymk5aUc4TWJRRUtZMW9uMVFOcUM4?oc=5"
+   },
+   {
+    "t": "Carr Confident Courts Will Back FCC on Cell Phone Jamming in State Prisons",
+    "s": "Broadband Breakfast",
+    "d": "2026-10-29",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTlVWndXeXprV0otbWNSNC05TWdKTFNvSzlNWnd6clpMT0RqNmUxTkJONFBVTTg2MTlGWFl2YThiZVhTZm4waFByTEZvXzFsSjE5Nkl2NER0ZEpnTTJWOEZLbDRHaG1DaVk3dzhKOFhJcmNsbllEd3BCNXVVZlpDZTkxQnNHeXY0dV9UdEdsTHNxVjFCZU55ckgzMzlEbFJ2UGVrMERIamZLQQ?oc=5"
+   },
+   {
+    "t": "Chairman Carr Announces Trusty Will Lead U.S. Cyber Trust Mark Program",
+    "s": "Benton Institute for Broadband & Society",
+    "d": "2026-10-28",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjVoNkNncGRPcTRCZWdreE5rNnBabWJOTGh5VWE5dVlUak45QjVnWHlfcDNqeWpTVGwwWFZaQTZkOXJpVnFPUDQxNDNXXzYwY25kMjhjM1RuR3VEQWIwZUlsdTNRbmpiTXd6THVaNkl2NG9CUU1FSHhJZkg1YkVWa0I1NmNfNUpOYnpubWhVWmNkSmdHOEhzei1NSVJGWEE3ZndJ?oc=5"
+   },
+   {
+    "t": "FCC Chairman Brendan Carr joins Tim Griffin to announce vote on jamming prison cellphones",
+    "s": "The National Desk",
+    "d": "2026-10-28",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVmZyQVl2Y3lCYlJOazFSbnV1WkM1QWxpLVZGMGpUNmxQVVFJRGVmYzFwSTQyY3MwZ0M2bjRnTVpaTWZUbHdLVXV1dk9zSGYtby0wUHE0WUNCV2xiTjBBUVU2QTRpeVpmUXB2Q3hjdFN3WVJBS1hNdjVLYlU0bkpqXzBSS1FSUW9qNHo2XzR5ZFQ4OGh0YnJVVFNrTDhVZkZmcmUyNkN5OTBKMzJtVFUtekMtOXh1cEtzazA1dkdUaTZaTjZWSnFzaGlKVUdSbFc4X1BZVlNmU3dGRmdFT3JmWXln?oc=5"
+   },
+   {
+    "t": "Howie Carr: Tom Brady is going to be sentenced to prison tomorrow …",
+    "s": "Boston Herald",
+    "d": "2026-10-25",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0dxYzY1SWhEQ3lHRnFOSWhMZDNkSk5hQlpkQjVaSXdoRkxmNzVNQndQTkowSEhYNThUeHRGX2V5WVhLQW9RM2Zfd2ZSLS1FX2FhSG5mRkpKcGhYVzNkTlFDOFZfS0ZhaFJBSG5wOS1nTWJWOERBcDRueVAzR0NQVmZDc2xVcG5WVVpHU0oxb2I0T1dSRmgzeEozVkNNdTF3cEtnbGRZaW8?oc=5"
+   }
+  ],
+  "shahid-kaveh": [
+   {
+    "t": "Activités cyber offensives ciblant la France menées par des acteurs iraniens liés au CGRI (09 novembre 2026)",
+    "s": "CERT-FR",
+    "d": "2026-11-09",
+    "u": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-009/",
+    "r": 1
+   },
+   {
+    "t": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
+    "s": "Al Jazeera",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDJGNEI5M1Y4enY2RllrTjhWM0hxWXlXR3g5YTRHUEQyWVFVRTR1TUlKTlpyeEpiWjdMQkRnNXo1cmdHd3o0WENtMkg2YVhBY1VwZGM5bTZSUlNYR3d0UlJ4OVMzYXJPdXJSVktwRk5wRFZTeG1aLVpsam9LeEtoelFSRTJ1U081MWoyZTZXS2EtSmpDd1VWUEw0Vm9vaGdSakRhLWVUa2VxenJfWWpMWXdhZldnckkzbWZTd1c2Z9IBxAFBVV95cUxNc1BtUHF5UUpXSTh3cUxESEhFU1d0S2ctWGlfekIyLXhGMzJKSDdNa3Qzb3RZMWRyZ19ueHgzSGQycGY2VE9Ha1JZRENuX3Q5WXM0bGEycng3S21GN1dDOGluRGRyMFowMmFoVkNMbEtxanUtbDdBVThnTHpybmZVTTY1NDJ0UUs0MlpxX3ZCaEpvMHVrajB1Z3ctSDE1U0tPdmxvd2RkZEpYMDNDWEFsU0hlYi1zb3hXRUFQX1pmdTY1RmJy?oc=5"
+   },
+   {
+    "t": "What Is Shahid Kaveh, The Iranian Group Linked To A Fridge Hack?",
+    "s": "Radio Free Europe/Radio Liberty",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zbWpXbkpkQ2tZS2lpeXJrWV9fT190MFZLWFVYQkdWNHl0ZkFFNWlCUFUwMnM0Rmg5QWo1d2NLeEhjOHh0MUZ5cXZJMERfZ0dXd01TeUNXV0lMOEVnRHE5dWtubXJDY19TVjU4dzJIa1ZuZ9IBdEFVX3lxTE1Bc0QwUEZIV1pveTd6REtxeHVVTzh1SkNoX0JyTkxncTdzdFpWaXJzWmp6eDd0RWVPaWNCRjgzNkl5a2dfdkdJcVoyUmhSN2hLRkNMQkJrcFR6NWNmYXdadnBSck9XeXh5UjgwZFhHOTNzRWx2?oc=5"
+   },
+   {
+    "t": "Why France accused Iran and its Shahid Kaveh cyber unit of being behind freezer hacks",
+    "s": "Le Monde.fr",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcHdHSWh3ZWFOOURKNm1Oekl5SUFNOGFnNUxkTWFlX2w1dVVleGFDcjNaOWpyYXRYX1VBeHRwakNDaTFINVdPUXpJaGdGajU5SGlSUnZmNS11OVZHMzB3X2R4ckFlTzlpcWNTYmVvVDFNbmI0U0c4YjlvY0xSNktJUnN6YzFsMXBSTEZRRDBKQjdfaVdnSE5vWk1MbldBV0xpRmM4enRmRno5VENPcjBfaksxNnpDWG9lNkpmcjJWMWlJQ3JzdjJjVDN0VlZ4aUdNUUlCTkxsTXoyU2pLVXZoNVI4NUhpWXRU?oc=5"
+   },
+   {
+    "t": "Who are Shahid Kaveh? Iranian cybercriminal gang blamed for France supermarket fridge hack",
+    "s": "The Independent",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnd3dm5kX195SzhwUVpabHJFQUY3LVhSUE1XV2lsQ2FncnVfRHZFVk5DeVJsU3dUVUN4LUplN0xzWDBYalk3cUFJT1BIYjVhX3pWOGFsQktpXzRyTlJLd0lXazA5WFIwbXU1T0Q3czhsekppNmZvenI3M2FTdFlIQjk1eHd3ajV4QVYzQVRqX0RydzRRREI3TTNLYkI0V2I1TERTTlh3?oc=5"
+   }
+  ],
+  "shahid-shoostari": [
+   {
+    "t": "Activités cyber offensives ciblant la France menées par des acteurs iraniens liés au CGRI (09 novembre 2026)",
+    "s": "CERT-FR",
+    "d": "2026-11-09",
+    "u": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-009/",
+    "r": 1
+   }
+  ],
+  "apt31": [
+   {
+    "t": "Updated Cyber Threat Actor Naming System",
+    "s": "Mandiant / Google",
+    "d": "2026-07-24",
+    "u": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+    "r": 1
+   }
+  ],
+  "cyber-corps-ukraine": [
+   {
+    "t": "How Ohio and Louisiana Sustain Volunteer Cyber Corps",
+    "s": "GovTech",
+    "d": "2026-11-06",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmtxSTlRTmNIOE9xNDRCM2FDZTVhT2tFSTVoRjU4M3hPVzdxMFduQnhUTFM1SE54UzhWYXA1eWNnazhwZFR4VVZ5U0VXWG4tNkZ3bVAtajhYNnh0bzRZTXY2ajAxWHVMWUVDdXFXQlJxcWNCeWNzN1pwR1RwblZyUWplWFVzTW9rYk80QW9B?oc=5"
+   },
+   {
+    "t": "The Cyber Corps: Ukraine’s Least Understood Cyber Actor",
+    "s": "Lawfare",
+    "d": "2026-10-08",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUQwY3FQdE92VXk3Z2lUN01hYU4welJJZy03UHIxREtZSnZoR1ljbDVpWkk2VGEyTlloWGVZX3A0SF9MeXU5YWN3Ym84V2RieENWakdxY2VCdXppNUV1NmlVVHBRRUZaV1BINFoySHJlcVVUY0xuekUtQzhpWUlwNWZtWWhDbjJsSEROMzdWUVJYc29tczhn?oc=5"
+   }
+  ],
+  "z-pentest-alliance": [
+   {
+    "t": "Z-Pentest: Who are the Russian GRU hackers behind the attacks on industrial systems?",
+    "s": "Il Sole 24 ORE",
+    "d": "2026-11-09",
+    "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdkRKX2Jjb2pGLWJFQ296Sjg2aTV2UWVKR0hlbEpvZDItMEg5bzVleXdudERKb3JZUEJIdG4tQndLcEdwRW1IaVZtX2NsZ0MzalFsVU9KRFVXM2tzN013ODJhWHc4MnRwel90WTIzakNwQWozM21BTVVtYnVvTkdQRmRsc1ZXZHZ4T2gxYWc5bmsxQjNaMk5uQW5hWTlxQld4a29SN25MM0d4SHU3WV83cWoyTUI0enZRcXJpSTRJd19EZWtPbGRURmJlY1NGYnZiVHBzdEpGckN6RTUyZktyN3VzX3RtakllWnJ5UXNycC1FZUZXOFdF?oc=5"
+   },
+   {
+    "t": "NoName057 and Z-Pentest claim the supermarket fridge hacks across Europe",
+    "s": "Pasquale Pillitteri",
+    "d": "2026-11-04",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0VRX2dJLU96cmZBLXEzSlBRQjNiOXlEXzV6dEstcFVjd0hPMnQ2Z1hqdldqRklWcXJTbElLOWFFSEV1TFc2eVFTbUd3THFXWTBKRDBWQjlsczNxSTJ2R01nbGtwSmNmNUExNmR5VHVCUlBXemlmWkZTa0p3bXhqTy0zSlhZWVF3Y0NRWFhZZVkzOHJoZlJLTmFZTmU?oc=5"
+   },
+   {
+    "t": "Frigos piratés, NoName057 et Z-Pentest revendiquent les attaques",
+    "s": "Pasquale Pillitteri",
+    "d": "2026-11-04",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1JnMTNnd0toWGdNNTZRXzZpVm9OalJxbVNFRC1SY2I5MWUwX29idXh1bV9zN0JNLU1iZ25xVE5acUN1TS00SEpVWnJ4dklRRmFLVDQ3RTI0Qk1RREJqbFVXcWRwVWRKUzExeTlBX2ZWTjJMMzN2aVZNUUpBZ2wtOXVaRUFRRU9XVGt3bnRMWmxmT3RuRVE?oc=5"
+   }
+  ],
+  "nsa-tao": [
+   {
+    "t": "Post-Quantum Questions to Ask Your Vendors",
+    "s": "CISA",
+    "d": "2026-11-05",
+    "u": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+    "r": 1
+   },
+   {
+    "t": "CISA, FBI, NSA and International Partners Warn of China-based Cybersecurity Company Enabling Threat Actors to Target Multiple Critical Infrastructure Sectors Worldwide",
+    "s": "CISA",
+    "d": "2026-10-08",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ24zSXJVaHhrNFZ2cUNiekE2Q0NyY3FRdk8wLUhQQ1ZzbTl2cy05TWwwNGJWdU1QUFFVd2wtMnR5ZURMXzIxalM3T3VYOXVrZkxfTmgwUE9NMWgzdG5OLTBGcXN0U0dRV1I5SkViWTEtWGM5UkdCSDJyeTVaeWZ2Q1RjVmxQeTFiQXk5bGRHZ2xMNEdFTmR3NGRSY0YxWnV6THpacUhIc1Byazl4MmxqYkVlUEpfdmNDYnNMRFpZS1didmYwaEZMeUYtMVM?oc=5",
+    "r": 1
+   },
+   {
+    "t": "CISA, NSA and FBI Warn of China-Based AI Companies Targeting US AI Models with Industrial-Scale Knowledge Distillation Campaigns to Shortcut AI Development",
+    "s": "CISA",
+    "d": "2026-09-08",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNE9NZWM0X2txaUJwaGs3WmRMRDFXdU5zaDJndTdNZVAxVG9PZFI4Z3BSMWpTYjRXamtJZnpvdFRIek9meWJ6b1VNdHNqbGQzY2xVSnpRdXdVZUUxczQ4eXB2MDdVVG9yM0duR0wyV1FxRmZ2Tkk4VzgxN3BaZEtfcG5rRzZvQzZSak95aThjREZFWGxuY3NiRU1NaENLRl9vblYyQ2lXNTExUzFTM2I2czNzMl9Ra25hbW9YaFMzRHd4SlZwMHpTRDZqNkxuNkU?oc=5",
+    "r": 1
+   },
+   {
+    "t": "CISA, NSA, Australian cyber agencies urge early vendor readiness for PQC transition across critical systems",
+    "s": "Industrial Cyber",
+    "d": "2026-11-09",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2VtY2cxUnBBQ3B6ekR6Sm5tcnZoWWJNOWN1RVNxOXpEMWtUaEtNajF0Ym10Q0NBVF8tMFJGMDhJU19CbFhJOUYyM0RveW9NZG1mVEpFOXBXZ0N4Ylg3b1FrM1YwYUFpTnQxQUhJdDVJQms4VW9uQnpzTThqTVRlUmNFbWlpVFI1M2hWNWx1RmVGSzVZN2x6Q01wcjFKSGY3MjlYLVJuazFPdTh0RUpYSVQ5aTllTmYyUUwtVE9CcFNWb2tfNGUxMFVfbjVnc3ZLMkQ1Vg?oc=5"
+   },
+   {
+    "t": "Des perturbations à prévoir sur le réseau TAO en raison d'un mouvement social à Orléans",
+    "s": "Actu.fr",
+    "d": "2026-11-09",
+    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOVRTSzN0dmF4bGNiWkRwUEhVODRNT01pdkRmSU1CVC0yS2FUSktNRWN2TURWZmFKTm1DdGpfT28wR2o5NlZxZkR0RTgxWnlwTTdfSWsxRnRqOF9tX1kxTTJIcEVTRkdYdGh3R1FnMks0U3FvQ0NPbjNqTEd5STVpM0liYXZKU0dSSnp6MENLWXdxVGVjRm1MMzQ1eVctUHFkUnlOQ3lheVppSVU2M2hMSmdETmViTHg1ZnB6S1A3YmRLblpqdE1lUm9pekZndGxxa1VOOUNqeHZYZm5FNHdZNlBuY1kzQQ?oc=5"
+   }
+  ],
+  "unite-8200": [
+   {
+    "t": "Former Unit 8200 officers raise $50 million in just nine months for AI security startup",
+    "s": "CTech",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LVVFVZUFlZHpXT1JHNlBHdFU1UFV4cmhDS04tRGxXNnRYMHVURV9OZldUYjBaZlByQlF4WU1uVVEzS2N4VUZyVkVSbFlwRW4yX0k5S1k0SmVIcXkwcU5BaUNBbk1XQmFFeFE?oc=5"
+   },
+   {
+    "t": "Unit 8200 and Microsoft veterans raise $15 million Seed for cybersecurity startup Brava",
+    "s": "CTech",
+    "d": "2026-11-04",
+    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzbkJVTmd5bS1DVWNuT2FuZi05cDBTdWN0OWxUcFNQRVNKX2FyYnctZjZTeVc5cGI2emdrVzM3N3NDVXgxc1pwamdJSVEzR0F6LXlUQjEwSW42Tzl6RERTOVZvREF6TnB5?oc=5"
+   },
+   {
+    "t": "Ex-Unit 8200 commander's Sentra raises $150 million to secure corporate data as AI agents proliferate",
+    "s": "CTech",
+    "d": "2026-11-04",
+    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RnV0YzVENE9RZ3RpV29JdzY0NXRVYjA1dm50TTFnNlZqOF9kQVFTNjBLODJsMmNTWEZmcG92eEdsOENCNWpUM0d2bGY1bkRhVTk3VnhfV3p3bzZNRjVyY1pNSmY3TnF2?oc=5"
+   },
+   {
+    "t": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+    "s": "SecurityWeek",
+    "d": "2026-10-25",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDFvRlVTQS1XV2ZKUlZHSkhsNlBQUU04YWVGQVV3T2VpczltZERrX1RwQlBxN3VEUm1iRU8zU0tIYzl6Z3BBaHVnZnh6UHNGNkdCaE42Z2ZrY2tBRlhsWDJ2ekhfaVhINGQ4U3dtS25SdTFBRzA2ems1cHhVWGdSRVBsTE1iaDdpbm1HbmtVQzZiQmdwZXl0ZVMwbkJuRVZVYXhaSFYxWQ?oc=5"
+   },
+   {
+    "t": "Ex-unit 8200 alumni sell Elementary Data for Some $45 million",
+    "s": "The Jerusalem Post",
+    "d": "2026-10-20",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYy03X0JDdGJMZEk3NDJoX1BaVVhfbk05QUctSVRYOXdzdHFmdm8zQXluRHEzSy03MWZtZWU3T20xekZ2a2MtUjJ4am9wOTVNQWx0WGdKQV9aN0RLUmVXcDYtbkFNU0ltUHg3UHZkeEZQRlAycWdjOF9CbVFyOF9TdDlzTzhUdw?oc=5"
+   }
+  ],
+  "national-cyber-force": [
+   {
+    "t": "MTN Nigeria, WWF/NCF, UNDP, Deloitte Shortlist Top 100 Innovators for PachiPanda Challenge 2026",
+    "s": "Nigeria Communications Week",
+    "d": "2026-09-24",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkhIWWNsanNJVDFrRzZLU1pxWkhmaklGcTZScXdWSERSMXFjdWlMNUZnMnlzYmhrbVl0RFEzLWxyaFZmclo0UTQwdU41ZlJzN0lqX1lMcnBMb0YxQ0JEbldiclE0d2pEdkxuSWFmaGtxaFFDTWdmdzRSeTllS3dYX1VrTDlFRnBhYXl0OGlXT2pfbVFLMFB6Snk1TFJOaVVqZGJWOWxvMEFOMF8wem1SOHBaWWVsNk9PM2FiMGhXeFZ2amRWMjdnVW03dlgwVTlvVlRSLV9EVFQ4Qjg?oc=5"
+   }
+  ],
+  "defence-cyber-command-nl": [
+   {
+    "t": "The Vanguard Group, Inc. Files DCC Takeover Disclosure",
+    "s": "TradingView",
+    "d": "2026-11-03",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb29mWm1ZVE1iVGhMbzN3SW16am5EdmtabU45Tzg3bG92eTJ4VERwek5wUU1KXzg1OVluS29lcmgwMGh4THZEaGZ1OS1qbjJRUmRfa2MtZ1BsalFXdVJlQVE2d3FHdjNMSGh0cDhGakRzdzZmSHoyVVN5YV90LV9xYXVqS3l4blFpUDgxNlBrcEMtYUpzdlZfUWZZYldVZ2hkYmtJWUZTb0ZsMXhSNkJYSVkybw?oc=5"
+   },
+   {
+    "t": "REG - AQR Capital Mgmt DCC Energy PLC - Irish Takeover Panel - Form 8.3 - DCC Energy PLC",
+    "s": "TradingView",
+    "d": "2026-11-03",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR2NWMWtDWXVJcXRybXlITHlJTWxpZlBTNnl0ZlBsTm5vbDg4c1JxV0h5SXpSRjNkbUZYeFd1VnpmNm9iQmhFVzFGV2g1UXNINHFNaVNhV3d2S2hmaTIwdHdmWGNuUElZSUtFa2lkNXBDTFZteDZYTjdZdDU1ZXNSMkJVd19NZzN3cU5HakJFOWU5NUJuMkxHSnBNTkQ3Rm12U2xwVV9uSjV4bDhuU1pBRng2QW9WWUJaMW1PTVpWUUxlTXA4dG1aTElsQzgxTDJQU0R6Z1BxcXVuaDJHUVFUcjFHdHNiQUFQeGJZ?oc=5"
+   },
+   {
+    "t": "REG - BlackRock Group DCC Energy PLC - Form 8.3 - DCC ENERGY PLC",
+    "s": "TradingView",
+    "d": "2026-11-02",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQamtMLTlIZUhXYXU3S1g1SjM4Yl9jZnBhdnFPTG1pLUVvRGNKN1k0Q3UwTHUta0FSRnZFUW1WNXA5WjZuMUNkbU00aXFWdFB6dWlUeTdNc2ZrcU1tbWJnOWY1azFrNWp1WXlkZ1FuS0NIUzkwUkIwbmItR1FiM2NURENIRGdOb2IyZHlyMkNoN1ByUG5Bb3BBWWV1ME9tcVJUV0ZfcDFUcGs4Vk10N2FDTDNnREN5N090cmUyRHdDd0VuZFJ1alB1Qm9NV2VYQQ?oc=5"
+   },
+   {
+    "t": "Kholo Capital backs local IT distributor DCC with R275m in funding",
+    "s": "Business Day",
+    "d": "2026-10-14",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXMzcGx1RUgta2djRS16OXlYbk4wZ29wSWVNMThaQW1DX3dSSExsWWVLTWo1VWZFdWhCb08xeWRzaDl3dkZ4MHdRVXVPRFZfdUQ3ampBNFhzSUxGVmIwSUh5Q3VuR0hva0ppc0JlT29jdG1QOGlHY0pTa05ka2wxTEp2Yk04a0F4c3IzQm11aWZ2UmJnOVc5RDJkTVpWM2lsRmpRTmtjUHNvSVNWMngzUXdDTERSTnUwLUE?oc=5"
+   },
+   {
+    "t": "Après Exertis, DCC cède sa filiale de distribution technologique Nexora à One Equity Partners",
+    "s": "ChannelNews",
+    "d": "2026-10-13",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGp2N2FxZnJ3YlhfWDJoYkVlQ2NqdFprT0g1WHRCeWVLaGFFR1J0UXp3UzIwMHBsb1pCQ1VHNHlKSDFaRnVTSzl3a2YwVFk5bkc3YVYxOHdVUDBhazRic2FMV2E5OHptX0pmZGNYUWVqajc3RXpCRUE2OFBZN0NGRU51MkpwRGwtM245c0NxX1M0UnlRNzFqUmJIX0FTbnFjNXpheFotVmRfZ1JpSHJ4UXVBTFZET3ZtZFd4T2l5aTdWM1lJTWc?oc=5"
+   }
+  ],
+  "comcyber": [
+   {
+    "t": "European Cyber Week 2026 : le COMCYBER au grand rendez-vous de la cyber en France",
+    "s": "Ministère des Armées",
+    "d": "2026-11-05",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDFDa3NoUnRDZlRrUl81VU8tZVRqcWZISjFGek5JOFo5R05kbE5NZDV4U05FZnctNTE1SFJvWnktNllmUFhlQ19vY2MwcUIzQTlpbEZtaWRqVkVtTlBoODQxT2g3VUVIY2p0dGV6b1RwX0xTalo2NDVvSldQemVaOC1IejdYNk9vbWR1VkZHZEx2LVlCd3lwZm1ZLVEyRXNMODJRaW1wSk1TN1dQTzBpOXBtWThrQQ?oc=5"
+   },
+   {
+    "t": "Paris Games Week 2026 : le COMCYBER-MI en première ligne sur le front de la cybersécurité",
+    "s": "Ministère de l'Intérieur",
+    "d": "2026-10-31",
+    "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1cyWWRucnJxTm4xcG1fdnhUTXdvZHRQS1RDNXROMC1MajBlcm0zVzhaTzB4eXhuR1RQQWZRODExcE5sUzFfa05jU0tfWXZIdVViaWZicnVUbUd5bjV4UW1TM3FUQW9SWXo1dVJvd3VwV1V2WENnbThWTE9GWWFDSnVfQ0dhc29GV2tiR0RGdHRZeEhDWHUyMlJsSWpIbm1JOXIwbGxKZV93NDNnLWIzUWk5ZVBTeDZNdXR5V1ViYUNmZXZ4NjRfckxBYnBJTmQtQXNiR3NPZ0pUb3EzVmFISlRlMFE4Q1lEdnBIcUNrZ1FJeGc?oc=5"
+   },
+   {
+    "t": "Le Commandement de la cyberdéfense (COMCYBER) signe des conventions de partenariat avec 11 établissements de l’enseignement supérieur",
+    "s": "Ministère des Armées",
+    "d": "2026-10-09",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3ZwUVkwZzhIQlBkZlhzNkEwbWxCa29ZS3VLcjdPTklUQ0t2V2g2RDNNRHNnaGRSNzRTOHI0NFFfby1WUmtvNkZNMENlN21OaHdzTEhsMWhuR0dvNGE4WFBVWlVKWkg3WnloTW5tR2V3UDFMaEJFNkJtbmpkenozRkVxeWhfZmxEX3YwNW1abW5PdjNEU0hERkx3T25hTUZqX1ViM3h4VUJoN19pNWFnTXJxTFhsWGRoXzV3UGtSUUtMRU5LeWgxMWdn?oc=5"
+   },
+   {
+    "t": "DefHack 2026 : le COMCYBER mobilise la jeunesse dans un exercice de cyberdéfense conjoint avec la DGSE et la DGA-MI",
+    "s": "Ministère des Armées",
+    "d": "2026-10-05",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeXJjVFlodzBBV1VzMUdPRlM5UFpxZ0pEUXNad2N5V3R2bGlLT2FZM0Q4djJVN2FIaUVUbGJtc0JDZXB0b0JqdGwxakF1Qm1fbEF2WmdNZ2FVTGEyeXozT3kxeE9GOG5PbkN0VGU4SkVrWUFFaExQSzBhZThxXzFTYTJVVWJtRWtpWjdOeWtFVlp3cWxzUUdVLXVwZEZrcFE4X0U2eUFoUVBVYW0yNHB5Yk1HZjBUSGYtRHlQNkpMVzNaUFVVM1M5bg?oc=5"
+   },
+   {
+    "t": "Séminaire de rentrée du COMCYBER : « garantir une capacité opérationnelle efficace, complète et résiliente à l’horizon 2029",
+    "s": "Ministère des Armées",
+    "d": "2026-09-24",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakt5SW1aSVZudnQxUnoySEZZM3A5WGJSV1ExTU9SMk1rSXdPcl9FQ3VRclY3WUFSekdXWlNXWk5wZVdkc2tHU25DcE1NZTZUQi1ROU42Ml9DaDdIUlJDZHNrRW9WU1ZwREY0bDJKQk9wdjZBWkhNNm00TldmUThfcm5EY0RiVGpTUFlDemxvaFkwZE82WWUzSmFaaE5INkFsX0p4WE1ZWWhHYlluSFd4QVN4djN2RktHZ19uQ1M0RlJQR3MwdGtaQkFPQzZxTEk3ekhWOUNn?oc=5"
    }
   ]
  },
