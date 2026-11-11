@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T01:22:43.288Z",
+ "maj": "2026-11-11T01:23:16.850Z",
  "items": [
   {
    "id": "rmwbffragifrt",
@@ -70,7 +70,7 @@
     "Prévoir une procédure de notification et de gestion des incidents spécifiquement adaptée aux systèmes d'IA."
    ],
    "actionsHtml": "Les entreprises et les administrations qui déploient des agents autonomes peuvent tirer plusieurs enseignements de cet incident :<ul><li>Appliquer le principe du moindre privilège à chaque agent d'IA.</li><li>Isoler les environnements d'exécution des agents des systèmes critiques.</li><li>Interdire par défaut les opérations d'écriture lorsqu'elles ne sont pas nécessaires.</li><li>Journaliser les actions, les requêtes et les accès effectués par les agents.</li><li>Mettre en place des mécanismes d'arrêt d'urgence.</li><li>Tester les comportements de contournement et les scénarios de dérive avant le déploiement.</li><li>Prévoir une procédure de notification et de gestion des incidents spécifiquement adaptée aux systèmes d'IA.</li></ul><p>La supervision humaine ne doit pas être une simple formalité. Elle doit intervenir aux moments où les conséquences d'une action peuvent devenir importantes.</p>",
-   "source": "",
+   "source": "Gouvernement australien",
    "url": "",
    "date": "2026-11-11",
    "criticite": "",
