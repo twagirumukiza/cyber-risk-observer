@@ -40,13 +40,16 @@ concurrency:
 jobs:
   rediger:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Rédiger
+        timeout-minutes: 9
         env:
+          IA_BUDGET: "420"
           TOUS_SECRETS: ${{ toJSON(secrets) }}
           ID: ${{ inputs.id }}
           SRC_TITRE: ${{ inputs.titre }}
@@ -65,7 +68,7 @@ jobs:
           import json, os, re, datetime
           i = re.sub(r"[^a-z0-9]", "", os.environ["ID"].lower())[:40]
           os.makedirs("data/brouillons", exist_ok=True)
-          d = {"erreur": "Le script de rédaction a planté (voir Actions > « Brouillon détaillé » > journal rouge).", "maj": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")}
+          d = {"erreur": "Le script de rédaction a planté ou a dépassé 9 minutes (voir Actions > « Brouillon détaillé » > journal rouge).", "maj": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")}
           open(f"data/brouillons/{i}.json", "w").write(json.dumps(d, ensure_ascii=False))
           PY
       - name: Enregistrer
