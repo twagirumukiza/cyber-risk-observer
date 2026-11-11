@@ -15,9 +15,14 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-import controle
-import ia
-import propositions as P
+try:                                   # un fichier manquant ou périmé doit se voir dans l'éditeur, pas faire attendre dans le vide
+    import controle
+    import ia
+    import propositions as P
+    P.valider_ctrl, P.telecharger, P.court, P.nettoyer_html, controle.verifier, controle.resume, ia.appeler  # noqa: B018
+    ERR_IMPORT = ""
+except Exception as _e:                # noqa: BLE001
+    ERR_IMPORT = f"{type(_e).__name__} : {_e}"
 
 DOSSIER = Path("data/brouillons")
 
@@ -76,6 +81,9 @@ def main():
     if len(id_) < 3:
         print("identifiant invalide")
         return 0
+    if ERR_IMPORT:
+        ecrire(id_, {"erreur": "Un fichier du dossier collecte/ est manquant ou n'est pas à jour (" + ERR_IMPORT[:160] + "). Redéposez tout le dossier collecte/ du zip complet, puis relancez."})
+        return 0
     menage()
     url = os.environ.get("SRC_URL", "").strip()
     titre = os.environ.get("SRC_TITRE", "").strip()[:300]
@@ -87,8 +95,13 @@ def main():
     src = {"titre": titre, "url": url, "source": os.environ.get("SRC_SOURCE", "")[:100], "resume": os.environ.get("SRC_RESUME", "")[:1500],
            "date": os.environ.get("SRC_DATE", "")[:10]}
     rub = int(os.environ.get("SRC_RUBRIQUE", "0") or 0) if os.environ.get("SRC_RUBRIQUE", "0").isdigit() else 0
-    cfg = ia.config()
-    if not ia.disponibles(cfg, rub):
+    try:
+        cfg = ia.config()
+        dispo = ia.disponibles(cfg, rub)
+    except Exception as e:             # noqa: BLE001
+        ecrire(id_, {"erreur": "Réglages d'IA illisibles (data/ia.json) : " + str(e)[:200]})
+        return 0
+    if not dispo:
         ecrire(id_, {"erreur": "Aucun fournisseur d'IA utilisable (onglet IA de l'éditeur : activez-en un ou ajoutez une clé)."})
         return 0
     page = texte_long(url) if url else ""

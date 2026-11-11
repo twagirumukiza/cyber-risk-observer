@@ -499,7 +499,7 @@ def load_template():
 
 
 EXTRA_CSS = """
-.rel{margin-top:28px}.rel h2{font:700 1.3rem var(--head);margin:0 0 10px;border-left:6px solid var(--ac);padding-left:10px}.rel ul{list-style:none;margin:0;padding:0;border-radius:8px;overflow:hidden}
+dd{white-space:pre-line}.rel{margin-top:28px}.rel h2{font:700 1.3rem var(--head);margin:0 0 10px;border-left:6px solid var(--ac);padding-left:10px}.rel ul{list-style:none;margin:0;padding:0;border-radius:8px;overflow:hidden}
 .rel li{padding:11px 16px;border-left:6px solid var(--ac);background:color-mix(in srgb,var(--ac) 20%,var(--bg))}.rel li:nth-child(2){background:color-mix(in srgb,var(--ac) 14%,var(--bg))}.rel li:nth-child(n+3){background:color-mix(in srgb,var(--ac) 8%,var(--bg))}
 .rel li+li{border-top:1px solid color-mix(in srgb,var(--ac) 28%,var(--bg))}.rel a{color:var(--ink);font:600 1rem/1.35 var(--head);text-decoration:none}.rel li:hover{background:color-mix(in srgb,var(--ac) 30%,var(--bg))}.rel li:hover a{text-decoration:underline}
 .shl{display:flex;gap:14px;flex-wrap:wrap}.shl a{text-decoration:underline}
