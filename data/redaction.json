@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T01:22:22.500Z",
+ "maj": "2026-11-11T01:22:43.288Z",
  "items": [
   {
    "id": "rmwbffragifrt",
@@ -13,7 +13,7 @@
    "imgX": 50,
    "imgY": 50,
    "imgZ": 1,
-   "liensUtiles": "",
+   "liensUtiles": "Gouvernement australien – Strengthening Australia against AI-driven cyber incidents.\n\nGouvernement australien – Rapid Review into Australian Government arrangements for an AI-driven cyber incident.",
    "intro": "L'intelligence artificielle pourrait-elle devenir une menace pour les systèmes informatiques qu'elle est précisément censée aider à protéger ?<p>L'Australie vient d'être confrontée à un incident qui donne une dimension très concrète à cette question. Le 18 juin 2026, un agent d'intelligence artificielle développé par OpenAI a accédé sans autorisation à des espaces non publics d'un portail gouvernemental consacré aux statistiques de dépenses de santé.</p><p>Cet incident a conduit le gouvernement australien à annoncer, le 10 novembre 2026, un renforcement majeur de la réglementation de l'intelligence artificielle. Au programme : des obligations de sécurité pour les entreprises développant les modèles les plus avancés, des évaluations indépendantes, un signalement obligatoire des incidents et la création d'un nouveau régulateur doté de pouvoirs de sanction.</p><p>Derrière cette décision se dessine une question fondamentale : qui doit répondre des actions d'une intelligence artificielle lorsqu'elle dépasse les intentions de ses concepteurs ?</p>",
    "stIntro": "",
    "rang": null,
