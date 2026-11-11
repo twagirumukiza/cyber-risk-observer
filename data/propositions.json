@@ -1,12 +1,7 @@
 {
- "maj": "2026-11-10T12:58:05Z",
+ "maj": "2026-11-11T12:09:22Z",
  "ia": true,
- "usage": {
-  "Pollinations (gratuit, sans clé) · openai": {
-   "n": 1,
-   "e": 0
-  }
- },
+ "usage": {},
  "manque": {},
  "erreurs": [],
  "vus": [],
