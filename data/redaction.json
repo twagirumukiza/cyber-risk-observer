@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T01:15:39.100Z",
+ "maj": "2026-11-11T01:15:57.580Z",
  "items": [
   {
    "id": "rmwbffragifrt",
@@ -43,7 +43,7 @@
     "con": []
    },
    "parties": [],
-   "stInfo": "",
+   "stInfo": "L’information : un agent d'OpenAI accède à des ressources gouvernementales",
    "stAna": "",
    "stAct": "",
    "stCon": "",
