@@ -1,12 +1,12 @@
 {
- "maj": "2026-11-11T03:02:47.268Z",
+ "maj": "2026-11-11T03:23:49.953Z",
  "items": [
   {
-   "id": "306be99284dc",
-   "section": 2,
+   "id": "3e31a53a7042",
+   "section": 4,
    "kicker": "",
-   "titre": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-   "resume": "<p>Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. &quot;The flaw could enable silent chat data theft, phishing,</p>",
+   "titre": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+   "resume": "<p>Rédaction par l’IA en cours… Ce brouillon se complétera tout seul (1 à 4 minutes) : vous pouvez créer d’autres brouillons ou fermer la page.</p>",
    "analyse": "",
    "conclusion": "",
    "imgPos": "tete",
@@ -23,8 +23,8 @@
    "uneD": "",
    "uneRJ": 0,
    "uneRD": "",
-   "encours": "",
-   "erreurIA": "GitHub attend votre approbation avant de lancer le workflow (état « action_required »). Ouvrez cette page et cliquez sur « Approve and run » (ou, dans le dépôt : Settings > Actions > General > Approval for running workflows) : https://github.com/twagirumukiza/cyber-risk-observer/actions/runs/4294992",
+   "encours": "3e31a53a7042",
+   "erreurIA": "",
    "notip": 0,
    "tipx": "",
    "ordre": [],
@@ -49,9 +49,9 @@
    "auteurPhoto": "",
    "actions": [],
    "actionsHtml": "",
-   "source": "The Hacker News",
-   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-   "date": "2026-11-05",
+   "source": "Le Monde Pixels",
+   "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+   "date": "2026-11-09",
    "criticite": "",
    "image": "",
    "credit": "",
@@ -1492,7 +1492,7 @@
   "07350cea0565",
   "1b5763a835e9",
   "d60298ca4969",
-  "3e31a53a7042",
-  "5c78a96f27ab"
+  "5c78a96f27ab",
+  "306be99284dc"
  ]
 }
