@@ -20,7 +20,7 @@
   "uneJ": 0,
   "uneD": "",
   "uneRJ": 0,
-  "uneRD": "2026-11-11",
+  "uneRD": "",
   "encours": "",
   "erreurIA": "",
   "notip": 0,
@@ -57,7 +57,7 @@
    "● Intégrer les menaces numériques dans les plans de continuité d’activité."
   ],
   "actionsHtml": "<p>● Renforcer l’authentification des messageries avec SPF, DKIM et DMARC.&nbsp;</p><p>● Conserver les courriels originaux et leurs en-têtes pour faciliter les investigations.&nbsp;</p><p>● Mettre en place des procédures de signalement et de coordination avec les autorités.&nbsp;</p><p>● Intégrer les menaces numériques dans les plans de continuité d’activité.</p>",
-  "source": "",
+  "source": "ANSA: Agenzia Nazionale Stampa Associata",
   "url": "",
   "date": "2026-11-11",
   "criticite": "",
