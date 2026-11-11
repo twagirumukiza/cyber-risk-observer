@@ -141,6 +141,7 @@
    "notice": ""
   },
   {
+   "id": "italie-campagne-de-menaces-a-la-bombe-par-courriel-visant-de",
    "titre": "Italie — campagne de menaces à la bombe par courriel visant des établissements scolaires",
    "date": "2026-11-11",
    "fin": "2026-11-11",
@@ -169,8 +170,7 @@
    "lecons": "en cybersécurité La menace peut exploiter les procédures de sécurité et la réaction humaine plutôt qu’une faille technique. La conservation des preuves numériques, la coordination avec les autorités, la gestion de crise et la continuité d’activité sont essentielles.",
    "enjeux": "Sociaux : climat de peur et perturbation de la scolarité. Économiques et organisationnels : mobilisation de ressources publiques et interruption d’activités. Politiques et institutionnels : pression sur les autorités et risque d’érosion de la confiance. Dimension internationale possible, mais coordination non établie.",
    "sources": "« Italie : des milliers d’écoles ciblées par des alertes à la bombe, une nouvelle forme de\ndéstabilisation numérique » | URL non communiquée (PDF fourni par l’utilisateur). La\nsource ne fournit pas de liens vers les communiqués ou sources primaires.",
-   "verifie": "2026-11-12",
-   "id": "italie-campagne-de-menaces-a-la-bombe-par-courriel-visant-de"
+   "verifie": "2026-11-12"
   }
  ]
 }
