@@ -136,7 +136,7 @@ def completer(p, modele, systeme, consigne):
     cle = secret(p["cle"])
     if p.get("type") == "anthropic":
         rep = _post(p["url"], {"x-api-key": cle, "anthropic-version": "2023-06-01"},
-                    {"model": modele, "max_tokens": 4000, "system": systeme, "messages": [{"role": "user", "content": consigne}]})
+                    {"model": modele, "max_tokens": 8000, "system": systeme, "messages": [{"role": "user", "content": consigne}]})
         return "".join(b.get("text", "") for b in rep.get("content", []) if b.get("type") == "text")
     rep = _post(p["url"], {"Authorization": "Bearer " + cle} if cle else {},
                 {"model": modele, "messages": [{"role": "system", "content": systeme}, {"role": "user", "content": consigne}]})
