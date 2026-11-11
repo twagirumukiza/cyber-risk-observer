@@ -1,5 +1,107 @@
 [
  {
+  "id": "a93f9697c95e",
+  "source": "Bloomberg Law News",
+  "rubrique": 2,
+  "titre": "Harley-Davidson Hit With Proposed Class Action After Data Breach",
+  "url": "https://news.bloomberglaw.com/privacy-and-data-security/harley-davidson-hit-with-proposed-class-action-after-data-breach",
+  "date": "2026-11-11",
+  "resume": "A former Harley-Davidson Inc. employee sued the motorcycle maker over a September ransomware attack in which a criminal hacking group stole roughly 270 gigabytes of internal data.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "score": 15
+ },
+ {
+  "id": "4c32248b415f",
+  "source": "BleepingComputer",
+  "rubrique": 3,
+  "titre": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+  "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+  "date": "2026-11-11",
+  "resume": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Fuite de données"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Fuite de données"
+  ],
+  "score": 13
+ },
+ {
+  "id": "8cdc4a0f74c8",
+  "source": "Krebs on Security",
+  "rubrique": 1,
+  "titre": "Who Runs the Ransomware Group Qilin?",
+  "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+  "date": "2026-11-11",
+  "resume": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Cyberattaque"
+  ],
+  "score": 11
+ },
+ {
+  "id": "42f8e006ff2e",
+  "source": "International Business Times AU",
+  "rubrique": 2,
+  "titre": "Google Patches Eighth Actively Exploited Chrome Zero-Day of 2026: Update Your Browser Now to Block Attacks",
+  "url": "https://www.ibtimes.com.au/google-chrome-emergency-update-exploited-zero-day-1878424",
+  "date": "2026-11-11",
+  "resume": "Google has released an emergency Chrome update for a high-severity zero-day vulnerability under active attack, affecting Windows, macOS, Linux and Android users.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 11
+ },
+ {
+  "id": "f3c71064af7c",
+  "source": "note",
+  "rubrique": 2,
+  "titre": "Google Chrome Zero-Day Vulnerability CVE-2026-125350 Confirmed Exploited, 9 Vulnerabilities Fixed",
+  "url": "https://note.com/hot_gecko8270/n/n6ba4bce7e61f?hl=en",
+  "date": "2026-11-11",
+  "resume": "Google updated the stable version of its desktop \"Google Chrome\" browser, fixing 9 vulnerabilities. Among these, the company revealed on its official \"Chrome Releases\" blog that it is aware of exploit ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 11
+ },
+ {
   "id": "14caa111eec6",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -59,6 +161,65 @@
   "score": 9
  },
  {
+  "id": "63cbf25606a5",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+  "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+  "date": "2026-11-11",
+  "resume": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cloud systems hosting AntiFox interfaces were associated with confirmed malicious actions against",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque",
+   "IA",
+   "Cloud"
+  ],
+  "score": 9
+ },
+ {
+  "id": "9c9df925add3",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+  "date": "2026-11-11",
+  "resume": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque",
+   "IA",
+   "Cloud"
+  ],
+  "score": 9
+ },
+ {
+  "id": "7750f13d5cd1",
+  "source": "TechRepublic",
+  "rubrique": 2,
+  "titre": "Microsoft Patches 1,235 Security Flaws: Outlook Zero-Day Already Under Attack",
+  "url": "https://www.techrepublic.com/article/news-microsoft-november-2026-patch-tuesday/",
+  "date": "2026-11-11",
+  "resume": "Microsoft fixes 1,235 security flaws in November's Patch Tuesday, including an actively exploited Outlook zero-day. Here's what Windows users need to know.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
+ },
+ {
   "id": "e23f07d99f92",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -93,6 +254,45 @@
   "tags": [
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "8b35f69eac70",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+  "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+  "date": "2026-11-11",
+  "resume": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could allow an unauthenticated user to conduct an escalation of privilege via",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "7fc0ff6aee2a",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+  "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+  "date": "2026-11-11",
+  "resume": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
   ],
   "score": 8
  },
@@ -182,6 +382,40 @@
   "menaces": [],
   "tags": [
    "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "4555dea14647",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Notion says Fireworks breach exposed customer AI chat transcripts",
+  "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+  "date": "2026-11-11",
+  "resume": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "a9021fd43362",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+  "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+  "date": "2026-11-11",
+  "resume": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
   ],
   "score": 6
  },
@@ -1816,6 +2050,40 @@
   ],
   "tags": [
    "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "4704d00203f9",
+  "source": "Corse Matin",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre des frigos : la France \"ne s'interdit rien\" dans la riposte contre l'Iran, avertit son chef de la diplomatie",
+  "url": "https://www.corsematin.com/article/francemonde/73413475112645/cyberattaque-contre-des-frigos-la-france-ne-sinterdit-rien-dans-la-riposte-contre-liran-avertit-son-chef-de-la-diplomatie",
+  "date": "2026-11-10",
+  "resume": "Cyberattaque contre des frigos : la France \"ne s'interdit rien\" dans la riposte contre l'Iran, avertit son chef de la diplomatie ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "b5a90a640b7d",
+  "source": "Portail de l’assurance",
+  "rubrique": 2,
+  "titre": "Les cybermenaces qui se dessinent pour 2027",
+  "url": "https://portail-assurance.ca/article/les-cybermenaces-qui-se-dessinent-pour-2027/",
+  "date": "2026-11-10",
+  "resume": "L’intelligence artificielle fait émerger de nouveaux risques importants et entraîne une multiplication des solutions à envisager.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA"
   ],
   "score": 6
  },
@@ -5904,62 +6172,6 @@
   ]
  },
  {
-  "id": "4a3beb5aa5ff",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-  "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-  "date": "2026-10-31",
-  "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "845cf24b8961",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "New Android SMS of Death exploit can remotely crash unpatched phones",
-  "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-  "date": "2026-10-31",
-  "resume": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "a291b7051796",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-  "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-  "date": "2026-10-31",
-  "resume": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Fuite de données"
-  ],
-  "score": 5,
-  "menaces": [
-   "Fuite de données"
-  ]
- },
- {
   "id": "f53dd469089e",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -6117,215 +6329,6 @@
    "Vulnérabilité"
   ],
   "score": 6,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "5d0aa1865d5d",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans les produits Apple (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1421/",
-  "date": "2026-10-30",
-  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "565b19547f10",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Google Chrome (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1422/",
-  "date": "2026-10-30",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "b933ef472f9d",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans CPython (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/",
-  "date": "2026-10-30",
-  "resume": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "6b1f0a190440",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans Ruby on Rails trilogy (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1424/",
-  "date": "2026-10-30",
-  "resume": "Une vulnérabilité a été découverte dans Ruby on Rails trilogy. Elle permet à un attaquant de provoquer une injection SQL (SQLi).",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "a04cc8e270bb",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans Tenable Nessus Plugin (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1425/",
-  "date": "2026-10-30",
-  "resume": "Une vulnérabilité a été découverte dans Tenable Nessus Plugin. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "b0ef52c1a470",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
-  "date": "2026-10-30",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "92650a1e7ae8",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans GitLab (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1427/",
-  "date": "2026-10-30",
-  "resume": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "a6b51e86c41d",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Suricata (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1428/",
-  "date": "2026-10-30",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "c2bc9ee7faad",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
-  "date": "2026-10-30",
-  "resume": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "06c4ba24038c",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
-  "date": "2026-10-30",
-  "resume": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "6473fc7702e5",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-  "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-  "date": "2026-10-30",
-  "resume": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
