@@ -891,35 +891,50 @@
   {
    "id": "cyber-army-of-russia-reborn",
    "nom": "Cyber Army of Russia Reborn",
-   "alias": "",
+   "alias": "CARR, People’s Cyber Army of Russia",
    "ini": "CA",
    "cat": "hacktivist",
    "origine": "Russie",
-   "debut": "Première activité connue : 2022–2023",
-   "affil": "Russie ; affiliation étatique non établie définitivement",
+   "debut": "Apparition publique : 2022",
+   "affil": "Russie — liens rapportés avec le GRU, notamment l’unité 74455",
    "tags": [
     "Hacktivisme",
-    "Attribution prudente"
+    "Lié à l’État (rapporté)"
    ],
    "champs": [
     {
-     "l": "Motivation",
-     "v": "À documenter"
+     "l": "Nature",
+     "v": "Collectif hacktiviste pro-russe"
     },
     {
-     "l": "Affiliation",
-     "v": "Russie ; affiliation étatique non établie de manière définitive dans la source"
+     "l": "Spécialités",
+     "v": "DDoS, perturbation de services et ciblage d’infrastructures"
     },
     {
-     "l": "Modes opératoires / cibles",
-     "v": "À compléter"
+     "l": "Cibles",
+     "v": "Ukraine, pays de l’OTAN et États soutenant l’Ukraine"
     },
     {
-     "l": "Statut",
-     "v": "À vérifier"
+     "l": "Modes opératoires",
+     "v": "• Mobilisation de participants sur des canaux en ligne.\n• Campagnes DDoS coordonnées.\n• Revendication publique des attaques.\n• Ciblage de services publics et d’infrastructures numériques.\n• Amplification médiatique des opérations.",
+     "w": 1
+    },
+    {
+     "l": "Opérations documentées",
+     "v": "• Depuis 2022 : campagnes contre des organisations ukrainiennes et occidentales.\n• 2024 : sanctions américaines contre des responsables associés à CARR et à la Z-Pentest Alliance.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Liens étatiques documentés par les autorités américaines et britanniques"
+    },
+    {
+     "l": "Intérêt",
+     "v": "Documenter la relation entre hacktivisme, opérations de déstabilisation et renseignement militaire russe.",
+     "w": 1
     }
    ],
-   "mots": "Cyber Army of Russia Reborn affiliation étatique non établie"
+   "mots": "CARR Cyber Army of Russia Reborn People's Cyber Army GRU 74455 DDoS"
   },
   {
    "id": "shahid-kaveh",
@@ -1090,6 +1105,447 @@
     }
    ],
    "mots": "Shahid Shoostari Emennet Pasargad, Iliyanet Iran APT / État Déstabilisation et influence Représailles, intimidation et déstabilisation Iran — Corps des gardiens de la révolution islamique (CGRI) Centre électronique et cyber (CGRI-CEC) Unité cyber-offensive étatique France et intérêts français 2021"
+  },
+  {
+   "id": "gru-unit-29155",
+   "nom": "GRU Unit 29155",
+   "alias": "Military Unit 29155, 161st Specialist Training Centre",
+   "ini": "29",
+   "cat": "state",
+   "origine": "Russie",
+   "debut": "Activité connue avant 2020",
+   "affil": "Russie — GRU, Direction générale du renseignement militaire (attribution)",
+   "tags": [
+    "APT / État",
+    "Sabotage",
+    "Espionnage"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Unité de renseignement et d’opérations spéciales"
+    },
+    {
+     "l": "Spécialités",
+     "v": "Espionnage, sabotage, destruction de données"
+    },
+    {
+     "l": "Cibles",
+     "v": "Gouvernements, infrastructures critiques, défense"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Intrusion dans les réseaux gouvernementaux.\n• Vol de documents et d’informations sensibles.\n• Déploiement de logiciels destructeurs.\n• Opérations de perturbation et de sabotage.\n• Utilisation de relais et d’infrastructures intermédiaires.",
+     "w": 1
+    },
+    {
+     "l": "Opérations documentées",
+     "v": "• 2020 : cyberattaques contre des ministères estoniens.\n• 2022 : opération WhisperGate contre l’Ukraine, attribuée à cette unité par plusieurs gouvernements occidentaux.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Élevé pour les attributions officielles"
+    },
+    {
+     "l": "Précision méthodologique",
+     "v": "Unité distincte d’APT28 et d’APT29 : ne pas confondre.",
+     "w": 1
+    }
+   ],
+   "mots": "GRU Unit 29155 Military Unit 29155, 161st Specialist Training Centre Russie APT / État Sabotage Espionnage"
+  },
+  {
+   "id": "apt31",
+   "nom": "APT31",
+   "alias": "Zirconium, Judgment Panda, Violet Typhoon",
+   "ini": "31",
+   "cat": "state",
+   "origine": "Chine",
+   "debut": "Première activité publique connue : années 2010",
+   "affil": "Chine — Ministère de la Sécurité d’État (MSS) (attribution)",
+   "tags": [
+    "APT / État",
+    "Espionnage"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Groupe de cyberespionnage"
+    },
+    {
+     "l": "Spécialités",
+     "v": "Phishing ciblé, espionnage, vol d’informations"
+    },
+    {
+     "l": "Cibles",
+     "v": "Diplomatie, gouvernements, entreprises et personnalités politiques"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Campagnes de spear phishing.\n• Compromission de messageries électroniques.\n• Exploitation de vulnérabilités.\n• Vol de documents et de correspondances.\n• Maintien d’un accès discret aux réseaux compromis.",
+     "w": 1
+    },
+    {
+     "l": "Opération documentée",
+     "v": "En mai 2025, le gouvernement tchèque a officiellement attribué à APT31 une campagne visant le réseau non classifié du ministère tchèque des Affaires étrangères, commencée au moins en 2022.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Élevé pour l’attribution officielle tchèque"
+    }
+   ],
+   "mots": "APT31 Zirconium, Judgment Panda, Violet Typhoon Chine APT / État Espionnage"
+  },
+  {
+   "id": "cyber-corps-ukraine",
+   "nom": "Cyber Corps",
+   "alias": "Кіберкорпус",
+   "ini": "CC",
+   "cat": "state",
+   "origine": "Ukraine",
+   "debut": "Apparition publique : juillet 2024",
+   "affil": "Ukraine — liens avec le renseignement militaire (GUR), à qualifier",
+   "tags": [
+    "Collectif cyber offensif",
+    "Affiliation à qualifier"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Collectif cyber offensif"
+    },
+    {
+     "l": "Spécialités",
+     "v": "DDoS, intrusion, collecte de données"
+    },
+    {
+     "l": "Cibles",
+     "v": "Infrastructures numériques russes, banques et entreprises"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Identification de services numériques russes.\n• Campagnes de déni de service.\n• Intrusion dans des systèmes d’information.\n• Collecte et publication de documents.\n• Coordination ou chevauchement avec certaines opérations revendiquées par le GUR.",
+     "w": 1
+    },
+    {
+     "l": "Opérations documentées",
+     "v": "• 2024 : revendication d’une intrusion dans les systèmes du ministère russe de la Défense.\n• 2024 : campagnes contre des banques et opérateurs russes.\n• Août 2026 : opération contre l’infrastructure numérique de Wildberries, reconnue publiquement par le GUR.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Lien avec le GUR renforcé par des reconnaissances publiques en 2026"
+    }
+   ],
+   "mots": "Cyber Corps Кіберкорпус Ukraine Collectif cyber offensif Affiliation à qualifier"
+  },
+  {
+   "id": "it-army-of-ukraine",
+   "nom": "IT Army of Ukraine",
+   "alias": "IT Army",
+   "ini": "IA",
+   "cat": "hacktivist",
+   "origine": "Ukraine",
+   "debut": "Création : février 2022",
+   "affil": "Ukraine — initiative publique soutenue par les autorités",
+   "tags": [
+    "Hacktivisme",
+    "Collectif de volontaires"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Collectif de volontaires"
+    },
+    {
+     "l": "Spécialités",
+     "v": "DDoS, perturbation de services numériques"
+    },
+    {
+     "l": "Cibles",
+     "v": "Banques, administrations et entreprises russes"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Mobilisation de volontaires.\n• Diffusion de listes de cibles.\n• Coordination de campagnes DDoS.\n• Actions collectives contre des services numériques russes.\n• Communication publique des opérations.",
+     "w": 1
+    },
+    {
+     "l": "Opérations documentées",
+     "v": "Depuis 2022 : campagnes contre des services bancaires, administrations et opérateurs russes.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Élevé pour son existence et son origine ; affiliation opérationnelle précise variable"
+    },
+    {
+     "l": "Précaution",
+     "v": "Ne pas confondre ce collectif avec une unité militaire spécialisée dans l’espionnage : son organisation et son degré de contrôle étatique sont différents.",
+     "w": 1
+    }
+   ],
+   "mots": "IT Army of Ukraine IT Army Ukraine Hacktivisme Collectif de volontaires"
+  },
+  {
+   "id": "z-pentest-alliance",
+   "nom": "Z-Pentest Alliance",
+   "alias": "Z-Pentest",
+   "ini": "ZP",
+   "cat": "hacktivist",
+   "origine": "Russie",
+   "debut": "Apparition publique : 2022",
+   "affil": "Russie — liens rapportés avec le GRU et son centre des technologies spéciales",
+   "tags": [
+    "Hacktivisme",
+    "Lié à l’État (rapporté)"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Collectif hacktiviste pro-russe"
+    },
+    {
+     "l": "Spécialités",
+     "v": "DDoS, ciblage d’infrastructures critiques et opérations de perturbation"
+    },
+    {
+     "l": "Cibles",
+     "v": "Ukraine, OTAN et pays soutenant l’Ukraine"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Identification de services accessibles publiquement.\n• Campagnes DDoS.\n• Revendications sur les réseaux sociaux.\n• Ciblage de services gouvernementaux et d’infrastructures.\n• Utilisation d’une communication à dimension géopolitique.",
+     "w": 1
+    },
+    {
+     "l": "Opérations documentées",
+     "v": "• Campagnes contre des organisations ukrainiennes.\n• Opérations contre des infrastructures de pays occidentaux.\n• Actions coordonnées avec d’autres collectifs pro-russes.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Liens étatiques rapportés et sanctions officielles"
+    },
+    {
+     "l": "Précaution",
+     "v": "CARR et Z-Pentest sont deux identités à distinguer, mais des chevauchements organisationnels et humains ont été rapportés.",
+     "w": 1
+    }
+   ],
+   "mots": "Z-Pentest Alliance Z-Pentest Russie Hacktivisme Lié à l’État (rapporté)"
+  },
+  {
+   "id": "nsa-tao",
+   "nom": "NSA / Tailored Access Operations (TAO)",
+   "alias": "TAO",
+   "ini": "TA",
+   "cat": "state",
+   "origine": "États-Unis",
+   "debut": "Création : avant 2000",
+   "affil": "États-Unis — National Security Agency (NSA)",
+   "tags": [
+    "État",
+    "Renseignement"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Unité opérationnelle de renseignement"
+    },
+    {
+     "l": "Spécialités",
+     "v": "Cyberespionnage, collecte de renseignements, accès à des réseaux étrangers"
+    },
+    {
+     "l": "Cibles",
+     "v": "Réseaux et systèmes d’intérêt stratégique"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Développement de capacités d’accès aux systèmes.\n• Exploitation de vulnérabilités.\n• Collecte de renseignements numériques.\n• Opérations d’infiltration et de surveillance.\n• Exploitation de dispositifs réseau et informatiques.",
+     "w": 1
+    },
+    {
+     "l": "Opérations documentées",
+     "v": "Les révélations de documents de renseignement publiés à partir de 2013 ont permis de documenter certaines capacités de cette unité. Il faut éviter de lui attribuer automatiquement toutes les opérations américaines de cyberespionnage.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Existence officielle confirmée ; opérations particulières à attribuer avec prudence"
+    }
+   ],
+   "mots": "NSA / Tailored Access Operations (TAO) TAO États-Unis État Renseignement"
+  },
+  {
+   "id": "unite-8200",
+   "nom": "Unité 8200",
+   "alias": "Unit 8200",
+   "ini": "82",
+   "cat": "state",
+   "origine": "Israël",
+   "debut": "Origines : 1948, dans l’histoire des organismes israéliens de renseignement électromagnétique",
+   "affil": "Israël — Direction du renseignement militaire de Tsahal",
+   "tags": [
+    "État",
+    "Renseignement militaire"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Unité militaire de renseignement"
+    },
+    {
+     "l": "Spécialités",
+     "v": "SIGINT, cyber-renseignement, collecte et analyse de données"
+    },
+    {
+     "l": "Cibles",
+     "v": "Réseaux, communications et systèmes présentant un intérêt stratégique"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Interception et analyse de communications.\n• Collecte de renseignements techniques.\n• Analyse de grandes quantités de données.\n• Développement de capacités technologiques.\n• Appui aux opérations de renseignement militaire.",
+     "w": 1
+    },
+    {
+     "l": "Opérations associées",
+     "v": "L’unité a été publiquement associée à différentes opérations cyber israéliennes, notamment dans les analyses relatives à Stuxnet. Il faut toutefois distinguer les associations rapportées des attributions officiellement confirmées.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Existence et mission générale confirmées"
+    }
+   ],
+   "mots": "Unité 8200 Unit 8200 Israël État Renseignement militaire"
+  },
+  {
+   "id": "national-cyber-force",
+   "nom": "National Cyber Force (NCF)",
+   "alias": "NCF",
+   "ini": "NC",
+   "cat": "state",
+   "origine": "Royaume-Uni",
+   "debut": "Création : 2020",
+   "affil": "Royaume-Uni — défense britannique et services de renseignement",
+   "tags": [
+    "État",
+    "Cyberdéfense"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Organisation gouvernementale opérationnelle"
+    },
+    {
+     "l": "Spécialités",
+     "v": "Opérations cyber offensives, effets numériques et sécurité nationale"
+    },
+    {
+     "l": "Cibles",
+     "v": "Adversaires et menaces visant les intérêts britanniques"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Opérations dans le cyberespace.\n• Perturbation de capacités adverses.\n• Actions numériques à finalité stratégique.\n• Coopération entre renseignement et défense.",
+     "w": 1
+    },
+    {
+     "l": "Organisation",
+     "v": "La NCF réunit notamment des personnels du GCHQ, du ministère de la Défense, du SIS et du Dstl.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Existence officielle confirmée"
+    }
+   ],
+   "mots": "National Cyber Force (NCF) NCF Royaume-Uni État Cyberdéfense"
+  },
+  {
+   "id": "defence-cyber-command-nl",
+   "nom": "Defence Cyber Command (Pays-Bas)",
+   "alias": "DCC, NLD Cyber Command",
+   "ini": "DC",
+   "cat": "state",
+   "origine": "Pays-Bas",
+   "debut": "",
+   "affil": "Pays-Bas — ministère néerlandais de la Défense",
+   "tags": [
+    "État",
+    "Commandement militaire"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Commandement cyber militaire"
+    },
+    {
+     "l": "Spécialités",
+     "v": "Défense, renseignement et opérations cyber offensives"
+    },
+    {
+     "l": "Cibles",
+     "v": "Menaces numériques et objectifs militaires adverses"
+    },
+    {
+     "l": "Modes opératoires",
+     "v": "• Protection des systèmes militaires.\n• Collecte de renseignement cyber.\n• Préparation d’opérations dans le cyberespace.\n• Opérations offensives exclusivement contre des objectifs militaires, selon la doctrine publiée par le ministère.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Existence officielle confirmée"
+    }
+   ],
+   "mots": "Defence Cyber Command (Pays-Bas) DCC, NLD Cyber Command Pays-Bas État Commandement militaire"
+  },
+  {
+   "id": "comcyber",
+   "nom": "Commandement de la cyberdéfense (COMCYBER)",
+   "alias": "COMCYBER",
+   "ini": "CY",
+   "cat": "state",
+   "origine": "France",
+   "debut": "Création : 2017",
+   "affil": "France — ministère des Armées",
+   "tags": [
+    "État",
+    "Commandement militaire"
+   ],
+   "champs": [
+    {
+     "l": "Nature",
+     "v": "Commandement militaire"
+    },
+    {
+     "l": "Spécialités",
+     "v": "Lutte informatique défensive, offensive et d’influence"
+    },
+    {
+     "l": "Cibles",
+     "v": "Menaces et adversaires dans le cyberespace"
+    },
+    {
+     "l": "Missions",
+     "v": "• Lutte informatique défensive.\n• Lutte informatique offensive.\n• Lutte informatique d’influence.\n• Formation et coordination des capacités cyber militaires.",
+     "w": 1
+    },
+    {
+     "l": "Niveau de confiance",
+     "v": "Existence officielle confirmée"
+    },
+    {
+     "l": "Précaution",
+     "v": "COMCYBER est une structure de commandement, pas un groupe de hackers à inscrire comme APT.",
+     "w": 1
+    }
+   ],
+   "mots": "Commandement de la cyberdéfense (COMCYBER) COMCYBER France État Commandement militaire"
   }
  ],
  "ttp": [
@@ -1176,6 +1632,14 @@
   [
    "Iran — sabotage OT et déstabilisation (CGRI-CEC)",
    "Shahid Kaveh, Shahid Shoostari"
+  ],
+  [
+   "Unités étatiques et commandements cyber (Russie, Chine, Occident)",
+   "GRU Unit 29155, APT31, NSA TAO, Unité 8200, NCF, COMCYBER"
+  ],
+  [
+   "Hacktivisme lié à des États (Russie / Ukraine)",
+   "CARR, Z-Pentest Alliance, IT Army of Ukraine, Cyber Corps"
   ]
  ],
  "cats": [
