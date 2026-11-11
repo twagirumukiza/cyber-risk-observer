@@ -105,7 +105,22 @@ def disponibles(cfg, rub=None):
     return out
 
 
-def _post(url, entetes, corps, delai=120):
+DEBUT = time.time()
+
+
+def _reste():
+    """Secondes restantes dans le budget global (variable IA_BUDGET), ou None si aucun budget."""
+    try:
+        b = float(os.environ.get("IA_BUDGET") or 0)
+    except ValueError:
+        b = 0
+    return (b - (time.time() - DEBUT)) if b else None
+
+
+def _post(url, entetes, corps, delai=90):
+    r = _reste()
+    if r is not None:
+        delai = max(10, min(delai, r))
     req = urllib.request.Request(url, data=json.dumps(corps).encode(), method="POST", headers={"content-type": "application/json", **entetes})
     with urllib.request.urlopen(req, timeout=delai) as r:
         return json.loads(r.read().decode())
@@ -133,6 +148,10 @@ def appeler(systeme, consigne, cfg, rub=None, valider=None):
     erreurs = []
     rr = cfg["rubriques"].get(str(rub)) or {}
     for k in disponibles(cfg, rub):
+        r = _reste()
+        if r is not None and r < 15:
+            erreurs.append("délai global dépassé, fournisseurs suivants non essayés")
+            break
         p = cfg["fournisseurs"][k]
         modele = (rr.get("modele") if rr.get("fournisseur") == k and rr.get("modele") else "") or p.get("modele") or ""
         if not modele:
