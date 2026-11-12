@@ -13,7 +13,7 @@
    "src": [
     "CTFtime"
    ],
-   "verif": "ko"
+   "verif": "ok"
   },
   {
    "ct": 3486,
@@ -426,6 +426,17 @@
  "classTitre": "Classement mondial 2026",
  "writeups": [
   {
+   "id": "wa67a86af",
+   "cat": "Autre",
+   "titre": "I just completed Block room on TryHackMe!",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xtx819/i_just_completed_block_room_on_tryhackme/",
+   "d": "2026-11-11",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
    "id": "wadf7d09e",
    "cat": "Web",
    "titre": "The pinnacle of crowdsourced security. What a live hacking event with Intigriti can do for businesses",
@@ -734,17 +745,6 @@
    "v": 1
   },
   {
-   "id": "w1c2d0ffc",
-   "cat": "Autre",
-   "titre": "A challenge for those willing to crack a cypher",
-   "niveau": "",
-   "url": "https://www.reddit.com/r/securityCTF/comments/1xlyks2/a_challenge_for_those_willing_to_crack_a_cypher/",
-   "d": "2026-11-02",
-   "s": "Reddit r/securityCTF",
-   "n": 1,
-   "v": 0
-  },
-  {
    "id": "w9c97b0c3",
    "cat": "Web",
    "titre": "I made a practical Arabic walkthrough of UNION-Based SQL Injection (3 PortSwigger Labs)",
@@ -954,13 +954,13 @@
    "v": 1
   }
  ],
- "maj": "2026-11-11T11:54:51Z",
+ "maj": "2026-11-12T12:47:42Z",
  "sources": {
   "Compétitions — CTFtime": 24,
   "CTFtime — writeups": 0,
   "0xdf hacks stuff": 17,
   "CryptoHack": 1,
-  "PortSwigger Research": 9,
+  "PortSwigger Research": 10,
   "Intigriti": 20,
   "The DFIR Report": 1,
   "Didier Stevens": 10,
