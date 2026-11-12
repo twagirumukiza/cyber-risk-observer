@@ -1,5 +1,43 @@
 [
  {
+  "id": "8b748363b7cc",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+  "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+  "date": "2026-11-12",
+  "resume": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Red Hat, which ships the server as part of Red Hat Enterprise Linux. An attacker who can reach the",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "f1a5b4bff7b5",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+  "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+  "date": "2026-11-12",
+  "resume": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerability in the ScreenConnect software. \"Our initial assessment suggests the activity may involve",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
   "id": "a93f9697c95e",
   "source": "Bloomberg Law News",
   "rubrique": 2,
@@ -29,6 +67,26 @@
   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
   "date": "2026-11-11",
   "resume": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Fuite de données"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Fuite de données"
+  ],
+  "score": 13
+ },
+ {
+  "id": "2fff8b249316",
+  "source": "Neowin",
+  "rubrique": 2,
+  "titre": "Shipping company Maersk suffers data breach, ransomware gang demands $5 million",
+  "url": "https://www.neowin.net/news/shipping-company-maersk-suffers-data-breach-ransomware-gang-demands-5-million/",
+  "date": "2026-11-11",
+  "resume": "Danish logistics company Maersk recently confirmed a data breach that affected one of its contract-logistics arm. A ransomware gang claims to have stolen over 10GB of sensitive data.",
   "criticite": "",
   "poids": 1,
   "menaces": [
@@ -297,6 +355,24 @@
   "score": 8
  },
  {
+  "id": "7f241c94ac84",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Baker Tilly notifies clients of data breach at third-party provider",
+  "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+  "date": "2026-11-11",
+  "resume": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
   "id": "454ed8a245ff",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -332,6 +408,25 @@
   "tags": [
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
+  ],
+  "score": 7
+ },
+ {
+  "id": "b4e48404e428",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
+  "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
+  "date": "2026-11-11",
+  "resume": "Selon le « Wall Street Jounal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces nécessaires à la révolution de l’intelligence artificielle.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Espionnage / acteur étatique"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique",
+   "IA"
   ],
   "score": 7
  },
@@ -416,6 +511,24 @@
   ],
   "tags": [
    "Vulnérabilité / zero-day"
+  ],
+  "score": 6
+ },
+ {
+  "id": "ccdd6c7f3ffe",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+  "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+  "date": "2026-11-11",
+  "resume": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant"
   ],
   "score": 6
  },
@@ -554,6 +667,48 @@
   "score": 5
  },
  {
+  "id": "b80a24c89312",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+  "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+  "date": "2026-11-11",
+  "resume": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues. The 8 intermediate CAs compromised in October had a different problem: a single line in the script",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "a4a34375ee4e",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "eMudhra revokes 8 more CA certificates after private key mishap",
+  "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+  "date": "2026-11-11",
+  "resume": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
+  "id": "15c0b59087ed",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Microsoft fixes audio issues caused by September security updates",
+  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+  "date": "2026-11-11",
+  "resume": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [],
+  "score": 4
+ },
+ {
   "id": "5c78a96f27ab",
   "source": "Newsweek",
   "rubrique": 2,
@@ -573,7 +728,7 @@
    "Fuite de données",
    "Cyberattaque"
   ],
-  "score": 15
+  "score": 14
  },
  {
   "id": "7e074483ebb9",
@@ -595,7 +750,7 @@
    "Fuite de données",
    "Cyberattaque"
   ],
-  "score": 15
+  "score": 14
  },
  {
   "id": "87cee7be5686",
@@ -615,7 +770,7 @@
    "Vulnérabilité",
    "Sauvegarde"
   ],
-  "score": 13
+  "score": 12
  },
  {
   "id": "89d6f6254d42",
@@ -636,7 +791,7 @@
    "Fuite de données",
    "Vulnérabilité"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "fe16241dfb0c",
@@ -655,7 +810,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "0c134491b82b",
@@ -674,7 +829,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "588033e85e3e",
@@ -693,7 +848,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "255a7e2e04ea",
@@ -712,7 +867,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "9272d747390f",
@@ -731,7 +886,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 12
+  "score": 11
  },
  {
   "id": "9844bc61915e",
@@ -751,7 +906,7 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "7e1f9b33c691",
@@ -771,7 +926,7 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "16367edd00b6",
@@ -793,7 +948,7 @@
    "IA",
    "Cloud"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "50eb1dccf495",
@@ -813,7 +968,7 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "008f66d06450",
@@ -833,7 +988,7 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 11
+  "score": 10
  },
  {
   "id": "ee38906c3a6e",
@@ -853,7 +1008,27 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 11
+  "score": 10
+ },
+ {
+  "id": "a69362bdb625",
+  "source": "note",
+  "rubrique": 2,
+  "titre": "Have you updated Windows and Office yet? A gentle guide to the actively exploited Outlook zero-day (CVE-2026-124194)",
+  "url": "https://note.com/gpt_mindcraft/n/nf09942e39bae?hl=en",
+  "date": "2026-11-10",
+  "resume": "Have you checked for Windows Updates yet? Microsoft's November monthly patch includes a fix for an Outlook vulnerability that is already being exploited. Opening a specially crafted file could lead to ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 10
  },
  {
   "id": "1c6d394feae3",
@@ -874,7 +1049,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "ca43af01938e",
@@ -895,7 +1070,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "de0c3ae69275",
@@ -916,7 +1091,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "0eb55bf1598e",
@@ -937,7 +1112,7 @@
    "Logiciel malveillant",
    "Vulnérabilité"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "7e413807cc2f",
@@ -958,7 +1133,7 @@
    "Logiciel malveillant",
    "Hameçonnage"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "7d35c70e6708",
@@ -980,7 +1155,7 @@
    "Espionnage / acteur étatique",
    "Cyberattaque"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "329980cc6fad",
@@ -1000,7 +1175,7 @@
    "Zero-day",
    "Cloud"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "31a122bd5853",
@@ -1020,7 +1195,7 @@
    "IA",
    "Institutions"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "751e5280cdb4",
@@ -1040,7 +1215,7 @@
    "IA",
    "Institutions"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "9398616ade4d",
@@ -1061,7 +1236,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "073680801d68",
@@ -1081,7 +1256,7 @@
    "Vulnérabilité",
    "IA"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "74f31cae8a39",
@@ -1099,7 +1274,7 @@
   "tags": [
    "Rançongiciel"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "7d2482c88528",
@@ -1119,7 +1294,7 @@
    "IA",
    "Cloud"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "8a1aa3911faf",
@@ -1138,7 +1313,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "1f6bc1af5305",
@@ -1157,7 +1332,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "193a689f6d04",
@@ -1176,7 +1351,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "09de80ae0aa4",
@@ -1197,7 +1372,7 @@
    "Cyberattaque",
    "Cloud"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "9364f9baac68",
@@ -1216,7 +1391,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "2a555df5f60a",
@@ -1235,7 +1410,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "6eba82e6120d",
@@ -1254,7 +1429,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 9
+  "score": 8
  },
  {
   "id": "a1fabc476d74",
@@ -1273,7 +1448,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "40bb33a1ac50",
@@ -1292,7 +1467,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "4d53ab11a08a",
@@ -1311,7 +1486,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "7e78fe246f56",
@@ -1330,7 +1505,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "82e205b75586",
@@ -1349,7 +1524,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "327b4613f7a3",
@@ -1368,7 +1543,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "59855afa9233",
@@ -1387,7 +1562,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "a85348e69bc2",
@@ -1406,7 +1581,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "b579a343e6b6",
@@ -1425,7 +1600,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "82b5e1a648c0",
@@ -1444,7 +1619,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "0e899e1e6c12",
@@ -1464,7 +1639,7 @@
    "Vulnérabilité / zero-day",
    "Cyberattaque"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "8791ad63d4b7",
@@ -1484,7 +1659,7 @@
    "Logiciel malveillant",
    "Cyberattaque"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "50de145d4c22",
@@ -1502,7 +1677,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "b86930e18372",
@@ -1521,7 +1696,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "b958c2272095",
@@ -1540,7 +1715,7 @@
    "Vulnérabilité / zero-day",
    "IA"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "440712bd8e4f",
@@ -1557,7 +1732,7 @@
    "IA",
    "Institutions"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "2459e55e4ac7",
@@ -1574,7 +1749,7 @@
    "IA",
    "Institutions"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "ce5dbb7e24f6",
@@ -1593,7 +1768,7 @@
    "Espionnage / acteur étatique",
    "IA"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "d6ca6bfa62de",
@@ -1609,7 +1784,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "8ee50c123a62",
@@ -1625,7 +1800,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "1fa14cb537c4",
@@ -1641,7 +1816,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "29c393b71fdc",
@@ -1657,7 +1832,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "89c10f3cf70a",
@@ -1673,7 +1848,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "11cb442fafd6",
@@ -1689,7 +1864,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "dda435125983",
@@ -1705,7 +1880,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "30885e61afbc",
@@ -1721,7 +1896,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "2c05221f9c82",
@@ -1737,7 +1912,7 @@
   "tags": [
    "IA"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "89d5ca8e5ffe",
@@ -1753,7 +1928,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "b567aa469d0a",
@@ -1769,7 +1944,7 @@
   "tags": [
    "CTF"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "7646e96e2e7b",
@@ -1785,7 +1960,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "ba7507c6f20e",
@@ -1803,7 +1978,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "ce0b470d4dea",
@@ -1821,7 +1996,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "0e6f77f0820c",
@@ -1837,7 +2012,7 @@
   "tags": [
    "IA"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "9af5f29020c4",
@@ -1855,7 +2030,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "3ac35ff64736",
@@ -1873,7 +2048,7 @@
   "tags": [
    "Logiciel malveillant"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "230bcad0faf3",
@@ -1891,7 +2066,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "33bc3cf0f92e",
@@ -1909,7 +2084,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "2d6a537d6fba",
@@ -1927,7 +2102,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "605ee75e7e51",
@@ -1945,7 +2120,7 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "311ef1b71cce",
@@ -1963,7 +2138,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "c233d137a7bc",
@@ -1979,7 +2154,7 @@
   "tags": [
    "Institutions"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "c57e96b6d44e",
@@ -1997,7 +2172,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "704e2dc026e0",
@@ -2015,7 +2190,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "327e1b2d5002",
@@ -2033,7 +2208,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "b3544a5cec38",
@@ -2051,7 +2226,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "4704d00203f9",
@@ -2069,7 +2244,7 @@
   "tags": [
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "b5a90a640b7d",
@@ -2085,156 +2260,24 @@
   "tags": [
    "IA"
   ],
-  "score": 6
- },
- {
-  "id": "e93ceeba7ed0",
-  "source": "Le Monde International",
-  "rubrique": 3,
-  "titre": "L’Australie va renforcer sa régulation de l’IA après un piratage de plateformes gouvernementales par un modèle d’OpenAI",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/10/l-australie-va-renforcer-sa-regulation-de-l-ia-apres-un-piratage-de-plateformes-gouvernementales-par-un-modele-d-openai_6808770_4408996.html",
-  "date": "2026-11-10",
-  "resume": "Une nouvelle autorité de régulation va être créée dans le but de mieux encadrer le secteur. Cela survient après qu’un agent autonome d’OpenAI a infiltré un site Internet du gouvernement australien en juin.",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
   "score": 5
  },
  {
-  "id": "534382e34b4c",
-  "source": "Le Monde International",
-  "rubrique": 5,
-  "titre": "Affaire Mohamed Al Fayed : gardes à vue et perquisitions, dont une au Ritz, dans l’enquête sur un réseau présumé de traite de femmes",
-  "url": "https://www.lemonde.fr/international/article/2026/11/10/affaire-mohamed-al-fayed-gardes-a-vue-et-perquisitions-dont-une-au-ritz-dans-l-enquete-sur-un-reseau-presume-de-traite-de-femmes_6808864_3210.html",
-  "date": "2026-11-10",
-  "resume": "Mort en 2023 sans avoir jamais été poursuivi, malgré de nombreuses plaintes, le milliardaire égyptien fait l’objet d’enquêtes conjointes en France et au Royaume-Uni, où la police a déjà reçu 163 signalements de violences ou d’exploitation sexuelles.",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "df1de38da92f",
-  "source": "Le Monde International",
-  "rubrique": 3,
-  "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : l’Iran rejette « les accusations infondées » de la France",
-  "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
-  "date": "2026-11-10",
-  "resume": "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs de réfrigération de supermarchés en octobre.",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "88fa2ff6e1b9",
-  "source": "Le Monde Économie",
+  "id": "83c904c7c821",
+  "source": "l'Opinion",
   "rubrique": 1,
-  "titre": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
-  "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+  "titre": "Cyberattaque des frigos : la France incrimine l’Iran",
+  "url": "https://www.lopinion.fr/economie/cyberattaque-des-frigos-la-france-incrimine-liran",
   "date": "2026-11-10",
-  "resume": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
+  "resume": "Dans la nuit du 11 au 12 octobre, une cyber attaque d’ampleur avait touché les frigos de près de 700 sites de la grande distribution en France, causant des dizaines de millions d’euros de pertes de no ...",
   "criticite": "",
-  "poids": 0,
+  "poids": 1,
   "menaces": [
    "Cyberattaque"
   ],
   "tags": [
    "Cyberattaque"
   ],
-  "score": 5
- },
- {
-  "id": "081bac8cd0f5",
-  "source": "Le Monde Économie",
-  "rubrique": 1,
-  "titre": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
-  "date": "2026-11-10",
-  "resume": "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de Pékin, explique Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [
-   "Espionnage / acteur étatique"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique"
-  ],
-  "score": 5
- },
- {
-  "id": "8c2cd01c4a4a",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "Platypwn 2026",
-  "url": "https://ctftime.org/event/3082",
-  "date": "2026-11-10",
-  "resume": "Name: Platypwn 2026 (an Platypwn event.) Date: Nov. 13, 2026, 5 p.m. &mdash; 14 Nov. 2026, 11:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://platypwnies.de/events/platypwn/ Rating weight: 37.00 Event organizers: Platypwnies",
-  "criticite": "",
-  "poids": 2,
-  "menaces": [],
-  "tags": [],
-  "score": 5
- },
- {
-  "id": "b591c06b5e98",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "WolvCTF 2026",
-  "url": "https://ctftime.org/event/3049",
-  "date": "2026-11-10",
-  "resume": "Name: WolvCTF 2026 (an WolvCTF event.) Date: Nov. 13, 2026, 11 p.m. &mdash; 15 Nov. 2026, 23:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://wolvctf.io/ Rating weight: 0.00 Event organizers: w01verines",
-  "criticite": "",
-  "poids": 2,
-  "menaces": [],
-  "tags": [],
-  "score": 5
- },
- {
-  "id": "9134dd9ee739",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "EN DIRECT, guerre en Ukraine : un militaire américain, soupçonné d’espionnage au profit de la Russie, arrêté au Royaume-Uni",
-  "url": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-un-militaire-americain-soupconne-d-espionnage-au-profit-de-la-russie-arrete-au-royaume-uni_6808609_3210.html",
-  "date": "2026-11-10",
-  "resume": "Cet homme de 41 ans a été interpellé, mardi, par la police antiterroriste britannique. Par ailleurs, des négociations entre la Russie et l’Ukraine se tiennent mardi et mercredi aux Emirats arabes unis, dans le cadre d’une médiation américaine.",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [
-   "Espionnage / acteur étatique"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique"
-  ],
-  "score": 5
- },
- {
-  "id": "9e1a2733e73a",
-  "source": "CTFtime",
-  "rubrique": 6,
-  "titre": "h4ckc0n 2026",
-  "url": "https://ctftime.org/event/3464",
-  "date": "2026-11-10",
-  "resume": "Name: h4ckc0n 2026 (an h4ckc0n event.) Date: Nov. 14, 2026, 3:30 p.m. &mdash; 15 Nov. 2026, 15:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://h4ckc0n.ctfd.io/ Rating weight: 24.23 Event organizers: d4rkc0de",
-  "criticite": "",
-  "poids": 2,
-  "menaces": [],
-  "tags": [],
   "score": 5
  },
  {
@@ -3457,7 +3500,7 @@
    "Rançongiciel",
    "IA"
   ],
-  "score": 10
+  "score": 9
  },
  {
   "id": "1de613bc3c69",
@@ -3476,7 +3519,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "b44d387ecf09",
@@ -3494,7 +3537,7 @@
   "tags": [
    "Rançongiciel"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "5fe720035f19",
@@ -3512,59 +3555,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 7
- },
- {
-  "id": "a7de4cf79bd4",
-  "source": "ZATAZ",
-  "rubrique": 0,
-  "titre": "DataSuckers : trois suspects arrêtés après une fuite",
-  "url": "https://www.zataz.com/datasuckers-trois-suspects-arretes-apres-une-fuite/",
-  "date": "2026-11-08",
-  "resume": "Trois suspects liés à DataSuckers arrêtés après le piratage de Dodo Pizza et le vol de millions de données.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "984b6e74b734",
-  "source": "Mint",
-  "rubrique": 5,
-  "titre": "Indian companies seek on-site security engineers as AI-led cyber threats mount",
-  "url": "https://www.livemint.com/ai/indian-companies-seek-on-site-security-engineers-as-ai-led-cyber-threats-mount-11793951525980.html",
-  "date": "2026-11-08",
-  "resume": "New Delhi: As cyberattacks become increasingly sophisticated and enterprises step up their adoption of artificial intelligence (AI), Indian companies are strengthening their digital defences by ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 5
- },
- {
-  "id": "21f3c4563d3a",
-  "source": "cyberattaque.org",
-  "rubrique": 2,
-  "titre": "Observatoire indépendant des cyberattaques",
-  "url": "https://www.cyberattaque.org/",
-  "date": "2026-11-08",
-  "resume": "Lanceur d’alerte en temps réel sur les cyberattaques en cours, pour révéler les menaces d’aujourd’hui et anticiper celles de demain.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
+  "score": 6
  },
  {
   "id": "ca1a9396bb65",
@@ -4676,7 +4667,7 @@
    "Zero-day",
    "Vulnérabilité"
   ],
-  "score": 11,
+  "score": 10,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
@@ -4698,7 +4689,7 @@
    "Cyberattaque",
    "Chaîne d'approvisionnement"
   ],
-  "score": 11,
+  "score": 10,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Espionnage / acteur étatique",
@@ -4720,7 +4711,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 10,
+  "score": 9,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4740,7 +4731,7 @@
    "Hameçonnage",
    "Identité & accès"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Hameçonnage / fraude"
   ]
@@ -4760,7 +4751,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
@@ -4781,7 +4772,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4802,7 +4793,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4823,7 +4814,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4844,7 +4835,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4865,7 +4856,7 @@
    "Déni de service",
    "Vulnérabilité"
   ],
-  "score": 8,
+  "score": 7,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Déni de service"
@@ -4889,7 +4880,7 @@
    "Vulnérabilité",
    "Institutions"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "fadaade1b462",
@@ -4909,7 +4900,7 @@
    "Vulnérabilité",
    "Institutions"
   ],
-  "score": 8
+  "score": 7
  },
  {
   "id": "eb87294c0988",
@@ -4925,7 +4916,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -4945,7 +4936,7 @@
    "Cyberattaque",
    "Vulnérabilité"
   ],
-  "score": 7,
+  "score": 6,
   "menaces": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
@@ -4968,7 +4959,7 @@
    "Vulnérabilité / zero-day",
    "Zero-day"
   ],
-  "score": 7
+  "score": 6
  },
  {
   "id": "32c90d2f0958",
@@ -4984,7 +4975,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5003,7 +4994,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5022,7 +5013,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5041,7 +5032,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5060,7 +5051,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5079,7 +5070,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5098,7 +5089,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5117,7 +5108,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5136,7 +5127,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5155,7 +5146,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5174,7 +5165,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5192,7 +5183,7 @@
   "tags": [
    "Fuite de données"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Fuite de données"
   ]
@@ -5211,7 +5202,7 @@
    "Vulnérabilité / zero-day",
    "Vulnérabilité"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Vulnérabilité / zero-day"
   ]
@@ -5230,7 +5221,7 @@
    "Cyberattaque",
    "CTF"
   ],
-  "score": 6,
+  "score": 5,
   "menaces": [
    "Cyberattaque"
   ]
@@ -5253,7 +5244,7 @@
    "Logiciel malveillant",
    "Cyberattaque"
   ],
-  "score": 6
+  "score": 5
  },
  {
   "id": "310fe7a6e4c3",
@@ -6707,6 +6698,26 @@
   "score": 6
  },
  {
+  "id": "b6b74f79da08",
+  "source": "The Strategist",
+  "rubrique": 1,
+  "titre": "It’s time to treat state-sponsored cyber intrusions as attacks",
+  "url": "https://www.aspistrategist.org.au/its-time-to-treat-state-sponsored-cyber-intrusions-as-attacks/",
+  "date": "2026-10-28",
+  "resume": "Democracies made a big cybersecurity mistake in the 1990s when they insisted that cyber intrusions were not acts of war. That insistence meant managing a constant barrage of attacks rather than ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique",
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
   "id": "44a5cf1a9a6f",
   "source": "CISA KEV",
   "rubrique": 2,
@@ -7611,22 +7622,22 @@
   "score": 7
  },
  {
-  "id": "22c3a84151d5",
-  "source": "CERT-FR alertes",
-  "rubrique": 7,
-  "titre": "Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération (12 octobre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-012/",
-  "date": "2026-10-12",
-  "resume": "Le CERT-FR a connaissance de nombreuses compromissions des controleurs à distance d'installation de réfrigération Danfoss série AK-SM, AK-SC ainsi que Copeland xweb et Dixell xweb. De manière générale l'exposition d'une interface de gestion sur Internet est contraire aux bonnes pratiques.",
+  "id": "f84d62678f18",
+  "source": "FinanzNachrichten.de",
+  "rubrique": 1,
+  "titre": "SANS Institute: Nation-State Cyber Threats, Critical Infrastructure Attacks and AI Risks to Dominate SANS CyberThreat 2026",
+  "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69820966-sans-institute-nation-state-cyber-threats-critical-infrastructure-attacks-and-ai-risks-to-dominate-sans-cyberthreat-2026-004.htm",
+  "date": "2026-10-13",
+  "resume": "Europe's leading conference for the cyber threat community returns with technical research, real-world threat intelligence and practitioner-led sessions from across the offensive and defensive cyberse ...",
   "criticite": "",
-  "poids": 3,
-  "tags": [
-   "Cyberattaque",
-   "Institutions"
-  ],
-  "score": 7,
+  "poids": 1,
   "menaces": [
-   "Cyberattaque"
-  ]
+   "Espionnage / acteur étatique"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique",
+   "IA"
+  ],
+  "score": 5
  }
 ]
