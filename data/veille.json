@@ -1,5 +1,27 @@
 [
  {
+  "id": "5e7c3d53ea73",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+  "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+  "date": "2026-11-12",
+  "resume": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 13
+ },
+ {
   "id": "daa356fef18a",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -294,6 +316,26 @@
   "score": 10
  },
  {
+  "id": "d215a452affc",
+  "source": "TechRadar on MSN",
+  "rubrique": 2,
+  "titre": "Shipping giant Maersk confirms data breach as hackers demand $5 million ransom",
+  "url": "https://www.msn.com/en-us/money/general/shipping-giant-maersk-confirms-data-breach-as-hackers-demand-5-million-ransom/ar-AA2hiQYy",
+  "date": "2026-11-12",
+  "resume": "Maersk confirms break-in at one of its legacy systems.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Fuite de données",
+   "Cyberattaque"
+  ],
+  "score": 10
+ },
+ {
   "id": "3fc70062a296",
   "source": "CISA avis",
   "rubrique": 2,
@@ -384,6 +426,46 @@
   ],
   "tags": [
    "Fuite de données",
+   "Cloud"
+  ],
+  "score": 9
+ },
+ {
+  "id": "1acaa8e77a2e",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+  "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+  "date": "2026-11-12",
+  "resume": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day"
+  ],
+  "score": 9
+ },
+ {
+  "id": "674c4b85088a",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+  "date": "2026-11-12",
+  "resume": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Logiciel malveillant",
+   "Cyberattaque",
    "Cloud"
   ],
   "score": 9
@@ -939,6 +1021,44 @@
   "score": 8
  },
  {
+  "id": "0215fb6873ae",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+  "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+  "date": "2026-11-12",
+  "resume": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant",
+   "IA"
+  ],
+  "score": 8
+ },
+ {
+  "id": "fac8887887ba",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+  "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+  "date": "2026-11-12",
+  "resume": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
   "id": "d1b92d164acb",
   "source": "CISA avis",
   "rubrique": 2,
@@ -953,6 +1073,58 @@
   ],
   "tags": [
    "Vulnérabilité / zero-day"
+  ],
+  "score": 7
+ },
+ {
+  "id": "ef016e675852",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Outback Overflow",
+  "url": "https://ctftime.org/event/3425",
+  "date": "2026-11-12",
+  "resume": "Name: Outback Overflow (an Outback Overflow event.) Date: Nov. 20, 2026, 11 p.m. &mdash; 21 Nov. 2026, 23:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: http://ctf.hscyber.org/ Rating weight: 0.00 Event organizers: HSCC",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [
+   "CTF"
+  ],
+  "score": 7
+ },
+ {
+  "id": "f035633ce114",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Leo's 20th Birthday Bash",
+  "url": "https://ctftime.org/event/3498",
+  "date": "2026-11-12",
+  "resume": "Name: Leo&#39;s 20th Birthday Bash (an Leo&#39;s Birthday Bash event.) Date: Dec. 12, 2026, 1 a.m. &mdash; 13 Dec. 2026, 01:00 UTC &nbsp; [add to calendar] Format: Hack quest On-line Offical URL: https://dmoj.ca/contest/leo20 Rating weight: 0 Event organizers: SanguineChameleon",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 7
+ },
+ {
+  "id": "6c01c4b3516c",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "BackdoorCTF 2026",
+  "url": "https://ctftime.org/event/3472",
+  "date": "2026-11-12",
+  "resume": "Name: BackdoorCTF 2026 (an BackdoorCTF event.) Date: Dec. 19, 2026, noon &mdash; 20 Dec. 2026, 12:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://backdoor.infoseciitr.in/ Rating weight: 77.38 Event organizers: InfoSecIITR",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant"
   ],
   "score": 7
  },
@@ -1068,6 +1240,42 @@
   "rubrique": 2,
   "titre": "TSMC staff data goes on sale for 3 BTC for as Taiwan’s supply-chain breaches pile up",
   "url": "https://www.msn.com/en-us/news/other/tsmc-staff-data-goes-on-sale-for-3-btc-for-as-taiwan-s-supply-chain-breaches-pile-up/ar-AA2hhTCK",
+  "date": "2026-11-12",
+  "resume": "The personal data of about 46,000 Taiwan Semiconductor Manufacturing Company (TSMC) staff members has been put up for sale by hackers at auction for around 3 BTC. TSMC clarified that its systems were ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "3b8d7732462b",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+  "date": "2026-11-12",
+  "resume": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Logiciel malveillant"
+  ],
+  "score": 6
+ },
+ {
+  "id": "955d7f710c14",
+  "source": "Cryptopolitan on MSN",
+  "rubrique": 2,
+  "titre": "TSMC staff data goes on sale for 3 BTC for as Taiwan’s supply-chain breaches pile up",
+  "url": "https://www.msn.com/en-us/technology/tech-companies/tsmc-staff-data-goes-on-sale-for-3-btc-for-as-taiwan-s-supply-chain-breaches-pile-up/ar-AA2hhTCK",
   "date": "2026-11-12",
   "resume": "The personal data of about 46,000 Taiwan Semiconductor Manufacturing Company (TSMC) staff members has been put up for sale by hackers at auction for around 3 BTC. TSMC clarified that its systems were ...",
   "criticite": "",
@@ -3368,130 +3576,6 @@
   "score": 5
  },
  {
-  "id": "704e2dc026e0",
-  "source": "France 24",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre des frigos : la France accuse l’Iran",
-  "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-cyberattaque-contre-des-frigos-la-france-accuse-l-iran",
-  "date": "2026-11-10",
-  "resume": "La France a accusé lundi les Gardiens de la Révolution iraniens d'être à l'origine des cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés en octobre, prometta ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "327e1b2d5002",
-  "source": "Ouest-France",
-  "rubrique": 1,
-  "titre": "Frigos piratés en France : que sait-on du groupe de hackers Shaid Kaveh, soupçonné d’être derrière la cyberattaque﻿ ?",
-  "url": "https://www.ouest-france.fr/societe/cyberattaque/frigos-pirates-en-france-que-sait-on-du-groupe-de-hackers-shaid-kaveh-soupconne-detre-derriere-la-cyberattaque-3b3d38b0-dce2-11f1-86b6-0a2fbb1d8ed9",
-  "date": "2026-11-10",
-  "resume": "Le parquet de Paris a indiqué, ce lundi 9 novembre, avoir ouvert une enquête visant le groupe de hackers iraniens Shahid Kaveh, qu’il soupçonne d’avoir orchestré la cyberattaque ayant visé des centain ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "b3544a5cec38",
-  "source": "La Provence",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre des frigos : l’Iran rejette \"les accusations infondées\" de la France",
-  "url": "https://www.laprovence.com/article/faits-divers-justice/39140629445120/cyberattaque-contre-des-frigos-l-iran-rejette-les-accusations-infondees-de-la-france",
-  "date": "2026-11-10",
-  "resume": "Dans un communiqué publié ce mardi 10 novembre 2026, le ministère iranien des Affaires étrangères \"rejette catégoriquement les accusations infondées et unilatérales du gouvernement français à l’encont ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "4704d00203f9",
-  "source": "Corse Matin",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre des frigos : la France \"ne s'interdit rien\" dans la riposte contre l'Iran, avertit son chef de la diplomatie",
-  "url": "https://www.corsematin.com/article/francemonde/73413475112645/cyberattaque-contre-des-frigos-la-france-ne-sinterdit-rien-dans-la-riposte-contre-liran-avertit-son-chef-de-la-diplomatie",
-  "date": "2026-11-10",
-  "resume": "Cyberattaque contre des frigos : la France \"ne s'interdit rien\" dans la riposte contre l'Iran, avertit son chef de la diplomatie ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "b5a90a640b7d",
-  "source": "Portail de l’assurance",
-  "rubrique": 2,
-  "titre": "Les cybermenaces qui se dessinent pour 2027",
-  "url": "https://portail-assurance.ca/article/les-cybermenaces-qui-se-dessinent-pour-2027/",
-  "date": "2026-11-10",
-  "resume": "L’intelligence artificielle fait émerger de nouveaux risques importants et entraîne une multiplication des solutions à envisager.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 5
- },
- {
-  "id": "83c904c7c821",
-  "source": "l'Opinion",
-  "rubrique": 1,
-  "titre": "Cyberattaque des frigos : la France incrimine l’Iran",
-  "url": "https://www.lopinion.fr/economie/cyberattaque-des-frigos-la-france-incrimine-liran",
-  "date": "2026-11-10",
-  "resume": "Dans la nuit du 11 au 12 octobre, une cyber attaque d’ampleur avait touché les frigos de près de 700 sites de la grande distribution en France, causant des dizaines de millions d’euros de pertes de no ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "ab2a5873461b",
-  "source": "Yahoo Actualités",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre les supermarchés en France: comment les enquêteurs sont remontés jusqu’à l’Iran",
-  "url": "https://fr.news.yahoo.com/cyberattaque-contre-supermarch%C3%A9s-france-enqu%C3%AAteurs-095502255.html",
-  "date": "2026-11-10",
-  "resume": "La France a accusé lundi 9 novembre les Gardiens de la révolution iraniens d'être derrière la cyberattaque qui a visé, dans la nuit du 11 au 12 octobre, les systèmes de réfrigération d’environ 700 sit ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
   "id": "19df3c9cef04",
   "source": "ZATAZ",
   "rubrique": 1,
@@ -4225,78 +4309,6 @@
    "Cloud"
   ],
   "score": 6
- },
- {
-  "id": "62af4291e17c",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-  "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-  "date": "2026-11-09",
-  "resume": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "df6a1e5a88d8",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-  "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-  "date": "2026-11-09",
-  "resume": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "c5154d08fadf",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-  "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-  "date": "2026-11-09",
-  "resume": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "a02fb0af2916",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-  "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-  "date": "2026-11-09",
-  "resume": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week. Web3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
  },
  {
   "id": "e707fa4e0542",
