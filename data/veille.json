@@ -1,5 +1,122 @@
 [
  {
+  "id": "5df4bf07aed5",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+  "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+  "date": "2026-11-13",
+  "resume": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Logiciel malveillant"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Logiciel malveillant"
+  ],
+  "score": 11
+ },
+ {
+  "id": "e49e186a5eab",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Check Point warns of zero-day flaw exploited for root access",
+  "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+  "date": "2026-11-13",
+  "resume": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque",
+   "Zero-day"
+  ],
+  "score": 11
+ },
+ {
+  "id": "c0eea237828e",
+  "source": "The Hacker News",
+  "rubrique": 1,
+  "titre": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+  "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+  "date": "2026-11-13",
+  "resume": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Logiciel malveillant",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Logiciel malveillant",
+   "Cyberattaque"
+  ],
+  "score": 10
+ },
+ {
+  "id": "9e0cc84d062d",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+  "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+  "date": "2026-11-13",
+  "resume": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Cyberattaque"
+  ],
+  "score": 8
+ },
+ {
+  "id": "fe3ab0485c82",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "When an AI Agent Goes Wrong, Can You Stop It?",
+  "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+  "date": "2026-11-13",
+  "resume": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenario raises a response question: what does “stop the agent” actually mean? A",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA"
+  ],
+  "score": 6
+ },
+ {
+  "id": "d030547d1ad3",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+  "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+  "date": "2026-11-13",
+  "resume": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
   "id": "28e200d08386",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -15,6 +132,176 @@
   "tags": [
    "Vulnérabilité / zero-day"
   ],
+  "score": 5
+ },
+ {
+  "id": "5ea42b11c508",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "L’Allemagne renforce ses services de renseignement, face à la menace russe et aux cyberattaques",
+  "url": "https://www.lemonde.fr/international/article/2026/11/13/l-allemagne-renforce-ses-services-de-renseignement-face-a-la-menace-russe-et-aux-cyberattaques_6809331_3210.html",
+  "date": "2026-11-13",
+  "resume": "L’opposition alerte sur les risques pour l’Etat de droit, alors que Berlin dote ses services de renseignement de capacités inédites de riposte et de sabotage numérique.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
+  "id": "7515509986f6",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Nvidia : l’ancien PDG de Nvidia Jensen Huang et le secrétaire au commerce Howard Lutnick invités à témoigner au Sénat américain",
+  "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-l-ancien-pdg-de-nvidia-et-le-secretaire-au-commerce-invites-a-temoigner-au-senat-americain_6809295_3210.html",
+  "date": "2026-11-13",
+  "resume": "La démission de Jensen Huang, après des révélations sur sa liaison avec une femme d’affaires soupçonnée d’espionnage pour la Chine, place le contrôle des exportations de puces avancées au cœur des interrogations du Congrès.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Espionnage / acteur étatique"
+  ],
+  "tags": [
+   "Espionnage / acteur étatique"
+  ],
+  "score": 5
+ },
+ {
+  "id": "cc1c11586c26",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "Midterms 2026 : au Mississippi, ancien Etat confédéré, l’exploit du démocrate noir Scott Colom, élu sur le fil au Sénat",
+  "url": "https://www.lemonde.fr/international/article/2026/11/13/midterms-2026-dans-le-mississippi-victoire-historique-du-democrate-scott-colom-premier-senateur-noir-depuis-plus-d-un-siecle_6809285_3210.html",
+  "date": "2026-11-13",
+  "resume": "Le procureur a été élu au terme d’un long processus de dépouillement. Aucun démocrate n’avait accédé à cette fonction depuis 1982. Et aucun Noir n’avait occupé ce siège depuis cent cinquante ans dans l’Etat, qui compte pourtant la plus forte proportion d’Afro-Américains.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 5
+ },
+ {
+  "id": "bb537a927436",
+  "source": "Le Monde Économie",
+  "rubrique": 3,
+  "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+  "date": "2026-11-13",
+  "resume": "Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, peine à rétablir leur fonctionnement.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
+  "id": "824934ef2ea3",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Seize da Flaq",
+  "url": "https://ctftime.org/event/3408",
+  "date": "2026-11-13",
+  "resume": "Name: Seize da Flaq (an Seize da Flaq event.) Date: Nov. 21, 2026, 6:30 a.m. &mdash; 22 Nov. 2026, 02:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: Mathura, Uttar Pradesh, India Offical URL: https://seizedaflaq.cyberonites.com/ Rating weight: 0 Event organizers: Seize da Flaq",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "030164d51c10",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "CyberSci Regional Qualifiers 2026-27",
+  "url": "https://ctftime.org/event/3436",
+  "date": "2026-11-13",
+  "resume": "Name: CyberSci Regional Qualifiers 2026-27 (an CyberSci event.) Date: Nov. 21, 2026, 3 p.m. &mdash; 21 Nov. 2026, 22:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-site Location: Onsite at 6 locations in Canada Offical URL: https://cybersecuritychallenge.ca/ Rating weight: 0 Event organizers: CyberSciOrganizers",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "44994f16eb69",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "LakeCTF Quals 26-27",
+  "url": "https://ctftime.org/event/3474",
+  "date": "2026-11-13",
+  "resume": "Name: LakeCTF Quals 26-27 (an LakeCTF event.) Date: Nov. 27, 2026, 6 p.m. &mdash; 28 Nov. 2026, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://lakectf.epfl.ch/ Rating weight: 45.76 Event organizers: polygl0ts",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "182255dd17e0",
+  "source": "CTFtime",
+  "rubrique": 1,
+  "titre": "CyberNSK2027-Qualifier",
+  "url": "https://ctftime.org/event/3489",
+  "date": "2026-11-13",
+  "resume": "Name: CyberNSK2027-Qualifier (an CyberNSK event.) Date: Nov. 28, 2026, 9 a.m. &mdash; 28 Nov. 2026, 21:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Location: Russia Offical URL: https://quals.sslctf.ru/ Rating weight: 0 Event organizers: siberiansecurityleague",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "f6b7dc22d5c3",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "x3CTF 2026",
+  "url": "https://ctftime.org/event/3450",
+  "date": "2026-11-13",
+  "resume": "Name: x3CTF 2026 (an x3ctf event.) Date: Dec. 4, 2026, 6 p.m. &mdash; 06 Dec. 2026, 18:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://x3c.tf/ Rating weight: 0.00 Event organizers: x3CTF",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "5b72ff8e55a2",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "niteCTF 2026",
+  "url": "https://ctftime.org/event/3367",
+  "date": "2026-11-13",
+  "resume": "Name: niteCTF 2026 (an niteCTF event.) Date: Dec. 11, 2026, noon &mdash; 13 Dec. 2026, 12:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://nitectf.cryptonitemit.in/ Rating weight: 59.00 Event organizers: Cryptonite",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
+  "score": 5
+ },
+ {
+  "id": "b4aa9c9e9982",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "Undutmaning 2027",
+  "url": "https://ctftime.org/event/3481",
+  "date": "2026-11-13",
+  "resume": "Name: Undutmaning 2027 (an Undutmaning event.) Date: March 20, 2027, 11 a.m. &mdash; 20 March 2027, 19:00 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://undutmaning.se/ Rating weight: 44.75 Event organizers: Undutmaning",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
   "score": 5
  },
  {
@@ -1458,48 +1745,6 @@
   "menaces": [],
   "tags": [],
   "score": 5
- },
- {
-  "id": "fd416d58448a",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-  "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-  "date": "2026-11-12",
-  "resume": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "7927f7b9de97",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Apify rotates API tokens, prompts 2FA resets after breach",
-  "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-  "date": "2026-11-12",
-  "resume": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "00c8c05e542b",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-  "date": "2026-11-12",
-  "resume": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
  },
  {
   "id": "a93f9697c95e",
@@ -3615,6 +3860,24 @@
   "score": 5
  },
  {
+  "id": "ab2a5873461b",
+  "source": "Yahoo Actualités",
+  "rubrique": 1,
+  "titre": "Cyberattaque contre les supermarchés en France: comment les enquêteurs sont remontés jusqu’à l’Iran",
+  "url": "https://fr.news.yahoo.com/cyberattaque-contre-supermarch%C3%A9s-france-enqu%C3%AAteurs-095502255.html",
+  "date": "2026-11-10",
+  "resume": "La France a accusé lundi 9 novembre les Gardiens de la révolution iraniens d'être derrière la cyberattaque qui a visé, dans la nuit du 11 au 12 octobre, les systèmes de réfrigération d’environ 700 sit ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 5
+ },
+ {
   "id": "19df3c9cef04",
   "source": "ZATAZ",
   "rubrique": 1,
@@ -5166,253 +5429,6 @@
   ]
  },
  {
-  "id": "4f9bb7c1ff8e",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-  "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-  "date": "2026-11-05",
-  "resume": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Logiciel malveillant",
-   "IA"
-  ],
-  "score": 5,
-  "menaces": [
-   "Logiciel malveillant"
-  ]
- },
- {
-  "id": "25c3eda20cfe",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-  "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-  "date": "2026-11-05",
-  "resume": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "IA"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "c8f5c2d8f23d",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans OpenOffice (05 novembre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1463/",
-  "date": "2026-11-05",
-  "resume": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "2025f328c3d4",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans SPIP (05 novembre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1465/",
-  "date": "2026-11-05",
-  "resume": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à l'intégrité des données.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "1ab6fb49689b",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans Microsoft Edge (05 novembre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1466/",
-  "date": "2026-11-05",
-  "resume": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "463ebe39838b",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Multiples vulnérabilités dans les produits Cisco (05 novembre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1467/",
-  "date": "2026-11-05",
-  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "79dd47017c56",
-  "source": "CERT-FR avis",
-  "rubrique": 2,
-  "titre": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
-  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1468/",
-  "date": "2026-11-05",
-  "resume": "Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "5d4d03269391",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-  "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-  "date": "2026-11-05",
-  "resume": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business.&nbsp; Each missing detail creates",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "671b07a9ce2d",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-  "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-  "date": "2026-11-05",
-  "resume": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Vulnérabilité / zero-day",
-   "Vulnérabilité"
-  ],
-  "score": 5,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ]
- },
- {
-  "id": "6b1d9cd5a096",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "DigiCert data breach exposes customer information, identity documents",
-  "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-  "date": "2026-11-05",
-  "resume": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Fuite de données"
-  ],
-  "score": 5,
-  "menaces": [
-   "Fuite de données"
-  ]
- },
- {
-  "id": "5263a8e99f87",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Hackers backdoor Linux servers using trojanized CWP web server",
-  "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-  "date": "2026-11-05",
-  "resume": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-  "criticite": "",
-  "poids": 1,
-  "tags": [
-   "Logiciel malveillant",
-   "Cyberattaque"
-  ],
-  "score": 5,
-  "menaces": [
-   "Logiciel malveillant",
-   "Cyberattaque"
-  ]
- },
- {
-  "id": "74064630320c",
-  "source": "MarketWatch on MSN",
-  "rubrique": 3,
-  "titre": "Why CrowdStrike and cybersecurity stocks got crunched in Thursday’s rout",
-  "url": "https://www.msn.com/en-us/news/other/why-crowdstrike-and-cybersecurity-stocks-got-crunched-in-thursday-s-rout/ar-AA2gQNHz",
-  "date": "2026-11-05",
-  "resume": "Highflying cybersecurity names take a beating from broader market concerns as well as ‘Black October’ infrastructure hacks and news about AI disruptors.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque",
-   "IA"
-  ],
-  "score": 5
- },
- {
-  "id": "a698ab5d4c98",
-  "source": "MarketWatch on MSN",
-  "rubrique": 3,
-  "titre": "Why CrowdStrike and cybersecurity stocks got crunched in Thursday’s rout",
-  "url": "https://www.msn.com/en-us/technology/tech-companies/why-crowdstrike-and-cybersecurity-stocks-got-crunched-in-thursday-s-rout/ar-AA2gQNHz",
-  "date": "2026-11-05",
-  "resume": "Highflying cybersecurity names take a beating from broader market concerns as well as ‘Black October’ infrastructure hacks and news about AI disruptors.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque",
-   "IA"
-  ],
-  "score": 5
- },
- {
   "id": "0fd87eaf33b4",
   "source": "BleepingComputer",
   "rubrique": 2,
@@ -5721,25 +5737,6 @@
    "Zero-day"
   ],
   "score": 6
- },
- {
-  "id": "3260cc514267",
-  "source": "ZATAZ",
-  "rubrique": 6,
-  "titre": "CTF Social Engineering : trois jours pour piéger l’humain",
-  "url": "https://www.zataz.com/ctf-social-engineering-trois-jours-pour-pieger-lhumain/",
-  "date": "2026-11-04",
-  "resume": "Hackfest Québec 2026 : deuxième place au CTF de Social Engineering, 43 appels et trois outils de renseignement.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque",
-   "CTF"
-  ],
-  "score": 5
  },
  {
   "id": "310fe7a6e4c3",
@@ -6848,26 +6845,6 @@
    "Zero-day"
   ],
   "score": 6
- },
- {
-  "id": "b6b74f79da08",
-  "source": "The Strategist",
-  "rubrique": 1,
-  "titre": "It’s time to treat state-sponsored cyber intrusions as attacks",
-  "url": "https://www.aspistrategist.org.au/its-time-to-treat-state-sponsored-cyber-intrusions-as-attacks/",
-  "date": "2026-10-28",
-  "resume": "Democracies made a big cybersecurity mistake in the 1990s when they insisted that cyber intrusions were not acts of war. That insistence meant managing a constant barrage of attacks rather than ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "score": 5
  },
  {
   "id": "44a5cf1a9a6f",
