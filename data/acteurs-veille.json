@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-12T13:16:38Z",
+ "maj": "2026-11-13T12:38:51Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -203,12 +203,6 @@
     "s": "The 420.in",
     "d": "2026-10-20",
     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUUJ2ek9DbmgtOHBNbkJFZGJEX1BYRDBKaTU3Tlp6ZTBZQ2VySnFPZE41Zzc1eDdvLTVoV013ZWpJd2pqUlZSNjk5bmdTUUFPVnB0bGF2SmhubER1Y1NGM1cwVG1BREZzTkp2VmdrWXJkdWo1YjBOSFlPZ18?oc=5"
-   },
-   {
-    "t": "Trellix Details DarkSword, JSCeal, Axios npm Attack and APT28 Campaigns",
-    "s": "Hackread",
-    "d": "2026-09-14",
-    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkNnhhYW1RbTVEN3VHa25vblZ2MmN2cThCLU5xV2RNVUFQWmJVMmZWdG94ZldqRk41ZFo5MjJaY0RUMjFNMmw5YlFkSVZRblhELVhiNHNOaGo0T0djWUR5eTlIZlZNRmFZLVVOY3A0RDZlUENpV2d4bA?oc=5"
    }
   ],
   "apt29": [
@@ -363,6 +357,12 @@
     "r": 1
    },
    {
+    "t": "Volt Typhoon perturbe des organisations américaines, la CISA lance des alertes",
+    "s": "eSecurity Planet",
+    "d": "2026-11-10",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHBCbjh3VThOS3REWEpDMXljZXR2alJOZERLT3FuZU11Z0J4UUkwdW9oZk5NMzg1TTZZSldrbE85WnQ3Y05hYkFydkQ2bUczTkpucFczUVBRWmozZzkyUk03SFJHMGtJMGpqb0EyVGZORmUzMFZiQzJFa0x6WGpwbC1Ldl9kSDlyX3VmQ2xVakVXRlFSanhGeUR2S0MyTTF2cHowME9POWZMTGJEZVA1d251WF9wU0k1dzFnMw?oc=5"
+   },
+   {
     "t": "Exposed: Volt Typhoon's Framework for Silent Espionage",
     "s": "BankInfoSecurity",
     "d": "2026-11-07",
@@ -379,12 +379,6 @@
     "s": "CSO Online",
     "d": "2026-10-29",
     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHgyMHpPejl1YW9fbWVGbGt6Q05uODI0WjNDTnd2WWhKZGpQa25qV3J0bzdWVTBmdmYwZXVOTENsd0c5OTFVRDNsUnN6TER6MlZXcWQwUE9XVWliTnMyYmlEUkhVT1JxLXgxYVNWcHc5a1Y2dENDbmh5QWR4bE02clJ5dGM2d1hZM2JldGV3alU1aUU0UGhvaFZ4VTI2RDVsZ3Z1ME5oN2F6Umh5R1NQZUtjTEszWTBNdF9hemV5NHpqLXVIdWswbkR1MkF3WEo0WkZsejZCU3A?oc=5"
-   },
-   {
-    "t": "Volt Typhoon targeted enterprise control planes via ever-changing \"Silent Train\" relay network",
-    "s": "Help Net Security",
-    "d": "2026-10-29",
-    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFFWR0dIdEZRc0JkUkRvXzBEakw4UnNBV2lIZ295VnA3dWo0S3JXZ2F2SE1hQWxqOXZTNXhSOFUwTGxuNkp2MWExOHItX2Nnb1o0Tm1jdjg3WUpabEo3ZGIzLS00ZW1lT0FvUjJBS0FuZmlzYmpVY3psMGc0NjlYcXZtTFlWTjlobllZ?oc=5"
    }
   ],
   "fin7": [
@@ -430,12 +424,6 @@
   ],
   "lockbit": [
    {
-    "t": "STARMARK Ransomware Attack by Lockbit",
-    "s": "SOCRadar",
-    "d": "2026-11-08",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelpCUnVhN2JZYldoclIwSEw2bEkzcWdlMzdNVnlweWxUVEh1S29TbGNqZHJvMXFWYXUzU1c4MHg5azJnMkRlWDlqZVctSy14amo5WmVfZEJQY0JtSEpnQXkydFl1Q3hNOW1XTXB6bTlrNVJlNVl0anVneElFR2FIUWJDMUg0WGo2Wlo1dE1BNkFnUQ?oc=5"
-   },
-   {
     "t": "LockBit (5.0)",
     "s": "Halcyon Anti-Ransomware Platform",
     "d": "2026-11-05",
@@ -454,10 +442,16 @@
     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOF9BaUlfWF9iNkVjTFo3WktiMllGdXktelZWV1lTLUp5MV84U1AwVEVPOElmWGJ5TmM5UHEtbTE2S3VLcHVhX3E2b0pvTV8tOE1KU0NOVEtPdmFWNVVpOW8yNnNQM2lxUVdDc3I1RVNyMEhEeUNEa1dOMUxJZWNnc1pGYkFPV1lEd25jRTl4VW04SVFnMzNId0VpaFExWmRlZ0VyWQ?oc=5"
    },
    {
-    "t": "ock.com.my Ransomware Attack by Lockbit",
+    "t": "OCK Group Berhad Ransomware Attack by Lockbit",
     "s": "SOCRadar",
     "d": "2026-10-16",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYV9Xdk83Q09kZEwzY2N0RXpiMjJzWFNhc3h5MURSbHBMZFNOT2xwdGtOSmRCaUxSa19zXzhpMkpYZFVyLWFSekc2bzRzRmNvUkQ1YmJiLWtMRkZCM2pqVkdwZjFHV3lqMzVKUXRDbGxTeVB3MmVUOFVJR1M4clBCNVdFMm5IQ0U5N3ZfNERfNXpuUXdF?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0pQT1Y3dXVFenFfZVVJTzB6WGFkbTluNFRjVDd5UU1tVktLcjFjOVg5QVMxZm0zUkJsUXhUWTVsNmdsaXFBV3lfaWczMG9hb3VHQzdmR0ZfalhabEd5ODFnZW9VNF9xM3JyTUJ1Q0lfeGluOVRVZjlhUzNURHhVdzNfa21RTDFiSWpNTGxPTTdldm1TM3ZZbHVwS1Y?oc=5"
+   },
+   {
+    "t": "Capital Bank : services perturbés depuis le 2 octobre, LockBit 5.0 revendique une attaque",
+    "s": "Vant Bèf Info",
+    "d": "2026-10-06",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3Vwc20ybjBDWGNpRDFZSFJ3cU5jU1ZIeG9KRHNQTHkyTGlBV3JJc2p2YzZ4Q2dEZzR2NWdWVU5rSndwdEo5MFVLVXpzWUYwS3ZOLXNKYVdma3lVWGRkMjVnTDVYZUFYNlFBbkNQTHNvYUJNRTd0bTU1bXJnRnp2LTEyMUF6UkI3TThad3VDeUFUZndKRUZwX0Z3RnBQX1gyd0ZHc19LNEdnRE9UNzNZdw?oc=5"
    }
   ],
   "cl0p": [
@@ -514,27 +508,6 @@
   ],
   "akira": [
    {
-    "t": "#StopRansomware: Akira Ransomware",
-    "s": "CISA",
-    "d": "2025-11-13",
-    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15elNhTTJtdHlpZ1FyS3I2SDVZQm1DRG5MR2ZyeTFMcl9jVFUxSlhVYjM0U3lreWtNbGVWcGhFY0t3QWhGdlBaTGZDUUFmanNVc0JmSThkbnRDcWo4YklYV2stbGpfSWdZLTdkNklPdi1BMVFiX3c?oc=5",
-    "r": 1
-   },
-   {
-    "t": "CISA, FBI and Partners Unveil Critical Guidance to Protect Against Akira Ransomware Threat",
-    "s": "CISA",
-    "d": "2025-11-13",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmFnRWhvTVZDR1lhT0hmdGZGNkxzX2FJNnNUNXJ2bzNnYmNSMGFCV3FRMTVGTXlBOVhkX1RKY0t1RVIwaE5FVmxsMDEzTHNWb1M1LXRwR2FnUWVQcUNCdW9vNlZGbnMzT2RCQkFYX0lKNkJ2bnlSd3l6MWxuOW00ajBacW9oY1J0c09MSVBSTjJuRHlYaE90RVQwWVJ4OFRqUm9VRGdfcVExOVY5SkdLMENGR3l3MHJnZnYxNlB6akRIQQ?oc=5",
-    "r": 1
-   },
-   {
-    "t": "CISA and Partners Release Advisory Update on Akira Ransomware",
-    "s": "CISA",
-    "d": "2025-11-13",
-    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFZOdWJZcHJKWDVEMEhreXhTemN4QTRFSk5FbEExWEtRLVJySDZxS0c3U2FNQnhJbFVTNEFtYko3UGVFdDRMVERKbGRjMTlHWjgzVjNkQTZVUkV2WE1LYW5JUTVHQzI3eVY5RlpGTUhfUHVmU0E2U1RmWTl2dGg4T2VXVndkYUFxWUhKMmJ0cGFRVDVYeDJJczU1dWNvaHdObkxCUlQ3Z0VDZ1NZbmc?oc=5",
-    "r": 1
-   },
-   {
     "t": "Ransomwares & piratages : 13 cyberattaques d’ampleur du 27 octobre 2026 (dont Akira)",
     "s": "DCOD Cybersécurité",
     "d": "2026-10-27",
@@ -544,7 +517,25 @@
     "t": "Bahamas Issues Cybersecurity Alert Over Akira Ransomware Threat",
     "s": "Magnetic Media",
     "d": "2026-10-22",
-    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0FsZ2ozMEtTWEZ3c0xxaEhKRFhSck9uQ096c0p0c0hyMUN5SlJ2WEtTQTQ5dE5ULVZrbXRxMGRYa1I5RGpHY0ZsR2VWcEprZHpJVVduTFVEcHhvdlh0ZldlYUpHN2s0cmUtVzBNWUVCSmVOYnp1TkpYVzY0SGxrdjlmVE16WXpnLTJRVXI2aW1hMGpNdHdkLTNxSHAwbTZrNHfSAaoBQVVfeXFMTm1WX1JrS2NuVVNHZ3hMRVJQNDJaNGVIcDVuS3RfMkpZN2I5M0ZTZ1gwajZ6ZDBLRTJVSGk4Q3hRWkc2bUhDTXhacXY0c0RJa2xFbUU2NTN5OFlHUmhXbngzY3pIVEs0RlZRSmNLZWw0cjR1ODdWUmlfY25FX0NrOUQ4MXVydGJKcFFOOXBuMU1DZFExRldLNUwtcFNFZ0lvSnZnV0tEaHNIcHc?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRlZ0dUc3enppSFBPNWNEaWFVdjdnR1BEVkhGZ0REVmZQeHZIUUF1eF9iX3M5dURlTkt2a2hUcEh4bzIyTVlLb0xzZ0h0NWVLOGtpT05lQTZBa3dUakRJM3FVSzhPeHBNODd4Qk1qMGJGMkwzZXVvNzJuTkJZbzV5aTFwNVZHdHN3LXl0VDhYQTdXLWQ1ZjVScnB1TzVrNXdqOUhnUVFQelN1ZTFTNGdNNllHT2ZnQzM4QTBpM094cmJMb2ZEbzl4cnFNU1huT3d1V2fSAcgBQVVfeXFMUDV3eU52V2tXY0FWbzJzZklzeVZ3cXdlWHM3RVlKM0Z1UkVaMk5lM3dLa1pUcm1wNFNDSXdaMWVSVzVjU2s3VHg5UU80YnFXSWViR2Rubm9JZjJBSnltTjYtNEVNWEVyQ2lucEMxVV9iQ1BUYWJZXzMzX0FqSUJ4TnpSSnpWaHBhZzZESHVGdjFxUmxQQ2V1S1RCYVdtTm5nMkxIcFp4TUpNRFNfNm9FSl9feDEtZGlOWmx5aVVDdm14RExSV0hPWVQ?oc=5"
+   },
+   {
+    "t": "Akira réclame une rançon pour les données de plus de 100'000 employés de la Confédération (update)",
+    "s": "ICTjournal",
+    "d": "2026-10-21",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXlLV1ZlaGVudkVvdVlnY3hJSWhZcno5ZHNuN3pqaTdrNVA5ZFd2UUNISmdOYlY3YWQ1b183Z29TRDBoZUd1X0RGTU54bkYySHFSTmt2QVN2MUxHQU5EaUNpMmNpd29fSXMxQVU3U0V3NmotdURib1BvUVNmU0pmOTdvSXJDbFFOMDI0MDBoSGloSVVyZnEwcGI0YzVXMjZXUWNnY2tKVl9sMzh2OExCZ1RoSF91bHM?oc=5"
+   },
+   {
+    "t": "Cyberattaque en Suisse: données d'ex-conseillers fédéraux volées par Akira",
+    "s": "20 Minuten",
+    "d": "2026-10-20",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDBsUmg1eGRGbVhzb1ZlYUc2a1ZMbGppOHBWWHZKWkZUalhmMlphOEI2YmY5MUk5QUtYV3pSWFZIQlAzVFVXbEdlUGlNaW5nT3JoeHc3SHZZVFdUMUFFbXlRTjktdVQ3NEVHOGZQY3VwQjg1M1Y2VHNNX0taeThxT3drOVlfYWJCeFRFdGxseTdONEhoSElTdHRrT19lTFRmZG5wRlExMlBxX2Fra0tnVm5ZSVAyZw?oc=5"
+   },
+   {
+    "t": "Akira ransomware attack highlights MFA gaps in VPN and RDP access",
+    "s": "SC Media",
+    "d": "2026-10-14",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR19DOVdDTm9EaDlvd285NW5mVGxtRVJ6c2hfdy16TDc1aC1QSU5TY1l3VlJjUGVzbFFFdmJrOEczODIxZDFkUVJ5emxoS2N1S1RCSUhrbzVGaU9zY05xNzNadVVGR3QwX3MtbG9MOGZzbTk1UThoczB4akI0ZVplTlpWMjhQZDRWa19oY0V3TzhuZTc1ODRVaTVfRQ?oc=5"
    }
   ],
   "scattered-spider": [
@@ -616,9 +607,9 @@
   "killnet": [
    {
     "t": "Killnet Switch Unveils a First-of-Its-Kind, All-in-One, Plug-and-Play AI Cyberattack Box",
-    "s": "openPR.com",
+    "s": "FinancialContent",
     "d": "2026-11-11",
-    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1JET3NfZ2N5ZEpCUVN4SGlpdkNJZXIxTXpCdjdtOTVlWXliR2UxcDZVQlZPZnZqY2hSVGI1Vi12Rl9mNXRRZVQzZVlEb3RZRXo1SXFaYnp4cndOTU9MZ19Ma3dNTDJSMTNVNC1pMmZtUTNkeEVPZmFkeW9YZnlJT1ZVZ2dqOFg4WndNM3FVWVVxa1k?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcE1XUEV3Y3J1VE5hRWJMYWlKd2RFbUd5WUJMT3M1Vy1Eem1JLTJISlBrNm1XU0JLYjRmOG9ocWIzNENxRDFpZ2FyR1B4cGY5MThGaWRkNmo3QmgtNzlndFhzTEVUYTdZcndmQmlGOUs4aU1sdEVGT2VsYzE0MXdSS01YQUtwaVhTVUpxYXQ1OXNlWkZab1cxcXFIOTh6clBlX2FLV3E0dWJiVHFnQklrTzItNGpqWmd5bngtcEE5VEdSSjN4a3ZzQTVYSDRqcVR0UG1uREtkZkJXUUluTjNUdXk4aw?oc=5"
    }
   ],
   "noname057-16": [
@@ -649,6 +640,12 @@
   ],
   "cyber-army-of-russia-reborn": [
    {
+    "t": "JAMIE CARR: Hail a cab, ’cause the truck ain’t coming",
+    "s": "Financial Mail",
+    "d": "2026-11-12",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDlmaWZCNU9TODY3U2xmMjZnUG05T1lTb3lYSE1OVFE4eTdxbDVRNEY2RVJKVmlrbzVKOV9CbDlpa0FYd2xLRkZNSEtMa1NYazFjb19sbjFtMzZ0S1U0WFRfdjRVenRqV0dhWno5SWtRQy1lQkVhTkxEZEhmNkJxOUZkWFQtdmRjMm14WTZMQ2Y?oc=5"
+   },
+   {
     "t": "Top 25 football roundup: CJ Carr stars as No. 11 Irish top No. 1 Miami",
     "s": "https://www.irishsun.com/",
     "d": "2026-11-08",
@@ -671,12 +668,6 @@
     "s": "Boston Herald",
     "d": "2026-10-25",
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0dxYzY1SWhEQ3lHRnFOSWhMZDNkSk5hQlpkQjVaSXdoRkxmNzVNQndQTkowSEhYNThUeHRGX2V5WVhLQW9RM2Zfd2ZSLS1FX2FhSG5mRkpKcGhYVzNkTlFDOFZfS0ZhaFJBSG5wOS1nTWJWOERBcDRueVAzR0NQVmZDc2xVcG5WVVpHU0oxb2I0T1dSRmgzeEozVkNNdTF3cEtnbGRZaW8?oc=5"
-   },
-   {
-    "t": "Howie Carr: Jury gives city double dipper $1M kiss",
-    "s": "Boston Herald",
-    "d": "2026-10-21",
-    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjZoVFJjWmNzMlVVNGc3aDB3MXdzR1ZvZWxCT0tKaElKSmxNTk51ZWhMSjdXczBzMXBOLU9SeWUyT0tmOENRVkJyWUxlcGVGVXJ1RFhpSWN0MUNDUWNMZmFSdlZpVFUxeDc2ckpPMkR4ZG0yQnlsNTYzZzRTUUxnYTBvSllZTm4xam5YdzI5dl9pYlE?oc=5"
    }
   ],
   "shahid-kaveh": [
@@ -688,10 +679,16 @@
     "r": 1
    },
    {
+    "t": "Cyberattaque des supermarchés : que sait-on de Shahid Kaveh, l’unité iranienne dans le viseur de la justice française ?",
+    "s": "lejdd.fr",
+    "d": "2026-11-12",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTUw5aFBNR0lWQWV4a1hhd3QwV0lzSDdVM2FwV2RadkdaZ2pGRDRUWkxhcWtzTEZ3dmV4aEpjdk00LXptYXJ5NjgwU3Y5eEZxNnNWM0RmaWRmVHhrS3E2aXZ0OUswcUJsVmoxd0tqUUtXR19wSlBCMl8wMGtKRlYwVWVnWmVNUjhUQllIWlByY3FGTjVBVjByZVVXd3I5MV8tdXFxSVh6aVY2NnMyMjdYa05VNU10dDl1LWNiZDJiZzJWTHBjTG1HSENWVkJmTmRFSXlqYllhMEx4dXBsc2dIZldHTS1FT3pBRjJr?oc=5"
+   },
+   {
     "t": "From Water Systems to Supermarket Refrigerators: Inside Shahid Kaveh and CyberAv3ngers’ OT Attacks",
     "s": "Check Point Blog",
     "d": "2026-11-11",
-    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjJyY0g5bURCRXlFeVRDSEsyOWV0Vk5rWE5rRmNEWGxIamU2S2owektVTHNlQURtSDNsWjExQzlDT1BOYUJJbkVPQ3k4OXI0TTNSdC1KdzJvUkt6c1lCOWlDRUxGemxUVjMzQVVFN3Z2ZzQ2Z0trY2QtNnp1RjBhYmFWc3hXVjVRMjZTQ0g5dXlYdURBRjNEaU1kVDU5dnN3VUhJcWhRNFpLVVJyY3Mxek53OHRDTXNfWUktQXJicjgzVC01SUN4TU9QeFBwRHM?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWDh0Z2wyQ0x1QmJXV0JrVFh0aHphSnJWRFB6S1NtRV9SNXFEN1RIZE1kNGppWHdlTlk2TTdfZVVyQWkzczlDUDBlU1hNVTg5b1p4ZzlrdEhvalJISXR6NzBDVkhWck8yeHZCQjN2ZUo2X0o3WnNjMlJNVU4yVU9KaFZZQ1VMLTlYOXJsbmVFNmxyYnA5Nk9uRjBFWWs4NE1BTGpLVW9waVA1Y3ppYl94ZHgyd1diUnFESHY0ckNwcGJmWUVOVjRlRXp6M20wMlljMTNXXw?oc=5"
    },
    {
     "t": "What Is Shahid Kaveh? Iran Cyber Unit Accused Of Hacking 700 French Supermarkets",
@@ -704,12 +701,6 @@
     "s": "Europe 1",
     "d": "2026-11-11",
     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmwtcHBRTVdMbEVOTnVwem92VnY5UFdWeTg3Vkk4OXFObW1ybXMteW90aFF4Ty1FV3lGLWh4dWJObjhEbkp5MnQyUkIyRmpNM21SbG1KeXVWeDFGREFOMXdha0VZZ3NWWkR4WFpQSU1naTB6b3JYR244VkxjaXBrbGZpUHZZRk9Gc2g2RG5fcmNaWFhSNEszbC1WOFZoSTFlMkVYSGltTnRzTmx5Y3Z6ck1MZzNRNTVrRWQxZTB6VVR6eFFGWkFwZ01UbVMyQ1RQbmJkVXdEVmV6Z9IB3wFBVV95cUxNOEh0bndpTEcydWVsV3F1MHpDWEp2dTNzZzJlclVXUGd0aHlxbWJjLVhBemhybjhhSkZRWTAweHlkMW80bGtFcURqSnVzUkJ0WW5mSElrelJfQzlHZE51d1FHYWtwZXZrZ1JwbHBjZ2NiVGpTVVZGMjVNRmwzcm1XbHdnczlNYVZsWTVrXzFRaWdEY21pdnEyaGxGQVVkYld1cWllMEtIZE5MNnRWQ1g4WUF6TzBUQ2lza1F4UUxQcF8wMURMU2hqSkJNbUdTTC1jR01jeklZN25VV0owRlJB?oc=5"
-   },
-   {
-    "t": "Cyberattaque dans des supermarchés : qu’est-ce que Shahid Kaveh, l’armée de l’ombre iranienne accusée d’être à l’origine des attaques contre les frigos en France ?",
-    "s": "Sud Ouest",
-    "d": "2026-11-11",
-    "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPRTB5RTcxb3pkYkxfTG1MUHNBWG5XVUZIVTFjbXFfTVhLTl9NMmpJbXlBZzhrVVhRX3lhUkpreHJYWl83UzhIczNGMzZIWHhCMDhwSk1oLXF5SmQ0U1ZYdGkxYVc1eHc1ZzI3LVBaVVBDTU10YWFsSlJGcThLc2MzbjJlVTItSUZUWFpHb1BKa3dUek95UjE2aVIzRWNvcDBwcDkzM2lEME9VNHVOdE1zbjdQRUI4aDNORHk2VWU3cFJsN0QwZmtEU0ZpNmIyM3RjVlMwenBMRGZWUzFxUTB5ZG9oWnRYbmJCWTZGT05wWXZHSkRWQjVGa2dmRmd1UnJVSm43Z1lYWmQ0Q0pnSzc0VFR6ekxHS0FQSWo2UjZDUVBSeTZ0aVhRaTVKSXV1U2RhMjQ3bTctUVFNMW9tMm1v?oc=5"
    }
   ],
   "shahid-shoostari": [
@@ -787,19 +778,25 @@
     "r": 1
    },
    {
+    "t": "« La surveillance des entreprises dépasse celle de la NSA » : le patron de Proton alerte sur les risques de l'IA",
+    "s": "TechRadar",
+    "d": "2026-11-12",
+    "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU3dqVHQ2YXNmOUxxd3dJU3FuN1NWMFFOVWY0MlV0cmFwNVVmaXVYSm1HenA2ZkdwVlJ6MFprZW9DaVkwandwbjFwUVI5T2tqS01MZVc1RTNDRXRUSzQwTVlVY0ctaURsZ3Ezd2RnY1lZQm9RejFXenZJdUFVR2Z6NjllWVlGbHNxbTF5WDNKMUJPd2U2NWx5UTJnX0tLU0pkSGhjRTZwa2Rqd21GV2dYMjNjTDF3ZTRpbHJtLUNuTWoyQkc0Y3g0YXhNRm92X05pdE1LaXd5X3pNX1lvQ3FQaW40emh1RmtUWEQyc0EwWEJWN0x1LTJydg?oc=5"
+   },
+   {
     "t": "White House and congressional staff question leaders after suicides at NSA, Cyber Command",
     "s": "Mezha.net",
     "d": "2026-11-11",
     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MTXdUbHFneE5waUFLRUNsbFhpdW0xdW53Y19rd2x0eXBuMEJGc0JRTWZrdjdSbXgyUEZIOWJFekpVVjNXRk44ZTRJSEV0VnM5OFNBanl0c0NyVlFxYms3cUFrWmU4cUEzS0E?oc=5"
-   },
-   {
-    "t": "At least 11 NSA and Cyber Command employees died by suicide in the US — The Japan Times",
-    "s": "UA.NEWS",
-    "d": "2026-11-11",
-    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM21pdFk2ZHpXM2QxMHM1T3FKQi1GeVBBUGxjTGdreURrMkFQTFVTMnNuOFV5MFAwdkxZMWJDUklxUEx6VUU1RTVSUUtMM0ZqcU9teVlnOEtfdlpqcW5yYjhlMURMU0Z3Wmk2OVFVUjhqX3N2SXRSeVRQeVpTRVRLamMwX2RTTGlBdmpfUzF1eGVaQXl1RnFGS3YyWUt3MkZNRHg1Z1NNclUxYWdwY2JwYVAzREZTZ2ozMVZQV1F1eUtneWhZZlNyZjNFcmk?oc=5"
    }
   ],
   "unite-8200": [
+   {
+    "t": "IA hors de contrôle : une Israélienne de l’unité 8200 lève 50 millions de dollars pour la mettre au pas",
+    "s": "AllianceFR.com",
+    "d": "2026-11-13",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2VDS2VZclZMX3h1ajA3TDl6Wm1YQzBEMVgzSFA1dk1CNG9jeHQ4NlFSbEJhcXdKc3NseG9nd0EtenVWQkdSVTNMb0VCTlFUN1FiYXRZVXhtX0xaYTNqbk8wY0JJUGR1MHR1V0Fvdng5Tk1TWUpvclFWV2hLcVdPRGpZbVRydnhOVEFwWUdLeF9ldUY1OUJ4TkFjSUc2Q3VURXFvaDhUQjl1Q2dVelJPRA?oc=5"
+   },
    {
     "t": "Former Unit 8200 officers raise $50 million in just nine months for AI security startup",
     "s": "CTech",
@@ -823,12 +820,6 @@
     "s": "SecurityWeek",
     "d": "2026-10-25",
     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDFvRlVTQS1XV2ZKUlZHSkhsNlBQUU04YWVGQVV3T2VpczltZERrX1RwQlBxN3VEUm1iRU8zU0tIYzl6Z3BBaHVnZnh6UHNGNkdCaE42Z2ZrY2tBRlhsWDJ2ekhfaVhINGQ4U3dtS25SdTFBRzA2ems1cHhVWGdSRVBsTE1iaDdpbm1HbmtVQzZiQmdwZXl0ZVMwbkJuRVZVYXhaSFYxWQ?oc=5"
-   },
-   {
-    "t": "Ex-unit 8200 alumni sell Elementary Data for Some $45 million",
-    "s": "The Jerusalem Post",
-    "d": "2026-10-20",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYy03X0JDdGJMZEk3NDJoX1BaVVhfbk05QUctSVRYOXdzdHFmdm8zQXluRHEzSy03MWZtZWU3T20xekZ2a2MtUjJ4am9wOTVNQWx0WGdKQV9aN0RLUmVXcDYtbkFNU0ltUHg3UHZkeEZQRlAycWdjOF9CbVFyOF9TdDlzTzhUdw?oc=5"
    }
   ],
   "national-cyber-force": [
@@ -840,6 +831,12 @@
    }
   ],
   "defence-cyber-command-nl": [
+   {
+    "t": "Shell s’accorde avec DCC Energy sur la cession de ses stations-service en France, selon une source",
+    "s": "Journal Chrétien",
+    "d": "2026-10-16",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DWlQ4LU1NdnR2eUdnZEpscXhDNzhxRThDVm9NdFpnYTVaMTdXeEMzT015WFJPWEhCeng3UmtQeVpXaXlVb2RMSE1ZVktrMTY1RV9lSmxxVGdEV2VhTlBGWUtlZDBnMGlKazVIQ2lxTjM0MXlWTGZLbTFySW5FTGs?oc=5"
+   },
    {
     "t": "Kholo Capital backs local IT distributor DCC with R275m in funding",
     "s": "Business Day",
@@ -863,12 +860,6 @@
     "s": "FratMat",
     "d": "2026-09-26",
     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQXzJWZjM2NE5WVTlDdGNfTHkwU2VDdi0xeWRMQko1aWM0YzNGTy02bUg1M25rM1Z1MUVVUWZFU21YOHdSM2RYRXQ3X0JpTGZTS3lhcWVSNEFyZUhMYmtRZFRReWhKMlNIckk2WnBiS25veXRhMm4zQk5VX09Ddk5zWHFhVXIya2QyYnVUZE92MEhJQlhHbDBTUU9oRy1LSzR1OW1rdXFsd3FId3o4LVNsTC1MbE91aFJXMlB3NzFrdjNkVGlMWUh0b0x6My1CSXdNalhjb0JjeFNqdnJRakxyZS1vd2NKWGRiZnpVNHhR?oc=5"
-   },
-   {
-    "t": "RBI Removes Minister Patil, 7 Directors from Latur DCC Bank",
-    "s": "Rediff MoneyWiz",
-    "d": "2026-09-19",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnVYb1pjbTJZaTZ4MVlMcmpXQWtROFZQbWtDRm1JbDFJbjlwMzRfdWx3ZWZ0X0FxS2ZJbVctRmZIVFdMckdjVzdvS2w2cWszb015SVA5TzVBY1pteEl1V3NPb0ZJODViQ0R0Q2ptR3o5bTU4ejdRQW5hQ04yU3RSVDJWa284TUxaNU1UNDk3WjV6WXV2bTBzOTFPQkIzVkR6UzJURUVHc2UxU3JkZnVN0gG0AUFVX3lxTFBRQmx0R21jZFpFak12cUNuZDdrUVBLYk52emlKb25kbzhwZVpMUUhPWm1Ebk9VVVFGcE82d1BPRjRFZWhzeGhuMzJrVUdTaHV4SDZPeGp6d1o1ZkJiUVVfSEctSkgxR1NlUzcyR0FFX0dROFVtNmYxN19qNENFMlBBcFBGRi1NeENfb3dmU1ZodnQ3ZmNWM1VYX2o0cGdEN0xBMmlEUlo5OVRmM29KNGJnalVnaA?oc=5"
    }
   ],
   "comcyber": [
@@ -876,7 +867,7 @@
     "t": "European Cyber Week 2026 : le COMCYBER au grand rendez-vous de la cyber en France",
     "s": "Ministère des Armées",
     "d": "2026-11-05",
-    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDFDa3NoUnRDZlRrUl81VU8tZVRqcWZISjFGek5JOFo5R05kbE5NZDV4U05FZnctNTE1SFJvWnktNllmUFhlQ19vY2MwcUIzQTlpbEZtaWRqVkVtTlBoODQxT2g3VUVIY2p0dGV6b1RwX0xTalo2NDVvSldQemVaOC1IejdYNk9vbWR1VkZHZEx2LVlCd3lwZm1ZLVEyRXNMODJRaW1wSk1TN1dQTzBpOXBtWThrQQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObVhjU1drc0l0ZEpfbWR0OFhGZGxyOV91U1dSN2o4dEp4MUZfalRISVhaVUtxaW1XRkxSYUFLSUVWdlBvN3B6RmVzZWxmdTFwMTdCQzFnQnk1eklDUExoODJCRE9uUVloQThTY1BrSTQ3anR5LThuYnl3T0U1WjZ4MzBKZEZnTmg5TnZGUVlzWkxicmtvb3BoNVE3aGJvSmtlUDh6enROaC1xVXpRQTIwc29mTmo?oc=5"
    },
    {
     "t": "Paris Games Week 2026 : le COMCYBER-MI en première ligne sur le front de la cybersécurité",
