@@ -1,5 +1,43 @@
 [
  {
+  "id": "dd9560d2d329",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-114713 – UnrealIRCd UnrealIRCd : UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+  "date": "2026-11-13",
+  "resume": "UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
+  "id": "79fc68065bf3",
+  "source": "CISA KEV",
+  "rubrique": 2,
+  "titre": "CVE-2026-123039 – Check Point Multiple Products : Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+  "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+  "date": "2026-11-13",
+  "resume": "Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when the Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket without authenticating connecting processes. An authenticated local user can send a command to",
+  "criticite": "Critique",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 12
+ },
+ {
   "id": "5df4bf07aed5",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -63,6 +101,194 @@
   "score": 10
  },
  {
+  "id": "d5e7a961af71",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits Citrix (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1528/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "2b2441eb4f35",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans PostgreSQL (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1530/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "6773b0ba0f6f",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Node.js (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1531/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "eb340a4070a6",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Progress Telerik (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1533/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "c505036a9c09",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1536/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "30814c95fb02",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits IBM (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Déni de service"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Déni de service",
+   "Vulnérabilité"
+  ],
+  "score": 10
+ },
+ {
+  "id": "b297d876237e",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+  "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+  "date": "2026-11-13",
+  "resume": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day",
+   "Logiciel malveillant",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Logiciel malveillant",
+   "Cyberattaque"
+  ],
+  "score": 10
+ },
+ {
+  "id": "1671c4ae2d79",
+  "source": "CISA avis",
+  "rubrique": 2,
+  "titre": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+  "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "date": "2026-11-13",
+  "resume": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability These types of vulnerabilities are a frequent attack vector for malicio",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 9
+ },
+ {
+  "id": "c6e1d6a77271",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+  "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+  "date": "2026-11-13",
+  "resume": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinated set of actions announced by the U.S. government, the cloud-based",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Hameçonnage / fraude",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Hameçonnage / fraude",
+   "Cyberattaque",
+   "Cloud"
+  ],
+  "score": 9
+ },
+ {
   "id": "9e0cc84d062d",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -79,6 +305,177 @@
   "tags": [
    "Vulnérabilité / zero-day",
    "Cyberattaque"
+  ],
+  "score": 8
+ },
+ {
+  "id": "c608b30e6b04",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans Apple HomeView Software (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1526/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans Apple HomeView Software. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "911d0e96a128",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "2db239d4db10",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans les produits Check Point (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1529/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "f007521ac257",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Vulnérabilité dans Opera Neon (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1532/",
+  "date": "2026-11-13",
+  "resume": "Une vulnérabilité a été découverte dans Opera Neon. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "c81d52c6a0e1",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Vulnérabilité dans les produits Axis (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1534/",
+  "date": "2026-11-13",
+  "resume": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "e0778a7288fe",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1535/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "daaf8ff3b554",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1537/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "ec0e4f3b6875",
+  "source": "CERT-FR avis",
+  "rubrique": 2,
+  "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (13 novembre 2026)",
+  "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1538/",
+  "date": "2026-11-13",
+  "resume": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
+  "id": "e05f7a78ce38",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+  "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+  "date": "2026-11-13",
+  "resume": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
   ],
   "score": 8
  },
@@ -113,6 +510,22 @@
   ],
   "tags": [
    "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "db3fd3a5adb8",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "How one AI agent exposed five critical enterprise security gaps",
+  "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+  "date": "2026-11-13",
+  "resume": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "IA"
   ],
   "score": 6
  },
@@ -302,6 +715,22 @@
   "poids": 2,
   "menaces": [],
   "tags": [],
+  "score": 5
+ },
+ {
+  "id": "fb5ac890be2a",
+  "source": "The Hacker News",
+  "rubrique": 1,
+  "titre": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+  "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+  "date": "2026-11-13",
+  "resume": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [],
+  "tags": [
+   "Cloud"
+  ],
   "score": 5
  },
  {
@@ -1387,6 +1816,24 @@
   "score": 8
  },
  {
+  "id": "343669133e03",
+  "source": "CBC.ca on MSN",
+  "rubrique": 4,
+  "titre": "BC post-secondary application portal affected by data breach",
+  "url": "https://www.msn.com/en-ca/news/other/bc-post-secondary-application-portal-affected-by-data-breach/ar-AA2hkAIo",
+  "date": "2026-11-12",
+  "resume": "In a Thursday update, EducationPlannerBC says that, on Nov. 3, it identified a \"cybersecurity incident affecting its application system.\" ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
   "id": "d1b92d164acb",
   "source": "CISA avis",
   "rubrique": 2,
@@ -1624,6 +2071,24 @@
   "url": "https://www.msn.com/fr-fr/actualite/other/cyberattaque-des-frigos-la-france-accuse-liran/vi-AA2hikuN",
   "date": "2026-11-12",
   "resume": "La France accuse l'Iran d'être responsable de la cybertattaque contre des réfrigérateurs de supermarchés survenue en octobre. On va plus loin avec Patricia Allémonière et David Delos.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "2443d6e0b7dd",
+  "source": "Ouest-France",
+  "rubrique": 0,
+  "titre": "Panne mondiale d’Outlook : « aucun signe d’action malveillante ou de cyberattaque » à ce stade, selon Microsoft",
+  "url": "https://www.ouest-france.fr/high-tech/microsoft/panne-mondiale-doutlook-aucun-signe-daction-malveillante-ou-de-cyberattaque-a-ce-stade-selon-microsoft-b96183ce-df33-11f1-9a29-f4bab172af08",
+  "date": "2026-11-12",
+  "resume": "[Presse Océan] Le géant américain du logiciel Microsoft a indiqué jeudi que les mesures prises pour réparer une panne mondiale de la messagerie Outlook ne fonctionnaient pas comme prévu et qu’il cherc ...",
   "criticite": "",
   "poids": 1,
   "menaces": [
@@ -2263,42 +2728,6 @@
   "menaces": [],
   "tags": [
    "IA"
-  ],
-  "score": 5
- },
- {
-  "id": "a9021fd43362",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-  "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-  "date": "2026-11-11",
-  "resume": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "ccdd6c7f3ffe",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-  "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-  "date": "2026-11-11",
-  "resume": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Logiciel malveillant"
-  ],
-  "tags": [
-   "Logiciel malveillant"
   ],
   "score": 5
  },
@@ -3560,324 +3989,6 @@
   "score": 6
  },
  {
-  "id": "7646e96e2e7b",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
-  "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-  "date": "2026-11-10",
-  "resume": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 5
- },
- {
-  "id": "ba7507c6f20e",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-  "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-  "date": "2026-11-10",
-  "resume": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "ce0b470d4dea",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-  "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-  "date": "2026-11-10",
-  "resume": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "0e6f77f0820c",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-  "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-  "date": "2026-11-10",
-  "resume": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "IA"
-  ],
-  "score": 5
- },
- {
-  "id": "9af5f29020c4",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-  "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-  "date": "2026-11-10",
-  "resume": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "3ac35ff64736",
-  "source": "The Hacker News",
-  "rubrique": 1,
-  "titre": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-  "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-  "date": "2026-11-10",
-  "resume": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check Point Research is tracking the clusters under the names SilentDelivery,",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Logiciel malveillant"
-  ],
-  "tags": [
-   "Logiciel malveillant"
-  ],
-  "score": 5
- },
- {
-  "id": "230bcad0faf3",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-  "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-  "date": "2026-11-10",
-  "resume": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "33bc3cf0f92e",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-  "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-  "date": "2026-11-10",
-  "resume": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "2d6a537d6fba",
-  "source": "Le Parisien via MSN",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre des frigos : la France convoque l’ambassadeur d’Iran, Téhéran rejette des « accusations infondées »",
-  "url": "https://www.msn.com/fr-fr/actualite/other/cyberattaque-contre-des-frigos-la-france-convoque-l-ambassadeur-d-iran-t%C3%A9h%C3%A9ran-rejette-des-accusations-infond%C3%A9es/ar-AA2h7mLb",
-  "date": "2026-11-10",
-  "resume": "La France va-t-elle riposter ? Alors que la justice française accuse la république islamique d’Iran d’avoir orchestré la cyberattaque contre plus de 700 sites de la grande distribution début octobre,",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "605ee75e7e51",
-  "source": "CyberScoop",
-  "rubrique": 2,
-  "titre": "Microsoft fixes over 1,000 vulnerabilities in November Patch Tuesday",
-  "url": "https://cyberscoop.com/microsoft-patch-tuesday-november-2026/",
-  "date": "2026-11-10",
-  "resume": "Microsoft's November security update addresses roughly 1,090 vulnerabilities across Windows, Office, Azure and the company's other product lines, the second consecutive monthly release to exceed the ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Vulnérabilité / zero-day"
-  ],
-  "tags": [
-   "Vulnérabilité / zero-day"
-  ],
-  "score": 5
- },
- {
-  "id": "311ef1b71cce",
-  "source": "Le Dauphiné Libéré",
-  "rubrique": 3,
-  "titre": "Europe Cyberattaques : après les frigos des supermarchés, les appareils électroménagers pourraient être visés",
-  "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/10/cyberattaques-apres-les-frigos-des-supermarches-l-electromenager-pourrait-etre-vise-alerte-l-enisa",
-  "date": "2026-11-10",
-  "resume": "Le chef de l’agence européenne de cybersécurité appelle à investir et à protéger les objets connectés dès leur conception, jusque dans nos cuisines.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "c233d137a7bc",
-  "source": "Linformatique.org",
-  "rubrique": 1,
-  "titre": "La CNIL sanctionne dix collectivités pour négligence en cybersécurité",
-  "url": "https://www.linformatique.org/cnil-sanctions-collectivites-failles-cybersecurite/",
-  "date": "2026-11-10",
-  "resume": "La CNIL inflige dix sanctions à des collectivités territoriales pour sanctionner le défaut de double facteur et la mauvaise gestion des accès distants.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "Institutions"
-  ],
-  "score": 5
- },
- {
-  "id": "c57e96b6d44e",
-  "source": "France 24",
-  "rubrique": 1,
-  "titre": "La France fourbit sa riposte contre l'Iran après la cyberattaque contre des frigos",
-  "url": "https://www.france24.com/fr/info-en-continu/20261110-la-france-fourbit-sa-riposte-contre-l-iran-apr%C3%A8s-la-cyberattaque-contre-des-frigos",
-  "date": "2026-11-10",
-  "resume": "Sanctions et représailles discrètes : la France, qui a accusé lundi l'Iran d'être à l'origine des cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés en octobr ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "df1de38da92f",
-  "source": "Le Monde",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : l’Iran rejette « les accusations infondées » de la France",
-  "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
-  "date": "2026-11-10",
-  "resume": "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs d ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "327e1b2d5002",
-  "source": "Ouest-France",
-  "rubrique": 1,
-  "titre": "Frigos piratés en France : que sait-on du groupe de hackers Shahid Kaveh, soupçonné d’être derrière la cyberattaque﻿ ?",
-  "url": "https://www.ouest-france.fr/societe/cyberattaque/frigos-pirates-en-france-que-sait-on-du-groupe-de-hackers-shaid-kaveh-soupconne-detre-derriere-la-cyberattaque-3b3d38b0-dce2-11f1-86b6-0a2fbb1d8ed9",
-  "date": "2026-11-10",
-  "resume": "Le parquet de Paris a indiqué, ce lundi 9 novembre, avoir ouvert une enquête visant le groupe de hackers iraniens Shahid Kaveh, qu’il soupçonne d’avoir orchestré la cyberattaque ayant visé des centain ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "4704d00203f9",
-  "source": "Corse Matin",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre des frigos : la France \"ne s'interdit rien\" dans la riposte contre l'Iran, avertit son chef de la diplomatie",
-  "url": "https://www.corsematin.com/article/francemonde/73413475112645/cyberattaque-contre-des-frigos-la-france-ne-sinterdit-rien-dans-la-riposte-contre-liran-avertit-son-chef-de-la-diplomatie",
-  "date": "2026-11-10",
-  "resume": "Cyberattaque contre des frigos : la France \"ne s'interdit rien\" dans la riposte contre l'Iran, avertit son chef de la diplomatie ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "704e2dc026e0",
-  "source": "France 24",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre des frigos : la France accuse l’Iran",
-  "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-cyberattaque-contre-des-frigos-la-france-accuse-l-iran",
-  "date": "2026-11-10",
-  "resume": "La France a accusé lundi les Gardiens de la Révolution iraniens d'être à l'origine des cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés en octobre, prometta ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "ab2a5873461b",
-  "source": "Yahoo Actualités",
-  "rubrique": 1,
-  "titre": "Cyberattaque contre les supermarchés en France: comment les enquêteurs sont remontés jusqu’à l’Iran",
-  "url": "https://fr.news.yahoo.com/cyberattaque-contre-supermarch%C3%A9s-france-enqu%C3%AAteurs-095502255.html",
-  "date": "2026-11-10",
-  "resume": "La France a accusé lundi 9 novembre les Gardiens de la révolution iraniens d'être derrière la cyberattaque qui a visé, dans la nuit du 11 au 12 octobre, les systèmes de réfrigération d’environ 700 sit ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
   "id": "19df3c9cef04",
   "source": "ZATAZ",
   "rubrique": 1,
@@ -4538,79 +4649,6 @@
    "IA"
   ],
   "score": 6
- },
- {
-  "id": "0ee796a1cf6a",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Deux opposants à la dictature au Nicaragua demandent une pression internationale contre le régime d’Ortega-Murillo",
-  "url": "https://www.lemonde.fr/international/article/2026/11/09/deux-opposants-a-la-dictature-au-nicaragua-demandent-une-pression-internationale-contre-le-regime-d-ortega-murillo_6808635_3210.html",
-  "date": "2026-11-09",
-  "resume": "Dans un entretien au « Monde », Dora Maria Tellez, ancienne guérillera sandiniste et historienne, emprisonnée vingt mois, puis libérée en 2023, réclame une plus grande implication de l’UE contre Managua. Le journaliste Carlos Fernando Chamorro, qui a fui le Nicaragua en 2021, dénonce un Etat policier liberticide.",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [],
-  "tags": [
-   "DORA"
-  ],
-  "score": 5
- },
- {
-  "id": "073e03d22dae",
-  "source": "BleepingComputer",
-  "rubrique": 1,
-  "titre": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-  "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-  "date": "2026-11-09",
-  "resume": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Logiciel malveillant"
-  ],
-  "tags": [
-   "Logiciel malveillant",
-   "Cloud"
-  ],
-  "score": 5
- },
- {
-  "id": "20da8c0f1105",
-  "source": "frenchbreaches",
-  "rubrique": 2,
-  "titre": "Le géant français de l'affichage publicitaire Next One paralysé par une cyberattaque",
-  "url": "https://frenchbreaches.com/blog/le-geant-francais-de-laffichage-publicitaire-next-one-paralyse-par-une-cyberattaque",
-  "date": "2026-11-09",
-  "resume": "Le spécialiste français de l'affichage publicitaire Next One paralysé par une cyberattaque. Même ses sauvegardes ont été touchées !",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque",
-   "Sauvegarde"
-  ],
-  "score": 5
- },
- {
-  "id": "a037fef67890",
-  "source": "Clubic via MSN",
-  "rubrique": 1,
-  "titre": "Un hébergeur russe doit reconstruire son cloud de zéro après une attaque par wiper, mais c'est quoi au juste ?",
-  "url": "https://www.msn.com/fr-fr/actualite/other/un-h%C3%A9bergeur-russe-doit-reconstruire-son-cloud-de-z%C3%A9ro-apr%C3%A8s-une-attaque-par-wiper-mais-cest-quoi-au-juste/ar-AA2h5nig",
-  "date": "2026-11-09",
-  "resume": "En une nuit, un pirate a effacé toutes les données du cloud de Beget, l’un des plus gros hébergeurs russes, avec un logiciel conçu pour détruire et non pour réclamer une rançon, et une partie des sauv ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Logiciel malveillant"
-  ],
-  "tags": [
-   "Logiciel malveillant",
-   "Cloud"
-  ],
-  "score": 5
  },
  {
   "id": "e707fa4e0542",
