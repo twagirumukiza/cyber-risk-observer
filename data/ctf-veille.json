@@ -1,43 +1,13 @@
 {
  "calendrier": [
   {
-   "ct": 3410,
-   "nom": "CSAW CTF Final Round 2026",
-   "date": "2026-11-12",
-   "duree": "1 j 12 h",
-   "format": "Jeopardy · en ligne",
-   "niveau": "poids CTFtime 1",
-   "url": "https://ctf.csaw.io/",
-   "mode": "online",
-   "poids": 1.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
-   "ct": 3486,
-   "nom": "TVX CTF 2026",
-   "date": "2026-11-13",
-   "duree": "10 h",
-   "format": "Jeopardy · en ligne",
-   "niveau": "",
-   "url": "https://ctf-techvisions.com/",
-   "mode": "online",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
    "ct": 3082,
    "nom": "Platypwn 2026",
    "date": "2026-11-13",
    "duree": "18 h",
    "format": "Jeopardy · en ligne",
    "niveau": "poids CTFtime 37",
-   "url": "https://platypwnies.de/events/platypwn/",
+   "url": "https://platypwn.ctf.platypwnies.de/",
    "mode": "online",
    "poids": 37.0,
    "src": [
@@ -426,6 +396,28 @@
  "classTitre": "Classement mondial 2026",
  "writeups": [
   {
+   "id": "wd2530a20",
+   "cat": "Autre",
+   "titre": "FREE Smartphone CTF starts 11/19 at Midnight Eastern. All levels can play and learn",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xv5lot/free_smartphone_ctf_starts_1119_at_midnight/",
+   "d": "2026-11-13",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
+  {
+   "id": "wd473aa18",
+   "cat": "Reverse",
+   "titre": "PHP2Shell Exploitation on Check Point Gateway",
+   "niveau": "",
+   "url": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/",
+   "d": "2026-11-12",
+   "s": "Check Point Research",
+   "n": 1,
+   "v": 1
+  },
+  {
    "id": "wa67a86af",
    "cat": "Autre",
    "titre": "I just completed Block room on TryHackMe!",
@@ -679,17 +671,6 @@
    "v": 1
   },
   {
-   "id": "w0d57e39d",
-   "cat": "Autre",
-   "titre": "Looking for CTF Teammates – Building a Team for Cybersecurity CTFs",
-   "niveau": "",
-   "url": "https://www.reddit.com/r/securityCTF/comments/1xn3o5j/looking_for_ctf_teammates_building_a_team_for/",
-   "d": "2026-11-03",
-   "s": "Reddit r/securityCTF",
-   "n": 1,
-   "v": 0
-  },
-  {
    "id": "wb3493e3d",
    "cat": "Autre",
    "titre": "HKCERT CTF 2026",
@@ -877,17 +858,6 @@
    "v": 1
   },
   {
-   "id": "wbc582bfe",
-   "cat": "Reverse",
-   "titre": "Infostealer riding the AI Train",
-   "niveau": "",
-   "url": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
-   "d": "2026-10-23",
-   "s": "Check Point Research",
-   "n": 1,
-   "v": 1
-  },
-  {
    "id": "w8c616d58",
    "cat": "Forensic",
    "titre": "Update: onedump.py Version 0.0.3",
@@ -954,9 +924,9 @@
    "v": 1
   }
  ],
- "maj": "2026-11-12T12:47:42Z",
+ "maj": "2026-11-13T12:16:30Z",
  "sources": {
-  "Compétitions — CTFtime": 24,
+  "Compétitions — CTFtime": 22,
   "CTFtime — writeups": 0,
   "0xdf hacks stuff": 17,
   "CryptoHack": 1,
