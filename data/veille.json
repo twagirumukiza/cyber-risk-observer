@@ -1,5 +1,25 @@
 [
  {
+  "id": "7671656915fa",
+  "source": "Telangana Today",
+  "rubrique": 2,
+  "titre": "Telangana cyber bureau probes ransomware attack on TG-iPASS website",
+  "url": "https://telanganatoday.com/telangana-cyber-bureau-probes-ransomware-attack-on-tg-ipass-website",
+  "date": "2026-11-14",
+  "resume": "The Telangana Cyber Security Bureau has intensified its investigation into a suspected ransomware attack on the TG-iPASS industrial clearances portal, allegedly carried out by hackers operating from ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Rançongiciel",
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Rançongiciel",
+   "Cyberattaque"
+  ],
+  "score": 11
+ },
+ {
   "id": "b58e8e6c37ed",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -17,6 +37,61 @@
    "Vulnérabilité"
   ],
   "score": 8
+ },
+ {
+  "id": "403e4bdfaeb6",
+  "source": "BleepingComputer",
+  "rubrique": 2,
+  "titre": "Cursor confirms security breach led to malicious Claude Code extension",
+  "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+  "date": "2026-11-14",
+  "resume": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque",
+   "IA"
+  ],
+  "score": 8
+ },
+ {
+  "id": "6063a4e06b2c",
+  "source": "Le Parisien",
+  "rubrique": 0,
+  "titre": "Cyberattaque : la plate-forme Maileva, du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
+  "url": "https://www.leparisien.fr/high-tech/cyberattaque-la-plateforme-maileva-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes-14-11-2026-PSO6VP35AZFM7I7SC5H7IPRH4E.php",
+  "date": "2026-11-14",
+  "resume": "La plate-forme Maileva, qui appartient au groupe La Poste et qui gère les documents de professionnels, dit avoir été visée par une cyberatta ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
+  "id": "ab15a01a41a2",
+  "source": "Le Figaro",
+  "rubrique": 3,
+  "titre": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
+  "url": "https://www.lefigaro.fr/secteur/high-tech/victime-d-une-cyberattaque-maileva-une-filiale-de-la-poste-annonce-un-vol-de-donnees-concernant-22-millions-de-personnes-20261114",
+  "date": "2026-11-14",
+  "resume": "Maileva est une entreprise française spécialisée dans l’envoi et la gestion de courriers professionnels. La Poste a indiqué qu’il s’agissait de «l’une des plus importantes fuites de données en France» ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
  },
  {
   "id": "7a6aaa4d9c01",
@@ -66,6 +141,42 @@
   "poids": 2,
   "menaces": [],
   "tags": [],
+  "score": 5
+ },
+ {
+  "id": "db1f0a9addf8",
+  "source": "Le Monde International",
+  "rubrique": 1,
+  "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
+  "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
+  "date": "2026-11-14",
+  "resume": "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de la social-démocratie à la droite. Samedi soir, le chef de l’Etat a mis en garde contre le risque d’une « vulnérabilisation durable » de l’Europe.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day"
+  ],
+  "score": 5
+ },
+ {
+  "id": "81ac3fd01f5b",
+  "source": "Le Monde Pixels",
+  "rubrique": 4,
+  "titre": "La panne du site de fanfictions AO3, victime d’un « incident de sécurité », génère mobilisation et tensions",
+  "url": "https://www.lemonde.fr/pixels/article/2026/11/14/la-panne-du-site-de-fanfictions-ao3-victime-d-un-incident-de-securite-genere-mobilisation-et-tensions_6810449_4408996.html",
+  "date": "2026-11-14",
+  "resume": "Le site aux 18 millions de « fanfictions », des déclinaisons littéraires d’œuvres existantes rédigées par des fans, est inaccessible depuis le 29 octobre. En cause, un « incident de sécurité » qui laisse ses utilisateurs désœuvrés et réveille des tensions au sein de cette communauté centrale de la culture Web.",
+  "criticite": "",
+  "poids": 0,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
   "score": 5
  },
  {
@@ -568,6 +679,24 @@
   "score": 8
  },
  {
+  "id": "51d7102ac41e",
+  "source": "note",
+  "rubrique": 2,
+  "titre": "Over 20,000 reports. Why are data breaches happening simultaneously now?",
+  "url": "https://note.com/leon_official/n/n4cf960641905?hl=en",
+  "date": "2026-11-13",
+  "resume": "Hello, this is LEON!Recently, I was thinking about buying individual stocks, so I researched a few companies.Then, I noticed something quite often: companies whose stock prices dropped due to news of ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Fuite de données"
+  ],
+  "tags": [
+   "Fuite de données"
+  ],
+  "score": 8
+ },
+ {
   "id": "fe3ab0485c82",
   "source": "The Hacker News",
   "rubrique": 2,
@@ -838,76 +967,6 @@
    "Cloud"
   ],
   "score": 5
- },
- {
-  "id": "79815295aaa3",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-  "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-  "date": "2026-11-13",
-  "resume": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "ee274201614e",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-  "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-  "date": "2026-11-13",
-  "resume": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "f6f4a6d64aa8",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "German military drone operations disrupted by cyberattack",
-  "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-  "date": "2026-11-13",
-  "resume": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "293c69c9ee5b",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Microsoft says November security updates cause printing issues",
-  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-  "date": "2026-11-13",
-  "resume": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "8762a201a24f",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Microsoft confirms Windows activation failures after November updates",
-  "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-  "date": "2026-11-13",
-  "resume": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
  },
  {
   "id": "084c3bb67274",
@@ -5448,6 +5507,26 @@
   ]
  },
  {
+  "id": "bebcd1bf7bb2",
+  "source": "note",
+  "rubrique": 2,
+  "titre": "Exploited without a patch, 3 days to act: The reality forced by the CVSS 9.8 'FortiMail' zero-day",
+  "url": "https://note.com/note_suke/n/nbd4ba7dbe7dc?hl=en",
+  "date": "2026-11-05",
+  "resume": "IntroductionA vulnerability with a severity score of 9.8—nearly the maximum on the CVSS (Common Vulnerability Scoring System)—has been discovered in FortiMail, an email security product from Fortinet.",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
   "id": "a43f221f9628",
   "source": "CERT-FR avis",
   "rubrique": 2,
@@ -5858,25 +5937,6 @@
    "Zero-day"
   ],
   "score": 6
- },
- {
-  "id": "3260cc514267",
-  "source": "ZATAZ",
-  "rubrique": 6,
-  "titre": "CTF Social Engineering : trois jours pour piéger l’humain",
-  "url": "https://www.zataz.com/ctf-social-engineering-trois-jours-pour-pieger-lhumain/",
-  "date": "2026-11-04",
-  "resume": "Hackfest Québec 2026 : deuxième place au CTF de Social Engineering, 43 appels et trois outils de renseignement.",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Cyberattaque",
-   "CTF"
-  ],
-  "score": 5
  },
  {
   "id": "310fe7a6e4c3",
@@ -6985,46 +7045,6 @@
    "Zero-day"
   ],
   "score": 6
- },
- {
-  "id": "d4e844b31b46",
-  "source": "MSN",
-  "rubrique": 1,
-  "titre": "Belarus hackers wiped data in first Russia-tier cyberattack on Europe, ESET reports",
-  "url": "https://www.msn.com/en-us/news/other/belarus-hackers-wiped-data-in-first-russia-tier-cyberattack-on-europe-eset-reports/ar-AA2gjaGI",
-  "date": "2026-10-28",
-  "resume": "A Slovak cybersecurity firm's sweeping threat intelligence report published Wednesday documented a defining escalation in six months of nation-state cyber conflict between April and September 2026: ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "score": 5
- },
- {
-  "id": "b6b74f79da08",
-  "source": "The Strategist",
-  "rubrique": 1,
-  "titre": "It’s time to treat state-sponsored cyber intrusions as attacks",
-  "url": "https://www.aspistrategist.org.au/its-time-to-treat-state-sponsored-cyber-intrusions-as-attacks/",
-  "date": "2026-10-28",
-  "resume": "Democracies made a big cybersecurity mistake in the 1990s when they insisted that cyber intrusions were not acts of war. That insistence meant managing a constant barrage of attacks rather than ...",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique",
-   "Cyberattaque"
-  ],
-  "score": 5
  },
  {
   "id": "44a5cf1a9a6f",
