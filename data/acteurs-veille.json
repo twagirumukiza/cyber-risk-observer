@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13T12:38:51Z",
+ "maj": "2026-11-14T11:46:27Z",
  "mitre": {
   "apt28": {
    "id": "G0007",
@@ -288,12 +288,6 @@
     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CRXdQc1FkYlVfcV9sNjBCaEpKZ0lnQTZmQlFMTXB1bGlMRVBpYm0tUzFQQW1Pc0w0NFNmZWdFUXNaRWZlRWgzbW9jeTR6Q0dnYlpBMThsYjZVU3RVV0wxQ05Nc3JVQVJVRnA2YXEyaF8tSloyRnc?oc=5"
    },
    {
-    "t": "Who Is the Lazarus Group? North Korea's Crypto Hackers",
-    "s": "Coin Gabbar",
-    "d": "2026-10-31",
-    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0ZpRHk5dGRVbDlhU19FM1hKQzBoMDc3VlBSWGJ4V2JoSER6dS1FdEF4RjE2cEthMWlMT0FBUnpEUlJ6Zm01TGRDS2RNMXJpczJfV2NuSHduUnlzTEFHVExRTWoyRi0tVGE5VjhoaFgySWJvSEJoTTRwajNRMnZ1N2w2TnlxS3c?oc=5"
-   },
-   {
     "t": "Reports Say North Korea's Lazarus Group Likely Behind Binance Hack",
     "s": "Yahoo Finance",
     "d": "2026-10-30",
@@ -304,6 +298,12 @@
     "s": "SFG Media",
     "d": "2026-10-30",
     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4eTJEeTJsN0pTSHk2OHNYcUlwaF9yQkQtQ1FHcWtrdHkwOXlMTXJBa3dqektidTN1NGFJRzc2T25fMURQWGE3QlFPTDNCdHBHb3FqeUFBSzNQN2d5YlhwYW1LSy1VNTE4Sll1Zg?oc=5"
+   },
+   {
+    "t": "Binance Hack, Linked to North Korea backed TraderTraitor and Lazarus Group, Crashes Bitcoin and Crypto Markets, as Hacker’s BTC Holdings Exceed Coinbase’s Corporate Treasury",
+    "s": "Crowdfund Insider",
+    "d": "2026-10-30",
+    "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOYmhvemFaLW5tdFlQMnItMWd5RUtjd0g3Qnd4SkZZSGhMaS02Y1FyM2EtSmxYOG9SVVBmcjNGYWJwQVlaVmdoRXBxaXVzZWhfeEtWQ2c2RzFNWWk5TTdwZTVMbmdCOVNGT0RqVndsVUhsZHlXTnF3aE9VOE05cFc4MU9BMmlHNkFWcDhidDdrYmJuWWx5X0NLRVFLYkV3ZWZ5MC1veUVhaWRJM2dZMk03MkIwZmUwTzV1NHBWZFNiRWI0c0hVRjFDVWx3a0JFeV9uUWU4VVhPWHJsNmJjekhXTjVMcmpBS2llQ3YwRmxlU25ITzhzZHYyY1BpbW1ucVJ1SjVZcm1wekpobFA0eWp3dC1VZ1RyTlZoTUJCWUxuSlFiaktsU1p0S3ZYUTdRX1FvV2NTWlYyZlpPRGN4bEE?oc=5"
    }
   ],
   "apt41": [
@@ -357,6 +357,12 @@
     "r": 1
    },
    {
+    "t": "What is Volt Typhoon? The China-linked hackers found inside US power and water utilities",
+    "s": "Nacionale",
+    "d": "2026-11-13",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTZ6dkZhOUNyTklTZEMxOXVzY1RuLUhiZ3E4bzJadDVwZ21Sc2xzWFd4V2lmbTMyajA5VGtjTTl6blh2UXk5TEIzTURubGs2d180S3JSR1gwN1hyQS1rVy1TR3pHVjJyMkZiYU9lVkhhTERoNkhTVXRVbkZjUFI1emtWcDdmUENLRUxscXBVenZQdHR3SkNSWVZiQ3N4SVV1Z1RTTFVvanBWaDNPckg2ZXZnNlQ0R2tkTk4w?oc=5"
+   },
+   {
     "t": "Volt Typhoon perturbe des organisations américaines, la CISA lance des alertes",
     "s": "eSecurity Planet",
     "d": "2026-11-10",
@@ -373,12 +379,6 @@
     "s": "Industrial Cyber",
     "d": "2026-11-02",
     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZkg0eFRTVFJUeDllalZHUVRNSTZlRHRwa3ZfYUJ5TTJ6amg5dTNacTFoVTlFQkQxTXVna0p0bFNSQklsYWJCMTdrWG9nX1d1ckNOWVNVeEVRaXNxR1huYVZwRUhOZzExejdNbVhnaWlnRm12XzZoZG5kb2ZyeWdOa25RMXZ6TzQ1TDJiRzMyVE1td0hKVExPdHUxVkR5eVhJT0NicGY3czNYeWtmcmplak9yeHpOT0MtNEZlNi1Jc0JuenY1LUtMblNUSW91ZXFHNktua3lDS0VaS2tUZFJJZlA3SkZBU1lVd1ZOQVJlYzRQQlJ5amlBeGd3?oc=5"
-   },
-   {
-    "t": "A deep dive into China’s Volt Typhoon suggests it is preparing for an assault on infrastructure",
-    "s": "CSO Online",
-    "d": "2026-10-29",
-    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHgyMHpPejl1YW9fbWVGbGt6Q05uODI0WjNDTnd2WWhKZGpQa25qV3J0bzdWVTBmdmYwZXVOTENsd0c5OTFVRDNsUnN6TER6MlZXcWQwUE9XVWliTnMyYmlEUkhVT1JxLXgxYVNWcHc5a1Y2dENDbmh5QWR4bE02clJ5dGM2d1hZM2JldGV3alU1aUU0UGhvaFZ4VTI2RDVsZ3Z1ME5oN2F6Umh5R1NQZUtjTEszWTBNdF9hemV5NHpqLXVIdWswbkR1MkF3WEo0WkZsejZCU3A?oc=5"
    }
   ],
   "fin7": [
@@ -391,6 +391,12 @@
    }
   ],
   "conti": [
+   {
+    "t": "Bank Indonesia Suffers Ransomware Attack, Suspects Conti Involvement",
+    "s": "CISO Mag",
+    "d": "2026-11-12",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMTNGVWdLY0dQek1lZEQ1akVpeVlESm55U3NMMFFYZHVOZzlpaU5tOGI1U096LUdLN0EtcG1laWptRTFEcXlTaldiZmZsQ2N5M3VyVmJldDlfNVlNbzdSTkx6Qk9zTk4yOG1LYTdOeWE4WEoyNno3MU5kR0pEQnZEdDJFOFdaZkYyUzlpVVlXSDdJZ9IBkgFBVV95cUxOMTNGVWdLY0dQek1lZEQ1akVpeVlESm55U3NMMFFYZHVOZzlpaU5tOGI1U096LUdLN0EtcG1laWptRTFEcXlTaldiZmZsQ2N5M3VyVmJldDlfNVlNbzdSTkx6Qk9zTk4yOG1LYTdOeWE4WEoyNno3MU5kR0pEQnZEdDJFOFdaZkYyUzlpVVlXSDdJZw?oc=5"
+   },
    {
     "t": "Qu’est-ce que le ransomware Conti ? Définition et fonctionnement",
     "s": "Illumio",
@@ -414,12 +420,6 @@
     "s": "Escudo Digital",
     "d": "2026-09-16",
     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGhmNzlVQTRHT0dJN1dzWXE2TWlRUWo2dDdHTWtZNEZBeUF3US0zY2FidUtLOWdRVEYxZnd5Y2d4NzR0RFUyX05RSGRRU0xrbEJnZnMycXJEam94TW5zV2pIb1doamlKUGFLX2xmSkxBUElFQnQ4LXhSYWFqTUZFMzFUYmRSOUdRTHhtdHJHZlp5ZGNLelEyRkduOVZtajRCUHJpSFFyUDcwQUVlRVE?oc=5"
-   },
-   {
-    "t": "Ukrainian Conti Ransomware Member Gets Four Years in US Prison",
-    "s": "Hackread",
-    "d": "2026-09-15",
-    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZWE0VUpHSEw2b3FMaFBydG10NlRodnppZFFVcGZCclFUR1B6YThZZk9wVlgtYXktMmpjRU1vel9XamQyb0FhcXNhZVNsMm50RHpBckFhTno4dDdQcUlzUEF4NDZRMlFsT3gtYVBuVjd4M3JXZG1GdGNZNkxtZw?oc=5"
    }
   ],
   "lockbit": [
@@ -448,10 +448,10 @@
     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0pQT1Y3dXVFenFfZVVJTzB6WGFkbTluNFRjVDd5UU1tVktLcjFjOVg5QVMxZm0zUkJsUXhUWTVsNmdsaXFBV3lfaWczMG9hb3VHQzdmR0ZfalhabEd5ODFnZW9VNF9xM3JyTUJ1Q0lfeGluOVRVZjlhUzNURHhVdzNfa21RTDFiSWpNTGxPTTdldm1TM3ZZbHVwS1Y?oc=5"
    },
    {
-    "t": "Capital Bank : services perturbés depuis le 2 octobre, LockBit 5.0 revendique une attaque",
-    "s": "Vant Bèf Info",
-    "d": "2026-10-06",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3Vwc20ybjBDWGNpRDFZSFJ3cU5jU1ZIeG9KRHNQTHkyTGlBV3JJc2p2YzZ4Q2dEZzR2NWdWVU5rSndwdEo5MFVLVXpzWUYwS3ZOLXNKYVdma3lVWGRkMjVnTDVYZUFYNlFBbkNQTHNvYUJNRTd0bTU1bXJnRnp2LTEyMUF6UkI3TThad3VDeUFUZndKRUZwX0Z3RnBQX1gyd0ZHc19LNEdnRE9UNzNZdw?oc=5"
+    "t": "New Era Machines Ransomware Attack by Lockbit",
+    "s": "SOCRadar",
+    "d": "2026-10-15",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObE9XZk1UWHpFb2pEbkh3TDVYY2Q0Q1B5bFowdlpXZnFhdHJwdm5hcE01bi1kMzA1dm9Hb2xkWk04ZTh1enJCS0k0YVZ0YlcxcmJfRHhzMUpjcFR3NVVEYm1QbXRxLXpkeEN0dHhITTVuTmhqaU0zbDlDMTcyaG9Pa2c3Yk9hTW9hZGZ5ZXhqYmJudnotSEZUSy11S2c?oc=5"
    }
   ],
   "cl0p": [
@@ -514,10 +514,16 @@
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTRPS3pBdTByN2VYaE5oRDZ1TE9LYlBMeVpCSy1SNXVKcm1YNmpqeUVxbmtERk5oOEJZX3N6ZHAyVnFQbVV6aFJFcGZuOWNvbzFkVXhjSUhvWnlxRTNuRlM1SDFZMXpMc1dDb2d1UUEzSV80WFVPLWJ1eHl6OWNOSjJTZFA0aFIxR2tFVTFKak9lUU9xaUxhXzNOYnhtcFFzQ0NuNVJwNk0?oc=5"
    },
    {
+    "t": "Akira Ransomware Targets Dutch Coffee Machine Manufacturer Bravilor Bonamat",
+    "s": "DeXpose",
+    "d": "2026-10-23",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnp5UTlleXc5QVJkMTVzZWZ2azBnaFVla0IzV2xDVmRWZ2lmOEY5LS1sR3NHTFlOUzR1RjZoSWZmZDJUcFYzekJaWUFKV2hLUy1HcHB0UjIzWDFueTB4SnVTZjJxc3gyNFVQZ1J2NDVqaElzX182VVhjcHdaZDFTMG1lRUdHSVR6d2xpXzJVaXd4aUxZZDBKM3NYdHlvSDgx?oc=5"
+   },
+   {
     "t": "Bahamas Issues Cybersecurity Alert Over Akira Ransomware Threat",
     "s": "Magnetic Media",
     "d": "2026-10-22",
-    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRlZ0dUc3enppSFBPNWNEaWFVdjdnR1BEVkhGZ0REVmZQeHZIUUF1eF9iX3M5dURlTkt2a2hUcEh4bzIyTVlLb0xzZ0h0NWVLOGtpT05lQTZBa3dUakRJM3FVSzhPeHBNODd4Qk1qMGJGMkwzZXVvNzJuTkJZbzV5aTFwNVZHdHN3LXl0VDhYQTdXLWQ1ZjVScnB1TzVrNXdqOUhnUVFQelN1ZTFTNGdNNllHT2ZnQzM4QTBpM094cmJMb2ZEbzl4cnFNU1huT3d1V2fSAcgBQVVfeXFMUDV3eU52V2tXY0FWbzJzZklzeVZ3cXdlWHM3RVlKM0Z1UkVaMk5lM3dLa1pUcm1wNFNDSXdaMWVSVzVjU2s3VHg5UU80YnFXSWViR2Rubm9JZjJBSnltTjYtNEVNWEVyQ2lucEMxVV9iQ1BUYWJZXzMzX0FqSUJ4TnpSSnpWaHBhZzZESHVGdjFxUmxQQ2V1S1RCYVdtTm5nMkxIcFp4TUpNRFNfNm9FSl9feDEtZGlOWmx5aVVDdm14RExSV0hPWVQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0FsZ2ozMEtTWEZ3c0xxaEhKRFhSck9uQ096c0p0c0hyMUN5SlJ2WEtTQTQ5dE5ULVZrbXRxMGRYa1I5RGpHY0ZsR2VWcEprZHpJVVduTFVEcHhvdlh0ZldlYUpHN2s0cmUtVzBNWUVCSmVOYnp1TkpYVzY0SGxrdjlmVE16WXpnLTJRVXI2aW1hMGpNdHdkLTNxSHAwbTZrNHfSAaoBQVVfeXFMTm1WX1JrS2NuVVNHZ3hMRVJQNDJaNGVIcDVuS3RfMkpZN2I5M0ZTZ1gwajZ6ZDBLRTJVSGk4Q3hRWkc2bUhDTXhacXY0c0RJa2xFbUU2NTN5OFlHUmhXbngzY3pIVEs0RlZRSmNLZWw0cjR1ODdWUmlfY25FX0NrOUQ4MXVydGJKcFFOOXBuMU1DZFExRldLNUwtcFNFZ0lvSnZnV0tEaHNIcHc?oc=5"
    },
    {
     "t": "Akira réclame une rançon pour les données de plus de 100'000 employés de la Confédération (update)",
@@ -530,12 +536,6 @@
     "s": "20 Minuten",
     "d": "2026-10-20",
     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDBsUmg1eGRGbVhzb1ZlYUc2a1ZMbGppOHBWWHZKWkZUalhmMlphOEI2YmY5MUk5QUtYV3pSWFZIQlAzVFVXbEdlUGlNaW5nT3JoeHc3SHZZVFdUMUFFbXlRTjktdVQ3NEVHOGZQY3VwQjg1M1Y2VHNNX0taeThxT3drOVlfYWJCeFRFdGxseTdONEhoSElTdHRrT19lTFRmZG5wRlExMlBxX2Fra0tnVm5ZSVAyZw?oc=5"
-   },
-   {
-    "t": "Akira ransomware attack highlights MFA gaps in VPN and RDP access",
-    "s": "SC Media",
-    "d": "2026-10-14",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR19DOVdDTm9EaDlvd285NW5mVGxtRVJ6c2hfdy16TDc1aC1QSU5TY1l3VlJjUGVzbFFFdmJrOEczODIxZDFkUVJ5emxoS2N1S1RCSUhrbzVGaU9zY05xNzNadVVGR3QwX3MtbG9MOGZzbTk1UThoczB4akI0ZVplTlpWMjhQZDRWa19oY0V3TzhuZTc1ODRVaTVfRQ?oc=5"
    }
   ],
   "scattered-spider": [
@@ -556,12 +556,6 @@
     "s": "CyberScoop",
     "d": "2026-09-18",
     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FNzVGT3BVdTdfOXktLVlMeEJiYlp1UFZVMG13STVWOUg5WHZ3c3I4MGo1UHdlRU1WQkk5VkZ4SkFZeXNWRHRtQ0REOHM5SUZwcUhZdENQeUFjeU95TDEtR083d0pFSGw0eFVUQTk1MG9iSW1WYjJxUg?oc=5"
-   },
-   {
-    "t": "Inside the Scattered Spider Playbook: How UK Retailers Got Social Engineered",
-    "s": "Infosecurity Magazine",
-    "d": "2026-09-15",
-    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UZEFMODhLTkNSZXRGQmViNjFPVF8wWkpaNjFlSXZwZGlMRzVpTEROQzIyN1hVMDY2MGptNE1LZDhfcE5QNkVGSURYcC1qSERJWlFsMjFhbGdMcU1sYy1Od0V6TGh2WXAyWmcyOHlkbzBVMHZGMlZqNE1pOA?oc=5"
    }
   ],
   "anonymous": [
@@ -594,14 +588,6 @@
     "s": "Security Affairs",
     "d": "2026-10-20",
     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGVaR0NUYkJRSVluS3BVVzd1Rk1CNWJPcUp1YXFtUUhhczdBaGRxazhqUkRzWWwtcHRpZTl6YlJsZTNfM21hTUZjeE8zODRpNVVkRmh4RlQxRjdRT0F5SjJPak5XbFlFU2xJZnNZamE0Y2RBcXA2RTJnTFUyX05JREN5V0RrMkE4ZnRWOTVXUF9MYkcyc2lSWnh5TjdCd2NhWXpicVFQd1d2dm1PcEhGQk5RSUljdVdkVG5kcdIBwgFBVV95cUxNS3M0ZEdHRDBnd1RiWjNNUVpHU09OUUExRmIxZmJ4RFM2TzZEcWFWOEcwRHhodGxZRC1XUThIUWdoTm8yM3lHN3hSeHgzdEhISUFFdElTamZBQWNUZFlqbWcydk9kQ0JuQ1poMG5zVTZPaHY2STVOX3hoSksyS08tZU95bUFET1BKMGltMFo3VGlWTGRhbzZYSVZJdk5mNFdVaVNlVTlaT3N4UVdEMWR2LVRhM1o4WS1nbEg3aXZkWlJwQQ?oc=5"
-   }
-  ],
-  "lulzsec": [
-   {
-    "t": "Sabu's LulzSec And \"The Omegs\" Leader - 2015-07-22 - Finding Mr. Robot's Many Easter Eggs",
-    "s": "Forbes",
-    "d": "2026-11-02",
-    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmd5ZHpZc25KcVhPQmJQNjhxaDZ6c3RnX1gwYmh2eTA5dFhWMHZxRG44SlhzUHh5dmozZDFsbjdDLTB1VzN0UjR0aHowci1GX2RoLWY3RFUwWEtKZGpHd3BnZXE0aDFEa2VxSTRLSkVrcGpzbk56ZFBySm4xX3F4dEVYamk5LWpiczlV?oc=5"
    }
   ],
   "killnet": [
@@ -688,7 +674,7 @@
     "t": "From Water Systems to Supermarket Refrigerators: Inside Shahid Kaveh and CyberAv3ngers’ OT Attacks",
     "s": "Check Point Blog",
     "d": "2026-11-11",
-    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWDh0Z2wyQ0x1QmJXV0JrVFh0aHphSnJWRFB6S1NtRV9SNXFEN1RIZE1kNGppWHdlTlk2TTdfZVVyQWkzczlDUDBlU1hNVTg5b1p4ZzlrdEhvalJISXR6NzBDVkhWck8yeHZCQjN2ZUo2X0o3WnNjMlJNVU4yVU9KaFZZQ1VMLTlYOXJsbmVFNmxyYnA5Nk9uRjBFWWs4NE1BTGpLVW9waVA1Y3ppYl94ZHgyd1diUnFESHY0ckNwcGJmWUVOVjRlRXp6M20wMlljMTNXXw?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjJyY0g5bURCRXlFeVRDSEsyOWV0Vk5rWE5rRmNEWGxIamU2S2owektVTHNlQURtSDNsWjExQzlDT1BOYUJJbkVPQ3k4OXI0TTNSdC1KdzJvUkt6c1lCOWlDRUxGemxUVjMzQVVFN3Z2ZzQ2Z0trY2QtNnp1RjBhYmFWc3hXVjVRMjZTQ0g5dXlYdURBRjNEaU1kVDU5dnN3VUhJcWhRNFpLVVJyY3Mxek53OHRDTXNfWUktQXJicjgzVC01SUN4TU9QeFBwRHM?oc=5"
    },
    {
     "t": "What Is Shahid Kaveh? Iran Cyber Unit Accused Of Hacking 700 French Supermarkets",
@@ -697,10 +683,10 @@
     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkktQzFMekhXdjdKZjNTWFRDWGtxc0VaMzJiN3BWaHdHNm91RWJ2ejd2ajVlNTFENE9ocnUtNl9weWkySFp3ckZiNmd6ekYwWmN3U1hDblhRNzhzX3BsNU93VGE5N3NUejF1OTUzZkdsQzJ2VU84ak1seWQ0MC1GNS1uVTdZN2k4Q1d4Z2x2eUtubDUxbkREaDd5LUJaTktVQm9LSnUtSk5ldm1pOGR3YjdKbXU5THRpQjdEWNIBygFBVV95cUxQNXpCS05ubW1QLXhMcHNhS3V6MFVsSy1kWG01NUM3YmJMZlVXUUxRU2FGb2VHd0pyQ1FZX3M3Q2Y1QnBNNVFYMi1YaDI5RU5PNVV1MDU1YlFTaDBfM2YwYVgtYUsxLWdkWFBMME9ER0EyTGhFcW44UlRteGp5dmxVMlEtbVd3bHU5QjJFWGsxQXJCaXoxSWlUSEJqQWhqUWtSMDRMU29nRGNuT29NX3BKdkd0QnNBMllHQ08tbGpRdmoxM2VKc3VlcEt3?oc=5"
    },
    {
-    "t": "Cyberattaques : que sait-on de l'unité iranienne Shahid Kaveh, dans le viseur de la justice française ?",
-    "s": "Europe 1",
+    "t": "Cyberattaque dans des supermarchés : qu’est-ce que Shahid Kaveh, l’armée de l’ombre iranienne accusée d’être à l’origine des attaques contre les frigos en France ?",
+    "s": "Sud Ouest",
     "d": "2026-11-11",
-    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmwtcHBRTVdMbEVOTnVwem92VnY5UFdWeTg3Vkk4OXFObW1ybXMteW90aFF4Ty1FV3lGLWh4dWJObjhEbkp5MnQyUkIyRmpNM21SbG1KeXVWeDFGREFOMXdha0VZZ3NWWkR4WFpQSU1naTB6b3JYR244VkxjaXBrbGZpUHZZRk9Gc2g2RG5fcmNaWFhSNEszbC1WOFZoSTFlMkVYSGltTnRzTmx5Y3Z6ck1MZzNRNTVrRWQxZTB6VVR6eFFGWkFwZ01UbVMyQ1RQbmJkVXdEVmV6Z9IB3wFBVV95cUxNOEh0bndpTEcydWVsV3F1MHpDWEp2dTNzZzJlclVXUGd0aHlxbWJjLVhBemhybjhhSkZRWTAweHlkMW80bGtFcURqSnVzUkJ0WW5mSElrelJfQzlHZE51d1FHYWtwZXZrZ1JwbHBjZ2NiVGpTVVZGMjVNRmwzcm1XbHdnczlNYVZsWTVrXzFRaWdEY21pdnEyaGxGQVVkYld1cWllMEtIZE5MNnRWQ1g4WUF6TzBUQ2lza1F4UUxQcF8wMURMU2hqSkJNbUdTTC1jR01jeklZN25VV0owRlJB?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPRTB5RTcxb3pkYkxfTG1MUHNBWG5XVUZIVTFjbXFfTVhLTl9NMmpJbXlBZzhrVVhRX3lhUkpreHJYWl83UzhIczNGMzZIWHhCMDhwSk1oLXF5SmQ0U1ZYdGkxYVc1eHc1ZzI3LVBaVVBDTU10YWFsSlJGcThLc2MzbjJlVTItSUZUWFpHb1BKa3dUek95UjE2aVIzRWNvcDBwcDkzM2lEME9VNHVOdE1zbjdQRUI4aDNORHk2VWU3cFJsN0QwZmtEU0ZpNmIyM3RjVlMwenBMRGZWUzFxUTB5ZG9oWnRYbmJCWTZGT05wWXZHSkRWQjVGa2dmRmd1UnJVSm43Z1lYWmQ0Q0pnSzc0VFR6ekxHS0FQSWo2UjZDUVBSeTZ0aVhRaTVKSXV1U2RhMjQ3bTctUVFNMW9tMm1v?oc=5"
    }
   ],
   "shahid-shoostari": [
@@ -736,6 +722,12 @@
    }
   ],
   "z-pentest-alliance": [
+   {
+    "t": "A journey into the world of hacking: from NoName to Z-Pentest, here are the 35 key figures behind the cyber-attacks",
+    "s": "la Repubblica",
+    "d": "2026-11-11",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVThaRnVycWlJX2tfTFY4djBRNHlidWoxQXEwRW9Wal9DNE8yWGFhTmVkX0VzT3RuTmpFdmo1ZW1SWDNDa2Itd0V0QVdaMENsOE1jcmRxeVE4VjY4M195UE1pTTctaXpCeGNnTWNORmhFOHFPUHJzWkhsYnNhMVBpeEFhT0xRYlZSMXRIWi1OMS1qcjZLR0RJMVN2RjRVMjNOTFFNaUNJOC12QzZzTF9HSWhUWTV2LVFxLVo4VWlKVXprYVJUb3ViODlTVEFkYXpHS1psY0htelRKUEh0SlhtTnhMUDdWcl9GQnVOTzVuTDZOR2d3?oc=5"
+   },
    {
     "t": "Z-Pentest: Who are the Russian GRU hackers behind the attacks on industrial systems?",
     "s": "Il Sole 24 ORE",
@@ -778,10 +770,10 @@
     "r": 1
    },
    {
-    "t": "« La surveillance des entreprises dépasse celle de la NSA » : le patron de Proton alerte sur les risques de l'IA",
-    "s": "TechRadar",
-    "d": "2026-11-12",
-    "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU3dqVHQ2YXNmOUxxd3dJU3FuN1NWMFFOVWY0MlV0cmFwNVVmaXVYSm1HenA2ZkdwVlJ6MFprZW9DaVkwandwbjFwUVI5T2tqS01MZVc1RTNDRXRUSzQwTVlVY0ctaURsZ3Ezd2RnY1lZQm9RejFXenZJdUFVR2Z6NjllWVlGbHNxbTF5WDNKMUJPd2U2NWx5UTJnX0tLU0pkSGhjRTZwa2Rqd21GV2dYMjNjTDF3ZTRpbHJtLUNuTWoyQkc0Y3g0YXhNRm92X05pdE1LaXd5X3pNX1lvQ3FQaW40emh1RmtUWEQyc0EwWEJWN0x1LTJydg?oc=5"
+    "t": "Suicide toll at NSA and US Cyber Command hits 11 — with 5 in just one month: Report",
+    "s": "Blaze Media",
+    "d": "2026-11-13",
+    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpUmMyZDBreXJyZWthOThmNDJGLVBIclA2b0dDNlJyaU1oRVk5cy1LTG9GYjRySm9ELVZlcEVIUmNuOXpod0VuRUFSVVBTYXNPYkVJQ1BmeUdXalRpYlNEMDhmdmxDand6R2NR?oc=5"
    },
    {
     "t": "White House and congressional staff question leaders after suicides at NSA, Cyber Command",
