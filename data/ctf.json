@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13",
+ "maj": "2026-11-14",
  "intro": "Compétitions, classements et corrigés de Capture The Flag : une veille indépendante qui croise plusieurs sources et vérifie ce qu’elle publie.",
  "debuter": "Choisissez une catégorie, une plateforme d’entraînement et documentez chaque résolution : c’est la meilleure façon de progresser.",
  "classTitre": "Classement mondial 2026",
@@ -398,7 +398,7 @@
   },
   {
    "equipe": "W4llz",
-   "points": "1055.24",
+   "points": "1066.27",
    "pays": "",
    "auto": 1,
    "evo": 0
@@ -412,24 +412,24 @@
   },
   {
    "equipe": "RubiyaLab",
-   "points": "901.17",
-   "pays": "",
-   "auto": 1,
-   "evo": 0
-  },
-  {
-   "equipe": "tjcsc",
-   "points": "848.1",
+   "points": "986.63",
    "pays": "",
    "auto": 1,
    "evo": 0
   },
   {
    "equipe": "krauq",
-   "points": "839.42",
+   "points": "879.54",
    "pays": "",
    "auto": 1,
-   "evo": 0
+   "evo": 1
+  },
+  {
+   "equipe": "tjcsc",
+   "points": "848.1",
+   "pays": "",
+   "auto": 1,
+   "evo": -1
   },
   {
    "equipe": "Bunkyowerstens",
@@ -440,24 +440,24 @@
   },
   {
    "equipe": "r3kapig",
-   "points": "808.37",
-   "pays": "",
-   "auto": 1,
-   "evo": 0
-  },
-  {
-   "equipe": "Infobahn",
-   "points": "794.18",
+   "points": "820.75",
    "pays": "",
    "auto": 1,
    "evo": 0
   },
   {
    "equipe": "BunkyoWesterns",
-   "points": "717.58",
+   "points": "815.97",
    "pays": "",
    "auto": 1,
-   "evo": 0
+   "evo": 1
+  },
+  {
+   "equipe": "Infobahn",
+   "points": "794.18",
+   "pays": "",
+   "auto": 1,
+   "evo": -1
   }
  ],
  "writeups": [
@@ -467,6 +467,30 @@
    "titre": "FREE Smartphone CTF starts 11/19 at Midnight Eastern. All levels can play and learn",
    "niveau": "",
    "url": "https://www.reddit.com/r/securityCTF/comments/1xv5lot/free_smartphone_ctf_starts_1119_at_midnight/",
+   "d": "2026-11-13",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0,
+   "auto": 1
+  },
+  {
+   "id": "w048acc11",
+   "cat": "Pwn",
+   "titre": "Policy and Disclosure: 2026 Edition",
+   "niveau": "",
+   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+   "d": "2026-11-13",
+   "s": "Google Project Zero",
+   "n": 1,
+   "v": 1,
+   "auto": 1
+  },
+  {
+   "id": "wcbaee757",
+   "cat": "Web",
+   "titre": "Looking for experienced Web CTF playtesters – Hard HTB Challenge",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xvd9rc/looking_for_experienced_web_ctf_playtesters_hard/",
    "d": "2026-11-13",
    "s": "Reddit r/securityCTF",
    "n": 1,
@@ -877,18 +901,6 @@
    "url": "https://blog.didierstevens.com/2026/10/31/quickpost-ghost-usb-c/",
    "d": "2026-10-31",
    "s": "Didier Stevens",
-   "n": 1,
-   "v": 1,
-   "auto": 1
-  },
-  {
-   "id": "wdbf485e3",
-   "cat": "Web",
-   "titre": "Intigriti Bug Bytes #241 - October 2026 🚀",
-   "niveau": "",
-   "url": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
-   "d": "2026-10-30",
-   "s": "Intigriti",
    "n": 1,
    "v": 1,
    "auto": 1

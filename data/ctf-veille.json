@@ -1,36 +1,6 @@
 {
  "calendrier": [
   {
-   "ct": 3082,
-   "nom": "Platypwn 2026",
-   "date": "2026-11-13",
-   "duree": "18 h",
-   "format": "Jeopardy · en ligne",
-   "niveau": "poids CTFtime 37",
-   "url": "https://platypwn.ctf.platypwnies.de/",
-   "mode": "online",
-   "poids": 37.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
-   "ct": 3049,
-   "nom": "WolvCTF 2026",
-   "date": "2026-11-13",
-   "duree": "2 j",
-   "format": "Jeopardy · en ligne",
-   "niveau": "",
-   "url": "https://wolvctf.io/",
-   "mode": "online",
-   "poids": 0.0,
-   "src": [
-    "CTFtime"
-   ],
-   "verif": "ok"
-  },
-  {
    "ct": 3464,
    "nom": "h4ckc0n 2026",
    "date": "2026-11-14",
@@ -340,7 +310,7 @@
   },
   {
    "equipe": "W4llz",
-   "points": "1055.24",
+   "points": "1066.27",
    "pays": "",
    "evo": 0
   },
@@ -352,21 +322,21 @@
   },
   {
    "equipe": "RubiyaLab",
-   "points": "901.17",
-   "pays": "",
-   "evo": 0
-  },
-  {
-   "equipe": "tjcsc",
-   "points": "848.1",
+   "points": "986.63",
    "pays": "",
    "evo": 0
   },
   {
    "equipe": "krauq",
-   "points": "839.42",
+   "points": "879.54",
    "pays": "",
-   "evo": 0
+   "evo": 1
+  },
+  {
+   "equipe": "tjcsc",
+   "points": "848.1",
+   "pays": "",
+   "evo": -1
   },
   {
    "equipe": "Bunkyowerstens",
@@ -376,25 +346,47 @@
   },
   {
    "equipe": "r3kapig",
-   "points": "808.37",
-   "pays": "",
-   "evo": 0
-  },
-  {
-   "equipe": "Infobahn",
-   "points": "794.18",
+   "points": "820.75",
    "pays": "",
    "evo": 0
   },
   {
    "equipe": "BunkyoWesterns",
-   "points": "717.58",
+   "points": "815.97",
    "pays": "",
-   "evo": 0
+   "evo": 1
+  },
+  {
+   "equipe": "Infobahn",
+   "points": "794.18",
+   "pays": "",
+   "evo": -1
   }
  ],
  "classTitre": "Classement mondial 2026",
  "writeups": [
+  {
+   "id": "w048acc11",
+   "cat": "Pwn",
+   "titre": "Policy and Disclosure: 2026 Edition",
+   "niveau": "",
+   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+   "d": "2026-11-13",
+   "s": "Google Project Zero",
+   "n": 1,
+   "v": 1
+  },
+  {
+   "id": "wcbaee757",
+   "cat": "Web",
+   "titre": "Looking for experienced Web CTF playtesters – Hard HTB Challenge",
+   "niveau": "",
+   "url": "https://www.reddit.com/r/securityCTF/comments/1xvd9rc/looking_for_experienced_web_ctf_playtesters_hard/",
+   "d": "2026-11-13",
+   "s": "Reddit r/securityCTF",
+   "n": 1,
+   "v": 0
+  },
   {
    "id": "wd2530a20",
    "cat": "Autre",
@@ -781,17 +773,6 @@
    "v": 1
   },
   {
-   "id": "wdbf485e3",
-   "cat": "Web",
-   "titre": "Intigriti Bug Bytes #241 - October 2026 🚀",
-   "niveau": "",
-   "url": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
-   "d": "2026-10-30",
-   "s": "Intigriti",
-   "n": 1,
-   "v": 1
-  },
-  {
    "id": "w51b1baf5",
    "cat": "Forensic",
    "titre": "“A Ring Tone That I Cannot Hear” – Twenty Years Later",
@@ -924,9 +905,9 @@
    "v": 1
   }
  ],
- "maj": "2026-11-13T12:16:30Z",
+ "maj": "2026-11-14T11:32:03Z",
  "sources": {
-  "Compétitions — CTFtime": 22,
+  "Compétitions — CTFtime": 20,
   "CTFtime — writeups": 0,
   "0xdf hacks stuff": 17,
   "CryptoHack": 1,
@@ -935,7 +916,7 @@
   "The DFIR Report": 1,
   "Didier Stevens": 10,
   "Check Point Research": 15,
-  "Google Project Zero": 4,
+  "Google Project Zero": 5,
   "Reddit r/securityCTF": 21,
   "Web — Web": 0,
   "Web — Crypto": 0,
