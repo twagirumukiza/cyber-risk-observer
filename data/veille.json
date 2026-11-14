@@ -1,5 +1,24 @@
 [
  {
+  "id": "b58e8e6c37ed",
+  "source": "The Hacker News",
+  "rubrique": 2,
+  "titre": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+  "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+  "date": "2026-11-14",
+  "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Vulnérabilité / zero-day"
+  ],
+  "tags": [
+   "Vulnérabilité / zero-day",
+   "Vulnérabilité"
+  ],
+  "score": 8
+ },
+ {
   "id": "7a6aaa4d9c01",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -33,6 +52,20 @@
   "tags": [
    "Cyberattaque"
   ],
+  "score": 5
+ },
+ {
+  "id": "9e1a2733e73a",
+  "source": "CTFtime",
+  "rubrique": 6,
+  "titre": "h4ckc0n 2026",
+  "url": "https://ctftime.org/event/3464",
+  "date": "2026-11-14",
+  "resume": "Name: h4ckc0n 2026 (an h4ckc0n event.) Date: Nov. 14, 2026, 3:30 p.m. &mdash; 15 Nov. 2026, 15:30 UTC &nbsp; [add to calendar] Format: Jeopardy On-line Offical URL: https://h4ckc0n.ctfd.io/ Rating weight: 24.23 Event organizers: d4rkc0de",
+  "criticite": "",
+  "poids": 2,
+  "menaces": [],
+  "tags": [],
   "score": 5
  },
  {
@@ -585,6 +618,24 @@
   "score": 6
  },
  {
+  "id": "700fcabc1db6",
+  "source": "Le Monde via MSN",
+  "rubrique": 3,
+  "titre": "Ce que l’on sait des cyberattaques contre des réfrigérateurs de supermarchés",
+  "url": "https://www.msn.com/fr-fr/actualite/other/ce-que-l-on-sait-des-cyberattaques-contre-des-r%C3%A9frig%C3%A9rateurs-de-supermarch%C3%A9s/ar-AA2hpKG1",
+  "date": "2026-11-13",
+  "resume": "Ces dernières semaines, des centaines de réfrigérateurs de supermarchés en France et en Europe ont été piratés. Les hackers sont parvenus à prendre le contrôle des logiciels de gestion à distance des ...",
+  "criticite": "",
+  "poids": 1,
+  "menaces": [
+   "Cyberattaque"
+  ],
+  "tags": [
+   "Cyberattaque"
+  ],
+  "score": 6
+ },
+ {
   "id": "28e200d08386",
   "source": "Le Monde International",
   "rubrique": 1,
@@ -852,20 +903,6 @@
   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
   "date": "2026-11-13",
   "resume": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [],
-  "score": 4
- },
- {
-  "id": "3ff055feac94",
-  "source": "BleepingComputer",
-  "rubrique": 2,
-  "titre": "Police arrest 354 suspects in dark web cybercrime crackdown",
-  "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-  "date": "2026-11-13",
-  "resume": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
   "criticite": "",
   "poids": 1,
   "menaces": [],
@@ -2237,40 +2274,6 @@
    "Cyberattaque"
   ],
   "score": 5
- },
- {
-  "id": "417b99b8248b",
-  "source": "The Hacker News",
-  "rubrique": 2,
-  "titre": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-  "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-  "date": "2026-11-12",
-  "resume": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI workflows can reach. It ran in at least 1,806 repositories, where the attacker has likely collected",
-  "criticite": "",
-  "poids": 1,
-  "menaces": [],
-  "tags": [
-   "Cloud"
-  ],
-  "score": 4
- },
- {
-  "id": "a09b12a4e12a",
-  "source": "Le Monde International",
-  "rubrique": 1,
-  "titre": "Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?",
-  "url": "https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html",
-  "date": "2026-11-12",
-  "resume": "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine.",
-  "criticite": "",
-  "poids": 0,
-  "menaces": [
-   "Espionnage / acteur étatique"
-  ],
-  "tags": [
-   "Espionnage / acteur étatique"
-  ],
-  "score": 4
  },
  {
   "id": "a93f9697c95e",
