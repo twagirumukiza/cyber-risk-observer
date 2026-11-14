@@ -1,10 +1,10 @@
 {
- "maj": "2026-11-13T12:36:54Z",
+ "maj": "2026-11-14T11:44:30Z",
  "ia": false,
  "usage": {},
  "manque": {
-  "Actualités": 5,
-  "Économie": 3,
+  "Actualités": 4,
+  "Économie": 1,
   "Société": 5
  },
  "erreurs": [],
@@ -49,53 +49,10 @@
   "notion:Le SIEM",
   "notion:Le SOC",
   "notion:Le EDR et le XDR",
-  "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html"
+  "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html"
  ],
  "items": [
-  {
-   "pid": "pa047470dc2",
-   "rubrique": 4,
-   "etat": "propose",
-   "cree": "2026-11-10",
-   "score": 4,
-   "article": {
-    "titre": "Strates de désinformation alimentent les midterms 2026",
-    "kicker": "Misinformation politique",
-    "intro": "<p>La campagne des midterms de 2026 a été saturée de contenus factices, majoritairement liés à l’orientation politique républicaine, mais aussi à des intermédiaires étrangers.</p>",
-    "resume": "Les fausses informations qui ont circulé durant la campagne des élections législatives de 2026 provenaient lorsque la majorité de ces contenus venaient de la partie républicaine, bien que la partie démocrate ne soit pas en reste. En outre, des puissances étrangères ont également alimenté la diffusion de vidéos et de messages trompeurs.\n\nLes formes de désinformation adoptées incluent des deepfakes, de fausses nouvelles et des vidéos prétendument authentiques publiées sur la plateforme X. Ces éléments persistent dans les sphères politiques les plus actives.\n\nLa source France Info rapporte que ces diverses sources ont conjointement créé un environnement d’information hautement fragmenté, difficile à trier pour le grand public.",
-    "analyse": "Les organisations doivent anticiper les risques liés à la diffusion de fausses informations, particulièrement lorsqu’elles sont coordonnées par des acteurs politiques ou étrangers. La surveillance renforcée des réseaux sociaux, la vérification des sources et la sensibilité à la provenance des contenus sont essentielles pour limiter l’impact potentiel sur la réputation et la prise de décision.",
-    "conclusion": "En résumé, les élections de 2026 ont montré que la désinformation reste une arme stratégique employée par divers groupes, nécessitant une vigilance renforcée dans la gestion de l’information au sein des organisations.",
-    "fiabilite": "partiel",
-    "note": "Le texte ne précise pas l’étendue ou les acteurs exacts; consulter des sources supplémentaires pour confirmer l’impact et la portée. Contrôle automatique : 2 alertes : « L'information » ne compte que 0 paragraphe(s) (attendu : au moins 2). Article long écrit à partir d'un contexte très court : risque d'invention, vérifier chaque fait.",
-    "ia": 1,
-    "fournisseur": "Pollinations (gratuit, sans clé)",
-    "modele": "openai",
-    "controle": {
-     "ok": true,
-     "alertes": [
-      {
-       "n": "avert",
-       "t": "« L'information » ne compte que 0 paragraphe(s) (attendu : au moins 2)."
-      },
-      {
-       "n": "avert",
-       "t": "Article long écrit à partir d'un contexte très court : risque d'invention, vérifier chaque fait."
-      }
-     ],
-     "copie": 0
-    },
-    "section": 4,
-    "source": "France Info",
-    "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
-    "date": "2026-11-10",
-    "criticite": ""
-   },
-   "src": {
-    "titre": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026",
-    "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
-    "source": "France Info"
-   }
-  },
   {
    "pid": "pfc9c4952ef",
    "rubrique": 0,
@@ -850,6 +807,114 @@
     "titre": "L'ingénierie sociale",
     "url": "notion:L'ingénierie sociale",
     "source": ""
+   }
+  },
+  {
+   "pid": "p938f0ecc27",
+   "rubrique": 0,
+   "etat": "propose",
+   "cree": "2026-11-14",
+   "score": 5,
+   "article": {
+    "titre": "Panne mondiale d’Outlook : « aucun signe d’action malveillante ou de cyberattaque » à ce stade, selon Microsoft",
+    "kicker": "Cyberattaque",
+    "intro": "<p>[Presse Océan] Le géant américain du logiciel Microsoft a indiqué jeudi que les mesures prises pour réparer une panne mondiale de la messagerie Outlook ne fonctionnaient pas comme prévu et qu’il cherc ...</p>",
+    "resume": "<p>Brève à développer. Source : Ouest-France.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 0,
+    "source": "Ouest-France",
+    "url": "https://www.ouest-france.fr/high-tech/microsoft/panne-mondiale-doutlook-aucun-signe-daction-malveillante-ou-de-cyberattaque-a-ce-stade-selon-microsoft-b96183ce-df33-11f1-9a29-f4bab172af08",
+    "date": "2026-11-14",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Panne mondiale d’Outlook : « aucun signe d’action malveillante ou de cyberattaque » à ce stade, selon Microsoft",
+    "url": "https://www.ouest-france.fr/high-tech/microsoft/panne-mondiale-doutlook-aucun-signe-daction-malveillante-ou-de-cyberattaque-a-ce-stade-selon-microsoft-b96183ce-df33-11f1-9a29-f4bab172af08",
+    "source": "Ouest-France"
+   }
+  },
+  {
+   "pid": "p6b78ae70fd",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-14",
+   "score": 5,
+   "article": {
+    "titre": "Ce que l’on sait des cyberattaques contre des réfrigérateurs de supermarchés",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Ces dernières semaines, des centaines de réfrigérateurs de supermarchés en France et en Europe ont été piratés. Les hackers sont parvenus à prendre le contrôle des logiciels de gestion à distance des appareils.</p>",
+    "resume": "<p>Brève à développer. Source : Le Monde Pixels.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "Le Monde Pixels",
+    "url": "https://www.lemonde.fr/videos/video/2026/11/14/ce-que-l-on-sait-des-cyberattaques-contre-des-refrigerateurs-de-supermarches_6809687_1669088.html",
+    "date": "2026-11-14",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Ce que l’on sait des cyberattaques contre des réfrigérateurs de supermarchés",
+    "url": "https://www.lemonde.fr/videos/video/2026/11/14/ce-que-l-on-sait-des-cyberattaques-contre-des-refrigerateurs-de-supermarches_6809687_1669088.html",
+    "source": "Le Monde Pixels"
+   }
+  },
+  {
+   "pid": "pbdc524bd29",
+   "rubrique": 3,
+   "etat": "propose",
+   "cree": "2026-11-14",
+   "score": 5,
+   "article": {
+    "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+    "kicker": "Cyberattaque",
+    "intro": "<p>Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, peine à rétablir…</p>",
+    "resume": "<p>Brève à développer. Source : Le Monde Économie.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 3,
+    "source": "Le Monde Économie",
+    "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+    "date": "2026-11-14",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+    "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+    "source": "Le Monde Économie"
+   }
+  },
+  {
+   "pid": "p5d560b0899",
+   "rubrique": 4,
+   "etat": "propose",
+   "cree": "2026-11-14",
+   "score": 7,
+   "article": {
+    "titre": "BC post-secondary application portal affected by data breach",
+    "kicker": "Fuite de données",
+    "intro": "<p>In a Thursday update, EducationPlannerBC says that, on Nov. 3, it identified a \"cybersecurity incident affecting its application system.\" ...</p>",
+    "resume": "<p>Brève à développer. Source : CBC.ca on MSN.</p>",
+    "analyse": "",
+    "conclusion": "",
+    "fiabilite": "breve",
+    "note": "Brève non rédigée (aucune clé API configurée) : à compléter ou à écarter.",
+    "section": 4,
+    "source": "CBC.ca on MSN",
+    "url": "https://www.msn.com/en-ca/news/other/bc-post-secondary-application-portal-affected-by-data-breach/ar-AA2hkAIo",
+    "date": "2026-11-14",
+    "criticite": ""
+   },
+   "src": {
+    "titre": "BC post-secondary application portal affected by data breach",
+    "url": "https://www.msn.com/en-ca/news/other/bc-post-secondary-application-portal-affected-by-data-breach/ar-AA2hkAIo",
+    "source": "CBC.ca on MSN"
    }
   }
  ]
